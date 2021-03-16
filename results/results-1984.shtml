@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Results -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1984 Playoffs</a></div>
+
+<div class="PageHeader">1984 Playoffs</div>
+<p><center>
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--include virtual="/results/results-include-2017.html"-->
+
+<table cellpadding="2" cellpadding="2" border="1" class="TableStandard">
+
+    <tr class="TableHeader">
+    	<td colspan="5">Quarter-Finals (Single Elimination)</td>
+    </tr>
+    <tr class="TableSubHeader">
+    	<td width="35%">Winner</td>
+    	<td width="10%">G</td>
+    	<td width="35%">Loser</td>
+    	<td width="10%">G</td>
+    	<td width="10%">&nbsp;</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+        <td>7</td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>1</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+        <td><a href="/members/ocean-county-college.shtml">Ocean County</a></td>
+        <td>10</td>
+    	<td><a href="/members/stony-brook-university.shtml">Stony Brook</a></td>
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
+        <td>7</td>
+        <td><a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a></td>
+        <td>3</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/liu-post.shtml">C.W. Post</a></td>
+        <td>3</td>
+        <td><a href="/members/william-paterson-university.shtml">Paterson</a></td>
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+     <tr>
+     	<td colspan="5">&nbsp;</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Semi-Finals (Single Elimination)</td>
+    </tr>
+    <tr>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>8</td>
+    	<td><a href="/members/liu-post.shtml">C.W. Post</a></td>
+        <td>5</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
+        <td>5</td>
+        <td><a href="/members/ocean-county-college.shtml">Ocean County</a></td>
+        <td>4</td>
+        <td class="TableNotes">*</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>6</td>
+    	<td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>        				
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+     <tr>
+     	<td colspan="5">&nbsp;</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Finals (Double Elimination)</td>
+    </tr>
+    <tr>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>15</td>
+    	<td><a href="/members/stony-brook-university.shtml">Stony Brook</a></td>
+        <td>3</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>11</td>
+    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
+        <td>9</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>7</td>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
+        <td>5</td>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>4</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Wagner &amp; SCSU Shared League Championship<br/>Final Series Never Completed, Co-Champions Declared</td>
+    </tr>
+</table>
+    
+</center></p>
+
+<!--#include virtual="/results/results-footer.html"-->
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--#include virtual="/results/sub-nav-results.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

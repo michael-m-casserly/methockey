@@ -1,0 +1,109 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Yale University -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Yale'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Yale University</a></div>
+
+<div class="PageHeader">Yale University Bulldogs</div>
+<p><center><img src="/images/team-logos/yale.png" style="width:330px; height:153px;" alt="Yale University Logo" title="Yale University Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>30</td>
+						<td>41</td>
+						<td>0</td>
+						<td>4</td>
+						<td>.423</td>
+						<td>296</td>
+						<td>343</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>75</td>
+						<td>5</td>
+						<td>2006-07*</td>
+						<td>2016-17</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11" align="center">*Did Not Play 2009-15</td>
+                    </tr>
+				</table>
+
+<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
+<a href="/mchc/champions.shtml#2016">2015-16</a>
+</div>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+   	<td colspan="2" align="center"><a href="https://www.yale.edu" target="_blank" class="LongURL">www.yale.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+   	<td colspan="2" align="center">New Haven, CT</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://yaleclubhockey.sites.yale.edu/" target="_blank" class="LongURL">https://yaleclubhockey.sites.yale.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Bulldogs</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1701</td>
+	</tr>
+</table>
+</center>
+               
+<!--include virtual="/schedule/display-schedule-current.html"-->
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

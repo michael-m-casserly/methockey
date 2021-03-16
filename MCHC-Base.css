@@ -1,0 +1,169 @@
+/*Embedded Font*/
+@font-face{
+	font-family: 'Charlemagne std';
+	src: url('http://www.methockey.com/fonts/charlemagne-std/CharlemagneStd-Bold.otf') format('embedded-opentype'),
+	url('http://www.methockey.com/fonts/charlemagne-std/CharlemagneStd-Bold.woff') format('woff');
+}
+
+
+/* CSS layout */
+body {
+	background: #000080;
+	margin: 0;
+	padding: 0;
+}
+
+#masthead {
+	min-width: 600px;
+}
+
+
+#buttons {
+	clear: both;
+	min-width: 600px;
+}
+
+#container {
+	clear: both;
+	min-width: 1100px;
+}
+
+#left_col {
+	float: left;
+	width: 220px;
+}
+
+#right_col {
+	float:right;
+	width: 220px;
+}
+
+#page_content {
+	margin-left: 220px;
+	float:none
+}
+
+#footer {
+	clear: both;
+}
+/*Added from FU Hockey Site*/
+p, span, ul, li {
+text-align:left; 
+color: black; 
+font: 10pt "Verdana"}
+
+.bodyTag{ 
+margin:0 0 0 0; 
+background-image: url(/images/background.gif)}
+
+.pageWidth {
+}
+
+a.homepagelink, a.PageTitleBreadCrumb { 
+color: #344f7c;
+/*color: #5e183e; */
+text-align: left; 
+font: 10pt "Tahoma"}
+
+a.homepagelink:link, a.PageTitleBreadCrumb:link {
+text-decoration: underline;
+/*color: #0000CC; */
+}
+
+a.PageTitleBreadCrumb {
+font-weight:bold}
+
+.TeamPageScheduleTwitterWidth {
+	width:100%;
+	max-width:500px;
+	text-align:center;
+	padding-bottom:20px;
+}
+
+.PlayerOfTheMonth{
+	font-size:16px;
+	font-weight:bold;
+}
+
+/* Added Breadcrumb for Responsive pages, May 2019*/
+.breadcrumb {
+	padding-top: 30px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	border: 2px solid black; 
+	border-radius:5px;
+	padding-left: 20px !important;
+}
+
+/*Added this for responsive IFRAMEs */
+.embed-container { 
+	position: relative; 
+	padding-bottom: 56.25%; 
+	height: 0; 
+	overflow: hidden; 
+	max-width: 100%; 
+	} 
+.embed-container iframe, .embed-container object, .embed-container embed { 
+	position: absolute; 
+	top: 0; 
+	left: 0; 
+	width: 100%; 
+	height: 100%; }
+
+/* Table properties */
+
+th {
+  height: 50px;
+}
+
+td {
+	height: 30px;
+	vertical-align: middle; /* it should default to this anyway; may need to remove any local or inline CSS to prevent this being overridden */
+}
+
+.TableHeader {
+	background:#344f7c; 
+	color:white !important;
+	font-weight:bold;
+}
+
+.TableStandard {
+	max-width:500px;
+	min-width:300px; 
+	/*border:thin;*/
+	border-width: 1px; 
+	border-color: #CCC;	
+}
+
+.TableStandard td {
+	text-align:center;
+	vertical-align:center;
+	border-width: 1px; 
+	border-color: #CCC;	
+}
+
+.TableSubHeader {
+	font-weight:bold;
+	}
+
+.TableNotes {
+	font-style:italic;
+	font-size:13px;
+}
+
+.Standings-Team {
+	text-align:left !important;
+}
+
+/* Button properties */
+
+.btn-secondary {
+background-color: #1b95e0 !important;
+text-decoration: none !important;
+}
+
+a:link {
+text-decoration: underline;
+}
+
+.nav-link, .nav-item , .navbar-brand {
+text-decoration:none !important;
+}

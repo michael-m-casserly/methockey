@@ -1,0 +1,1142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Stats -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+.auto-style1 {
+	text-align: center;
+}
+.auto-style6 {
+	border-width: 0px;
+}
+.auto-style7 {
+	border-color: #FFFF00;
+	border-width: 1px;
+	text-align: center;
+	background-color: #FFFFFF;
+}
+.auto-style24 {
+	color: #FFFFFF;
+}
+.auto-style28 {
+	border: 1px solid #FFFF00;
+	text-align: center;
+}
+.auto-style29 {
+	border: 1px solid #FFFFFF;
+	color: #FFFFFF;
+	text-align: center;
+	font-size: large;
+	background-color: #800000;
+}
+.auto-style30 {
+	vertical-align: middle;
+}
+.auto-style32 {
+	border-color: #FFFF00;
+	border-width: 1px;
+	text-align: center;
+}
+.auto-style33 {
+	border: 1px solid #FFFF00;
+}
+.auto-style35 {
+	border: 1px solid #FF0000;
+	background-color: #FFFFFF;
+}
+.auto-style36 {
+	border: 1px solid #FF0000;
+	text-align: center;
+	background-color: #FFFFCC;
+}
+.auto-style37 {
+	border-style: solid;
+	border-width: 1px;
+	vertical-align: middle;
+}
+.auto-style38 {
+	border: 1px solid #FF0000;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: large;
+	background-color: #000080;
+}
+.auto-style39 {
+	border: 1px solid #000000;
+	text-align: center;
+	color: #FFFFFF;
+	font-size: x-large;
+	font-family: "Arial Rounded MT Bold";
+	background-color: #FF0000;
+}
+.auto-style131 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style132 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: left;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 3px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style133 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: general;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style136 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style137 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: left;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style139 {
+	color: white;
+	font-size: 12.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border-left: .5pt solid windowtext;
+	border-right-style: none;
+	border-right-color: inherit;
+	border-right-width: medium;
+	border-top: .5pt solid windowtext;
+	border-bottom-style: none;
+	border-bottom-color: inherit;
+	border-bottom-width: medium;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	background: #1F497D;
+}
+.auto-style140 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #002060;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style141 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: general;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #002060;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style142 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #002060;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style143 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: left;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #002060;
+	padding-left: 3px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style144 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 400;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: general;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #002060;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style145 {
+	color: windowtext;
+	font-size: 10.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: general;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border: 0.5pt solid #1F497D;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+}
+.auto-style146 {
+	color: white;
+	font-size: 12.0pt;
+	font-weight: 700;
+	font-style: normal;
+	text-decoration: none;
+	font-family: "Arial Rounded MT Bold", sans-serif;
+	text-align: center;
+	vertical-align: bottom;
+	white-space: nowrap;
+	border-left: .5pt solid windowtext;
+	border-right-style: none;
+	border-right-color: inherit;
+	border-right-width: medium;
+	border-top-style: none;
+	border-top-color: inherit;
+	border-top-width: medium;
+	border-bottom-style: none;
+	border-bottom-color: inherit;
+	border-bottom-width: medium;
+	padding-left: 1px;
+	padding-right: 1px;
+	padding-top: 1px;
+	background: #1F497D;
+}
+.auto-style147 {
+	border-collapse: collapse;
+	width: 100%;
+	max-width: 500px;
+}
+</style>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">2015-16 Stats</a></div>
+
+<div class="PageHeader">2015-16 Final Stats</div>
+<center>
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--Begin table imported from old page-->
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+<tr height="25">
+	<td class="auto-style139" colspan="7" height="25" style="height: 18.75pt;" >Player Scoring Leaders</td>
+</tr>
+					<tr height="22">
+						<td class="auto-style140" height="22" style="height: 16.5pt">
+						#</td>
+						<td class="auto-style141">Player</td>
+						<td class="auto-style140">Team</td>
+						<td class="auto-style140">G</td>
+						<td class="auto-style140">A</td>
+						<td class="auto-style140">PTS</td>
+						<td class="auto-style140">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						96 </td>
+						<td class="auto-style143">Richard Hong</td>
+						<td class="auto-style142"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">18 </td>
+						<td class="auto-style142">31 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						5 </td>
+						<td class="auto-style143">Jared Vuolo</td>
+						<td class="auto-style142"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style142">10 </td>
+						<td class="auto-style142">16 </td>
+						<td class="auto-style142">26 </td>
+						<td class="auto-style142">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						12 </td>
+						<td class="auto-style143">Greg Caminneci</td>
+						<td class="auto-style142"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style142">10 </td>
+						<td class="auto-style142">15 </td>
+						<td class="auto-style142">25 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style143">Dan Levin</td>
+						<td class="auto-style142"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style142">9 </td>
+						<td class="auto-style142">15 </td>
+						<td class="auto-style142">24 </td>
+						<td class="auto-style142">10 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						17 </td>
+						<td class="auto-style143">Mike Gamby</td>
+						<td class="auto-style142"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style142">15 </td>
+						<td class="auto-style142">8 </td>
+						<td class="auto-style142">23 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						11 </td>
+						<td class="auto-style143">Joe Bizzaro</td>
+						<td class="auto-style142"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style142">10 </td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">23 </td>
+						<td class="auto-style142">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						23 </td>
+						<td class="auto-style143">Jeremy Guettlein</td>
+						<td class="auto-style142"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style142">16 </td>
+						<td class="auto-style142">6 </td>
+						<td class="auto-style142">22 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						22 </td>
+						<td class="auto-style143">Cole Taylor</td>
+						<td class="auto-style142"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style142">9 </td>
+						<td class="auto-style142">11 </td>
+						<td class="auto-style142">20 </td>
+						<td class="auto-style142">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						23 </td>
+						<td class="auto-style143">Mike Ferris</td>
+						<td class="auto-style142"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style142">7 </td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">20 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						14 </td>
+						<td class="auto-style143">Matt Janssen</td>
+						<td class="auto-style142"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style142">9 </td>
+						<td class="auto-style142">10 </td>
+						<td class="auto-style142">19 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style143">John Murray</td>
+						<td class="auto-style142"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style142">6 </td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">19 </td>
+						<td class="auto-style142">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						9 </td>
+						<td class="auto-style143">Eric Fein</td>
+						<td class="auto-style142"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style142">5 </td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">18 </td>
+						<td class="auto-style142">8 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						91 </td>
+						<td class="auto-style143">Chris Meyer</td>
+						<td class="auto-style142"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style142">14 </td>
+						<td class="auto-style142">4 </td>
+						<td class="auto-style142">18 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						15 </td>
+						<td class="auto-style143">Dylan Gastel</td>
+						<td class="auto-style142"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style142">9 </td>
+						<td class="auto-style142">8 </td>
+						<td class="auto-style142">17 </td>
+						<td class="auto-style142">8 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						91 </td>
+						<td class="auto-style143">James Esperto</td>
+						<td class="auto-style142"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style142">4 </td>
+						<td class="auto-style142">13 </td>
+						<td class="auto-style142">17 </td>
+						<td class="auto-style142">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style142" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style143">Cory Durkin</td>
+						<td class="auto-style142"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style142">10 </td>
+						<td class="auto-style142">7 </td>
+						<td class="auto-style142">17 </td>
+						<td class="auto-style142">13 </td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+<tr height="25">
+	<td class="auto-style139" colspan="10" height="25">Goaltender Goals-Against-Average Leaders</td>
+</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">#</td>
+						<td class="auto-style145">Player</td>
+						<td class="auto-style136">Team</td>
+						<td class="auto-style136">&nbsp;W&nbsp;</td>
+						<td class="auto-style136">&nbsp;L&nbsp;</td>
+						<td class="auto-style136">OTL</td>
+						<td class="auto-style136">MIN</td>
+						<td class="auto-style136">GAA</td>
+						<td class="auto-style136">SV%</td>
+						<td class="auto-style136">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						30 </td>
+						<td class="auto-style132">Matt<br/>Smith</td>
+						<td class="auto-style131"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">2 </td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">570</td>
+						<td class="auto-style131">1.26 </td>
+						<td class="auto-style131">.956</td>
+						<td class="auto-style131">10 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						30 </td>
+						<td class="auto-style132">Nick<br/>Guberti</td>
+						<td class="auto-style131"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">8 </td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">520</td>
+						<td class="auto-style131">1.73 </td>
+						<td class="auto-style131">.936</td>
+						<td class="auto-style131">11 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						0 </td>
+						<td class="auto-style132">Connor<br/>O'Leary</td>
+						<td class="auto-style131"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">5 </td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">398</td>
+						<td class="auto-style131">1.81 </td>
+						<td class="auto-style131">.935</td>
+						<td class="auto-style131">7 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						32 </td>
+						<td class="auto-style132">Miles<br/>Peterson</td>
+						<td class="auto-style131"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">7 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">506</td>
+						<td class="auto-style131">2.02 </td>
+						<td class="auto-style131">.934</td>
+						<td class="auto-style131">9 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						34 </td>
+						<td class="auto-style132">Keith<br/>Gay</td>
+						<td class="auto-style131"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">8 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">844</td>
+						<td class="auto-style131">2.06 </td>
+						<td class="auto-style131">.933</td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						20 </td>
+						<td class="auto-style132">Joey<br/>Houser</td>
+						<td class="auto-style131"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">1 </td>
+						<td class="auto-style131">327</td>
+						<td class="auto-style131">2.39 </td>
+						<td class="auto-style131">.876</td>
+						<td class="auto-style131">8 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						30 </td>
+						<td class="auto-style132">Ryan<br/>Mattsson</td>
+						<td class="auto-style131"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">2 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">446</td>
+						<td class="auto-style131">2.56 </td>
+						<td class="auto-style131">.905</td>
+						<td class="auto-style131">8 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						18 </td>
+						<td class="auto-style132">Joe<br/>Davenport</td>
+						<td class="auto-style131"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings<br/>Point</a></td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">510</td>
+						<td class="auto-style131">4.71 </td>
+						<td class="auto-style131">.880</td>
+						<td class="auto-style131">9 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						96 </td>
+						<td class="auto-style132">Alex<br/>Feinstein</td>
+						<td class="auto-style131"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">8 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">404</td>
+						<td class="auto-style131">8.61 </td>
+						<td class="auto-style131">.847</td>
+						<td class="auto-style131">8 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						29 </td>
+						<td class="auto-style132">Bill<br/>Lopez-<br/>Balboa</td>
+						<td class="auto-style131"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">8 </td>
+						<td class="auto-style131">0 </td>
+						<td class="auto-style131">519</td>
+						<td class="auto-style131">12.14 </td>
+						<td class="auto-style131">.792</td>
+						<td class="auto-style131">9 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" colspan="10" height="21" style="height: 15.75pt">(Minimum 300 minutes played)</td>
+					</tr>
+				</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="25">
+		<td class="auto-style146" colspan="5" height="25">Player Penalty Minutes</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Player</td>
+						<td class="auto-style136">Team</td>
+						<td class="auto-style136">PIM</td>
+						<td class="auto-style136">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						8 </td>
+						<td class="auto-style132">Dmitry Danilchik</td>
+						<td class="auto-style131"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">30 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="18">
+						<td class="auto-style131" height="18" style="height: 13.5pt;">
+						24 </td>
+						<td class="auto-style132">Marc Concato</td>
+						<td class="auto-style131"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">30 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="18">
+						<td class="auto-style131" height="18" style="height: 13.5pt;">
+						7 </td>
+						<td class="auto-style132">Ryan Worth</td>
+						<td class="auto-style131"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">26 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style132">David Craig</td>
+						<td class="auto-style131"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">26 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						81 </td>
+						<td class="auto-style132">Charlie Visconti</td>
+						<td class="auto-style131"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">26 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						44 </td>
+						<td class="auto-style132">Ryan Flood</td>
+						<td class="auto-style131"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">23 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						20 </td>
+						<td class="auto-style132">Pat Hegarty</td>
+						<td class="auto-style131"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">22 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132">Dan Levin</td>
+						<td class="auto-style131"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">20 </td>
+						<td class="auto-style131">10 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						9 </td>
+						<td class="auto-style132">Nolan Ouellette</td>
+						<td class="auto-style131"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">20 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132">Darren Schwartz</td>
+						<td class="auto-style131"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">18 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						72 </td>
+						<td class="auto-style132">Chris Stubba</td>
+						<td class="auto-style131"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">18 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						11 </td>
+						<td class="auto-style132">Jacob Tomasovic</td>
+						<td class="auto-style131"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">16 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						91 </td>
+						<td class="auto-style132">James Esperto</td>
+						<td class="auto-style131"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">16 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						68 </td>
+						<td class="auto-style132">Steve DeGroat</td>
+						<td class="auto-style131"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">16 </td>
+						<td class="auto-style131">6 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						12 </td>
+						<td class="auto-style132">Dan Gagnon</td>
+						<td class="auto-style131"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">16 </td>
+						<td class="auto-style131">12 </td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="25">
+		<td class="auto-style146" colspan="5" height="25">Player Power Play Goals</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Player</td>
+						<td class="auto-style136">Team</td>
+						<td class="auto-style136">PP</td>
+						<td class="auto-style136">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						96 </td>
+						<td class="auto-style132">Richard Hong</td>
+						<td class="auto-style131"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						44 </td>
+						<td class="auto-style132">Eric Heinowitz</td>
+						<td class="auto-style131"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style132">Cory Durkin</td>
+						<td class="auto-style131"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" colspan="5" height="21" style="height: 15.75pt">
+						(15 players tied with 2)</td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="25">
+		<td class="auto-style146" colspan="5" height="25">Team Power Play Scoring</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Team</td>
+						<td class="auto-style136">PPG</td>
+						<td class="auto-style136">PPO</td>
+						<td class="auto-style136">%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						1 </td>
+						<td class="auto-style132"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">14 </td>
+						<td class="auto-style131">48 </td>
+						<td class="auto-style131">29%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						2 </td>
+						<td class="auto-style132"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">8 </td>
+						<td class="auto-style131">31 </td>
+						<td class="auto-style131">26%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">11 </td>
+						<td class="auto-style131">53 </td>
+						<td class="auto-style131">21%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						4 </td>
+						<td class="auto-style132"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">30 </td>
+						<td class="auto-style131">20%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						5 </td>
+						<td class="auto-style132"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">7 </td>
+						<td class="auto-style131">37 </td>
+						<td class="auto-style131">19%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style132"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">42 </td>
+						<td class="auto-style131">14%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style132"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">9 </td>
+						<td class="auto-style131">66 </td>
+						<td class="auto-style131">14%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						8 </td>
+						<td class="auto-style132"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">5 </td>
+						<td class="auto-style131">42 </td>
+						<td class="auto-style131">12%</td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="18">
+		<td class="auto-style146" colspan="5" height="18">Team Penalty Kill</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Team</td>
+						<td class="auto-style136">PPGA</td>
+						<td class="auto-style136">PPO</td>
+						<td class="auto-style136">%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						1 </td>
+						<td class="auto-style132"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">2 </td>
+						<td class="auto-style131">26 </td>
+						<td class="auto-style131">8%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						2 </td>
+						<td class="auto-style132"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">3 </td>
+						<td class="auto-style131">35 </td>
+						<td class="auto-style131">9%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">7 </td>
+						<td class="auto-style131">64 </td>
+						<td class="auto-style131">11%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						4 </td>
+						<td class="auto-style132"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">6 </td>
+						<td class="auto-style131">46 </td>
+						<td class="auto-style131">13%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						5 </td>
+						<td class="auto-style132"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">5 </td>
+						<td class="auto-style131">37 </td>
+						<td class="auto-style131">14%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style132"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">13 </td>
+						<td class="auto-style131">57 </td>
+						<td class="auto-style131">23%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style132"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">17 </td>
+						<td class="auto-style131">49 </td>
+						<td class="auto-style131">35%</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						8 </td>
+						<td class="auto-style132"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">12 </td>
+						<td class="auto-style131">32 </td>
+						<td class="auto-style131">38%</td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="25">
+		<td class="auto-style139" colspan="6" height="25">Team Scoring</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Team</td>
+						<td class="auto-style136">G</td>
+						<td class="auto-style136">A</td>
+						<td class="auto-style136">PTS<span style="mso-spacerun:yes">&nbsp;</span></td>
+						<td class="auto-style136">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						1 </td>
+						<td class="auto-style132"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">82 </td>
+						<td class="auto-style131">92 </td>
+						<td class="auto-style131">174 </td>
+						<td class="auto-style131">14 </td>
+
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						2 </td>
+						<td class="auto-style132"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">78 </td>
+						<td class="auto-style131">95 </td>
+						<td class="auto-style131">173 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">77 </td>
+						<td class="auto-style131">92 </td>
+						<td class="auto-style131">169 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						4 </td>
+						<td class="auto-style132"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">66 </td>
+						<td class="auto-style131">85 </td>
+						<td class="auto-style131">151 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						5 </td>
+						<td class="auto-style132"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">52 </td>
+						<td class="auto-style131">63 </td>
+						<td class="auto-style131">115 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style132"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">46 </td>
+						<td class="auto-style131">61 </td>
+						<td class="auto-style131">107 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style132"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">47 </td>
+						<td class="auto-style131">41 </td>
+						<td class="auto-style131">88 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						8 </td>
+						<td class="auto-style132"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">15 </td>
+						<td class="auto-style131">11 </td>
+						<td class="auto-style131">26 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+</table>
+<br/>
+<br/>
+<table align="center" border="0" cellpadding="5" cellspacing="2" class="auto-style147">
+	<tr height="25">
+		<td class="auto-style146" colspan="4" height="25">Team Penalty Minutes</td>
+	</tr>
+					<tr height="21">
+						<td class="auto-style136" height="21" style="height: 15.75pt">
+						#</td>
+						<td class="auto-style145">Team</td>
+						<td class="auto-style136">PIM</td>
+						<td class="auto-style136">GP</td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						1 </td>
+						<td class="auto-style132"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td class="auto-style131">68 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						2 </td>
+						<td class="auto-style132"><a href="/members/yale-university.shtml">Yale</a></td>
+						<td class="auto-style131">81 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						3 </td>
+						<td class="auto-style132"><a href="/members/columbia-university.shtml">Columbia</a></td>
+						<td class="auto-style131">92 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						4 </td>
+						<td class="auto-style132"><a href="/members/fordham-university.shtml">Fordham</a></td>
+						<td class="auto-style131">116 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						5 </td>
+						<td class="auto-style132"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+						<td class="auto-style131">117 </td>
+						<td class="auto-style131">13 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						6 </td>
+						<td class="auto-style132"><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+						<td class="auto-style131">129 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						7 </td>
+						<td class="auto-style132"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+						<td class="auto-style131">142 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+					<tr height="21">
+						<td class="auto-style131" height="21" style="height: 15.75pt;">
+						8 </td>
+						<td class="auto-style132"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+						<td class="auto-style131">180 </td>
+						<td class="auto-style131">14 </td>
+					</tr>
+				</table>
+
+<!--End table imported from old page-->
+</center>
+
+<br/><br/>
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--#include virtual="/stats/sub-nav-stats.html"-->
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

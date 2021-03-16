@@ -1,0 +1,162 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Suffolk County Community College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Suffolk'
+//alert('Q equals ' + q)
+</script>    
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Suffolk County Community College</a></div>
+
+<div class="PageHeader">Suffolk County Community College Sharks</div>
+<p><center><img src="/images/team-logos/suffolk.jpg" style="width:240px; height:152px;" alt="Suffolk Logo" title="Suffolk Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>145</td>
+						<td>98</td>
+						<td>2</td>
+						<td>7</td>
+						<td>.597</td>
+						<td>1435</td>
+						<td>1144</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>252</td>
+						<td>17</td>
+						<td>1999-00*</td>
+						<td>Active</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Did Not Play 2007-09, 2011-12</td>
+                    </tr>
+                     <tr>
+                    	<td colspan="11"><i>Records updated March 24, 2020</i></td>
+                     </tr>
+				</table>				
+<br/>
+<table class="TableStandard" border="1">
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>Rod Parisi</td>
+        <td><span class="TeamPageContactLabel">Cell:</span>&nbsp;917-440-9960<br/>
+<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:deniro18@aol.com">deniro18@aol.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Asst. Coach</td>
+    </tr>
+    <tr>
+    	<td>Chris Walker</td>
+        <td><span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:walker9797@yahoo.com">walker9797@yahoo.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">General Manager</td>
+    </tr>
+    <tr>
+    	<td>Scott Nudleman</td>
+        <td><span class="TeamPageContactLabel">Phone:</span>&nbsp;516-987-9155<br/>
+<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:scott@scccsharkshockey.com">scott@scccsharkshockey.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Asst. General Manager</td>
+    </tr>
+    <tr>
+    	<td>Vincent Parisi</td>
+        <td><span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:Vparisi412@gmail.com">Vparisi412@gmail.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Home Rink</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Dix Hills Arena, Dix Hills, NY</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d48322.31322273309!2d-73.37319697674508!3d40.80281665630541!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e82f024ddd7adb%3A0x46c4348176cb37a2!2sDix%20Hills%20Ice%20Rink!5e0!3m2!1sen!2sus!4v1587570543506!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.sunysuffolk.edu" target="_blank">www.sunysuffolk.edu</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Selden, NY</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://scccsharkshockey.com/" target="_blank" class="LongURL">www.scccsharkshockey.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Sharks</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Team Colors</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Home-White/Blue/Silver&nbsp;&nbsp;Away-Blue/Silver/White</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1959</td>
+	</tr>
+</table>
+</center>
+
+<!--#include virtual="/schedule/display-schedule-current.html"-->
+
+<!--#include virtual="/schedule/playoff-programs/2019-20.html"-->
+
+<!--#include virtual="/schedule/playoff-programs/2018-19.html"-->
+
+<!--#include virtual="/schedule/playoff-programs/2017-18.html"-->
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/SuffolkSharks?ref_src=twsrc%5Etfw">Tweets by SuffolkSharks</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>League -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+.btn-secondary {
+	width:200px; 
+	}
+</style>    
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">League</a></div>
+
+<p>
+	<center>
+          <a class="btn btn-secondary" role="button" href="/league/news.shtml">News &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/results/index.shtml">Results &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/schedule/index.shtml">Schedule &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/standings/index.shtml">Standings &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/stats/index.shtml">Stats &raquo;</a><br/><br/>
+		  <a class="btn btn-secondary" role="button" href="/stats/index.shtml#HistoricalStats">Stats (All Time) &raquo;</a>
+    </center>
+</p>
+
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Stony Brook University -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Stony Brook'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Stony Brook University</a></div>
+
+<div class="PageHeader">Stony Brook University Seawolves</div>
+<p><center><img src="/images/team-logos/stony-brook.png" style="width:320px; height:248px;" alt="Stony Brook University Logo" title="Stony Brook University Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>233</td>
+						<td>218</td>
+						<td>35</td>
+						<td>0</td>
+						<td>.517</td>
+						<td>2356</td>
+						<td>2417</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>486</td>
+						<td>28</td>
+						<td>1969-70*</td>
+						<td>1999-2000</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Did Not Play 1972-75</td>
+                     </tr>
+				</table>
+				
+<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
+<a href="/mchc/champions.shtml#2000">1999-2000</a>
+</div>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.stonybrook.edu/" target="_blank" class="LongURL">www.stonybrook.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Stony Brook, NY</td>
+	</tr>
+    <!--tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="[Team Website]" target="_blank" class="LongURL">[Team Website]</a></td>
+	</tr-->
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Seawolves</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1957</td>
+	</tr>
+</table>
+</center>
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

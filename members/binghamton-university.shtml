@@ -1,0 +1,96 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Binghamton University -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Binghamton'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Binghamton University</a></div>
+
+<div class="PageHeader">Binghamton University Bearcats</div>
+<p><center><img src="/images/team-logos/binghamton.png" style="width:300px; height:174px;" alt="Binghamton University Logo" title="Binghamton University Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>16</td>
+						<td>34</td>
+						<td>2</td>
+						<td>0</td>
+						<td>.320</td>
+						<td>202</td>
+						<td>329</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">														
+                    	<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>52</td>
+						<td>3</td>
+						<td>1994-95</td>
+						<td>1996-97</td>
+					</tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.binghamton.edu/" target="_blank" class="LongURL">www.binghamton.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Binghamton, NY</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Bearcats</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1946</td>
+	</tr>
+</table>
+</center>
+                
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/BingUHockey?ref_src=twsrc%5Etfw">Tweets by @BingUHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

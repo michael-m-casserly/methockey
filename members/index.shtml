@@ -1,0 +1,100 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Conference Members -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+.schoolNames {
+	float:left;
+	vertical-align:middle;
+	padding: 10px;
+	text-align:center;
+
+}
+</style>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Conference Members</a></div>
+
+				<div class="PageHeader">Member Colleges &amp; Universities</div>
+                
+				<div class="schoolNames"><center>
+                <a href="/members/columbia-university.shtml"><img src="/images/school-names/columbia.jpg" alt="Columbia University" title="Columbia University" style="width:320px; height:194px;" /></a>
+                <a href="/members/maritime-college.shtml"><img src="/images/school-names/maritime.jpg" alt="Maritime College" title="Maritime College" style="width:320px; height:107px;" /></a>
+                <a href="/members/sacred-heart-university.shtml"><img src="/images/school-names/sacred-heart.png" alt="Sacred Heart University" title="Sacred Heart University" style="width:320px; height:93px;" /></a>                
+                <a href="/members/st-thomas-aquinas-college.shtml"><img src="/images/school-names/stac.jpg" alt="St. Thomas Aquinas College" title="St. Thomas Aquinas College" style="width:320px; height:188px;" /></a>
+                <a href="/members/stevens-institute-of-technology.shtml"><img src="/images/school-names/stevens.png" alt="Stevens Institute of Technology" title="Stevens Institute of Technology" style="width:320px; height:145px;" /></a>
+                <a href="/members/suffolk-county-community-college.shtml"><img src="/images/school-names/suffolk.jpg" alt="Suffolk Community College" title="Suffolk Community College" style="width:320px; height:163px;" /></a>
+                <a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml"><img src="/images/school-names/usmma.jpg" alt="U.S. Merchant Marine Academy" title="U.S. Merchant Marine Academy" style="width:320px; height:148px; padding-bottom:20px; padding-top:0px;" /></a></center></div>
+
+<div style="padding-bottom:10px; padding-top:20px;">
+	<center><br/><br/>
+    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">See All MCHC Champions &raquo;</a>
+    </center>
+</div> 
+				<a name="former-members"></a>
+				<br/>
+                <div class="PageHeader">Former Conference Members</div>                   
+
+                <div class="schoolNames"><center>
+                <a href="/members/adelphi-university.shtml"><img src="/images/school-names/adelphi.png" alt="Adelphi University" title="Adelphi University" style="width:320px; height:142px;" /></a>
+                <a href="/members/university-at-albany.shtml"><img src="/images/school-names/albany.jpg" alt="University at Albany" title="University at Albany" style="width:320px; height:163px;" /></a>
+                <a href="/members/binghamton-university.shtml"><img src="/images/school-names/binghamton.jpg" alt="Binghamton University" title="Binghamton University" style="width:320px; height:123px;" /></a>
+                <a href="/members/briarcliffe-college.shtml"><img src="/images/school-names/briarcliffe.jpg" alt="Briarcliffe College" title="Briarcliffe College" style="width:320px; height:75px;" /></a>
+                <a href="/members/university-of-bridgeport.shtml"><img src="/images/school-names/bridgeport.png" alt="University of Bridgeport" title="University of Bridgeport" style="width:320px; height:116px;" /></a>
+                <a href="/members/brooklyn-college.shtml"><img src="/images/school-names/brooklyn.png" alt="Brooklyn College" title="Brooklyn College" style="width:320px; height:145px;" /></a>
+                <a href="/members/city-college-of-new-york.shtml"><img src="/images/school-names/ccny.jpg" alt="City College of New York" title="City College of New York" style="width:320px; height:135px;" /></a>
+                <a href="/members/cook-college.shtml"><img src="/images/school-names/cook.gif" alt="Cook College" title="Cook College" style="width:320px; height:102px;" /></a>
+                <a href="/members/county-college-of-morris.shtml"><img src="/images/school-names/ccm.jpg" alt="County College of Morris" title="County College of Morris" style="width:320px; height:137px;" /></a>
+                <a href="/members/delaware-county-community-college.shtml"><img src="/images/school-names/dccc.png" alt="Delaware County Community College" title="Delaware County Community College" style="width:320px; height:128px;" /></a>
+                <a href="/members/fairfield-university.shtml"><img src="/images/school-names/fairfield.png" alt="Fairfield University" title="Fairfield University" style="width:320px; height:135px;" /></a>
+                <a href="/members/fairleigh-dickinson-university.shtml"><img src="/images/school-names/fairleigh-dickinson.jpg" alt="Fairleigh Dickinson University" title="Fairleigh Dickinson University" style="width:320px; height:118px;" /></a>
+                <a href="/members/farmingdale-state-college.shtml"><img src="/images/school-names/farmingdale.gif" alt="Farmingdale State College" title="Farmingdale State College" style="width:320px; height:112px;" /></a>
+                <a href="/members/fordham-university.shtml"><img src="/images/school-names/fordham.png" alt="Fordham University" title="Fordham University" style="width:320px; height:84px;" /></a>
+                <a href="/members/hofstra-university.shtml"><img src="/images/school-names/hofstra.png" alt="Hofstra University" title="Hofstra University" style="width:320px; height:84px;" /></a>
+                <a href="/members/iona-college.shtml"><img src="/images/school-names/iona.png" alt="Iona College" title="Iona College" style="width:320px; height:123px;" /></a>
+                <a href="/members/john-jay-college.shtml"><img src="/images/school-names/john-jay.png" alt="John Jay College" title="John Jay College" style="width:320px; height:130px;" /></a>
+                <a href="/members/kean-university.shtml"><img src="/images/school-names/kean.png" alt="Kean University" title="Kean University" style="width:320px; height:110px;" /></a>
+                <a href="/members/lehman-college.shtml"><img src="/images/school-names/lehman.png" alt="Lehman College" title="Lehman College" style="width:320px; height:103px;" /></a>
+                <a href="/members/liu-post.shtml"><img src="/images/school-names/liu-post.jpg" alt="LIU Post" title="LIU Post" style="width:320px; height:68px;" /></a>
+                <a href="/members/manhattan-college.shtml"><img src="/images/school-names/manhattan.png" alt="Manhattan College" title="Manhattan College" style="width:320px; height:123px;" /></a>
+                <a href="/members/marist-college.shtml"><img src="/images/school-names/marist.jpg" alt="Marist College" title="Marist College" style="width:320px; height:85px;" /></a>
+                <a href="/members/monmouth-university.shtml"><img src="/images/school-names/monmouth.png" alt="Monmouth University" title="Monmouth University" style="width:320px; height:79px;" /></a>
+                <a href="/members/montclair-state-university.shtml"><img src="/images/school-names/montclair.jpg" alt="Montclair State University" title="Montclair State University" style="width:320px; height:95px;" /></a>
+                <a href="/members/nassau-community-college.shtml"><img src="/images/school-names/nassau.jpg" alt="Nassau Community College" title="Nassau Community College" style="width:320px; height:132px;" /></a>
+                <a href="/members/new-jersey-institute-of-technology.shtml"><img src="/images/school-names/njit.png" alt="New Jersey Institute of Technology" title="New Jersey Institute of Technology" style="width:320px; height:90px;" /></a>
+                <a href="/members/new-york-institute-of-technology.shtml"><img src="/images/school-names/nyit.png" alt="New York Institute of Technology" title="New York Institute of Technology" style="width:320px; height:130px;" /></a>
+                <a href="/members/suny-new-paltz.shtml"><img src="/images/school-names/new-paltz.png" alt="SUNY New Paltz" title="SUNY New Paltz" style="width:320px; height:100px;" /></a>
+                <a href="/members/new-york-university.shtml"><img src="/images/school-names/nyu.png" alt="New York University" title="New York University" style="width:320px; height:63px;" /></a>
+                <a href="/members/ocean-county-college.shtml"><img src="/images/school-names/ocean-county.png" alt="Ocean County College" title="Ocean County College" style="width:320px; height:134px;" /></a>
+                <a href="/members/pace-university.shtml"><img src="/images/school-names/pace.png" alt="Pace University" title="Pace University" style="width:320px; height:101px;" /></a>
+                <a href="/members/queens-college.shtml"><img src="/images/school-names/queens.png" alt="Queens College" title="Queens College" style="width:320px; height:144px;" /></a>
+                <a href="/members/ramapo-college.shtml"><img src="/images/school-names/ramapo.jpg" alt="Ramapo College" title="Ramapo College" style="width:320px; height:107px; padding-bottom:10px; padding-top:10px;" /></a>
+                <a href="/members/raritan-valley-community-college.shtml"><img src="/images/school-names/raritan-valley.jpg" alt="Raritan Valley Community College" title="Raritan Valley Community College" style="width:320px; height:95px;" /></a>
+                <a href="/members/rockland-community-college.shtml"><img src="/images/school-names/rockland.jpg" alt="Rockland Community College" title="Rockland Community College" style="width:320px; height:163px;" /></a>
+                <a href="/members/rutgers-university.shtml"><img src="/images/school-names/rutgers.jpg" alt="Rutgers University" title="Rutgers University" style="width:320px; height:120px;" /></a>
+                <a href="/members/st-francis-college.shtml"><img src="/images/school-names/st-francis.png" alt="St. Francis College" title="St. Francis College" style="width:320px; height:107px;" /></a>
+                <a href="/members/st-johns-university.shtml"><img src="/images/school-names/st-johns.png" alt="St. John's University" title="St. John's University" style="width:320px; height:116px;" /></a>
+                <a href="/members/college-of-st-rose.shtml"><img src="/images/school-names/st-rose.gif" alt="The College of St. Rose" title="The College of St. Rose" style="width:320px; height:131px;" /></a>
+                <a href="/members/seton-hall-university.shtml"><img src="/images/school-names/seton-hall.png" alt="Seton Hall University" title="Seton Hall University" style="width:320px; height:113px;" /></a>
+                <a href="/members/siena-college.shtml"><img src="/images/school-names/siena.png" alt="Siena College" title="Siena College" style="width:320px; height:117px;" /></a>
+                <a href="/members/skidmore-college.shtml"><img src="/images/school-names/skidmore.png" alt="Skidmore College" title="Skidmore College" style="width:320px; height:100px;" /></a>
+				<a href="/members/southern-connecticut-state-university.shtml"><img src="/images/school-names/scsu.png" alt="Southern Connecticut State University" title="Southern Connecticut State University" style="width:320px; height:154px;" /></a>                
+                <a href="/members/stony-brook-university.shtml"><img src="/images/school-names/stony-brook.png" alt="Stony Brook University" title="Stony Brook University" style="width:320px; height:99px;" /></a>
+                <a href="/members/union-college.shtml"><img src="/images/school-names/union.png" alt="Union College" title="Union College" style="width:320px; height:133px;" /></a>
+                <a href="/members/upsala-college.shtml"><img src="/images/school-names/upsala.jpg" alt="Upsala College" title="Upsala College" style="width:320px; height:90px;" /></a>
+                <a href="/members/wagner-college.shtml"><img src="/images/school-names/wagner.jpg" alt="Wagner College" title="Wagner College" style="width:320px; height:104px;" /></a>
+                <a href="/members/western-connecticut-state-university.shtml"><img src="/images/school-names/westconn.png" alt="Western Connecticut State University" title="Western Connecticut State University" style="width:320px; height:163px;" /></a>
+                <a href="/members/william-paterson-university.shtml"><img src="/images/school-names/paterson.png" alt="William Paterson University" title="William Paterson University" style="width:320px; height:118px;" /></a>
+                <a href="/members/yale-university.shtml"><img src="/images/school-names/yale.png" alt="Yale University" title="Yale University" style="width:320px; height:77px;" /></a></center></div>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

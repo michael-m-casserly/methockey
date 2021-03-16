@@ -1,0 +1,30 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+<meta content="en-us" http-equiv="Content-Language" />
+<title>Metropolitan Collegiate Hockey Conference</title>
+<meta content="text/html; charset=utf-8" http-equiv="Content-Type" />
+<meta content="Home of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area." name="description" />
+<link href="/MCHC-Base.css" rel="stylesheet" type="text/css" />
+<link href="/auto-styles.css" rel="stylesheet" type="text/css" />
+
+</head>
+
+<body>
+
+<!--Begin Coffee Cup Web Form Insert -->
+
+<script type="text/javascript">document.write(unescape("%3Ciframe id=\"fb_iframe\" src=\"mchc_score_submit_sheet.php" + window.location.search + "\" width=\"100%\" height=\"3061\"allowtransparency=\"true\" scrolling=\"no\" frameborder=\"0\"%3E&lt;a href=\"mchc_score_submit_sheet.php\" title=\"mchc_score_submit_sheet\"&gt;Check out my CoffeeCup Form&lt;/a&gt;%3C/iframe%3E"));</script>
+<noscript>
+  <iframe height="3061" style="border:none; background:transparent; overflow:hidden; width:100%;"
+  id="fb_iframe" src="mchc_score_submit_sheet/mchc_score_submit_sheet.html">
+    <a href="mchc_score_submit_sheet.php" title="mchc_score_submit_sheet">Check out my CoffeeCup Form</a>
+  </iframe>
+</noscript>
+
+<!--End Coffee Cup Web Form Insert -->
+
+</body>
+
+</html>

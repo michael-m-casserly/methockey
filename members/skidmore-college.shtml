@@ -1,0 +1,102 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Skidmore College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Skidmore'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Skidmore College</a></div>
+
+<div class="PageHeader">Skidmore College Thoroughbreds</div>
+<p><center><img src="/images/team-logos/skidmore.jpg" style="width:317px; height:146px;" alt="Skidmore College Logo" title="Skidmore College Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>13</td>
+						<td>3</td>
+						<td>0</td>
+						<td>2</td>
+						<td>.813</td>
+						<td>102</td>
+						<td>51</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">														
+                    	<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>16</td>
+						<td>1</td>
+						<td>2008-09</td>
+						<td>2008-09</td>
+					</tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.skidmore.edu/" target="_blank" class="LongURL">www.skidmore.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Saratoga Springs, NY</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://skidmoreathletics.com/sports/mens-ice-hockey" target="_blank" class="LongURL">https://skidmoreathletics.com/sports/mens-ice-hockey</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Thoroughbreds</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1922</td>
+	</tr>
+</table>
+</center>
+                
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/SkidmoreHockey?ref_src=twsrc%5Etfw">Tweets by @SkidmoreHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

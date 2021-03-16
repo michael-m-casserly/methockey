@@ -1,0 +1,171 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>MCHC Standings -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/standings/index.shtml">Standings</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1975-76 Standings</a></div>
+
+        
+        <div class="PageHeader">1975-76 Standings</div>
+        <p><center>
+       
+<table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
+	<tr class="TableHeader">
+    	<td colspan="9">Division I</td>
+     </tr>
+	<tr class="TableSubHeader">
+    	<td width="20%">Team</td>
+        <td width="10%">GP</td>
+        <td width="10%">W</td>
+        <td width="10%">L</td>
+        <td width="10%">T</td>
+        <td width="10%">PTS</td>
+        <td width="10%">Win%</td>
+        <td width="10%">GF</td>
+        <td width="10%">GA</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/brooklyn-college.shtml">Brooklyn</a></td>
+        <td>17</td>
+        <td>11</td>
+        <td>1</td>
+        <td>5</td>
+        <td>27</td>
+        <td>.794</td>
+        <td>93</td>
+        <td>54</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/iona-college.shtml">Iona</a></td>
+        <td>17</td>
+        <td>10</td>
+        <td>2</td>
+        <td>5</td>
+        <td>25</td>
+        <td>.735</td>
+        <td>92</td>
+        <td>45</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/city-college-of-new-york.shtml">CCNY</a></td>
+        <td>17</td>
+        <td>9</td>
+        <td>5</td>
+        <td>3</td>
+        <td>21</td>
+        <td>.618</td>
+        <td>78</td>
+        <td>66</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>17</td>
+        <td>5</td>
+        <td>9</td>
+        <td>3</td>
+        <td>13</td>
+        <td>.382</td>
+        <td>52</td>
+        <td>77</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/nassau-community-college.shtml">Nassau</a></td>
+        <td>17</td>
+        <td>0</td>
+        <td>16</td>
+        <td>1</td>
+        <td>1</td>
+        <td>.029</td>
+        <td>50</td>
+        <td>126</td>
+     </tr>
+     <tr>
+     	<td colspan="9">&nbsp;</td>
+     </tr>
+	<tr class="TableHeader">
+    	<td colspan="9">Division II</td>
+     </tr>
+	<tr class="TableSubHeader">
+    	<td width="20%">Team</td>
+        <td width="10%">GP</td>
+        <td width="10%">W</td>
+        <td width="10%">L</td>
+        <td width="10%">T</td>
+        <td width="10%">PTS</td>
+        <td width="10%">Win%</td>
+        <td width="10%">GF</td>
+        <td width="10%">GA</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>17</td>
+        <td>17</td>
+        <td>0</td>
+        <td>0</td>
+        <td>34</td>
+        <td>1.000</td>
+        <td>155</td>
+        <td>33</td>
+     </tr>     
+     <tr>
+     	<td class="Standings-Team"><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>17</td>
+        <td>7</td>
+        <td>8</td>
+        <td>2</td>
+        <td>16</td>
+        <td>.471</td>
+        <td>63</td>
+        <td>76</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>17</td>
+        <td>5</td>
+        <td>9</td>
+        <td>3</td>
+        <td>13</td>
+        <td>.382</td>
+        <td>46</td>
+        <td>70</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/fairleigh-dickinson-university.shtml">FDU</a></td>
+        <td>17</td>
+        <td>5</td>
+        <td>10</td>
+        <td>2</td>
+        <td>12</td>
+        <td>.353</td>
+        <td>71</td>
+        <td>92</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/st-francis-college.shtml">St.&nbsp;Francis</a></td>
+        <td>17</td>
+        <td>3</td>
+        <td>12</td>
+        <td>2</td>
+        <td>8</td>
+        <td>.235</td>
+        <td>40</td>
+        <td>101</td>
+     </tr>
+</table>		
+		</center>
+        </p>
+		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
+		<!--#include virtual="/standings/sub-nav-standings.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,6 @@
+# Robots.txt file from http://www.methockey.com
+
+Sitemap: http://www.methockey.com/sitemap.xml
+
+User-agent: *
+Disallow:

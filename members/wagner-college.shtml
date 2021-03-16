@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Wagner College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Wagner'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Wagner College</a></div>
+
+<div class="PageHeader">Wagner College Seahawks</div>
+<p><center><img src="/images/team-logos/wagner.png" style="width:320px; height:155px;" alt="Wagner Logo" title="Wagner Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>392</td>
+						<td>176</td>
+						<td>39</td>
+						<td>2</td>
+						<td>.690</td>
+						<td>3920</td>
+						<td>2667</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>609</td>
+						<td>33</td>
+						<td>1972-73*</td>
+						<td>2010-11</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Had 2 "B" Teams During the 1974-75 &amp; 1978-79 Seasons<br/>
+                        Did Not Play 2004-10</td>
+                     </tr>
+				</table>
+
+<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
+<a href="/mchc/champions.shtml#1978">1977-78</a><br/>
+<a href="/mchc/champions.shtml#1983">1982-83</a><br/>
+<a href="/mchc/champions.shtml#1984">1983-84</a><br/>
+<a href="/mchc/champions.shtml#1997">1996-97</a><br/>
+<a href="/mchc/champions.shtml#1998">1997-98</a><br/>
+<a href="/mchc/champions.shtml#1999">1998-99</a><br/>
+<a href="/mchc/champions.shtml#2001">2000-01</a><br/>
+<a href="/mchc/champions.shtml#2002">2001-02</a><br/>
+<a href="/mchc/champions.shtml#2004">2003-04</a><br/>
+<a href="/mchc/champions.shtml#2011">2010-11</a>
+</div>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://wagner.edu/" target="_blank">https://wagner.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Staten Island, NY</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Seahawks</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1883</td>
+	</tr>
+</table>
+</center>
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

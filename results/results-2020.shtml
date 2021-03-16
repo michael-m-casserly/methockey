@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Results -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">2019-20 Results</a></div>
+
+<div class="PageHeader">2019-20 Results</div>
+<p><center>
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--#include virtual="/results/results-include-2020.html"--></center></p>
+<!--#include virtual="/schedule/playoff-programs/2019-20.html"-->
+
+<!--#include virtual="/results/results-footer.html"-->
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--#include virtual="/results/sub-nav-results.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

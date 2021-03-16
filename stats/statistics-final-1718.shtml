@@ -1,0 +1,2194 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Stats -- Metropolitan Collegiate Hockey Conference</title>
+
+
+<style id="MCHC WEB STATS_12788_Styles"><!--table
+	{mso-displayed-decimal-separator:"\.";
+	mso-displayed-thousand-separator:"\,";}
+.xl1512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Courier;
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6612788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6712788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6812788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl6912788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold";
+	mso-generic-font-family:auto;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7012788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7112788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7212788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Calibri, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl7312788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:none;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7412788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:none;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7612788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:.5pt solid windowtext;
+	background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7712788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:.5pt solid windowtext;
+	border-right:none;
+	border-bottom:none;
+	border-left:none;
+	background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7812788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:.5pt solid windowtext;
+	border-right:.5pt solid windowtext;
+	border-bottom:none;
+	border-left:none;
+	background:#344f7c;
+	mso-pattern:black none;
+	white-space:nowrap;}
+.xl7912788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border-top:none;
+	border-right:1.5pt solid #1F497D;
+	border-bottom:1.5pt solid #1F497D;
+	border-left:1.5pt solid #1F497D;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8012788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8112788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8212788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8312788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.00_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8412788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8612788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8712788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8812788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl8912788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9012788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9112788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9212788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9312788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9412788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:3px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9612788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9712788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9812788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl9912788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:left;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10012788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:right;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10112788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:white;
+	font-size:12.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10212788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0%;
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10312788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"General_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10412788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:0;
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10512788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.00_\)";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10612788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:black;
+	font-size:10.0pt;
+	font-weight:400;
+	font-style:normal;
+	text-decoration:none;
+	font-family:Arial, sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"0\.0%";
+	text-align:center;
+	/*vertical-align:bottom;*/
+border:.5pt solid windowtext;
+	mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+.xl10712788
+	{padding-top:1px;
+	padding-right:1px;
+	padding-left:1px;
+	mso-ignore:padding;
+	color:windowtext;
+	font-size:10.0pt;
+	font-weight:700;
+	font-style:normal;
+	text-decoration:none;
+	font-family:"Arial Rounded MT Bold", sans-serif;
+	mso-font-charset:0;
+	mso-number-format:"_\(* \#\,\#\#0\.00_\)\;_\(* \\\(\#\,\#\#0\.00\\\)\;_\(* \0022-\0022??_\)\;_\(\@_\)";
+	text-align:general;
+	/*vertical-align:bottom;*/
+mso-background-source:auto;
+	mso-pattern:auto;
+	white-space:nowrap;}
+--></style>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">2017-18 Stats</a></div>
+
+<div class="PageHeader">2017-18 Final Stats</div>
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<div>
+<center>
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=7 height=24 class=xl7412788 style='height:18.0pt;'>Player Scoring Leaders</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Player</td>
+  <td class=xl9112788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>G</td>
+  <td class=xl9112788 style='border-left:none'>A</td>
+  <td class=xl9112788 style='border-left:none'>PTS</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>27 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Kyle Debel</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>27 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>49 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>76 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>23 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Keith Doherty</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>33 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>27 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>60 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>20 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Robert Spetz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>26 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>27 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>53 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Dan Cirminello</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>29 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>18 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>47 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Andrew Dunn</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>21 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>21 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>42 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>11 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe Bizarro</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>18 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>34 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>17 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Mike Gamby</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>21 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>33 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>15 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Zach Brenner</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>31 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Andrew Gagnon</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>20 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>30 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Doug Harrison</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>13 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>29 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>87 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Trevor Goess</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>11 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>26 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>16 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Patrick Burns</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>26 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>25 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe Gramenga</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>26 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Nick Gadowski</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>26 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>49 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe Bosignore</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>25 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=10 height=24 class=xl7612788 style='border-right:.5pt solid black;
+  height:18.0pt'>Goaltender Goals-Against-Average Leaders</td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Player</td>
+  <td class=xl9112788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>&nbsp;W&nbsp;</td>
+  <td class=xl9112788 style='border-left:none'>&nbsp;L&nbsp;</td>
+  <td class=xl9112788 style='border-left:none'>OTL</td>
+  <td class=xl9112788 style='border-left:none'>MIN</td>
+  <td class=xl9112788 style='border-left:none'>GAA</td>
+  <td class=xl9112788 style='border-left:none'>SV%</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>35 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe<br/>Sponenburg</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>547</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>1.97 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.908</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9312788 style='height:18.0pt;border-top:none'>1 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Jack<br/>McConeghy</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>361</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>1.99 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.905</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>7 </td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>0 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Connor<br/>O'Leary</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>6 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>2 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>615</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>2.54 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.894</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>11 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>31 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Sean<br/>Gordon</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>3 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>741</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>2.83 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.900</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>13 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>41 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Liam<br/>Hartenstein</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>787</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>3.89 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.888</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>33 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Tom<br/>Usseglio</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>3 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>3 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>441</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>4.22 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.869</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>31 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Carl<br/>Lorenz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>3 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>803</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>5.38 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.875</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>70 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Evan<br/>Senkewicz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>3 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>499</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>6.01 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.821</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>35 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Grant<br/>Kennedy</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>2 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>6 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>422</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>6.11 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.805</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>8 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>30 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Larry<br/>Balsamo</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings<br/>Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>0 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>899</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>8.34 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.780</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>30 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Alberto<br/>Gimenez<br/>Galanes</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>1 </td>
+  <td class=xl10412788 style='border-top:none;border-left:none'>683</td>
+  <td class=xl10512788 style='border-top:none;border-left:none'>8.52 </td>
+  <td class=xl10612788 style='border-top:none;border-left:none'>.834</td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td colspan=10 height=20 class=xl7912788 style='height:15.0pt'>(Minimum 360 minutes played)</td>
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=5 height=24 class=xl7312788 style='border-right:.5pt solid black;
+  height:18.0pt'>Player Penalty Minutes</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Player</td>
+  <td class=xl9112788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>PIM</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>11 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Ethan Buch</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>47 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>22 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Zach Teats</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>45 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>23 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Shaun Benson</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>42 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>14 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Josh Filipovits</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>40 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>23 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Keith Doherty</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>38 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Josh Dimas</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>37 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>13 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>20 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Bobby Oldmixon</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>36 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>20 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Patrick Murray</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>35 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>13 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Jacob Senkewicz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>35 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Nick Gadowski</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>34 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>88 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Anthony Dell'
+  Olio</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>33 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Dan Cirminello</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>32 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>26 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Fred Guimenta</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>31 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9312788 style='height:18.0pt;border-top:none'>3 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Darren Schwartz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>31 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>25 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Keith Henning</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>30 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>7 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Tyler Brooks</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>30 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>11 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe Bizzaro</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>29 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>27 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Kyle Debel</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>27 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=5 height=24 class=xl7312788 style='border-right:.5pt solid black;
+  height:18.0pt'>Player Power Play Goals</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Player</td>
+  <td class=xl9112788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>PP</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>21 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Andrew Gagnon</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>6 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>20 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Bobby Oldmixon</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>17 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>J.J. Hickey</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9312788 style='height:18.0pt;border-top:none'>23 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Keith Doherty</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Andrew Dunn</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>5 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>20 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Robert Spetz</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>27 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Kyle Debel</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>15 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Alex Phipps</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>8 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9312788 style='height:15.0pt;border-top:none'>18 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Eamon Bontempo</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>49 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Joe Bosignore</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>55 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Gino Leocadi</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>6 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Matt McGuirk</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9312788 style='height:14.25pt;border-top:none'>16 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'>Austin Natale</td>
+  <td class=xl9512788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>4 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=5 height=24 class=xl7312788 style='border-right:.5pt solid black;
+  height:18.0pt'>Team Power Play Goals</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>PPG</td>
+  <td class=xl9112788 style='border-left:none'>PPO</td>
+  <td class=xl9112788 style='border-left:none'>%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9612788 style='height:18.0pt;border-top:none'>1 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>21 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>65 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>32%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>2 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>20 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>75 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>27%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>3 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>18 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>74 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>24%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>69 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>22%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>5 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>59 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>20%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>6 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>11 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>59 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>19%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>7 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>86 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>19%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>8 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>6 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>34 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>18%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>6 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>78 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>8%</td>
+  
+  
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=5 height=24 class=xl7312788 style='border-right:.5pt solid black;
+  height:18.0pt'>Team Penalty Kill</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9812788 style='height:14.25pt'>#</td>
+  <td class=xl9912788 style='border-left:none'>Team</td>
+  <td class=xl9812788 style='border-left:none'>PPGA</td>
+  <td class=xl9812788 style='border-left:none'>PPO</td>
+  <td class=xl9812788 style='border-left:none'>%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9612788 style='height:18.0pt;border-top:none'>1 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>9 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>65 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>14%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>2 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>74 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>14%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>3 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>10 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>57 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>18%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>12 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>68 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>18%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>5 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>14 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>73 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>19%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>6 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>68 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>24%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>7 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>25 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>98 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>26%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>8 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>13 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>50 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>26%</td>
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>18 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>55 </td>
+  <td class=xl10212788 style='border-top:none;border-left:none'>33%</td>
+  
+  
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=6 height=24 class=xl7612788 style='border-right:.5pt solid black;
+  height:18.0pt'>Team Scoring</td>
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9712788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>G</td>
+  <td class=xl9112788 style='border-left:none'>A</td>
+  <td class=xl9112788 style='border-left:none'>PTS</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+  
+  
+  
+  
+ </tr>
+ <tr height=24 style='height:18.0pt'>
+  <td height=24 class=xl9612788 style='height:18.0pt;border-top:none'>1 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>128 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>182 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>310 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  <td class=xl8812788></td>
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>2 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>123 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>151 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>274 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>3 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>112 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>159 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>271 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>82 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>77 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>159 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>5 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>70 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>74 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>144 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>6 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>70 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>73 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>143 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>7 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>58 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>71 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>129 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>8 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>59 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>67 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>126 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+ </tr>
+ <tr height=19 style='height:14.25pt'>
+  <td height=19 class=xl9612788 style='height:14.25pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>51 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>54 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>105 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+ </tr>
+</table>
+
+
+<br/><br/>
+
+
+<table border=0 cellpadding=5 cellspacing=2 style='border-collapse:collapse;width:100%;max-width:500px;'>
+ <tr height=24 style='height:18.0pt'>
+  <td colspan=4 height=24 class=xl7412788 style='height:18.0pt'>Team Penalties</td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9112788 style='height:15.0pt'>#</td>
+  <td class=xl9212788 style='border-left:none'>Team</td>
+  <td class=xl9112788 style='border-left:none'>PIM</td>
+  <td class=xl9112788 style='border-left:none'>GP</td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>1 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>145 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>2 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>151 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>3 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>179 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>15 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>4 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/hofstra-university.shtml">Hofstra</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>185 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>5 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/fordham-university.shtml">Fordham</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>205 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>6 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>207 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>7 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>233 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>8 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>289 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+ <tr height=20 style='height:15.0pt'>
+  <td height=20 class=xl9612788 style='height:15.0pt;border-top:none'>9 </td>
+  <td class=xl9412788 style='border-top:none;border-left:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>335 </td>
+  <td class=xl9312788 style='border-top:none;border-left:none'>16 </td>
+  
+  
+  
+  
+  
+  
+ </tr>
+</table>
+</center>
+</div>
+
+<!--Insert Excel Table Here END-->
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--#include virtual="/stats/sub-nav-stats.html"-->
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

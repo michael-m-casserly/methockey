@@ -1,0 +1,36 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Stats -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Stats</a></div>
+
+      
+<div class="PageHeader">Current Stats</div>
+
+<!--Leave this commented out until new season stats are ready-->
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--Temporary Include until 2020 season starts-->
+<!--#include virtual="/stats/statistics-final-1920-include.html"-->
+
+<!--Use this once the 2020 Season starts, and I fix the sheet that Drew uses to input the stats every week-->
+<!--include virtual="/stats/statistics-current-include.html"-->
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--#include virtual="/stats/sub-nav-stats.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

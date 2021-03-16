@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>ACHA All Atlantic Region Team -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/mchc/index.shtml">MCHC</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">ACHA All Atlantic Region Team</a></div>
+
+        <div class="PageHeader">ACHA All Atlantic Region Team</div>
+
+<center>
+<style type="text/css">
+td {
+	/*text-align:center*/
+	}
+</style>
+<table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
+	<tr class="TableHeader">
+    	<td colspan="3" align="center">2019-20</td>
+    </tr>
+    <tr>
+    	<td><span class="PlayerOfTheMonth">Shaun Benson</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>First Team Defense</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">Andrew Dunn</span></td>
+        <td><a href="/members/columbia-university.shtml">Columbia</a></td>
+        <td>First Team Forward<br/>
+			<b><i>Second Team All American Forward</i></b></td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">Weston Goodman</span></td>
+        <td><a href="/members/columbia-university.shtml">Columbia</a></td>
+        <td>Second Team Defense</td>
+    </tr>
+    <tr>
+    	<td colspan="3"><p><center><a href="http://achahockey.org/view/achahockey/acha-hockey-news/news_529843" target="_blank">ACHA Men's Division 3 All Atlantic Region Awards</a><br/>
+            <a href="http://achahockey.org/view/achahockey/acha-hockey-news/news_529999" target="_blank">Men's Division 3 First and Second All American Teams Announced</a></center></p></td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="3" align="center">2018-19</td>
+    </tr>
+    <tr>
+    	<td><span class="PlayerOfTheMonth">Joe Sponenburg</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>First Team Goaltender<br/>
+			<b><i>ACHA All-Atlantic Region MVP</i></b></td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">Connor Burke</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>Second Team Defense</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">Nick Gadowski</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>Second Team Forward</td>
+    </tr>
+ 	<tr>
+    	<td><span class="PlayerOfTheMonth">Zack Brenner</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>Third Team Forward</td>
+    </tr>
+ 	<tr>
+    	<td><span class="PlayerOfTheMonth">Rich Guberti</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td><b><i>ACHA All-Atlantic Region Coach of the Year</i></b></td>
+    </tr>
+    <tr>
+    	<td colspan="3"><p><center><a href="http://achahockey.org/view/achahockey/acha-hockey-news/news_515717" target="_blank">Men's D-III All-Teams Announced for Atlantic, South Regions</a></center></p></td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="3" align="center">2017-18</td>
+    </tr>
+    <tr>
+    	<td><span class="PlayerOfTheMonth">Kyle Debel</span></td>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>Third Team Forward</td>
+    </tr>
+    <tr>
+    	<td><span class="PlayerOfTheMonth">Joe Sponenburg</span></td>
+        <td><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>Third Team Goaltender</td>
+    </tr>
+    <tr>
+    	<td colspan="3"><p><center><a href="http://achahockey.org/view/achahockey/acha-hockey-news/news_502652" target="_blank">Men's Division 3 Names 2017-2018 Award Winners</a></center></p></td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+</table>
+</center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

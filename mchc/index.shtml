@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>MCHC -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+.btn-secondary {
+	width:200px; 
+	}
+</style>    
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">MCHC</a></div>
+
+<p>
+	<center>
+          <a class="btn btn-secondary" role="button" href="/mchc/acha-all-atlantic-region-team.shtml">ACHA All Atlantic Region Team &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/affiliates.shtml">Affiliates &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/champions.shtml">Champions &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/executive-board.shtml">Executive Board &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/player-of-the-month.shtml">Player of the Month &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/rinks.shtml">Rinks &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/mchc/rules.shtml">Rules &raquo;</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/results/season-summaries.shtml">Season Summaries &raquo;</a>
+    </center>
+</p>
+
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

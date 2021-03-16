@@ -1,0 +1,102 @@
+<!--BEGIN Remove this once the table (structure) dependency is removed from site>
+</td><td width="15%" valign="top">
+</td></tr>
+</table>
+<!--END Remove this once the table (structure) dependency is removed from site-->
+
+
+<!--Begin Bottom Navigation Menu-->
+<!--Begin Bottom Nav Bar-->
+<nav class="navbar fixed-bottom navbar-expand-sm navbar-dark bg-dark container">
+  <a class="navbar-brand" href="#">Connect</a>
+
+  <button class="navbar-toggler collapsed border-1" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+    <div class="close-icon py-1" style="color:white; background-color:white;">✖</div>
+  </button>
+
+<!--Backup Current Code-->
+  <!--button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button-->
+<!--Backup End Code-->
+
+  <div class="collapse navbar-collapse" id="navbarCollapse">
+    <ul class="navbar-nav mr-auto">
+      <li class="nav-item">
+        <a class="nav-link" href="https://calendar.google.com/calendar/embed?src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&ctz=America/New_York&amp;color=%23616161&amp;showNav=1&amp;showDate=0&amp;title=Metropolitan%20Collegiate%20Hockey%20Conference%20Calendar&amp;mode=AGENDA&amp;dates=20190901%2F20200331" target="_blank">Calendar</a>
+        </li>
+		<li class="nav-item">  
+        <a class="nav-link" href="https://www.linkedin.com/company/metropolitan-collegiate-hockey-conference-inc" target="_blank">LinkedIN</a>
+      </li>
+      <li class="nav-item">  
+        <a class="nav-link" href="https://twitter.com/methockey" target="_blank">Twitter</a>
+      </li>
+      <li class="nav-item">  
+        <a class="nav-link" href="https://en.wikipedia.org/wiki/Metropolitan_Collegiate_Hockey_Conference" target="_blank">Wikipedia</a>
+      </li>
+      <li class="nav-item">  
+        <a class="nav-link" href="https://www.youtube.com/channel/UC99h00OkpUmQ8ZcWc0lYlVQ" target="_blank">YouTube</a>
+      </li>
+      
+    </ul>
+  </div>
+</nav>
+<!--End Bottom Nav Bar-->
+
+  <!-- FOOTER -->
+  <footer class="container">
+  <table width="100%" cellpadding="0" cellspacing="0">
+  	<tr><td align="center"><a href="/index.shtml"><img src="/images/mchc/mchc-puck-logo_225x226.jpg" border="0" style="max-width:225px;" /></a></td></tr>
+    
+    <!--tr>
+    	<td align="center" style="font-family:Charlemagne std; font-size:40px; font-weight:bold; text-decoration:none; color:#000;">MCHC</td>
+    </tr>
+  	<tr>
+    	<td align="center" style="font-family:Charlemagne std; font-size:16px; font-weight:bold; text-decoration:none; color:#000;">Metropolitan Collegiate Hockey Conference</td>
+    </tr-->
+  	<tr>
+    	<td align="left" style="font-size:11px; color:#000000;">&copy;1967-<span id="year" style="font-size:11px; color:#000000;"></span>&nbsp;Metropolitan Collegiate Hockey Conference, Inc.<!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>--></td>
+    </tr>
+  	<tr>
+        <td align="right"><a href="#">Back to top</a><br/><br/></td>
+    </tr>
+  </table>
+  
+    <!--p class="float-right"><a href="#">Back to top</a></p-->
+    <!--p>&copy;<span id="year"></span>&nbsp;Metropolitan Collegiate<br/>Hockey Conference--><!-- &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a>--><!--br/><br/></p-->
+  </footer>
+</main>
+<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+      <script>window.jQuery || document.write('<script src="https://getbootstrap.com/docs/4.3/assets/js/vendor/jquery-slim.min.js"><\/script>')</script><script src="https://getbootstrap.com/docs/4.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-xrRywqdh3PHs8keKZN+8zzc5TX0GRTLCcmivcbNJWm2rs5C8PRhcEn3czEjhAO9o" crossorigin="anonymous"></script>
+<!--Get Current Year for Copyright-->
+<script>
+    document.getElementById("year").innerHTML = new Date().getFullYear();
+</script>
+
+<!-- The core Firebase JS SDK is always required and must be listed first -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-app.js"></script>
+
+<!-- TODO: Add SDKs for Firebase products that you want to use
+     https://firebase.google.com/docs/web/setup#available-libraries -->
+<script src="https://www.gstatic.com/firebasejs/7.14.1/firebase-analytics.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-auth.js"></script>
+<script src="https://www.gstatic.com/firebasejs/7.14.0/firebase-firestore.js"></script>
+  
+<script>
+  // Your web app's Firebase configuration
+  var firebaseConfig = {
+    apiKey: "AIzaSyAXpXAKXiINuMQy0XNb_NpERRZI12xLL5c",
+    authDomain: "mchc-327ce.firebaseapp.com",
+    databaseURL: "https://mchc-327ce.firebaseio.com",
+    projectId: "mchc-327ce",
+    storageBucket: "mchc-327ce.appspot.com",
+    messagingSenderId: "337327415368",
+    appId: "1:337327415368:web:319a101559507d6a66f87d",
+    measurementId: "G-TYV6ZNHPZP"
+  };
+  // Initialize Firebase
+  firebase.initializeApp(firebaseConfig);
+  firebase.analytics();
+</script>
+</body>

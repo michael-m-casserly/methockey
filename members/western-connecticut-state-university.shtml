@@ -1,0 +1,142 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Western Connecticut State University -- Metropolitan Collegiate Hockey Conference</title>
+<script type="text/javascript">
+var q = 'WestConn'
+//alert('Q equals ' + q)
+</script>    
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Western Connecticut State University</a></div>
+
+<div class="PageHeader">Western Connecticut State University Colonials</div>
+
+<p><center><img src="/images/team-logos/westconn.jpg" style="max-width:320px;" alt="Western Connecticut Logo" title="Western Connecticut Logo" /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>16</td>
+						<td>26</td>
+						<td>2</td>
+						<td>2</td>
+						<td>.381</td>
+						<td>258</td>
+						<td>324</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>46</td>
+						<td>3</td>
+						<td>1991-92*</td>
+						<td>2019-20</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Did Not Play 1993-2019</td>
+                     </tr>
+                     <tr>
+                    	<td colspan="11"><i>Records updated March 24, 2020</i></td>
+                     </tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+	<!--tr class="TableHeader">
+    	<td colspan="2" align="center">Team Contact</td>
+    </tr>
+    <tr>
+    	<td>Amy Shanks - Associate Director of Recreational Sports</td>
+        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-837-8609<br/>
+			<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:shanksa@wcsu.edu" target="_blank" class="LongURL">shanksa@wcsu.edu</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>Connor Case</td>
+        <td><span class="TeamPageContactLabel">Cell:</span>&nbsp;203-885-9860<br/>
+            <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:c.mcmahan.case@gmail.com" target="_blank" class="LongURL">c.mcmahan.case@gmail.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Home Rink</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Danbury Ice Arena, Danbury, CT</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.017695080062!2d-73.45311078471003!3d41.395422079263426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7ff6e2d492df9%3A0x8d5749a3b26f95bd!2sDanbury%20Arena!5e0!3m2!1sen!2sus!4v1587570814565!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr-->
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.wcsu.edu/" target="_blank">www.wcsu.edu</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Danbury, CT</td>
+    </tr>
+	<!--tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.westconnathletics.com/general/RECREATION/Ice_Hockey" target="_blank" class="LongURL">www.westconnathletics.com/general/RECREATION/Ice_Hockey</a></td>
+    </tr-->
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Colonials</td>
+    </tr>
+	<!--tr class="TableHeader">
+    	<td colspan="2" align="center">Team Colors</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Home-White&nbsp;&nbsp;Away-Blue</td>
+    </tr-->
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1903</td>
+	</tr>
+</table>
+</center>
+                
+<!--#include virtual="/schedule/display-schedule-current.html"-->
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/WestConnHockey?ref_src=twsrc%5Etfw">Tweets by WestConnHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

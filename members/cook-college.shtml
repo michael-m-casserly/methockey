@@ -1,0 +1,88 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Cook College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Cook College'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Cook College</a></div>
+
+<div class="PageHeader">Cook College Aggies</div>
+<p><center><img src="/images/team-logos/cook.gif" style="width:275px; height:87px;" alt="Cook College Logo" title="Cook College Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>15</td>
+						<td>57</td>
+						<td>3</td>
+						<td>0</td>
+						<td>.208</td>
+						<td>173</td>
+						<td>435</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">														
+                    	<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>75</td>
+						<td>4</td>
+						<td>1974-75</td>
+						<td>1977-78</td>
+					</tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website (Cook College is now Rutgers School of Environmental and Biological Sciences)</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://en.wikipedia.org/wiki/Rutgers_School_of_Environmental_and_Biological_Sciences" target="_blank" class="LongURL">https://en.wikipedia.org/wiki/Rutgers_School_of_Environmental_and_Biological_Sciences</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"> North Brunswick, NJ</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Aggies</td>
+	</tr>
+</table>
+</center>
+         
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

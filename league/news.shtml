@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>News -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">News</a></div>
+
+<div class="PageHeader">League News</div>
+
+<p>February 11, 2021 - <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">MCHC Officially Cancels 2020-21 Season</a></p>
+
+<p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the official Twitter account for the Metropolitan Collegiate Hockey Conference. Follow us for league news, scores, and  updates.</p>
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/methockey">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

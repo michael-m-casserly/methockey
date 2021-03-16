@@ -1,0 +1,1247 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>All Time Individual Leaders (Goals, Assists, Points, PIM) -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+td {
+	padding:3px;
+	color:#000;
+}
+</style>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">All Time Individual Leaders</a></div>
+<p>
+<div class="PageHeader">All-Time Goals Leaders (Season)</div>
+				<center>
+				<Table Border="1" Cellpadding="2" Cellspacing="2" Style="Text-Align:Center;">
+					<Tr Height="19" Class="TableHeader">
+						<Td Class="TableHeader">Rank</Td>
+						<Td Class="TableHeader">Player</Td>
+						<Td Class="TableHeader">Team</Td>
+						<Td Class="TableHeader">Goals</Td>
+						<Td Class="TableHeader">Year</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						1</Td>
+						<Td>Eric Mann</Td>
+						<Td><a href="/members/queens-college.shtml">Queens</a></Td>
+						<Td>53</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						2</Td>
+						<Td>Jeff Sutton</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>51</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						3</Td>
+						<Td>John Doyle</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>47</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>Clint Dravis</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>45</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>George Boudreau</Td>
+						<Td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></Td>
+						<Td>45</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						6</Td>
+						<Td>Leon Harla</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>44</Td>
+						<Td>(1996-97)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						6</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>44</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						8</Td>
+						<Td>Mark Yannota</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>43</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						9</Td>
+						<Td>Carlos Docarmo</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>42</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						10</Td>
+						<Td>Tom Lee</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>41</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						10</Td>
+						<Td>Mark Schnellenger</Td>
+						<Td><a href="/members/hofstra-university.shtml">Hofstra</a></Td>
+						<Td>41</Td>
+						<Td>(1993-94)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						12</Td>
+						<Td>Jim McDonald</Td>
+						<Td><a href="/members/marist-college.shtml">Marist</a></Td>
+						<Td>40</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						12</Td>
+						<Td>Chris Princiotta</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>40</Td>
+						<Td>(2004-05)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						14</Td>
+						<Td>Lou Devenuto</Td>
+						<Td><a href="/members/seton-hall-university.shtml">Seton Hall</a></Td>
+						<Td>39</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>38</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Darrell Pilant</Td>
+						<Td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></Td>
+						<Td>38</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Mark Zavorin</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>38</Td>
+						<Td>(2010-11)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Brandon Hartt</Td>
+						<Td><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></Td>
+						<Td>38</Td>
+						<Td>(2010-11)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Leon Harla</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>38</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Tom Ivers</Td>
+						<Td><a href="/members/st-francis-college.shtml">St. Francis</a></Td>
+						<Td>37</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Joe Pia</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>37</Td>
+						<Td>(1991-92)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Jim McDonald</Td>
+						<Td><a href="/members/marist-college.shtml">Marist</a></Td>
+						<Td>37</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>37</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>37</Td>
+						<Td>(1984-85)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						25</Td>
+						<Td>Joe Pia</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>36</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						25</Td>
+						<Td>Darrow Hanesian</Td>
+						<Td><a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a></Td>
+						<Td>36</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						25</Td>
+						<Td>Guy Pawlak</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>36</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						25</Td>
+						<Td>Tim Graham</Td>
+						<Td><a href="/members/marist-college.shtml">Marist</a></Td>
+						<Td>36</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						29</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>35</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						29</Td>
+						<Td>Dave Tuckman</Td>
+						<Td><a href="/members/university-at-albany.shtml">Albany</a></Td>
+						<Td>35</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						29</Td>
+						<Td>Mike Rizzo</Td>
+						<Td><a href="/members/liu-post.shtml">CW Post</a></Td>
+						<Td>35</Td>
+						<Td>(1991-92)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Dan Cole</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>34</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Jim Selleck</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>34</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Art Cawley</Td>
+						<Td><a href="/members/william-paterson-university.shtml">Paterson</a></Td>
+						<Td>34</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Rich Masini</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>34</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Mike Hilinski</Td>
+						<Td><a href="/members/southern-connecticut-state-university.shtml">Southern Conn</a></Td>
+						<Td>34</Td>
+						<Td>(1991-92)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Rich Masini</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>34</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Rob Moschello</Td>
+						<Td><a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a></Td>
+						<Td>34</Td>
+						<Td>(1996-97)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						32</Td>
+						<Td>Todd Scarpino</Td>
+						<Td><a href="/members/pace-university.shtml">Pace</a></Td>
+						<Td>34</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+				</Table>
+				</center>
+</p>
+<p>               
+<div class="PageHeader">All-Time Assists Leaders (Season)</div>
+				<center>
+				<table border="1" cellpadding="2" cellspacing="2" style="text-align:center;">
+                	<tr height="19" class="TableHeader">
+						<Td Class="TableHeader">Rank</Td>
+						<Td Class="TableHeader">Player</Td>
+						<Td Class="TableHeader">Team</Td>
+						<Td Class="TableHeader">Assists</Td>
+						<Td Class="TableHeader">Year</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						1</Td>
+						<Td>Kyle Debel</Td>
+						<Td><a href="/members/ramapo-college.shtml">Ramapo</a></Td>
+						<Td>49</Td>
+						<Td>(2017-18)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						2</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>45</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						2</Td>
+						<Td>John McNally</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>45</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>John Pinksten</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>44</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>Jeff Sutton</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>44</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						6</Td>
+						<Td>Ray Mead</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>42</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						7</Td>
+						<Td>Mike Hilinski</Td>
+						<Td><a href="/members/southern-connecticut-state-university.shtml">Southern Conn</a></Td>
+						<Td>41</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						7</Td>
+						<Td>Eric Mann</Td>
+						<Td><a href="/members/queens-college.shtml">Queens</a></Td>
+						<Td>41</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						9</Td>
+						<Td>John Capristo</Td>
+						<Td><a href="/members/montclair-state-university.shtml">Montclair</a></Td>
+						<Td>40</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						10</Td>
+						<Td>Matt Hyland</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>39</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Mark Yannota</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>38</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Frank Alesso</Td>
+						<Td><a href="/members/montclair-state-university.shtml">Montclair</a></Td>
+						<Td>38</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						13</Td>
+						<Td>Kevin Mead</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>37</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						13</Td>
+						<Td>Kevin Mead</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>37</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						13</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>37</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Derrick Fu</Td>
+						<Td><a href="/members/columbia-university.shtml">Columbia</a></Td>
+						<Td>36</Td>
+						<Td>(2012-13)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Dan Innamorato</Td>
+						<Td><a href="/members/columbia-university.shtml">Columbia</a></Td>
+						<Td>36</Td>
+						<Td>(2012-13)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Bob Kelly</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>36</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						19</Td>
+						<Td>Chris Dedea</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>35</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						19</Td>
+						<Td>Pete Visone</Td>
+						<Td><a href="/members/columbia-university.shtml">Columbia</a></Td>
+						<Td>35</Td>
+						<Td>(2012-13)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Eric Genau</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>34</Td>
+						<Td>(1996-97)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Chip Foley</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>34</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Andrew Pennecke</Td>
+						<Td><a href="/members/binghamton-university.shtml">Binghamton</a></Td>
+						<Td>34</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Joe Pia</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>34</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>John Puskar</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>34</Td>
+						<Td>(1987-88)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Tony Sarlo</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>34</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Jay Danahy</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>33</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Chris Crotty</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>33</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>33</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Frank Dorfman</Td>
+						<Td><a href="/members/upsala-college.shtml">Upsala</a></Td>
+						<Td>33</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Chris Guthrie</Td>
+						<Td><a href="/members/nassau-community-college.shtml">Nassau</a></Td>
+						<Td>33</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Dave Margolin</Td>
+						<Td><a href="/members/ramapo-college.shtml">Ramapo</a></Td>
+						<Td>33</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Tom Sanford</Td>
+						<Td><a href="/members/siena-college.shtml">Siena</a></Td>
+						<Td>33</Td>
+						<Td>(1990-91)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Leon Harla</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>33</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						27</Td>
+						<Td>Kevin Baum</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>33</Td>
+						<Td>(2009-10)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						36</Td>
+						<Td>Len Inserra</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>32</Td>
+						<Td>(1993-94)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						36</Td>
+						<Td>Bob Boyle</Td>
+						<Td><a href="/members/manhattan-college.shtml">Manhattan</a></Td>
+						<Td>32</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+				</table>
+                </center>
+</p>
+<p>                
+<div class="PageHeader">All-Time Points Leaders (Season)</div>
+				<center>
+				<table border="1" cellpadding="2" cellspacing="2" style="text-align:center;">
+                	<tr height="19" class="TableHeader">
+						<Td Class="TableHeader">Rank</Td>
+						<Td Class="TableHeader">Player</Td>
+						<Td Class="TableHeader">Team</Td>
+						<Td Class="TableHeader">Points</Td>
+						<Td Class="TableHeader">Year</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						1</Td>
+						<Td>Jeff Sutton</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>95</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						2</Td>
+						<Td>Eric Mann</Td>
+						<Td><a href="/members/queens-college.shtml">Queens</a></Td>
+						<Td>94</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						3</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>82</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>Mark Yannota</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>81</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						5</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>76</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						5</Td>
+						<Td>Kyle Debel</Td>
+						<Td><a href="/members/ramapo-college.shtml">Ramapo</a></Td>
+						<Td>76</Td>
+						<Td>(2017-18)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						6</Td>
+						<Td>Doug Winkler</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>75</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						7</Td>
+						<Td>John Doyle</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>73</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						8</Td>
+						<Td>Leon Harla</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>71</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						8</Td>
+						<Td>Carlos Docarmo</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>71</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						10</Td>
+						<Td>Joe Pia</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>70</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>George Boudreau</Td>
+						<Td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></Td>
+						<Td>69</Td>
+						<Td>(1985-86)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Bob Kelly</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>69</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Kevin Mead</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>69</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Frank Alesso</Td>
+						<Td><a href="/members/montclair-state-university.shtml">Montclair</a></Td>
+						<Td>69</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Mark Schnellenger</Td>
+						<Td><a href="/members/hofstra-university.shtml">Hofstra</a></Td>
+						<Td>69</Td>
+						<Td>(1993-94)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Leon Harla</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>68</Td>
+						<Td>(1996-97)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>John Pinksten</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>68</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Joe Donovan</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>68</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>John McNally</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>68</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Tom Lee</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>68</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Dave Margolin</Td>
+						<Td><a href="/members/ramapo-college.shtml">Ramapo</a></Td>
+						<Td>66</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						22</Td>
+						<Td>Chip Foley</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>65</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+
+						<Td Height="19" Style="Height: 14.25pt;">
+						22</Td>
+						<Td>Lou Devenuto</Td>
+						<Td><a href="/members/seton-hall-university.shtml">Seton Hall</a></Td>
+						<Td>65</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						22</Td>
+						<Td>Pete Visone</Td>
+						<Td><a href="/members/columbia-university.shtml">Columbia</a></Td>
+						<Td>65</Td>
+						<Td>(2012-13)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						25</Td>
+						<Td>Todd Scarpino</Td>
+						<Td><a href="/members/pace-university.shtml">Pace</a></Td>
+						<Td>64</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Rich Masini</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>63</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Steve Peirano</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>63</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Mark Iovine</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>63</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Chris Princiotta</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>63</Td>
+						<Td>(2004-05)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						30</Td>
+						<Td>Matt Hyland</Td>
+						<Td><a href="/members/fordham-university.shtml">Fordham</a></Td>
+						<Td>62</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						30</Td>
+						<Td>John Capristo</Td>
+						<Td><a href="/members/montclair-state-university.shtml">Montclair</a></Td>
+						<Td>62</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						30</Td>
+						<Td>Jim McDonald</Td>
+						<Td><a href="/members/marist-college.shtml">Marist</a></Td>
+						<Td>62</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						30</Td>
+						<Td>Rich Kretzmer</Td>
+						<Td><a href="/members/liu-post.shtml">CW Post</a></Td>
+						<Td>62</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						30</Td>
+						<Td>Mark Zavorin</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>62</Td>
+						<Td>(2010-11)</Td>
+					</Tr>
+				</table>
+                </center>
+</p>
+<p>      
+<div class="PageHeader">All-Time Penalty Minutes Leaders (Season)</div>
+				<center>
+				<table border="1" cellpadding="2" cellspacing="2" style="text-align:center;">
+                	<tr height="19" class="TableHeader">
+						<Td Class="TableHeader">Rank</Td>
+						<Td Class="TableHeader">Player</Td>
+						<Td Class="TableHeader">Team</Td>
+						<Td Class="TableHeader">PIM</Td>
+						<Td Class="TableHeader">Year</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						1</Td>
+						<Td>Charles Kontos</Td>
+						<Td><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></Td>
+						<Td>154</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						2</Td>
+						<Td>Joe Griffo</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>139</Td>
+						<Td>(1987-88)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						3</Td>
+						<Td>Mike Spinelli</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>127</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						4</Td>
+						<Td>Dave Brett</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>118</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						5</Td>
+						<Td>John Pinksten</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>117</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						6</Td>
+						<Td>Mike Teaton</Td>
+						<Td><a href="/members/st-francis-college.shtml">St. Francis</a></Td>
+						<Td>113</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						7</Td>
+						<Td>Vic Dezelick</Td>
+						<Td><a href="/members/stony-brook-university.shtml">Stony Brook</a></Td>
+						<Td>113</Td>
+						<Td>(1993-94)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						8</Td>
+						<Td>Jim Lithgow</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>107</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						9</Td>
+						<Td>George Swift</Td>
+						<Td><a href="/members/university-of-bridgeport.shtml">Bridgeport</a></Td>
+						<Td>105</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						10</Td>
+						<Td>John Huggan</Td>
+						<Td><a href="/members/william-paterson-university.shtml">Paterson</a></Td>
+						<Td>104</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						11</Td>
+						<Td>Rod Parisi</Td>
+						<Td><a href="/members/upsala-college.shtml">Upsala</a></Td>
+						<Td>103</Td>
+						<Td>(1988-89)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						12</Td>
+						<Td>Tony Montermerano</Td>
+						<Td><a href="/members/siena-college.shtml">Siena</a></Td>
+						<Td>102</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						12</Td>
+						<Td>Shane Stanley</Td>
+						<Td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></Td>
+						<Td>102</Td>
+						<Td>(1989-90)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						12</Td>
+						<Td>John Groh</Td>
+						<Td><a href="/members/william-paterson-university.shtml">Paterson</a></Td>
+						<Td>102</Td>
+						<Td>(1986-87)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						15</Td>
+						<Td>Todd Scarpino</Td>
+						<Td><a href="/members/pace-university.shtml">Pace</a></Td>
+						<Td>98</Td>
+						<Td>(1992-93)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						16</Td>
+						<Td>Steve Scaturro</Td>
+						<Td><a href="/members/ocean-county-college.shtml">Ocean County</a></Td>
+						<Td>96</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						17</Td>
+						<Td>Denis O'Sullivan</Td>
+						<Td><a href="/members/st-francis-college.shtml">St. Francis</a></Td>
+						<Td>95</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						18</Td>
+						<Td>Tom Hudy</Td>
+						<Td><a href="/members/siena-college.shtml">Siena</a></Td>
+						<Td>92</Td>
+						<Td>(1991-92)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						18</Td>
+						<Td>Paul Donnelly</Td>
+						<Td><a href="/members/hofstra-university.shtml">Hofstra</a></Td>
+						<Td>92</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						20</Td>
+						<Td>Doug Katz</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>89</Td>
+						<Td>(1981-82)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						21</Td>
+						<Td>Mike Rizzo</Td>
+						<Td><a href="/members/liu-post.shtml">CW Post</a></Td>
+						<Td>88</Td>
+						<Td>(1991-92)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						22</Td>
+						<Td>Jim Lithgow</Td>
+						<Td><a href="/members/kean-university.shtml">Kean</a></Td>
+						<Td>86</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						22</Td>
+						<Td>Scott Momrow</Td>
+						<Td><a href="/members/siena-college.shtml">Siena</a></Td>
+						<Td>86</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						24</Td>
+						<Td>James Kelly</Td>
+						<Td><a href="/members/southern-connecticut-state-university.shtml">Southern Conn</a></Td>
+						<Td>85</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						24</Td>
+						<Td>Mike Matzelle</Td>
+						<Td><a href="/members/william-paterson-university.shtml">Paterson</a></Td>
+						<Td>85</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Charles Visconti</Td>
+						<Td><a href="/members/manhattan-college.shtml">Manhattan</a></Td>
+						<Td>84</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						26</Td>
+						<Td>Jeff Hirsch</Td>
+						<Td><a href="/members/maritime-college.shtml">Maritime</a></Td>
+						<Td>84</Td>
+						<Td>(1982-83)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>Tom Lee</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>83</Td>
+						<Td>(1994-95)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>Mike Spinelli</Td>
+						<Td><a href="/members/wagner-college.shtml">Wagner</a></Td>
+						<Td>83</Td>
+						<Td>(1993-94)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>Doug Katz</Td>
+						<Td><a href="/members/rutgers-university.shtml">Rutgers</a></Td>
+						<Td>83</Td>
+						<Td>(1983-84)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>William Pesck</Td>
+						<Td><a href="/members/farmingdale-state-college.shtml">Farmingdale</a></Td>
+						<Td>83</Td>
+						<Td>(1990-91)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>Mike Lustig</Td>
+						<Td><a href="/members/suny-new-paltz.shtml">New Paltz</a></Td>
+						<Td>83</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						28</Td>
+						<Td>Phil Pucciarelli</Td>
+						<Td><a href="/members/new-york-university.shtml">NYU</a></Td>
+						<Td>83</Td>
+						<Td>(1995-96)</Td>
+					</Tr>
+					<Tr Height="19">
+						<Td Height="19" Style="Height: 14.25pt;">
+						34</Td>
+						<Td>Richard Deere</Td>
+						<Td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></Td>
+						<Td>82</Td>
+						<Td>(2010-11)</Td>
+					</Tr>
+				</table>
+                </center>
+</p>
+
+<!--#include virtual="/stats/footer-stats-season-games-breakdown.html"-->			
+
+<!--#include virtual="/stats/sub-nav-stats.html"-->			
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

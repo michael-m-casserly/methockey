@@ -1,0 +1,107 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>New Jersey Institute of Technology -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'NJIT'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">New Jersey Institute of Technology</a></div>
+
+<div class="PageHeader">New Jersey Institute of Technology Highlanders</div>
+<p><center><img src="/images/team-logos/njit.png" style="width:300px; height:195px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>134</td>
+						<td>259</td>
+						<td>21</td>
+						<td>1</td>
+						<td>.341</td>
+						<td>1592</td>
+						<td>2389</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">														
+                    	<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>415</td>
+						<td>24</td>
+						<td>1970-71*</td>
+						<td>2008-09</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Played 2 Years as Newark School of Engineering<br/> 
+                        Did Not Play 1972-74, 1986-91, 1997-2005</td>
+                     </tr>
+				</table>
+				
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.njit.edu/" target="_blank" class="LongURL">www.njit.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Newark, NJ</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.njithighlanders.com/sports/mens-ice-hockey" target="_blank" class="LongURL">www.njithighlanders.com/sports/mens-ice-hockey</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Highlanders</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1881</td>
+	</tr>
+</table>
+</center>
+                
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/NJITIceHockey?ref_src=twsrc%5Etfw">Tweets by @NJITIceHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

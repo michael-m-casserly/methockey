@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Results -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1977 Playoffs</a></div>
+
+<div class="PageHeader">1977 Playoffs</div>
+<p><center>
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+
+<table cellpadding="2" cellpadding="2" border="1" class="TableStandard">
+
+    <tr class="TableHeader">
+    	<td colspan="5">Varsity Division (Double Elimination)</td>
+    </tr>
+    <tr class="TableSubHeader">
+    	<td width="40%">Winner</td>
+    	<td width="10%">G</td>
+    	<td width="40%">Loser</td>
+    	<td width="10%">G</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/nassau-community-college.shtml">Nassau</a></td>
+        <td>7</td>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>0</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/iona-college.shtml">Iona</a></td>
+        <td>7</td>
+        <td><a href="/members/rockland-community-college.shtml">Rockland</a></td>
+        <td>2</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/iona-college.shtml">Iona</a></td>
+        <td>5</td>
+    	<td><a href="/members/nassau-community-college.shtml">Nassau</a></td>
+        <td>2</td>
+     </tr>
+    <tr>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>4</td>
+        <td><a href="/members/rockland-community-college.shtml">Rockland</a></td>
+        <td>3</td>
+     </tr>
+    <tr>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>8</td>
+    	<td><a href="/members/nassau-community-college.shtml">Nassau</a></td>
+        <td>5</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/iona-college.shtml">Iona</a></td>
+        <td>7</td>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>4</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Iona Wins League Championship</td>
+    </tr>
+</table>
+    
+</center></p>
+
+<!--#include virtual="/results/results-footer.html"-->
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--#include virtual="/results/sub-nav-results.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

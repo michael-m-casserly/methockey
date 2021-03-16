@@ -1,0 +1,103 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Upsala College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Upsala'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Upsala College</a></div>
+
+<div class="PageHeader">Upsala College Vikings</div>
+<p><center><img src="/images/team-logos/upsala.jpg" style="width:320px; height:174px;" alt="Upsala College Logo" title="Upsala College Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>105</td>
+						<td>55</td>
+						<td>3</td>
+						<td>0</td>
+						<td>.656</td>
+						<td>1075</td>
+						<td>592</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>163</td>
+						<td>9</td>
+						<td>1974-75*</td>
+						<td>1988-89</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">*Did Not Play 1982-88</td>
+                     </tr>
+				</table>
+				
+<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
+<a href="/mchc/champions.shtml#1978">1977-78</a><br/>
+<a href="/mchc/champions.shtml#1981">1980-81</a><br/>
+<a href="/mchc/champions.shtml#1982">1981-82</a>
+</div>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Upsala College Closed in 1995</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://en.wikipedia.org/wiki/Upsala_College" target="_blank" class="LongURL">https://en.wikipedia.org/wiki/Upsala_College</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">East Orange, NJ</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Vikings</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1893 (Closed 1995)</td>
+	</tr>
+</table>
+</center>
+                
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

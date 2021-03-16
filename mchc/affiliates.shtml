@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Affiliates -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/mchc/index.shtml">MCHC</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Affiliates</a></div>
+
+<div class="PageHeader">MCHC Affiliates</div>
+
+<center>
+<a href="http://www.usahockey.com/" target="_blank">
+				<img src="/images/mchc/logo-usa-hockey.jpg" style="width:320px; height:166px;" alt="USA Hockey" title="USA Hockey" /></a><br/><br/>
+                
+<div class="PageSectionHeader">ACHA Division III Member</div>
+<a href="http://achahockey.org/view/achahockey" target="_blank">
+				<img src="/images/mchc/logo-acha.jpg" style="max-width:320px;" alt="ACHA Hockey" title="ACHA Hockey" /></a><br/><br/>
+
+<div class="PageSectionHeader">ACHA Online Discussion Board</div>
+<a href="https://hockeyrock.com/" target="_blank">
+				<img src="/images/mchc/logo-hockey-rock.png" style="width:218px; height:66px;" alt="Hockey Rock" title="Hockey Rock" /></a><br/><br/>
+                
+<!--a href="http://myhockeyrankings.com/" target="_blank">
+				<img src="/images/mchc/logo-myhockey-rankings.png" style="width:249px; height:74px;" alt="My Hockey Rankings" title="My Hockey Rankings" /></a><br/><br/-->
+</center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

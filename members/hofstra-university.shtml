@@ -1,0 +1,112 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Hofstra University -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Hofstra'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Hofstra University</a></div>
+
+<div class="PageHeader">Hofstra University Pride</div>
+<p><center><img src="/images/team-logos/hofstra.jpg" style="width:304px; height:185px;" alt="Hofstra Logo" title="Hofstra Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>221</td>
+						<td>210</td>
+						<td>14</td>
+						<td>7</td>
+						<td>.513</td>
+						<td>2386</td>
+						<td>2195</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>452</td>
+						<td>28</td>
+						<td>1968-69*</td>
+						<td>2018-19</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11" align="center">*Played in 1968-69<br/>
+                        Did Not Play 1969-85, 1996-2001, 2009-11</td>
+                    </tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://www.hofstra.edu" target="_blank">www.hofstra.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Hempstead, NY</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="https://hofstra.campuslabs.com/engage/organization/icehockey" target="_blank" class="LongURL">https://hofstra.campuslabs.com/engage/organization/icehockey</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Pride</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1935</td>
+	</tr>
+</table>
+</center>
+
+<!--include virtual="/schedule/display-schedule-current.html"-->
+
+<!--#include virtual="/schedule/playoff-programs/2018-19.html"-->
+
+<!--#include virtual="/schedule/playoff-programs/2017-18.html"-->
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/HofIceHockey?ref_src=twsrc%5Etfw">Tweets by HofIceHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

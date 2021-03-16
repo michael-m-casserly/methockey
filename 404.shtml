@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Page Not Found -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Page Not Found</a></div>
+
+<p>You are trying to access a page that no longer exists. Our site has been recently redesigned, so you may have bookmarked an old page that has been removed. Please update your bookmark(s) to use the most recent page(s) on the website. We apologize for any inconvenience.</p>
+
+<p>
+	<center>
+<a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home &raquo;</a>
+	</center>
+</p>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

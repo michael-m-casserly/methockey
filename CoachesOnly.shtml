@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Coaches -- Metropolitan Collegiate Hockey Conference</title>
+
+<style type="text/css">
+.btn-secondary {
+	width:250px;
+}
+</style>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Coaches</a></div>
+
+				<div align="center" class="PageHeader">Coaches Only Page</div>
+                
+                <p>
+                <center>
+                Coaches and Administrators can access: 
+                <br/>
+                <br/>
+                --> Score Submit Forms<br/>
+                --> Player Eligibility Forms<br/>
+                --> Website Maintenance Request Form<br/>
+                --> External Game Tracker<br/>
+                --> Upload Videos, Files, etc.
+                </center>
+                </p>
+
+        <p><center><a class="btn btn-secondary" href="/CoachPages/CO-Page1.shtml" role="button">ENTER (Password Required) &raquo;</a></center></p>        
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

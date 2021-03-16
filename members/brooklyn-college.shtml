@@ -1,0 +1,850 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Brooklyn College -- Metropolitan Collegiate Hockey Conference</title>
+
+<script type="text/javascript">
+var q = 'Brooklyn College'
+//alert('Q equals ' + q)
+</script>    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Brooklyn College</a></div>
+
+<div class="PageHeader">Brooklyn College Kingsmen</div>
+<p><center><img src="/images/team-logos/brooklyn.jpg" style="width:150px; height:160px;" alt="Brooklyn College Logo" title="Brooklyn College Logo"  /></center></p>
+
+<center>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>67</td>
+						<td>48</td>
+						<td>12</td>
+						<td>0</td>
+						<td>.583</td>
+						<td>563</td>
+						<td>503</td>
+					</tr>
+				</table>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">														
+                    	<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>127</td>
+						<td>7</td>
+						<td>1970-71</td>
+						<td>1976-77</td>
+					</tr>
+				</table>
+<br/>
+<table class="TableStandard" border="1">
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Website</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><a href="http://www.brooklyn.cuny.edu" target="_blank" class="LongURL">www.brooklyn.cuny.edu</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">College Location</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Brooklyn, NY</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">School's Nickname</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Kingsmen</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Nicknames</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Bedford Blues, Flatbush Rangers<br/>Icemen, Maroon, Roosevelt Rinksmen</td>
+	</tr>    
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">School Established</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">1930</td>
+	</tr>
+</table>
+</center>
+
+			<a name="pictures"></a>
+            <br/><br/><!--These breakes ensure the anchor tag will display a portion of the image title-->
+			<div class="PageSectionHeader">Brooklyn Team Pictures</div>
+
+               <center>
+                <table class="TableStandard" border="1">
+                	    <tr class="TableHeader" align="center">
+                   			<td>1973-74 Brooklyn Kingsmen</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/1973-74.jpg" alt="1973-74 Brooklyn Kingsmen" title="1973-74 Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td align="center">October 1973, Abe Stark Rink, Brooklyn, NY<br><br>
+                            <i>Standing (Left to Right):</i> Alan Schlefman (<b>Manager</b>), Mike Badallino (<b>Manager</b>), Greg LaBella, Steve Regino, John Betts, Mike Lyden, Rick Ferrari, Ken Micklin, Joel Rosenstraus, Joe Dwyer, Ed Ludwicki, Danny Fishkin, Billy Barry, Ira Eskanzi, Billy Newman, Sal Parisi, Mitch Zimmer (<b>Manager</b>), Kevin McNulty (<b>Coach</b>)<br>
+							<i>Kneeling (Left to Right):</i> Billy Hals (<b>Trainer</b>), Steve Wagmeister, Eliot Weiss, Fred Vecchione, Jimmy O'Boyle, Ken Brodie, Jeff Lubin, John Palermo</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                	    <tr class="TableHeader" align="center">
+                   			<td>1972-73 Brooklyn Kingsmen</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/1972-73.jpg" alt="1972-73 Brooklyn Kingsmen" title="1972-73 Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td align="center">October 1972, Abe Stark Rink, Brooklyn, NY<br><br>
+                            <i>Standing Back Row (Left to Right):</i> Al "Moose" Bauer, Greg LaBella, John Betts, John Krey, Ira Eskanzi, Ed Ludwicki, Glen Donovan, Rick Ferrari, Ira Nelson<br>
+							<i>Standing Middle Row (Left to Right):</i> Billy Newman, Barry Elin, Steve Regino, Tom Gammarano<br>
+							<i>Kneeling Front Row (Left to Right):</i> Pete Succoso, Paul Gammarano, Ken Micklin, Mike Lyden, Fred Vecchione, Jeff Lubin</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                	    <tr class="TableHeader" align="center">
+                   			<td>1971-72 Brooklyn Kingsmen</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/1971-72.jpg" alt="1971-72 Brooklyn Kingsmen" title="1971-72 Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td align="center">October 1971, Abe Stark Rink, Brooklyn, NY<br><br>
+                            <i>Standing Back Row (Left to Right):</i> Ira Nelson, Al Chin, Al "Moose" Bauer, Barry Elin, Jay Gubersky, Joe Lauricella, Ken Micklin, John Krey, Hutch Cohen, Kevin McNulty (<b>Coach</b>)<br>
+							<i>Kneeling Front Row (Left to Right):</i> Bob Dashman (<b>Manager</b>), Ken Friedman, Howie Friedfeld, Jeff Lubin, Gary Tepperman, Fred Vecchione, Harvey Kerman, Ron Schwartz (<b>Manager</b>)</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+				</table>
+                </center>
+
+<!--Moved Previous Scores below the in-game pictures at Jeff Lubin's request-->
+
+			<div class="PageSectionHeader">Brooklyn In-Game Pictures</div>
+
+               	<center>
+			<div class="PageSectionHeader">1970-71 Season</div>
+               	<table class="TableStandard" border="1">
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0003.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1970-71 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							Ken Friedman (L) shoots the puck, while teammates Harvey Kerman (Center) and Hutch Cohen (R) are in position for a rebound.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0025.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1970-71 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							<i>Left-to-Right:</i> Ira Nelson, Jeff Lubin, Hutch Cohen
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0027.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1970-71 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							Steve Appel (R) skates towards the net.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0029.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1970-71 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							The MIHL played by National Hockey League rules. Fighting was part of the game.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0030.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1970-71 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							<i>Left-to-Right:</i> Captain Mike Cutuli, Jeff Lubin, Barry Elin, Gary Tepperman<br/>
+							Keith Barouch (#9) is stepping onto the ice.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0026.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            October 21, 1970 -- Abe Stark Rink -- Brooklyn, NY<br>
+							Brooklyn College 7, Newark College of Engineering 0<br/>
+                            Brooklyn College players celebrate one of seven goals they scored in their inaugural game in the Metropolitan Intercollegiate Hockey League.  Goal number one was scored on a power play in the first period by Neil Leichman with an assist from Harvey Kerman.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0028.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            January 8, 1971 -- Wonderland of Ice -- Bridgeport, CT<br>
+							University of Bridgeport 10, Brooklyn College 0<br/>
+                            <i>Left-to-Right:</i> Jay Gubersky, Jeff Lubin, Barry Elin 
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0051.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            Final Stats for the 1970-71 Season.<br>
+                            Howie Friedfeld, Al Belkin, Ken Friedman, Rick Minoff, Hutch Cohen, Marc Rosenbaum, Harvey Kerman, Al "Moose" Bauer, Steve Appel, Mark Eisenberg, Jay Gubersky, Allan Geralnick, Neil Leichman, Jeff Lubin, Al Chin, Ira Nelson, Bruce Regenstreich, Gary Wagmeister, Barry Elin, Ron Sandler<br>
+                            Not included above: Mike Cutuli, 1 Goal, 1 Assist, 2 Points, 13 PIM
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                   	</table>
+			<div class="PageSectionHeader">1971-72 Season</div>
+               		<table class="TableStandard" border="1">
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0022.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1971-72 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							Hutch Cohen winds up for a slap shot.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0033.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            October 20, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 13, Newark College of Engineering 0<br>
+							<i>Left-to-Right:</i> Al Chin and Ira Nelson raise their sticks after one of the seven goals scored by Hutch Cohen in this game.
+            				</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0042.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            October 20, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 13, Newark College of Engineering 0<br>
+							Ken Friedman takes the face-off, while Harvey Kerman waits for play to resume.
+            				</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0004.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 3, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 3, Stony Brook 1<br>
+							Howie Friedfeld (#7) carries the puck into the offensive zone.
+            				</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0034.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 3, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 3, Stony Brook 1<br>
+							Hutch Cohen (#4) scores again! Jay Gubersky (#2) joins his celebration.
+            				</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0010.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 8, 1971 -- Riverdale Rink -- Bronx, NY<br>
+                            Brooklyn College 3, Manhattan College 1<br>
+							Coach Kevin McNulty intensely studies the action on the ice.<br>
+                            Joe Lauricella (#18) is in the foreground.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0014.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 8, 1971 -- Riverdale Rink -- Bronx, NY<br>
+                            Brooklyn College 3, Manhattan College 1<br>
+							Defenseman Barry Elin ties up a Manhattan forward while Jeff Lubin is ready for a shot on goal.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0021.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 8, 1971 -- Riverdale Rink -- Bronx, NY<br>
+                            Brooklyn College 3, Manhattan College 1<br>
+							Brooklyn College plays team defense.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0032.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 8, 1971 -- Riverdale Rink -- Bronx, NY<br>
+                            Brooklyn College 3, Manhattan College 1<br>
+							The Brooklyn College defense has possession of the puck, and Hutch Cohen (R) is ready for a breakout play.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0035.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 8, 1971 -- Riverdale Rink -- Bronx, NY<br>
+                            Brooklyn College 3, Manhattan College 1<br>
+							Goalie Jeff Lubin stays ready to repel any Manhattan College scoring threat.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0012.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 17, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Nassau CC 6, Brooklyn College 0<br>
+							Hutch Cohen (R) attempts to evade a NCC defender.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0031.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 17, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Nassau CC 6, Brooklyn College 0<br>
+							Goalie Jeff Lubin passes the puck to Defenseman Fred Vecchione.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0036.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            November 17, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Nassau CC 6, Brooklyn College 0<br>
+							Fred Vecchione (#9) goes after the puck while forwards Harvey Kerman and Howie Friedfeld guard the net.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0019.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 1, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            U. of Bridgeport 5, Brooklyn College 2<br>
+							<i>Left-to-Right:</i> Jeff Lubin makes the save while Ken Friedman pursues the rebound. Also assisting on defense are Ira Nelson, Neil Leichman, and Harvey Kerman.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0039.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 1, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            U. of Bridgeport 5, Brooklyn College 2<br>
+							<i>Left-to-Right:</i> Neil Leichman, Jeff Lubin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0040.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 1, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            U. of Bridgeport 5, Brooklyn College 2<br>
+							<i>Left-to-Right:</i> Defenseman Barry Elin takes down a Bridgeport forward, while goalie Jeff Lubin handles a one-on-one situation.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0015.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 4, 1971 -- Cantiague Park -- Hicksville, NY<br>
+                            Nassau CC 10, Brooklyn College 0<br>
+							<i>Left-to-Right:</i> Al "Moose" Bauer, Jeff Lubin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0041.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 4, 1971 -- Cantiague Park -- Hicksville, NY<br>
+                            Nassau CC 10, Brooklyn College 0<br>
+							<i>Left-to-Right:</i> Jeff Lubin, Ira Nelson
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0017.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 22, 1971 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 4, St. Francis College 0<br>
+							Hutch Cohen celebrates his goal.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0005.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            February 23, 1972 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            St. John's 6, Brooklyn 3<br>
+							Program for first game of a best of 3 playoff series.<br>
+                            Drawings are of Al "Moose" Bauer (#25) and Jeff Lubin (#1)<br>
+                            <i>Artist:</i> Neil Graves
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0037.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            March 22, 1972 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Alumni 5, Varsity 1<br>
+							<i>Left-to-Right Rear:</i> Ken Brodie, Al "Moose" Bauer, Hutch Cohen, Ira Nelson, Jeff Lubin, Paul Gammarano<br>
+							<i>Left-to-Right Middle:</i> Barry Elin, Professor Leonard Bernstein, Marc Rosenbaum<br> 
+                            <i>Left-to-Right Front:</i> Al Belkin, Ken Micklin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0038.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            March 22, 1972 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Alumni 5, Varsity 1<br>
+							A goalie always appreciates a stellar defenseman like Ira Nelson.</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0053.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            Final Stats for the 1971-72 Season</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                   	</table>
+			<div class="PageSectionHeader">1972-73 Season</div>
+               		<table class="TableStandard" border="1">
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0011.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            Defenseman Fred Vecchione (foreground) graces the cover of this 24-page program, which was created by team managers, alumni, and players. It was handed out free of charge to fans attending the home games.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0050.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            September 1972 -- Sky Rink -- New York, NY<br>
+							Training Camp
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0008.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            October 16, 1972 -- Riverdale Rink -- Bronx, NY<br>
+                            CCNY 4, Brooklyn College 3<br>
+							Rick Ferrari (L) and Barry Elin (R) celebrate a goal.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0009.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            October 16, 1972 -- Riverdale Rink -- Bronx, NY<br>
+                            CCNY 4, Brooklyn College 3<br>
+							Scoring attempt by Ed Ludwicki (#2).
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0001.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 21, 1972 -- Nassau Coliseum  -- Uniondale, NY<br/>
+                            Nassau CC 4, Brooklyn College 0<br>  
+                            <i>Left-to-Right:</i> Ed Ludwicki, Jeff Lubin<br>
+							Goalie Jeff Lubin goes up on his toes to make the save.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0020.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 21, 1972 -- Nassau Coliseum -- Uniondale, NY<br>
+                            Nassau CC 4, Brooklyn College 0<br>
+							Brooklyn's goalie blocks this high shot.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0013.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 21, 1972 -- Nassau Coliseum -- Uniondale, NY<br>
+                            Nassau CC 4, Brooklyn College 0<br>
+							<i>Left-to-Right:</i> Fred Vecchione, Jeff Lubin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0047.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 21, 1972 -- Nassau Coliseum -- Uniondale, NY<br>
+                            Nassau CC 4, Brooklyn College 0<br>
+							Ready to stop the shot!
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0052.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            Final Stats for the 1972-73 Season.<br>
+                            Mike Lyden, Ira Nelson, Ed Ludwicki, Ken Micklin, Ira Eskanzi, Greg LaBella, Fred Vecchione, Al "Moose" Bauer, Rick Ferrari, Ken Brody, John Betts, Glen Donovan, Steve Regino, Joe Dwyer, Barry Elin, Billy Newman<br>
+							Goaltenders: Jeff Lubin, Paul Gammarano, Eliot Weiss
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                   	</table>
+			<div class="PageSectionHeader">1973-74 Season</div>
+               		<table class="TableStandard" border="1">
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0023.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            1973-74 Season -- Abe Stark Rink -- Brooklyn, NY<br>
+							Defenseman Fred Vecchione (#9) pursues the puck.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0006.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 5, 1973 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 6, CCNY 3<br>
+							BC celebrates a goal.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0016.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 5, 1973 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 6, CCNY 3
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0045.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 5, 1973 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 6, CCNY 3<br>
+                            Sal Parisi (#21) is ready to pounce on a loose puck.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0046.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 5, 1973 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 6, CCNY 3<br>
+                            Joel Rosenstraus (L) takes a face-off.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0049.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            December 5, 1973 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 6, CCNY 3<br>
+                            Joel Rosenstraus has a point-blank shot.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0007.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            February 6, 1974 -- Abe Stark Rink -- Brooklyn, NY<br>
+                            Brooklyn College 8, Manhattan College 0<br>
+							Jimmy O'Boyle mixes it up with the opposition.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0018.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            February 25, 1974 -- Riverdale Rink -- Bronx, NY<br>
+                            CCNY 3, Brooklyn College 2<br>
+							Steve Regino goes one-on-one against the CCNY goalie.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0044.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            February 25, 1974 -- Riverdale Rink -- Bronx, NY<br>
+                            CCNY 3, Brooklyn College 2<br>
+							<i>Left-to-Right:</i> Sal Parisi and Glen Donavan surround the CCNY goaltender.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0002.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            March 11, 1974 -- Abe Stark Rink -- Brooklyn, NY<br>  
+                            Brooklyn College 4, St. Francis College 1<br>
+							Coach Kevin McNulty stands atop the bench to view the game action.
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0048.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            March 11, 1974 -- Abe Stark Rink -- Brooklyn, NY<br>  
+                            Brooklyn College 4, St. Francis College 1<br>
+							<i>Left-to-Right:</i> Jeff Lubin, John Palermo, Sal Parisi, Jimmy O'Boyle, Fred Vecchione, Ken Micklin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0043.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>
+                            March 13, 1974 -- Abe Stark Rink -- Brooklyn, NY<br>  
+                            Nassau CC 5, Brooklyn College 2<br>
+							First game - best of three playoff series<br>
+							<i>Left-to-Right:</i> Billy Barry, Jeff Lubin
+                            </td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0024.jpg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>March 27, 1974 -- Abe Stark Rink -- Brooklyn, NY</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                   	</table>
+
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
+
+                </center>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

@@ -1,0 +1,39 @@
+<!--API Documentation can be found here: https://developers.google.com/calendar/v3/reference/events/list -->
+
+<div class="PageSectionHeader">Previous Season Results</div>
+<center>
+<table class="TableStandard" border="0" cellpadding="5" cellspacing="5" width="309"><tr class="TableHeader"><td align="left" style="padding-left:30px;">Date</td><td align="left">Result</td></tr></table>
+<table class="TableStandard" border="1" id="demo2" cellpadding="5" cellspacing="5" width="309"></table></center><br/>
+
+<script>
+var xmlhttp = new XMLHttpRequest();
+xmlhttp.onreadystatechange = function() {
+  if (this.readyState == 4 && this.status == 200) {
+var myObj, i, x = "";
+myObj = JSON.parse(this.responseText, function (key, value){
+if (key == "dateTime") {
+
+	function unix_to_readable(value) {
+    var date = new Date(value) ;
+    return ('0' + (date.getMonth()+1)).slice(-2) + '/'
+         + ('0' + date.getDate()).slice(-2) + '/'
+         + date.getFullYear();
+		}
+	return unix_to_readable(value);
+	} 
+	else {
+		return value;
+	}
+}
+);
+
+for (i = 0; i < myObj.items.length; i++) 
+{
+  x += "<tr><td align='center' style='font-size:12px; color:#000000;'>" + myObj.items[i].start.dateTime + "</td><td align='center' style='font-size:12px; color:#000000;'>" + myObj.items[i].summary + "</td></tr>";
+}
+document.getElementById("demo2").innerHTML = x;  }
+};
+
+xmlhttp.open("GET", "https://www.googleapis.com/calendar/v3/calendars/9lh231pkuunmglga33vso1cnv8%40group.calendar.google.com/events?q=" + q + "&timeMax=2020-08-31T01:00:00-05:00&singleEvents=True&orderBy=startTime&key=AIzaSyBFDfMVc8WUWgXluMpYr4-OVkUn1EyIbuM", true);
+xmlhttp.send();
+</script>

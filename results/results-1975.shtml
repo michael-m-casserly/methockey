@@ -1,0 +1,168 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Results -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1975 Playoffs</a></div>
+
+<div class="PageHeader">1975 Playoffs</div>
+<p><center>
+
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+
+
+<table cellpadding="2" cellpadding="2" border="1" class="TableStandard">
+
+    <tr class="TableHeader">
+    	<td colspan="5">Quarter-Finals (Best of 3)</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Series "A"</td>
+    </tr>
+    <tr class="TableSubHeader">
+    	<td width="35%">Winner</td>
+    	<td width="10%">G</td>
+    	<td width="35%">Loser</td>
+    	<td width="10%">G</td>
+    	<td width="10%">&nbsp;</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>10</td>
+        <td><a href="/members/john-jay-college.shtml">John Jay</a></td>
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>9</td>
+        <td><a href="/members/john-jay-college.shtml">John Jay</a></td>
+        <td>5</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+	<tr>
+    	<td colspan="5" class="TableNotes">Ramapo Wins Series 2-0</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Series "B"</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>3</td>
+        <td><a href="/members/st-francis-college.shtml">St. Francis</a></td>
+        <td>0</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>10</td>
+        <td><a href="/members/st-francis-college.shtml">St. Francis</a></td>
+        <td>2</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+	<tr>
+    	<td colspan="5" class="TableNotes">C.C.M. Wins Series 2-0</td>
+    </tr>
+     <tr>
+     	<td colspan="5">&nbsp;</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Semi-Finals (Best of 3)</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Series "C"</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>4</td>
+        <td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>3</td>
+        <td class="TableNotes">*&nbsp;(5:16)</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>9</td>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>4</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>6</td>
+        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
+        <td>5</td>
+        <td class="TableNotes">*&nbsp;(4:17)</td>
+     </tr>
+	<tr>
+    	<td colspan="5" class="TableNotes">Ramapo Wins Series 2-1</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Series "D"</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>2</td>
+        <td><a href="/members/fairleigh-dickinson-university.shtml">Fairleigh Dickinson</a></td>
+        <td>1</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>7</td>
+        <td><a href="/members/fairleigh-dickinson-university.shtml">Fairleigh Dickinson</a></td>
+        <td>1</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+	<tr>
+    	<td colspan="5" class="TableNotes">C.C.M. Wins Series 2-0</td>
+    </tr>
+     <tr>
+     	<td colspan="5">&nbsp;</td>
+     </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Finals (Best of 3)</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Series "E"</td>
+    </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>9</td>
+        <td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>3</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+    <tr>
+    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>5</td>
+        <td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
+        <td>0</td>
+        <td class="TableNotes">&nbsp;</td>
+     </tr>
+	<tr>
+    	<td colspan="5" class="TableNotes">Ramapo Wins Series 2-0</td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="5">Ramapo Wins League Championship</td>
+    </tr>
+
+</table>
+    
+</center></p>
+
+<!--#include virtual="/results/results-footer.html"-->
+<!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
+<!--#include virtual="/results/sub-nav-results.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

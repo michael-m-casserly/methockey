@@ -1,0 +1,331 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>MCHC Standings -- Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/standings/index.shtml">Standings</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1983-84 Standings</a></div>
+
+        
+        <div class="PageHeader">1983-84 Standings</div>
+        <p><center>
+       
+<table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
+	<tr class="TableHeader">
+    	<td colspan="9">West Division</td>
+     </tr>
+	<tr class="TableSubHeader">
+    	<td width="20%">Team</td>
+        <td width="10%">GP</td>
+        <td width="10%">W</td>
+        <td width="10%">L</td>
+        <td width="10%">T</td>
+        <td width="10%">PTS</td>
+        <td width="10%">Win%</td>
+        <td width="10%">GF</td>
+        <td width="10%">GA</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/county-college-of-morris.shtml">C.C.M.</a>*</td>
+        <td>18</td>
+        <td>17</td>
+        <td>1</td>
+        <td>0</td>
+        <td>34</td>
+        <td>.944</td>
+        <td>114</td>
+        <td>43</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/ocean-county-college.shtml">Ocean</a></td>
+        <td>18</td>
+        <td>15</td>
+        <td>3</td>
+        <td>0</td>
+        <td>30</td>
+        <td>.833</td>
+        <td>137</td>
+        <td>37</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/william-paterson-university.shtml">Paterson</a></td>
+        <td>18</td>
+        <td>11</td>
+        <td>7</td>
+        <td>0</td>
+        <td>22</td>
+        <td>.647</td>
+        <td>88</td>
+        <td>97</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/fordham-university.shtml">Fordham</a></td>
+        <td>18</td>
+        <td>7</td>
+        <td>10</td>
+        <td>1</td>
+        <td>15</td>
+        <td>.417</td>
+        <td>82</td>
+        <td>126</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a></td>
+        <td>18</td>
+        <td>7</td>
+        <td>11</td>
+        <td>0</td>
+        <td>14</td>
+        <td>.389</td>
+        <td>67</td>
+        <td>121</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/kean-university.shtml">Kean</a></td>
+        <td>18</td>
+        <td>6</td>
+        <td>10</td>
+        <td>2</td>
+        <td>14</td>
+        <td>.389</td>
+        <td>69</td>
+        <td>130</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/ramapo-college.shtml">Ramapo</a></td>
+        <td>18</td>
+        <td>5</td>
+        <td>12</td>
+        <td>1</td>
+        <td>11</td>
+        <td>.306</td>
+        <td>76</td>
+        <td>112</td>
+     </tr>     
+     <tr>
+     	<td class="Standings-Team"><a href="/members/fairleigh-dickinson-university.shtml">FDU</a></td>
+        <td>18</td>
+        <td>3</td>
+        <td>15</td>
+        <td>0</td>
+        <td>6</td>
+        <td>.167</td>
+        <td>94</td>
+        <td>134</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/marist-college.shtml">Marist</a></td>
+        <td>18</td>
+        <td>1</td>
+        <td>17</td>
+        <td>0</td>
+        <td>2</td>
+        <td>.056</td>
+        <td>110</td>
+        <td>126</td>
+     </tr>
+	<tr>
+    	<td colspan="9">&nbsp;</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="9">East Division</td>
+     </tr>
+	<tr class="TableSubHeader">
+    	<td>Team</td>
+        <td>GP</td>
+        <td>W</td>
+        <td>L</td>
+        <td>T</td>
+        <td>PTS</td>
+        <td>Win%</td>
+        <td>GF</td>
+        <td>GA</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/wagner-college.shtml">Wagner</a>*</td>
+        <td>17</td>
+        <td>16</td>
+        <td>1</td>
+        <td>0</td>
+        <td>32</td>
+        <td>.941</td>
+        <td>158</td>
+        <td>48</td>
+     </tr>     
+     <tr>
+     	<td class="Standings-Team"><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
+        <td>18</td>
+        <td>14</td>
+        <td>4</td>
+        <td>0</td>
+        <td>28</td>
+        <td>.777</td>
+        <td>128</td>
+        <td>65</td>
+     </tr>     
+     <tr>
+     	<td class="Standings-Team"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings&nbsp;Point</a></td>
+        <td>18</td>
+        <td>12</td>
+        <td>5</td>
+        <td>1</td>
+        <td>25</td>
+        <td>.750</td>
+        <td>96</td>
+        <td>75</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/liu-post.shtml">C.W.&nbsp;Post</a></td>
+        <td>18</td>
+        <td>11</td>
+        <td>5</td>
+        <td>2</td>
+        <td>24</td>
+        <td>.667</td>
+        <td>94</td>
+        <td>84</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/stony-brook-university.shtml">Stony&nbsp;Brook</a></td>
+        <td>17</td>
+        <td>9</td>
+        <td>7</td>
+        <td>1</td>
+        <td>19</td>
+        <td>.528</td>
+        <td>103</td>
+        <td>84</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/university-of-bridgeport.shtml">Bridgeport</a></td>
+        <td>18</td>
+        <td>8</td>
+        <td>10</td>
+        <td>0</td>
+        <td>16</td>
+        <td>.444</td>
+        <td>106</td>
+        <td>105</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/maritime-college.shtml">Maritime</a></td>
+        <td>18</td>
+        <td>3</td>
+        <td>15</td>
+        <td>0</td>
+        <td>6</td>
+        <td>.167</td>
+        <td>39</td>
+        <td>142</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/nassau-community-college.shtml">Nassau</a>**</td>
+        <td>18</td>
+        <td>0</td>
+        <td>18</td>
+        <td>0</td>
+        <td>0</td>
+        <td>.000</td>
+        <td>0</td>
+        <td>0</td>
+     </tr>
+	<tr>
+    	<td colspan="9">&nbsp;</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="9">Third Division***</td>
+     </tr>
+	<tr class="TableSubHeader">
+    	<td>Team</td>
+        <td>GP</td>
+        <td>W</td>
+        <td>L</td>
+        <td>T</td>
+        <td>PTS</td>
+        <td>Win%</td>
+        <td>GF</td>
+        <td>GA</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/st-francis-college.shtml">St.&nbsp;Francis</a></td>
+        <td>18</td>
+        <td>12</td>
+        <td>6</td>
+        <td>0</td>
+        <td>24</td>
+        <td>.667</td>
+        <td>128</td>
+        <td>117</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/manhattan-college.shtml">Manhattan</a></td>
+        <td>18</td>
+        <td>12</td>
+        <td>6</td>
+        <td>0</td>
+        <td>24</td>
+        <td>.667</td>
+        <td>109</td>
+        <td>75</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/rutgers-university.shtml">Rutgers</a></td>
+        <td>17</td>
+        <td>8</td>
+        <td>8</td>
+        <td>1</td>
+        <td>17</td>
+        <td>.500</td>
+        <td>72</td>
+        <td>72</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/columbia-university.shtml">Columbia</a></td>
+        <td>17</td>
+        <td>8</td>
+        <td>8</td>
+        <td>1</td>
+        <td>17</td>
+        <td>.500</td>
+        <td>86</td>
+        <td>80</td>
+     </tr>
+     <tr>
+     	<td class="Standings-Team"><a href="/members/pace-university.shtml">Pace</a></td>
+        <td>18</td>
+        <td>3</td>
+        <td>15</td>
+        <td>0</td>
+        <td>6</td>
+        <td>.167</td>
+        <td>89</td>
+        <td>140</td>
+     </tr>
+	<tr>
+    	<td colspan="9">&nbsp;</td>
+    </tr>
+	<tr>
+    	<td colspan="9" class="TableNotes">
+        	* First Round Playoff Bye<br/>
+        	** Forfeited All Games<br/>
+            *** "Probation Division" - Ineligible for Playoffs
+        </td>
+    </tr>
+
+</table>		
+		</center>
+        </p>
+		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
+		<!--#include virtual="/standings/sub-nav-standings.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>

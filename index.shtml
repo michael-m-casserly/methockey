@@ -1,0 +1,253 @@
+
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+    <title>Home -- Metropolitan Collegiate Hockey Conference -- www.methockey.com</title>
+
+<style type="text/css">
+
+h3{
+	font-family: Charlemagne std;
+	color: #344f7c;
+}
+
+.round-border{
+	border: 2px solid #344f7c; 
+	border-radius:5px;
+	padding-bottom:10px;
+	padding-top:10px;
+	margin-bottom: 10px;
+}
+
+</style>
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+  <!-- Main jumbotron for a primary marketing message or call to action -->
+  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  	<div class="container" align="center" style="max-width:800px;">
+  	<h3>2020 MCHC Champs<br/>Kings Point Mariners</h3>
+    <a href="#Champs"><img src="/images/champions/2020KingsPointMarinersTeamPictureChampionshipGame_home.jpg" border="0" alt="2020 MCHC Champion Kings Point Mariners" title="2020 MCHC Champion Kings Point Mariners"></a>
+    <!--center>
+    <a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a>
+    </center-->
+    
+    </div>
+   </div>
+    
+<!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>2019 MCHC Champions</h3>
+            <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></center></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>2018-19 Fordham Rams</h3>
+            <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></center></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+        <div class="container">
+          <div class="carousel-caption">
+            <h3>Class of 2019</h3>
+            <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
+            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></center></p>
+          </div>
+        </div>
+      </div>
+    </div>
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div-->
+ <!--End hide carousel during off-season-->
+
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+      <div class="col-lg-4">
+		<!--Use this to center all of the content within the 3 columns-->
+        <style>
+	  	.col-lg-4 p {
+			text-align:center;
+			}
+		</style>
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+        <!--hr-->
+        
+        <div class="round-border">
+        <h3>News</h3>
+        <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
+
+		<p><a class="twitter-timeline" height="500" data-theme="dark" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+
+
+        <!--p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p-->
+		</div>
+        <div class="round-border">
+        <h3>Schedule</h3>
+		<p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p>
+        <center>
+        <!--p style="border: 2px solid black; border-radius:5px; width:295px; padding-top:5px; margin:0px;"-->
+        <p style="width:295px; padding-top:5px; margin:0px;"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="320" width="285" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></p>
+        <p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p>
+        </center>
+        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+      	 <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
+		</div>
+      
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+		<!--hr-->
+        <div class="round-border">
+        <h3>2019-20 Standings</h3>
+        <p><!--#include virtual="/standings/standings-include.html"--></p>
+        <p><a class="btn btn-secondary" href="/standings/index.shtml" role="button">Go &raquo;</a></p>
+		</div>        
+        
+        <div class="round-border">
+		<h3>Results</h3>
+        <p>View Results from All Games</p>
+        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Go &raquo;</a></p>
+		</div>
+
+		<div class="round-border">
+        <h3>MCHC Info</h3>
+        <p>View Affiliates, Champions, Rinks, Rules, etc.</p>
+        <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">Go &raquo;</a></p>
+		</div>        
+        
+        <div class="round-border">
+        <h3>Stats</h3>
+        <p>View Stats from All Seasons</p>
+        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Go &raquo;</a></p>
+		</div>
+        
+        <div class="round-border">
+        <h3>All Time Stats</h3>
+        <p>View All Time Individual Stats Leaders</p>
+        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Go &raquo;</a></p>
+		</div>
+
+		<div class="round-border">
+        <h3>Coaches</h3>
+        <p>Submit Scores and Download Forms<br/>(Login Required)</p>
+        <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
+		</div>
+
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+        <!--hr-->
+      <div class="round-border">
+
+		<h3>Player of the Month</h3>
+        <p style="font-size:16px">
+        	<i>Offense</i><br/>
+            <b>#55 Jared Bennett</b><br/>
+			<a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a><br/>
+			13 G, 2 A, 15 PTS, 2 GWG<br/>
+			<br/>
+        	<i>Defense</i><br/>
+            <b>#29 Sean Reilly</b><br/>
+			<a href="/members/suffolk-county-community-college.shtml">Suffolk</a><br/>
+			3-0, .958 SV %, 1.66 GAA
+		</p>
+ 		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">Go &raquo;</a></p>
+		</div>
+        <div class="round-border">
+        <h3>Conference Members</h3>
+        <p>View Member Colleges &amp; Universities</p>
+        <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Go &raquo;</a></p>
+        </div>
+        
+        <a name="ACHARankings"></a>
+        <div class="round-border">
+        <h3>ACHA D3 Rankings</h3>
+        <center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
+		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
+        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p>
+		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team &raquo;</a></p>
+		</div>        
+
+        <div class="round-border">
+        <a name="ExecutiveBoard"></a>
+        <h3>Executive Board</h3>
+        <p>View Current Executive Board Membership</p>
+        <!--include virtual="/league/executive-board-include.html"-->
+        <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Go &raquo;</a></p>
+		</div>
+        
+        </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+	<hr>
+    <!--hr class="featurette-divider"-->
+	<a name="Champs"></a>
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h3 class="featurette-heading">2020 MCHC Champs - Kings Point Mariners<br><span class="text-muted">February 23, 2020 -- Dix Hills Arena, Dix Hills, NY</span></h3>
+        <!--p class="lead"-->
+		<p>
+        <i>(L to R, Back Row)</i> Austin Birkemeier '23, Jon Satanek '20, John Bowden <b>(Asst. Coach)</b>, Rick Dominique <b>(Head Coach)</b>, Kevin Stefanick '23, Harold Mahony '20, Nick Stockbridge '21, Jared Bennett '20, Tyler Coburn '20, Breanna Frank '22, Colby McLiverty '20, John VerDow '23, Glenn Rinyu <b>(Asst. Coach)</b><br/>
+<i>(L to R, Middle Row)</i> Kristof Vitok '22, Joe Gramegna '20 <b>(Captain)</b>, Mike Cipolla '20, Devon Mayes '22, John Cipolla '22, Justin McGaffigan '20, John Bibeau '22, Fallon Wulff<br/>
+<i>(L to R, Front Row)</i> Kevin Cruz '22, Preston Ford '22, Grey Wilson '20, Zach Kagle '20, Mike Fink '20<br/>
+<i>Not pictured:</i> Brandon Gyrion '20 and Alexa Vandermeer '20</p>
+            </div>
+      <div class="col-md-5">
+      <img src="/images/champions/2020KingsPointMarinersTeamPictureChampionshipGame_home.jpg" border="0" alt="2020 MCHC Champion Kings Point Mariners" title="2020 MCHC Champion Kings Point Mariners">
+     <br/>
+    <br/>    
+    <p>
+    <center>
+    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">See All MCHC Champions &raquo;</a>
+    </center>
+    </p>
+      </div>
+    </div>
+
+    <hr>
+    <!--hr class="featurette-divider"-->
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+  <!--#include virtual="/footer-m.html" -->
+
+</html>
