@@ -57,7 +57,7 @@
 			"from" : "web-form-submission@methockey.com",
 			"is_present" : true,
 			"replyto" : "[emailAddress]",
-			"to" : "mcasserly@fordhamramshockey.com, fordhamhockey@gmail.com, gerard103@aol.com, johnstr@sunysuffolk.edu, casserly.michael@gmail.com, fordhamhockey@verizon.net"
+			"to" : "fordhamramshockey@gmail.com, fordhamhockey@gmail.com, gerard103@aol.com, johnstr@sunysuffolk.edu, casserly.michael@gmail.com, fordhamhockey@verizon.net"
 		}
 	},
 	"general_settings" : 
