@@ -53,7 +53,7 @@ var q = 'WestConn'
 						<td>46</td>
 						<td>3</td>
 						<td>1991-92*</td>
-						<td>2019-20</td>
+						<td>Active</td>
 					</tr>
                     <tr>
                     	<td colspan="11">*Did Not Play 1993-2019</td>
@@ -64,7 +64,7 @@ var q = 'WestConn'
 				</table>
 <br/>
 <table class="TableStandard" border="1">
-	<!--tr class="TableHeader">
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Team Contact</td>
     </tr>
     <tr>
@@ -88,7 +88,7 @@ var q = 'WestConn'
     </tr>
     <tr>
     	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2993.017695080062!2d-73.45311078471003!3d41.395422079263426!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7ff6e2d492df9%3A0x8d5749a3b26f95bd!2sDanbury%20Arena!5e0!3m2!1sen!2sus!4v1587570814565!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
@@ -101,24 +101,24 @@ var q = 'WestConn'
     <tr>
     	<td colspan="2" align="center">Danbury, CT</td>
     </tr>
-	<!--tr class="TableHeader">
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
     	<td colspan="2" align="center"><a href="https://www.westconnathletics.com/general/RECREATION/Ice_Hockey" target="_blank" class="LongURL">www.westconnathletics.com/general/RECREATION/Ice_Hockey</a></td>
-    </tr-->
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School's Nickname</td>
     </tr>
     <tr>
     	<td colspan="2" align="center">Colonials</td>
     </tr>
-	<!--tr class="TableHeader">
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
     	<td colspan="2" align="center">Home-White&nbsp;&nbsp;Away-Blue</td>
-    </tr-->
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
     </tr>
@@ -132,7 +132,7 @@ var q = 'WestConn'
 
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
-<!--center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/WestConnHockey?ref_src=twsrc%5Etfw">Tweets by WestConnHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center-->
+<center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/WestConnHockey?ref_src=twsrc%5Etfw">Tweets by WestConnHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
 
 <!--End Main Content section-->
 
