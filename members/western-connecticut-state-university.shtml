@@ -68,8 +68,8 @@ var q = 'WestConn'
     	<td colspan="2" align="center">Team Contact</td>
     </tr>
     <tr>
-    	<td>Amy Shanks - Associate Director of Recreational Sports</td>
-        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-837-8609<br/>
+    	<td width="50%">Amy Shanks - Associate Director of Recreational Sports</td>
+        <td width="50%"><span class="TeamPageContactLabel">Office:</span>&nbsp;203-837-8609<br/>
 			<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:shanksa@wcsu.edu" target="_blank" class="LongURL">shanksa@wcsu.edu</a></td>
     </tr>
 	<tr class="TableHeader">
