@@ -56,9 +56,9 @@ var q = 'Farmingdale'
 					</tr>
 				</table>
 				
-<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
+<!--div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
 <a href="/mchc/champions.shtml#2008">2007-08</a>
-</div>
+</div-->
 <br/>
 <table class="TableStandard" border="1">
     <tr class="TableHeader">
@@ -94,8 +94,9 @@ var q = 'Farmingdale'
 </table>
 </center>
 
-<!--#include virtual="/schedule/display-schedule-previous.html"-->
+<!--include virtual="/schedule/display-schedule-previous.html"-->
 
+<br/>
 <center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/FSCHockey?ref_src=twsrc%5Etfw">Tweets by @FSCHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
 
 <!--End Main Content section-->

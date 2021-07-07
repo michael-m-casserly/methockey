@@ -6,7 +6,7 @@
 <title>Farmingdale State College -- Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'Farmingdale'
+var q = 'SUNY Farmngdale' // Intentional typo here to avoid the original team showing up in the new 2021 team feed
 //alert('Q equals ' + q)
 </script>    
   </head>
