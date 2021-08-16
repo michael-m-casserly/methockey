@@ -6,7 +6,7 @@
 <title>Farmingdale State College -- Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'Farmingdale'
+var q = 'SUNY Farmingdale'
 //alert('Q equals ' + q)
 </script>    
   </head>
@@ -93,6 +93,8 @@ var q = 'Farmingdale'
 	</tr>
 </table>
 </center>
+
+<!--#include virtual="/schedule/display-schedule-current.html"-->
 
 <!--include virtual="/schedule/display-schedule-previous.html"-->
 

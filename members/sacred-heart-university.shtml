@@ -6,7 +6,7 @@
 <title>Sacred Heart University -- Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'Sacred Heart'
+var q = 'Sacred%20Heart'
 //alert('Q equals ' + q)
 </script>    
   </head>
