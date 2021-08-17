@@ -18,7 +18,8 @@
 
 <p><!--#include virtual="/results/results-include.html"--></p>
 
-<!--#include virtual="/schedule/playoff-programs/2019-20.html"-->
+<!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
+<!--include virtual="/schedule/playoff-programs/2019-20.html"-->
 <!--#include virtual="/results/results-footer.html"-->
 
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
