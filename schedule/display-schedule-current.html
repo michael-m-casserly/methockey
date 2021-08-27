@@ -84,7 +84,7 @@ if (key == "dateTime") {
     var date = new Date(value) ;
     return ('0' + (date.getMonth()+1)).slice(-2) + '/'
          + ('0' + date.getDate()).slice(-2) + '/'
-         + date.getFullYear() + '<br/>' + date.getHours() + ':' + ('0' + date.getMinutes()).slice(-2);
+         + date.getFullYear() + '<br/>' + date.getHours() % 12 + ':' + ('0' + date.getMinutes()).slice(-2) + ' PM'; // Hardcoding PM under the assumption there will never be any morning games. If this ever changes, then will need to create a function to account for this. Perhaps revisit this page: https://stackoverflow.com/questions/10556879/changing-the-1-24-hour-to-1-12-hour-for-the-gethours-method
 	}
 	return unix_to_readable(value);
 	} 
