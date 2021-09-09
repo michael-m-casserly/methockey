@@ -114,19 +114,22 @@ h3{
 
 
         <!--p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p-->
-		</div>
+		    </div>
+    
         <div class="round-border">
-        <h3>Schedule</h3>
-		<!--p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p-->
-        <center>
-        <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="435" width="295" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+          <h3>Conference Members</h3>
+          <p>View Member Colleges &amp; Universities</p>
+          <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Go &raquo;</a></p>
+          </div>
 
-        <!--p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p-->
-        </center>
-        <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
-      	 <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
-		</div>
-      
+          <div class="round-border">
+            <a name="ExecutiveBoard"></a>
+            <h3>Executive Board</h3>
+            <p>View Current Executive Board Membership</p>
+            <!--include virtual="/league/executive-board-include.html"-->
+            <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Go &raquo;</a></p>
+        </div>
+              
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
@@ -171,7 +174,20 @@ h3{
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
-      <div class="round-border">
+      
+        <div class="round-border">
+          <h3>Schedule</h3>
+      <!--p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p-->
+          <center>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="435" width="295" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+  
+          <!--p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p-->
+          </center>
+          <!--p><a class="btn btn-secondary" href="#" role="button">View details &raquo;</a></p-->
+           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
+            </div>
+  
+        <div class="round-border">
 
 		<h3>Player of the Month</h3>
         <p style="font-size:16px">
@@ -187,11 +203,6 @@ h3{
 		</p>
  		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">Go &raquo;</a></p>
 		</div>
-        <div class="round-border">
-        <h3>Conference Members</h3>
-        <p>View Member Colleges &amp; Universities</p>
-        <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Go &raquo;</a></p>
-        </div>
         
         <a name="ACHARankings"></a>
         <div class="round-border">
@@ -201,14 +212,6 @@ h3{
         <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p>
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team &raquo;</a></p>
 		</div>        
-
-        <div class="round-border">
-        <a name="ExecutiveBoard"></a>
-        <h3>Executive Board</h3>
-        <p>View Current Executive Board Membership</p>
-        <!--include virtual="/league/executive-board-include.html"-->
-        <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Go &raquo;</a></p>
-		</div>
         
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
