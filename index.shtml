@@ -19,6 +19,7 @@ h3{
 	padding-bottom:10px;
 	padding-top:10px;
 	margin-bottom: 10px;
+  background-color: #e5ecf9;
 }
 
 </style>
@@ -143,6 +144,7 @@ h3{
         <div class="round-border">
         <h3>2021-22 Standings</h3>
         <p><!--#include virtual="/standings/standings-include.html"--></p>
+        <p>Top 4 Teams Qualify for the Playoffs</p>
         <p><a class="btn btn-secondary" href="/standings/index.shtml" role="button">Go &raquo;</a></p>
 		</div>        
         
@@ -196,6 +198,7 @@ h3{
         <div class="round-border">
 
 		<h3>Player of the Month</h3>
+    <h5>Jan/Feb 2020</h5>
         <p style="font-size:16px">
         	<i>Offense</i><br/>
             <b>#55 Jared Bennett</b><br/>
