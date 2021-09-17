@@ -58,7 +58,48 @@ var q = 'SUNY Farmngdale' // Intentional typo here to avoid the original team sh
                     	<td colspan="11">*Did Not Play 1997-98 through 2003-2004</td>
                      </tr>
 				</table>
-				
+<br/>
+<br/>
+				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+                    	<td>Wins</td>
+						<td>Losses</td>
+						<td>Ties</td>
+						<td>OTL</td>
+						<td>Win %</td>
+						<td>Goals For</td>
+						<td>Goals Against</td>
+					</tr>
+					<tr height="17">
+						<td>6</td>
+						<td>26</td>
+						<td>1</td>
+						<td>0</td>
+						<td>.186</td>
+						<td>44</td>
+						<td>101</td>
+					</tr>
+				</table>
+<br/>
+                <table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
+					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
+						<td>Games Played</td>
+						<td>Years Played</td>
+						<td>First Season</td>
+						<td>Final Season</td>
+					</tr>
+					<tr height="17">
+						<td>33</td>
+						<td>2</td>
+						<td>1968-69++</td>
+						<td>1969-70</td>
+					</tr>
+                    <tr>
+                    	<td colspan="11">++Played 2 Seasons as the "Long Island Aggies" for the "Agricultural and Technical College at Farmingdale"</td>
+                     </tr>
+				</table>
+<br/>
+
 <div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
 <a href="/mchc/champions.shtml#2008">2007-08</a>
 </div>
