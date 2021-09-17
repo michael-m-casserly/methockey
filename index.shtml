@@ -117,7 +117,7 @@ h3{
         <h3>News</h3>
         <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
 
-		<p><a class="twitter-timeline" height="600" data-theme="dark" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+		<p><a class="twitter-timeline" height="578" data-theme="dark" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 
         <!--p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p-->
@@ -187,7 +187,7 @@ h3{
           <h3>Schedule</h3>
       <!--p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p-->
           <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="435" width="100%" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="328" width="100%" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
   
           <!--p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p-->
           </center>
