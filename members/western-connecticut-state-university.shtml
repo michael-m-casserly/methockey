@@ -116,7 +116,7 @@ var q = 'WestConn'
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Home-White&nbsp;&nbsp;Away-Blue</td>
+    	<td colspan="2" align="center">Home-White | Away-Blue</td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>

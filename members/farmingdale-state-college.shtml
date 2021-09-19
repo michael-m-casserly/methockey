@@ -119,7 +119,7 @@ var q = 'Farmingdale'
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Home-[] Away-[]</td>
+    	<td colspan="2" align="center">Home-White | Away-Green</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>

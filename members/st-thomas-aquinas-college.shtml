@@ -65,7 +65,7 @@ var q = 'STAC'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact / Head Coach</td>
+    	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Matt Schuster</td>
@@ -117,7 +117,7 @@ var q = 'STAC'
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Home-White&nbsp;&nbsp;Away-Maroon</td>
+    	<td colspan="2" align="center">Home-White | Away-Maroon</td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
