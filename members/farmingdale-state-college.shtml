@@ -62,11 +62,25 @@ var q = 'Farmingdale'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact</td>
+    	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td align="center">&nbsp;</td>
-    	<td align="center">&nbsp;</td>
+    	<td align="center">Michael Leprine</td>
+    	<td align="center"><a href="mailto:mtl1010@aol.com" target="_blank">mtl1010@aol.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Assistant Coach</td>
+    </tr>
+    <tr>
+    	<td align="center">EJ Grunwald</td>
+    	<td align="center"><a href="mailto:ejgrunwald@gmail.com" target="_blank">ejgrunwald@gmail.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Director of Hockey Operations / GM</td>
+    </tr>
+    <tr>
+    	<td align="center">Jon LaRochester</td>
+    	<td align="center"><a href="mailto:gm@fschockey.com" target="_blank">gm@fschockey.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

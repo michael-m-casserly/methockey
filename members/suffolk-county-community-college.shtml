@@ -69,15 +69,14 @@ var q = 'Suffolk'
     </tr>
     <tr>
     	<td>Rod Parisi</td>
-        <td><span class="TeamPageContactLabel">Cell:</span>&nbsp;917-440-9960<br/>
-<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:deniro18@aol.com">deniro18@aol.com</a></td>
+        <td><a href="mailto:deniro18@aol.com">deniro18@aol.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Asst. Coach</td>
     </tr>
     <tr>
     	<td>Chris Walker</td>
-        <td><span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:walker9797@yahoo.com">walker9797@yahoo.com</a></td>
+        <td><a href="mailto:walker9797@yahoo.com">walker9797@yahoo.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">General Manager</td>
@@ -85,14 +84,14 @@ var q = 'Suffolk'
     <tr>
     	<td>Scott Nudleman</td>
         <td><span class="TeamPageContactLabel">Phone:</span>&nbsp;516-987-9155<br/>
-<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:scott@scccsharkshockey.com">scott@scccsharkshockey.com</a></td>
+		<a href="mailto:scott@scccsharkshockey.com">scott@scccsharkshockey.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Asst. General Manager</td>
     </tr>
     <tr>
     	<td>Vincent Parisi</td>
-        <td><span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:Vparisi412@gmail.com">Vparisi412@gmail.com</a></td>
+        <td><a href="mailto:Vparisi412@gmail.com">Vparisi412@gmail.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

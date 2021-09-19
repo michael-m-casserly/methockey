@@ -70,12 +70,11 @@ var q = 'Sacred%20Heart'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact / Head Coach</td>
+    	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Jordy Hagwell</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-4653<br/>
-            <span class="TeamPageContactLabel">Cell:</span>&nbsp;256-808-7972<br/>
             <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:hagwellj@sacredheart.edu">hagwellj@sacredheart.edu</a></td>
     </tr>
     <tr class="TableHeader">
@@ -83,7 +82,7 @@ var q = 'Sacred%20Heart'
     </tr>
     <tr>
     	<td>Corey Dybas</td>
-    	<td><span class="TeamPageContactLabel">Cell:</span>&nbsp;518-669-7478</td>
+    	<td></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Director of Club Sports</td>

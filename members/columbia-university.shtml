@@ -64,10 +64,10 @@ var q = 'Columbia'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact</td>
+    	<td colspan="2" align="center">Director of Intramurals &amp; Club Sports</td>
     </tr>
     <tr>
-    	<td>Brian Jines - Director of Intramurals &amp; Club Sports</td>
+    	<td>Brian Jines</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;212-854-4002<br/>
             <span class="TeamPageContactLabel">Fax:</span>&nbsp;212-854-7397</td>
     </tr>
@@ -76,16 +76,14 @@ var q = 'Columbia'
     </tr>
     <tr>
     	<td>Bruce Baker</td>
-    	<td><span class="TeamPageContactLabel">Cell:</span>&nbsp;646-647-6355<br/>
-            <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:brucebaker21@yahoo.com?subject=Ice Hockey Club Team">brucebaker21@yahoo.com</a></td>
+    	<td><a href="mailto:brucebaker21@yahoo.com?subject=Ice Hockey Club Team">brucebaker21@yahoo.com</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Team President</td>
     </tr>
     <tr>
-    	<td>Andrew Dunn (Captain)</td>
-        <td><span class="TeamPageContactLabel">Cell:</span>&nbsp;403-404-9521<br/>
-                <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:dunner47@gmail.com">dunner47@gmail.com</a></td>
+    	<td>TBD</td>
+        <td><a href="mailto:">&nbsp;</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

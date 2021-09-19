@@ -65,20 +65,19 @@ var q = 'WestConn'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact</td>
+    	<td colspan="2" align="center">Associate Director of Recreational Sports</td>
     </tr>
     <tr>
-    	<td>Amy Shanks - Associate Director of Recreational Sports</td>
+    	<td>Amy Shanks</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-837-8609<br/>
-			<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:shanksa@wcsu.edu" target="_blank" class="LongURL">shanksa@wcsu.edu</a></td>
+			<a href="mailto:shanksa@wcsu.edu" target="_blank" class="LongURL">shanksa@wcsu.edu</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Corey Dunn</td>
-        <td><span class="TeamPageContactLabel">Cell:</span>&nbsp;203-241-0095<br/>
-            <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:Cndunn17@sbcglobal.net" target="_blank">Cndunn17@sbcglobal.net</a></td>
+        <td><a href="mailto:Cndunn17@sbcglobal.net" target="_blank">Cndunn17@sbcglobal.net</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
