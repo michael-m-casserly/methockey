@@ -65,20 +65,27 @@ var q = 'STAC'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
+    	<td colspan="2" align="center">Assistant Director of Athletics for Athletic Communications</td>
+    </tr>
+    <tr>
+    	<td>Brad Sarno</td>
+        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;845-398-4153<br/>
+ <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:bsarno@stac.edu">bsarno@stac.edu</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Coordinator of Club Sports</td>
+    </tr>
+    <tr>
+    	<td>Rich Cesca, Jr.</td>
+        <td><a href="mailto:rcesca@stac.edu">rcesca@stac.edu</a></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Matt Schuster</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;201-913-4536<br/>
 <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:icehockey@stac.edu">icehockey@stac.edu</a></td>
-    </tr>
-	<tr class="TableHeader">
-    	<td colspan="2" align="center">Club Director</td>
-    </tr>
-    <tr>
-    	<td>Brad Sarno</td>
-        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;845-398-4153<br/>
- <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:bsarno@stac.edu">bsarno@stac.edu</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
