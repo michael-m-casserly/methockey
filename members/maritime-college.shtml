@@ -68,12 +68,11 @@ var q = 'Maritime'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact</td>
+    	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Gary Mawhinney</td>
-        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;631-626-2607<br/>
-<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:wago295@gmail.com">wago295@gmail.com</a></td>
+        <td><a href="mailto:wago295@gmail.com">wago295@gmail.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
