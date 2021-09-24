@@ -27,16 +27,19 @@ h3{
   <!--#include virtual="/banner-m.html" -->
 
   <!-- Main jumbotron for a primary marketing message or call to action -->
-  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  
+  <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
+  
+  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2020 MCHC Champs<br/>Kings Point Mariners</h3>
     <a href="#Champs"><img src="/images/champions/2020KingsPointMarinersTeamPictureChampionshipGame_home.jpg" border="0" alt="2020 MCHC Champion Kings Point Mariners" title="2020 MCHC Champion Kings Point Mariners"></a>
-    <!--center>
+    <center>
     <a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a>
-    </center-->
+    </center>
     
     </div>
-   </div>
+   </div-->
     
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -93,7 +96,7 @@ h3{
   ================================================== -->
   <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing">
+  <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
