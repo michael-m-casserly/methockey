@@ -28,8 +28,6 @@
 
 <p><center><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.<br/>(Google Drive) &raquo;</a></center></p>
 
-<p class="PageHeader">Referee Assignments</p>
-
 <!--#include virtual="CO-Page4-referee-assignments.html" -->
 
 <!--#include virtual="CO-Page5-team-phone-numbers.html" -->
