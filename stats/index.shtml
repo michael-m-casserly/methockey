@@ -20,10 +20,9 @@
 
 <!--Temporary Note until we start publishing 2021-22 Stats-->
 
-<p><center><b>2021-22 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p>
+<!--p><center><b>2021-22 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p-->
 
-<!--Use this once the 2020 Season starts, and I fix the sheet that Drew uses to input the stats every week-->
-<!--include virtual="/stats/statistics-current-include.html"-->
+<!--#include virtual="/stats/statistics-current-include.html"-->
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
 
