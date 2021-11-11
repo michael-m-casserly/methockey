@@ -75,8 +75,15 @@ var q = 'Suffolk'
     	<td colspan="2" align="center">Asst. Coach</td>
     </tr>
     <tr>
-    	<td>Chris Walker</td>
-        <td><a href="mailto:walker9797@yahoo.com">walker9797@yahoo.com</a></td>
+    	<td>Lou Seda Sr.</td>
+        <td><a href="mailto:strike1960xx@aol.com">strike1960xx@aol.com</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Asst. Coach</td>
+    </tr>
+    <tr>
+    	<td>Lou Seda Jr.</td>
+        <td><a href="mailto:walker9797@yahoo.com">louisjseda@gmail.com</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">General Manager</td>
