@@ -20,6 +20,17 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Nov 2021</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#21 Joey Harrison</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>7 G, 8 A, 15 PTS, 4 GP</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Oct 2021</td>
     </tr>
 	<tr>
