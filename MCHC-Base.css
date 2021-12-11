@@ -167,3 +167,8 @@ text-decoration: underline;
 .nav-link, .nav-item , .navbar-brand {
 text-decoration:none !important;
 }
+
+/* Custom styles in addition to out-of-the-box bootstrap */
+div.dropdown-menu{
+	border: 2px solid black; 
+  }	
