@@ -111,12 +111,6 @@ h3{
         <!--hr-->
         
         <div class="round-border">
-          <h3>COVID-19 Protocols</h3>
-          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');">Team Policies &raquo;</a></p>
-          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');">Rink Policies &raquo;</a></p>
-          </div>
-
-        <div class="round-border">
         <h3>News</h3>
         <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
 
@@ -125,7 +119,13 @@ h3{
 
         <!--p><a class="btn btn-secondary" href="/fordhamhockey/news.shtml" role="button">View News Archive &raquo;</a></p-->
 		    </div>
-    
+
+        <div class="round-border">
+          <h3>COVID-19 Protocols</h3>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');">Team Policies &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');">Rink Policies &raquo;</a></p>
+        </div>
+
         <div class="round-border">
           <h3>Conference Members</h3>
           <p>View Member Colleges &amp; Universities</p>
