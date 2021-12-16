@@ -114,40 +114,40 @@ h3{
         <h3>News</h3>
         <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
 
-		<p><a class="twitter-timeline" height="620" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+		<p><a class="twitter-timeline" height="723" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
 
 		    </div>
 
         <div class="round-border">
-          <h3>Current Season</h3>
-          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');">COVID-19 Protocols (Team) &raquo;</a></p>
-          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');">COVID-19 Protocols (Rink) &raquo;</a></p>
-          <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
-        </div>
-              
+          <h3>Coaches</h3>
+          <p>Submit Scores and Download Forms<br/>(Login Required)</p>
+          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
+      </div>
+                
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
 		<!--hr-->
         <div class="round-border">
-        <h3>2021-22 Standings</h3>
+        <h3>Standings</h3>
         <p><!--#include virtual="/standings/standings-include.html"--></p>
 		</div>        
         
         <div class="round-border">
 		<h3>Numbers</h3>
-        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
-        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
-        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a></p>
+        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button" style="width:200px;">Results</a></p>
+        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button" style="width:200px;">Stats</a></p>
+        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button" style="width:200px;">Stats (All-Time)</a></p>
 		</div>
 
-		<div class="round-border">
-        <h3>Coaches</h3>
-        <p>Submit Scores and Download Forms<br/>(Login Required)</p>
-        <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
-		</div>
+    <div class="round-border">
+      <h3>Current Season</h3>
+      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');" style="width:250px;">COVID-19 Protocols (Team)</a></p>
+      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');" style="width:250px;">COVID-19 Protocols (Rink)</a></p>
+      <p><a class="btn btn-secondary" href="/members/index.shtml" role="button" style="width:250px;">Conference Members</a></p>
+      <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button" style="width:250px;">Executive Board</a></p>
+      <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button" style="width:250px;">League Info</a></p>
+    </div>
 
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
@@ -158,7 +158,7 @@ h3{
           <h3>Schedule</h3>
       <!--p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p-->
           <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="488" width="100%" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0" height="580" width="100%" frameborder="0" scrolling="no"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
   
           <!--p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p-->
           </center>
@@ -183,7 +183,7 @@ h3{
         <!--center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
         <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p-->
-		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team &raquo;</a></p>
+		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team</a></p>
 		</div>        
         
         </div><!-- /.col-lg-4 -->
@@ -211,7 +211,7 @@ h3{
     <br/>    
     <p>
     <center>
-    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">See All MCHC Champions &raquo;</a>
+    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a>
     </center>
     </p>
       </div>
