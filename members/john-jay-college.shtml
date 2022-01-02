@@ -96,9 +96,9 @@ var q = 'John Jay'
 			<tr>
 				<td><img src="/images/team-pictures/john-jay/1979-80.jpg" alt="1979-80 John Jay Bloodhounds" title="1979-80 John Jay Bloodhounds"></td>
 			</tr>
-			<!--tr>
-				<td>&nbsp;</td>
-			</tr-->
+			<tr>
+				<td>October 1979, Riverdale Ice Skating Rink, Bronx, NY</td>
+			</tr>
 	</table>
 	</center>
 
