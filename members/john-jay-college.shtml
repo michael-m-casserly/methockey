@@ -83,7 +83,26 @@ var q = 'John Jay'
 	</tr>
 </table>
 </center>
-            
+
+<a name="pictures"></a>
+<br/><br/><!--These breakes ensure the anchor tag will display a portion of the image title-->
+<div class="PageSectionHeader">John Jay Team Pictures</div>
+
+   <center>
+	<table class="TableStandard" border="1">
+			<tr class="TableHeader" align="center">
+				   <td>1979-80 John Jay Bloodhounds</td>
+			</tr>
+			<tr>
+				<td><img src="/images/team-pictures/john-jay/1979-80.jpg" alt="1979-80 John Jay Bloodhounds" title="1979-80 John Jay Bloodhounds"></td>
+			</tr>
+			<!--tr>
+				<td>&nbsp;</td>
+			</tr-->
+	</table>
+	</center>
+
+
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--End Main Content section-->
