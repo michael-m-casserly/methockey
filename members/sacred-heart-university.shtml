@@ -142,6 +142,27 @@ var q = 'Sacred%20Heart'
                 
 <!--#include virtual="/schedule/display-schedule-current.html"-->
 
+<a id="pictures"></a>
+            <br/><br/><!--These breakes ensure the anchor tag will display a portion of the image title-->
+			<div class="PageSectionHeader">Sacred Heart Team Pictures</div>
+
+               <center>
+                <table class="TableStandard" border="1">
+                	    <tr class="TableHeader" align="center">
+                   			<td>2021-22 Sacred Heart Pioneers</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/sacred-heart/2021-22.jpeg" alt="2021-22 Sacred Heart Pioneers" title="2021-22 Sacred Heart Pioneers"></td>
+                        </tr>
+                        <tr>
+                        	<td align="center">December 2021, Wonderland of Ice, Bridgeport, CT<br><br>
+							<i>Standing (Left to Right):</i> Chris Moran (<b>Team Manager</b>), Chris Hughes, Ryan Onderdonk, Austin Jellison, Jack Reid, Connor Donahue, Mike Angeletti, Matt Licameli, Kyle Horsa, Griffin Ferreira, Thomas Howell, Robbie Goetze, Mike Zdanowicz, Brandon Cardelli, Lucca Conigliaro, Stanley Duwal, Eric Fuga, Zach Forrest, Joseph Schuler, Stephanie Watson (<b>Head Athletic Trainer</b>)<br>
+                            
+							<i>Sitting (Left to Right):</i> Paul Dematos, Monty Gray, Logan Gallagher (<b>A</b>), Richie Myers (<b>A</b>),  Corey Dybas (<b>Assistant Coach</b>), Jordy Hagwell (<b>Head Coach</b>), Joe Lane (<b>Assistant Coach</b>), Charles Sikorski (<b>C</b>), Kevin Harcourt (<b>A</b>), Andrew Capasso, Ben Sfarra</td>
+                        </tr>
+            </table>
+			</center>
+
 <!--include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--Remove these 2 br tags when previous schedule is enabled-->
