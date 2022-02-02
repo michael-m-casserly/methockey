@@ -9,8 +9,16 @@
   <!--#include virtual="/banner-m.html" -->
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">1975 Playoffs</a></div>
 
+<nav aria-label="breadcrumb">
+    <ol class="breadcrumb">
+      <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+      <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
+      <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a></li>
+      <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">1975 Playoffs</span></li>
+    </ol>
+  </nav>
+  
 <div class="PageHeader">1975 Playoffs</div>
 <p><center>
 

@@ -9,7 +9,13 @@
   <!--#include virtual="/banner-m.html" -->
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Contact</a></div>
+
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Contact</span></li>
+  </ol>
+</nav>
 
 <center>
 <table class="TableStandard" border="1" cellpadding="2" cellspacing="2">
