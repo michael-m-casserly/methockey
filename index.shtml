@@ -158,7 +158,7 @@ h3{
           <h3>Schedule</h3>
       <!--p><i>The 2020-21 Season will be CANCELLED due to COVID-19. For additional information, please <a href="/league/news_20210211_MCHC-Officially-Cancels-2020-21-Season.shtml">click here</a>.</i></p-->
           <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 580px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 542px; width: 100%; overflow: hidden;"></iframe><!--br><a href="/news/20130828_shared-calendar.shtml">Access Calendar From Phone, etc.</a--></div>
   
           <!--p style="padding-top:10px; margin:0px;"><a class="btn btn-secondary" href="/schedule/index.shtml#Master" role="button">View Master Schedule &raquo;</a></p-->
           </center>

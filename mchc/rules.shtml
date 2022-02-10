@@ -182,7 +182,15 @@
 <ol>
 <li>The Governing Board shall determine the structure of the Playoffs.</li>
 <li>The Conference Structure shall be determined by the Governing Board. Team standings and other statistics will be maintained by the MCHC.</li>
-<li>Playoffs - The top four teams who finish with the highest point total will qualify for the playoffs. The #1 will play the #4 seed, the #2 seed will play the #3 seed. The winner of these 2 games will meet in the finals. Note: In the event that two or more teams have the same number of points at the end of the season, the following, in order, shall determine the higher seed: <b>1.</b> The team with the most wins; <b>2.</b> The team with the most &quot;head to head&quot; wins; <b>3.</b> The team with greater amount of &quot;head to head: goals-for minus goals-against&quot;; <b>4.</b> The team with the most wins versus all common opponents in the league, picking opponents in standing order; <b>5.</b> Coin Toss.</li>
+<li>Playoffs - The top four teams who finish with the highest point total will qualify for the playoffs. The #1 will play the #4 seed, the #2 seed will play the #3 seed. The winner of these 2 games will meet in the finals. Note: In the event that two or more teams have the same number of points at the end of the season, the following, in order, shall determine the higher seed:
+   <ol>
+      <li>The team with the most wins</li>
+      <li>The team with the most &quot;head to head&quot; wins</li>
+      <li>The team with greater amount of &quot;head to head: goals-for minus goals-against&quot;</li>
+      <li>The team with the most wins versus all common opponents in the league, picking opponents in standing order</li>
+      <li>Coin Toss</li>
+   </ol>
+  </li>
 </ol>
 <div style="float: right;"><a href="#">Back to top</a></div>
 
