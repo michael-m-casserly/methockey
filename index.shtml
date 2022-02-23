@@ -30,12 +30,12 @@ h3{
   
   <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
-  	<h3>2020 MCHC Champs<br/>Kings Point Mariners</h3>
-    <a href="#Champs"><img src="/images/champions/2020KingsPointMarinersTeamPictureChampionshipGame_home.jpg" border="0" alt="2020 MCHC Champion Kings Point Mariners" title="2020 MCHC Champion Kings Point Mariners"></a>
+  	<h3>2022 MCHC Champs<br/>Columbia Lions</h3>
+    <a href="#Champs"><img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" border="0" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions"></a>
     <center>
-    <a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a>
+    <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a-->
     </center>
     
     </div>
@@ -196,11 +196,10 @@ h3{
 
 	<hr>
     <!--hr class="featurette-divider"-->
-	<a id="Champs"></a>
+	<!--a id="Champs"></a>
     <div class="row featurette">
       <div class="col-md-7">
         <h3 class="featurette-heading">2020 MCHC Champs - Kings Point Mariners<br><span class="text-muted">February 23, 2020 -- Dix Hills Arena, Dix Hills, NY</span></h3>
-        <!--p class="lead"-->
 		<p>
         <i>(L to R, Back Row)</i> Austin Birkemeier '23, Jon Satanek '20, John Bowden <b>(Asst. Coach)</b>, Rick Dominique <b>(Head Coach)</b>, Kevin Stefanick '23, Harold Mahony '20, Nick Stockbridge '21, Jared Bennett '20, Tyler Coburn '20, Breanna Frank '22, Colby McLiverty '20, John VerDow '23, Glenn Rinyu <b>(Asst. Coach)</b><br/>
 <i>(L to R, Middle Row)</i> Kristof Vitok '22, Joe Gramegna '20 <b>(Captain)</b>, Mike Cipolla '20, Devon Mayes '22, John Cipolla '22, Justin McGaffigan '20, John Bibeau '22, Fallon Wulff<br/>
@@ -217,7 +216,7 @@ h3{
     </center>
     </p>
       </div>
-    </div>
+    </div-->
 
     <hr>
     <!--hr class="featurette-divider"-->
