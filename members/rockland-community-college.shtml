@@ -65,7 +65,7 @@ var q = 'Rockland C.C.'
     	<td colspan="2" align="center">College Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="http://www.sunyrockland.edu/" target="_blank" class="LongURL">www.sunyrockland.edu</a></td>
+    	<td colspan="2" align="center"><a href="https://sunyrockland.edu/" target="_blank" class="LongURL">sunyrockland.edu</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>

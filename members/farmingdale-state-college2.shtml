@@ -121,7 +121,7 @@ var q = 'SUNY Farmngdale' // Intentional typo here to avoid the original team sh
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="http://fschockey.com" target="_blank" class="LongURL">fschockey.com</a></td>
+    	<td colspan="2" align="center"><a href="https://www.fschockey.com/" target="_blank" class="LongURL">fschockey.com</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">School's Nickname</td>

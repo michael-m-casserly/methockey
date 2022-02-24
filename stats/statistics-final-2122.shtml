@@ -13,27 +13,19 @@
 	<ol class="breadcrumb">
 	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
 	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
-	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Stats</span></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2021-22 Stats</span></li>
 	</ol>
   </nav>
 
       
-<div class="PageHeader">Current Stats</div>
-
-<!--Leave this commented out until new season stats are ready-->
+<div class="PageHeader">2021-22 Final Stats</div>
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
-
-<!--Temporary Note until we start publishing 2021-22 Stats-->
-
-<!--p><center><b>2021-22 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p-->
-
-<!--include virtual="/stats/statistics-current-include.html"--><!--Add this back once the new season starts-->
 
 <!--#include virtual="/stats/statistics-final-2122-include.html"-->
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
-
 <!--#include virtual="/stats/sub-nav-stats.html"-->
 
 <!--End Main Content section-->

@@ -13,15 +13,13 @@
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Standings</span></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/standings/index.shtml">Standings</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2021-22 Standings</span></li>
   </ol>
 </nav>
 
-        
-        <div class="PageHeader">Current Standings</div>
-       	<p><!--include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
-        <!--#include virtual="/standings/standings-include-2022.html"-->
-        </p>
+        <div class="PageHeader">2021-22 Standings</div>
+        <p><!--#include virtual="/standings/standings-include-2022.html"--></p>
 		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
 		<!--#include virtual="/standings/sub-nav-standings.html"-->
 

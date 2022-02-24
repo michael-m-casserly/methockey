@@ -9,30 +9,23 @@
   <!--#include virtual="/banner-m.html" -->
 
 <!--Begin Central Content-->
-
 <nav aria-label="breadcrumb">
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Results</span></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/results/index.shtml">Results</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2021-22 Results</span></li>
   </ol>
 </nav>
 
-<div class="PageHeader">Current Results</div>
-
+<div class="PageHeader">2021-22 Results</div>
+<p><center>
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<p><!--include virtual="/results/current-season-summary-include.html"--></p><!--Add this back when the new season begins-->
+<!--#include virtual="/results/results-include-2022.html"--></center></p>
 
-<p><center><!--#include virtual="/results/results-include-2022.html"--></center></p><!--Remove the 2022 once the new season starts up-->
-
-<!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
-<!--include virtual="/schedule/playoff-programs/2019-20.html"--> <!--There were no playoff programs for 2021-22-->
 <!--#include virtual="/results/results-footer.html"-->
-
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/sub-nav-results.html"-->
-
-<p><!--#include virtual="/results/consolidated-season-summaries-include.html"--></p>
 
 <!--End Main Content section-->
 
