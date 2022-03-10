@@ -32,13 +32,13 @@ var q = 'Kings%20Point'
 						<td>Goals Against</td>
 					</tr>
 					<tr height="17">
-						<td>133</td>
-						<td>169</td>
+						<td>137</td>
+						<td>178</td>
 						<td>9</td>
-						<td>3</td>
-						<td>.440</td>
-						<td>1401</td>
-						<td>1687</td>
+						<td>5</td>
+						<td>.435</td>
+						<td>1445</td>
+						<td>1765</td>
 					</tr>
 				</table>
 <br/>
@@ -50,8 +50,8 @@ var q = 'Kings%20Point'
 						<td>Final Season</td>
 					</tr>
 					<tr height="17">
-						<td>314</td>
-						<td>20</td>
+						<td>329</td>
+						<td>21</td>
 						<td>1980-81*</td>
 						<td>Active</td>
 					</tr>
@@ -59,7 +59,7 @@ var q = 'Kings%20Point'
                     	<td colspan="11">*Did Not Play 1990-2009</td>
                     </tr>
                      <tr>
-                    	<td colspan="11"><i>Records updated March 24, 2020</i></td>
+                    	<td colspan="11"><i>Records updated February 24, 2022</i></td>
                      </tr>
 				</table>
 				<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>

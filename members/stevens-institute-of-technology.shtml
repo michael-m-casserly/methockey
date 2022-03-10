@@ -32,13 +32,13 @@ var q = 'Stevens'
 						<td>Goals Against</td>
 					</tr>
 					<tr height="17">
-						<td>89</td>
-						<td>149</td>
+						<td>98</td>
+						<td>154</td>
 						<td>4</td>
-						<td>13</td>
-						<td>.374</td>
-						<td>1137</td>
-						<td>1855</td>
+						<td>15</td>
+						<td>.389</td>
+						<td>1197</td>
+						<td>1902</td>
 					</tr>
 				</table>
 <br/>
@@ -50,8 +50,8 @@ var q = 'Stevens'
 						<td>Final Season</td>
 					</tr>
 					<tr height="17">
-						<td>255</td>
-						<td>17</td>
+						<td>271</td>
+						<td>18</td>
 						<td>1991-92*</td>
 						<td>Active</td>
 					</tr>
