@@ -1,0 +1,8 @@
+AuthType Basic
+AuthName "restricted area"
+AuthUserFile /data/20/3/128/35/3454198/user/3849849/htdocs/CoachPages/.access.pwd
+AuthPam_Enabled off
+
+require valid-user
+Options -Indexes
+ErrorDocument 404 /404.shtml

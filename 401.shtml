@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+      <!--#include virtual="/banner-head.html" -->
+
+      <title>Unauthorized | Metropolitan Collegiate Hockey Conference</title>
+
+</head>
+
+    <!--#include virtual="/banner-m.html" -->    
+    
+    <!--End Banner-->
+    
+    <!--Begin Main Content Section-->
+      
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb">
+          <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+          <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Unauthorized</span></li>
+        </ol>
+      </nav>
+   
+      <div class="text-align-center"><h3>401 - Unauthorized</h3></div>
+  
+        <p>The requested page requires authentication. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
+
+        <p>
+          <center>
+        <a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home &raquo;</a>
+          </center>
+        </p>
+        
+        <!--End Main Content section-->
+        
+        <!--#include virtual="/footer-m.html" -->
+        
+        <!--End Bottom Navigation Menu-->
+        </html>

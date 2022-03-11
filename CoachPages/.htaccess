@@ -1,8 +1,12 @@
-AuthType Basic
-AuthName "restricted area"
-AuthUserFile /data/20/3/128/35/3454198/user/3849849/htdocs/CoachPages/.access.pwd
-AuthPam_Enabled off
 
-require valid-user
-Options -Indexes
-ErrorDocument 404 /404.shtml
+#----------------------------------------------------------------cp:ppd
+# Section managed by cPanel: Password Protected Directories     -cp:ppd
+# - Do not edit this section of the htaccess file!              -cp:ppd
+#----------------------------------------------------------------cp:ppd
+AuthType Basic
+AuthName "Protected 'public_html/CoachPages'"
+AuthUserFile "/home/k1j5odue96al/.htpasswds/public_html/CoachPages/passwd"
+Require valid-user
+#----------------------------------------------------------------cp:ppd
+# End section managed by cPanel: Password Protected Directories -cp:ppd
+#----------------------------------------------------------------cp:ppd

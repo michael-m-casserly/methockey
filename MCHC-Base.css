@@ -172,3 +172,8 @@ text-decoration:none !important;
 div.dropdown-menu{
 	border: 2px solid black; 
   }	
+
+  .text-align-center {
+	text-align: center;
+  }
+  
