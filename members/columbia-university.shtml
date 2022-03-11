@@ -101,7 +101,7 @@ var q = 'Columbia'
     	<td colspan="2" align="center">College Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="http://www.columbia.edu" target="_blank">www.columbia.edu</a></td>
+    	<td colspan="2" align="center"><a href="https://www.columbia.edu" target="_blank">www.columbia.edu</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>

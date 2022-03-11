@@ -25,8 +25,8 @@ function wsp_printCoupon(elemId) {
     // Wait for it to load
     if (!head || !doc.body || doc.title != "coupon_html") {
       doc.open("text/html");
-      doc.write('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd"><html>');
-      doc.writeln("<head xmlns=\"http://www.w3.org/1999/xhtml\">");
+      doc.write('<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "https://www.w3.org/TR/html4/loose.dtd"><html>');
+      doc.writeln("<head xmlns=\"https://www.w3.org/1999/xhtml\">");
       doc.writeln("<title>coupon_html</title>");
       doc.writeln('<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">');
       doc.writeln("<style>");

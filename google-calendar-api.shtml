@@ -1,5 +1,5 @@
-﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
-<html dir="ltr" xmlns="http://www.w3.org/1999/xhtml">
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "https://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html dir="ltr" xmlns="https://www.w3.org/1999/xhtml">
 
 <head>
 <meta content="en-us" http-equiv="Content-Language" />
@@ -229,7 +229,7 @@
 				</td>
 			</tr>
 			<!--tr>
-            	<td align="center"><h1>2018 MCHC Champions - Fordham Rams</h1><img src="http://www.fordhamramshockey.com/images/team/2018FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2018 Fordham Hockey Team Picture MCHC Championship Game" title="2018 Fordham Hockey Team Picture MCHC Championship Game" /></td>
+            	<td align="center"><h1>2018 MCHC Champions - Fordham Rams</h1><img src="https://www.fordhamramshockey.com/images/team/2018FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2018 Fordham Hockey Team Picture MCHC Championship Game" title="2018 Fordham Hockey Team Picture MCHC Championship Game" /></td>
             </tr-->
             <tr><td style="width: 635px;"><br/><!--#include virtual="/standings/standings-include.html"--></td></tr>
             <tr>

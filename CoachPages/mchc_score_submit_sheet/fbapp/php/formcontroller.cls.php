@@ -9,7 +9,7 @@
  * @version $Revision: 2456 $
  * @author Cees de Gruijter
  * @category FB
- * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (http://www.coffeecup.com/)
+ * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (https://www.coffeecup.com/)
  */
 
 class FormController  {
@@ -110,7 +110,7 @@ class FormController  {
 
 		if( empty($url) ) {
 
-			$url = "http://www.coffeecup.com/form-builder/";
+			$url = "https://www.coffeecup.com/form-builder/";
 
 		} elseif( !url( $url) && !preg_match( '/^(?:ftp|https?):\/\//xi' , $url ) ) {
 			isset( $_SERVER['HTTPS'] ) ? $proto = "https" : $proto = "http";

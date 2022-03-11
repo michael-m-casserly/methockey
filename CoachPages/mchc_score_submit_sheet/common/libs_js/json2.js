@@ -1,12 +1,12 @@
 /*
-    http://www.JSON.org/json2.js
+    https://www.json.org/json2.js
     2011-02-23
 
     Public Domain.
 
     NO WARRANTY EXPRESSED OR IMPLIED. USE AT YOUR OWN RISK.
 
-    See http://www.JSON.org/js.html
+    See https://www.json.org/js.html
 
 
     This code should be minified before deployment.

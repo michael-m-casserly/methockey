@@ -9,7 +9,7 @@
  * @version $Revision: 2456 $
  * @author Cees de Gruijter
  * @category FB
- * @copyright Copyright (c) 2012 CoffeeCup Software, Inc. (http://www.coffeecup.com/)
+ * @copyright Copyright (c) 2012 CoffeeCup Software, Inc. (https://www.coffeecup.com/)
  */
 
 class PageExtension {

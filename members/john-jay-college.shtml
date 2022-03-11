@@ -61,7 +61,7 @@ var q = 'John Jay'
     	<td colspan="2" align="center">College Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="http://www.jjay.cuny.edu/" target="_blank" class="LongURL">www.jjay.cuny.edu/</a></td>
+    	<td colspan="2" align="center"><a href="https://www.jjay.cuny.edu/" target="_blank" class="LongURL">www.jjay.cuny.edu/</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>

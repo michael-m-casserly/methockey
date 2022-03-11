@@ -9,7 +9,7 @@
  * @version $Revision: 2456 $
  * @author Cees de Gruijter
  * @category FB
- * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (http://www.coffeecup.com/)
+ * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (https://www.coffeecup.com/)
  */
 
 // copy anything valid from $_POST to $post

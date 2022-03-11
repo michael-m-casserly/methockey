@@ -9,7 +9,7 @@
  * @version $Revision: 2456 $
  * @author Cees de Gruijter
  * @category FB
- * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (http://www.coffeecup.com/)
+ * @copyright Copyright (c) 2011 CoffeeCup Software, Inc. (https://www.coffeecup.com/)
  */
 
 // load PHP4 compatibility functions (from the PEAR::PHP_Compat package) if needed
