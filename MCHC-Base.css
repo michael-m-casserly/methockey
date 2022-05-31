@@ -131,6 +131,7 @@ td {
 	/*border:thin;*/
 	border-width: 1px; 
 	border-color: #CCC;	
+	margin: auto; /* This ensures that the table will center inside of a DIV */
 }
 
 .TableStandard td {
