@@ -33,8 +33,8 @@ var q = 'Farmingdale'
 					<tr height="17">
 						<td>7</td>
 						<td>6</td>
-						<td>0</td>
 						<td>3</td>
+						<td>0</td>
 						<td>.538</td>
 						<td>60</td>
 						<td>72</td>
@@ -52,7 +52,7 @@ var q = 'Farmingdale'
 						<td>16</td>
 						<td>1</td>
 						<td>2021-22</td>
-						<td>Active</td>
+						<td>2021-22</td>
 					</tr>
                     <!--tr>
                     	<td colspan="11">*Any Notes Here</td>
