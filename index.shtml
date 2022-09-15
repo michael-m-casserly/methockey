@@ -32,16 +32,16 @@ h3{
   
   <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2022 MCHC Champs<br/>Columbia Lions</h3>
     <a href="#Champs"><img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" border="0" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions"></a>
-    <center>
+    <center-->
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a-->
-    </center>
+    <!--/center>
     
     </div>
-   </div>
+   </div-->
     
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -113,12 +113,13 @@ h3{
         <!--hr-->
         
         <div class="round-border">
-        <h3>News</h3>
-        <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
-
-		<p><a class="twitter-timeline" height="480" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-
-		    </div>
+          <h3>Schedule</h3>
+          <center>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 342px; width: 100%; overflow: hidden;"></iframe></div>
+  
+          </center>
+           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
+        </div>
                 
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
@@ -136,10 +137,10 @@ h3{
         <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button" style="width:200px;">Stats (All-Time)</a></p>
 		</div>
 
-    <!--div class="round-border">
+    <div class="round-border">
       <h3>Current Season</h3>
-      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');" style="width:250px;">COVID-19 Protocols (Team)</a></p>
-      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');" style="width:250px;">COVID-19 Protocols (Rink)</a></p>
+      <!--p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');" style="width:250px;">COVID-19 Protocols (Team)</a></p>
+      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');" style="width:250px;">COVID-19 Protocols (Rink)</a></p-->
       <p><a class="btn btn-secondary" href="/members/index.shtml" role="button" style="width:250px;">Conference Members</a></p>
       <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button" style="width:250px;">Executive Board</a></p>
       <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button" style="width:250px;">League Info</a></p>
@@ -150,15 +151,14 @@ h3{
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
       
-        <!--div class="round-border">
-          <h3>Schedule</h3>
-          <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 342px; width: 100%; overflow: hidden;"></iframe></div>
+        <div class="round-border">
+          <h3>News</h3>
+          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
   
-          </center-->
-           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
-        <!--/div-->
+      <p><a class="twitter-timeline" height="480" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   
+          </div>
+    
         <div class="round-border">
 
 		<h3>Player of the Month</h3>
@@ -193,19 +193,19 @@ h3{
 
     <!-- START THE FEATURETTES -->
 
-	<!--hr>
+	<hr>
 	<a id="Champs"></a>
     <div class="row featurette">
       <div class="col-md-7">
-        <h3 class="featurette-heading">2020 MCHC Champs - Kings Point Mariners<br><span class="text-muted">February 23, 2020 -- Dix Hills Arena, Dix Hills, NY</span></h3>
-		<p>
+        <h3 class="featurette-heading">2022 MCHC Champs - Columbia Lions<br><span class="text-muted">February 20, 2022 -- Dix Hills Arena, Dix Hills, NY</span></h3>
+		<!--p>
         <i>(L to R, Back Row)</i> Austin Birkemeier '23, Jon Satanek '20, John Bowden <b>(Asst. Coach)</b>, Rick Dominique <b>(Head Coach)</b>, Kevin Stefanick '23, Harold Mahony '20, Nick Stockbridge '21, Jared Bennett '20, Tyler Coburn '20, Breanna Frank '22, Colby McLiverty '20, John VerDow '23, Glenn Rinyu <b>(Asst. Coach)</b><br/>
 <i>(L to R, Middle Row)</i> Kristof Vitok '22, Joe Gramegna '20 <b>(Captain)</b>, Mike Cipolla '20, Devon Mayes '22, John Cipolla '22, Justin McGaffigan '20, John Bibeau '22, Fallon Wulff<br/>
 <i>(L to R, Front Row)</i> Kevin Cruz '22, Preston Ford '22, Grey Wilson '20, Zach Kagle '20, Mike Fink '20<br/>
-<i>Not pictured:</i> Brandon Gyrion '20 and Alexa Vandermeer '20</p>
+<i>Not pictured:</i> Brandon Gyrion '20 and Alexa Vandermeer '20</p-->
             </div>
       <div class="col-md-5">
-      <img src="/images/champions/2020KingsPointMarinersTeamPictureChampionshipGame_home.jpg" alt="2020 MCHC Champion Kings Point Mariners" title="2020 MCHC Champion Kings Point Mariners" style="border: 0; ">
+      <img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions" style="border: 0; ">
      <br/>
     <br/>    
     <p>
@@ -216,7 +216,7 @@ h3{
       </div>
     </div>
 
-    <hr-->
+    <hr>
 
     <!-- /END THE FEATURETTES -->
 
