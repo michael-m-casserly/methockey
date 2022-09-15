@@ -120,7 +120,13 @@ h3{
           </center>
            <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
         </div>
-                
+        
+        <div class="round-border">
+          <h3>Coaches</h3>
+          <p>Submit Scores and Download Forms<br/>(Login Required)</p>
+          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
+      </div>
+    
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
@@ -172,20 +178,15 @@ h3{
  		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
 		</div>
         
-        <a id="ACHARankings"></a>
+        <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
-        <!--center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
+        <center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
-        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p-->
+        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p>
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team</a></p>
-		</div>        
+		</div-->        
 
-    <div class="round-border">
-      <h3>Coaches</h3>
-      <p>Submit Scores and Download Forms<br/>(Login Required)</p>
-      <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
-  </div>
 
         </div><!-- /.col-lg-4 -->
     </div><!-- /.row -->
