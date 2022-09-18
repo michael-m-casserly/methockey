@@ -148,8 +148,6 @@ var q = 'Suffolk'
 </table>
 </center>
 
-<!--#include virtual="/schedule/display-schedule-current.html"-->
-
 <!--#include virtual="/schedule/playoff-programs/2019-20.html"-->
 
 <!--#include virtual="/schedule/playoff-programs/2018-19.html"-->
