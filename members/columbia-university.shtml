@@ -62,7 +62,7 @@ var q = 'Columbia'
                      </tr>
 				</table>
 				<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
-					<!--a href="/mchc/champions.shtml#2022"-->2021-22<!--/a-->
+					<a href="/mchc/champions.shtml#2022">2021-22</a>
 					</div>	
 <br/>
 <table class="TableStandard" border="1">
