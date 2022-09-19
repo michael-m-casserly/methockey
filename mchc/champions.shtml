@@ -20,6 +20,26 @@
 <div class="PageHeader">League Champions</div>
     <!--hr class="featurette-divider"-->
 
+    <a name="2022"></a>
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h3 class="featurette-heading"><a href="/members/columbia-university.shtml">2022 Columbia Lions</a><br><span class="text-muted">February 20, 2022 -- Dix Hills Arena, Dix Hills, NY</span></h3>
+        <!--p class="lead"-->
+        <p>
+        <i>(L to R, Back Row, Standing)</i> Arieh Soferr, Rafe Batchelor, Bruce Baker <b>(Head Coach)</b>, Michael Montanaro-Amato, TJ Schaffer, Jacob Lessick, Chris Mendell, TBD<br/>
+		<i>(L to R, Middle Row, Kneeling)</i> Teddy Kennedy, Liam Fitzgerald, Tim Simmons, Patrick McGoey, Eitan Hoffman<br/>
+		<i>(L to R, 2nd Row)</i> Kyle Orgel, Ethan Roth, Dennis Franklin (A), Sam Frelich, Alex Killips<br/>
+		<i>(L to R, Front Row, Sitting)</i> Rishab Nandan, Jason Cardinale (A), Ben Vermette (C), Jonas Passante, Rohil Sabherwal, Sean Reilly, Scott Slater (A), Weston Goodman (A)<br/>
+		<i>(Not Pictured)</i> Ian Ionnas Frankel, Justin Paik 
+		</p>
+      </div>
+      <div class="col-md-5">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="397" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x397" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2019 MCHC Champion Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x397</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" width="610" height="397"/></svg-->
+      <img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" border="0" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions">
+      <!--include virtual="/schedule/playoff-programs/2021-22.html"-->
+      </div>
+    </div>
+	<hr>
     <a name="2020"></a>
     <div class="row featurette">
       <div class="col-md-7 order-md-2">
