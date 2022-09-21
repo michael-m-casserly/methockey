@@ -19,8 +19,8 @@
 
         
         <div class="PageHeader">Current Standings</div>
-       	<p><!--include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
-        <!--#include virtual="/standings/standings-include-2022.html"-->
+       	<p><!--#include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
+        <!--include virtual="/standings/standings-include-2022.html"-->
         </p>
 		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
 		<!--#include virtual="/standings/sub-nav-standings.html"-->
