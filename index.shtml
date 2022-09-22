@@ -37,7 +37,7 @@ h3{
   	<h3>2022 MCHC Champs<br/>Columbia Lions</h3>
     <a href="#Champs"><img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" border="0" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions"></a>
     <center-->
-    <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go &raquo;</a-->
+    <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a-->
     <!--/center>
     
     </div>
@@ -118,13 +118,13 @@ h3{
           <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 542px; width: 100%; overflow: hidden;"></iframe></div>
   
           </center>
-           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar &raquo;</a></p-->
+           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar</a></p-->
         </div>
         
         <div class="round-border">
           <h3>Coaches</h3>
           <p>Submit Scores and Download Forms<br/>(Login Required)</p>
-          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
+          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
       </div>
     
       </div><!-- /.col-lg-4 -->
@@ -183,7 +183,7 @@ h3{
         <h3>ACHA D3 Rankings</h3>
         <center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
-        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20 &raquo;</a></p>
+        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20</a></p>
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team</a></p>
 		</div-->        
 

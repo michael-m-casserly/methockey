@@ -43,44 +43,44 @@ h3{
         
         <div class="round-border">
         <h3>Home</h3>
-        <p><a class="btn btn-secondary" href="/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/index.shtml" role="button">Go</a></p>
 		</div>
         
         <div class="round-border">
         <h3>Members</h3>
 		<p>Current Member Colleges &amp; Universities</p>
-        <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Go &raquo;</a></p-->
+        <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Go</a></p-->
 		<p>Former Conference Members</p>
-        <p><a class="btn btn-secondary" href="/members/index.shtml#former-members" role="button">Go &raquo;</a></p-->
+        <p><a class="btn btn-secondary" href="/members/index.shtml#former-members" role="button">Go</a></p-->
 		</div>
         
         <div class="round-border">
         <h3>League News</h3>
         <!--p></p-->
-        <p><a class="btn btn-secondary" href="/league/news.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/league/news.shtml" role="button">Go</a></p>
 		</div>        
               
         <div class="round-border">
         <h3>League Schedule</h3>
         <!--p>All games are posted to a Google Calender.</p-->
-        <p><a class="btn btn-secondary" href="/schedule/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/schedule/index.shtml" role="button">Go</a></p>
 		</div>        
         
         <div class="round-border">
         <h3>All-Time Leaders</h3>
         <p>All-Time Individual Leaders (by season) for Goals, Assists, Points, and Penalty Minutes.</p>
-        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Go</a></p>
 		</div>        
 
 		<div class="round-border">
         <h3>Season Summaries</h3>
-        <p><a class="btn btn-secondary" href="/results/season-summaries.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/results/season-summaries.shtml" role="button">Go</a></p>
 		</div>        
 
   		<div class="round-border">
         <h3>Coaches</h3>
         <!--p>Submit Scores and Download Forms<br/>(Login Required)</p-->
-        <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
 		</div>
         
       </div><!-- /.col-lg-4 -->
@@ -90,19 +90,19 @@ h3{
         <div class="round-border">
         <h3>League Results</h3>
         <!--#include virtual="/results/results-list-by-year.html"-->
-        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Go</a></p>
 		</div>        
         
         <div class="round-border">
         <h3>League Standings</h3>
     	<!--#include virtual="/standings/standings-list-by-year.html"-->
-        <p><a class="btn btn-secondary" href="/standings/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/standings/index.shtml" role="button">Go</a></p>
 		</div>        
         
         <div class="round-border">
         <h3>League Stats</h3>
         <!--#include virtual="/stats/stats-list-by-year.html"-->
-        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Go</a></p>
 		</div>        
 
       </div><!-- /.col-lg-4 -->
@@ -112,42 +112,42 @@ h3{
 
 		<div class="round-border">
         <h3>ACHA All Atlantic Region Team</h3>
-        <p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">Go</a></p>
 		</div>        
 
 		<div class="round-border">
         <h3>Affiliates</h3>
-        <p><a class="btn btn-secondary" href="/mchc/affiliates.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/affiliates.shtml" role="button">Go</a></p>
 		</div>        
         
 		<div class="round-border">
         <h3>Champions</h3>
-        <p><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">Go</a></p>
 		</div>        
 
 		<div class="round-border">
         <h3>Contact Us</h3>
-        <p><a class="btn btn-secondary" href="/contact/index.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/contact/index.shtml" role="button">Go</a></p>
 		</div>        
 
 		<div class="round-border">
         <h3>Executive Board</h3>
-        <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Go</a></p>
         </div>        
 
 		<div class="round-border">
         <h3>Player of the Month</h3>
- 		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">Go &raquo;</a></p>
+ 		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">Go</a></p>
         </div>        
 
 		<div class="round-border">
         <h3>Rinks</h3>
-        <p><a class="btn btn-secondary" href="/mchc/rinks.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/rinks.shtml" role="button">Go</a></p>
 		</div>        
 
 		<div class="round-border">
         <h3>Rules</h3>
-        <p><a class="btn btn-secondary" href="/mchc/rules.shtml" role="button">Go &raquo;</a></p>
+        <p><a class="btn btn-secondary" href="/mchc/rules.shtml" role="button">Go</a></p>
 		</div>        
 
         </div><!-- /.col-lg-4 -->

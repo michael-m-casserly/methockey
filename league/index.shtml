@@ -24,12 +24,12 @@
 
 <p>
 	<center>
-          <a class="btn btn-secondary" role="button" href="/league/news.shtml">News &raquo;</a><br/><br/>
-          <a class="btn btn-secondary" role="button" href="/results/index.shtml">Results &raquo;</a><br/><br/>
-          <a class="btn btn-secondary" role="button" href="/schedule/index.shtml">Schedule &raquo;</a><br/><br/>
-          <a class="btn btn-secondary" role="button" href="/standings/index.shtml">Standings &raquo;</a><br/><br/>
-          <a class="btn btn-secondary" role="button" href="/stats/index.shtml">Stats &raquo;</a><br/><br/>
-		  <a class="btn btn-secondary" role="button" href="/stats/index.shtml#HistoricalStats">Stats (All Time) &raquo;</a>
+          <a class="btn btn-secondary" role="button" href="/league/news.shtml">News</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/results/index.shtml">Results</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/schedule/index.shtml">Schedule</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/standings/index.shtml">Standings</a><br/><br/>
+          <a class="btn btn-secondary" role="button" href="/stats/index.shtml">Stats</a><br/><br/>
+		  <a class="btn btn-secondary" role="button" href="/stats/index.shtml#HistoricalStats">Stats (All Time)</a>
     </center>
 </p>
 
