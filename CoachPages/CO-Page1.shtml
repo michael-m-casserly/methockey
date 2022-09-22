@@ -21,21 +21,39 @@
   </ol>
 </nav>
 
-<p><center><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></center></p>
-
-<p><center><a class="btn btn-secondary" role="button" href="M3-Fall-Eligibility-Form-2022.xlsx">ACHA Fall 2022<br/>Eligibility Form (Excel)</a></center></p>
-
-<p><center><a class="btn btn-secondary" role="button" href="M3-Fall-Eligibility-Instructions.pdf">ACHA Fall 2022<br/>Eligibility Form Instructions (PDF)</a></center></p>
-
 <p><center><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">Submit Game Score</a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="https://www.youtube.com/watch?v=-htTi6mdt20" target="_blank">NCAA Rule Changes (Video)</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker<br/>(Google Sheet)</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="M3-Fall-Eligibility-Form-2022.xlsx" target="_blank">ACHA Fall 2022<br/>Eligibility Form&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
+  <title id="xlsx-label-mouseover-acha-eligibility-form">XLSX</title>
+  <use xlink:href="#filetype-xlsx" />
+</svg></a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing" target="_blank">External Team Game Tracker<br/>(Google Sheet)</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="M3-Fall-Eligibility-Instructions.pdf" target="_blank">ACHA Fall 2022<br/>Eligibility Form Instructions&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+  <title id="pdf-label-mouseover-acha-eligibility-form-instructions">PDF</title>
+  <use xlink:href="#filetype-pdf" />
+</svg></a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.<br/>(Google Drive)</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="https://www.youtube.com/watch?v=-htTi6mdt20" target="_blank">NCAA Rule Changes&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+  <title id="youtube-label-mouseover-ncaa-rule-changes">YouTube</title>
+  <use xlink:href="#youtube" />
+</svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+  <title id="google-label-mouseover-website-maintenance-tracker">Google</title>
+  <use xlink:href="#google" />
+</svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing" target="_blank">External Team Game Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+  <title id="google-label-mouseover-external-game-tracker">Google</title>
+  <use xlink:href="#google" />
+</svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+  <title id="google-label-mouseover-upload-videos-files">Google</title>
+  <use xlink:href="#google" />
+</svg></a></center></p>
 
 <!--#include virtual="CO-Page4-referee-assignments.html" -->
 
