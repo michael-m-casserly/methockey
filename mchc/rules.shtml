@@ -17,7 +17,10 @@
 	</ol>
   </nav>
 
-<p><center><a class="btn btn-secondary" role="button" href="NCAA-Rulebook-2022-24.pdf" target="_blank">NCAA Rulebook 2022-24</a></center></p>
+<p><center><a class="btn btn-secondary" role="button" href="NCAA-Rulebook-2022-24.pdf" target="_blank">NCAA Rulebook 2022-24&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+  <title id="pdf-label-mouseover-ncaa-rulebook-22-24">PDF</title>
+  <use xlink:href="#filetype-pdf" />
+</svg></a></center></p>
 
 <div class="PageHeader">League Rules</div>
 
