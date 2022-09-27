@@ -22,14 +22,6 @@
                 <div class="PageHeader">LEAGUE RINKS</div>
 				<center>
                 <table cellpadding="2" cellspacing="0" border="1" style="border:medium; border-color:#000000; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
-					<!--colgroup>
-						<col style="mso-width-source:userset;mso-width-alt:4278;width:88pt" width="117" />
-						<col style="mso-width-source:userset;mso-width-alt:6326;width:130pt" width="173" />
-						<col style="mso-width-source: userset; mso-width-alt: 5302;" />
-						<col style="mso-width-source:userset;mso-width-alt:8374;width:172pt" width="229" />
-						<col style="mso-width-source:userset;mso-width-alt:3693;width:76pt;align:center;" width="101" />
-						<col style="mso-width-source:userset;mso-width-alt:2267;width:47pt;align:center;" width="62" />
-					</colgroup-->
 					<tr height="25" style="font-weight:bold;" class="TableHeader">
 						<td height="25" >
 						Team</td>
@@ -55,46 +47,11 @@
 						<a href="/members/columbia-university.shtml">Columbia (2)</a></td>
 						<td>Riverbank State Park<br/>212-694-3600</td>
 						<td>679 Riverside Drive<br>
-New York, NY 10031</td>
+							New York, NY 10031</td>
 						<td>
 						<a href="https://www.nycgo.com/venues/riverbank-state-park-ice-rink" target="_blank">Website</a><br/><br/>
 						<a href="https://goo.gl/maps/wvJJVudGNshC2PUn6" target="_blank">Map</a></td>
 					</tr>
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
-						<a href="/members/farmingdale-state-college.shtml">Farmingdale State</a></td>
-						<td>Ice Works<br/>516-496-2277</td>
-						<td>175 Underhill Blvd<br>
-							Syosset, NY 11791</td>
-						<td>
-						<a href="https://www.nhl.com/islanders/iceworks" target="_blank">Website</a><br/><br/>
-						<a href="https://www.google.com/maps/place/Ice+Works/@40.8205871,-73.5094442,17z/data=!4m12!1m6!3m5!1s0x89c2823418fb88f5:0x38b42d0b7098a1d6!2sIce+Works!8m2!3d40.8205871!4d-73.5072555!3m4!1s0x89c2823418fb88f5:0x38b42d0b7098a1d6!8m2!3d40.8205871!4d-73.5072555" target="_blank">Map</a></td>
-					</tr>
-					<!--tr height="53">
-						<td height="53" style="height: 39.95pt">
-						Fordham</td>
-						<td>Ice Hutch Ice Rink<br/>914-699-6787</td>
-						<td>655 Garden 
-						Ave.<br />
-						Mount Vernon, NY 10552</td>
-						<td>
-						<a href="https://www.icehutch.com/" target="_blank">Website</a></td>
-						<td>
-						<a href="https://goo.gl/maps/tg3BVd5GZxUBsta26" target="_blank">
-						Map</a></td>
-					</tr-->
-					<!--tr height="53">
-						<td height="53" style="height: 39.95pt">
-						Hofstra</td>
-						<td>Northwell Health<br/>Ice Center<br/>at Eisenhower Park<br/>516-441-0070</td>
-						<td>200 Merrick Ave<br />
-						East Meadow, NY 11554</td>
-						<td>
-						<a href="http://twinrinkseisenhower.com/" target="_blank">Website</a></td>
-						<td>
-						<a href="http://arenamaps.com/view_arena.php?position=0&amp;arena_name=Eisenhower+park&amp;city=&amp;state=NY&amp;zip=&amp;country=&amp;id=5574&amp;sport=0" target="_blank">
-						Map</a></td>
-					</tr-->
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
 						<a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">Kings Point</a></td>
@@ -117,19 +74,6 @@ New York, NY 10031</td>
 						<a href="https://www.worldice.com/" target="_blank">Website</a><br/><br/>
 						<a href="https://goo.gl/maps/yDcsRwStvu4UNtLD8" target="_blank">Map</a></td>
 					</tr>
-					<!--tr height="53">
-						<td height="53" style="height: 39.95pt">
-						Ramapo</td>
-						<td>Sport-o-Rama</td>
-						<td>845-356-3919</td>
-						<td style="width: 218pt">20 College 
-						Road<br />
-						Monsey, NY 10952</td>
-						<td style="width: 76pt" width="101">
-						<a href="https://www.sportorama.com/" target="_blank">Website</a></td>
-						<td style="width: 47pt" width="62">
-						<a href="http://arenamaps.com/view_arena.php?position=0&amp;arena_name=sport&amp;city=&amp;state=NY&amp;zip=&amp;country=&amp;id=845&amp;sport=0" target="_blank">Map</a></td>
-					</tr-->
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
 						<a href="/members/sacred-heart-university.shtml">Sacred Heart</a></td>
@@ -164,19 +108,7 @@ New York, NY 10031</td>
 					</tr>                    
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
-						<a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-						<td>Dix Hills Ice Rink<br />
-						(Dix Hills Park)<br/>631-499-1202</td>
-						<td>575 
-						Vanderbilt Pkwy.<br />
-						Dix Hills, NY 11746</td>
-						<td>
-						<a href="https://www.huntingtonny.gov/content/13749/13843/15187/99823/15191/default.aspx" target="_blank">Website</a><br/><br/>
-						<a href="https://goo.gl/maps/qmcrpCcY1NBwhqsi7" target="_blank">Map</a></td>
-					</tr>
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
-						<a href="/members/western-connecticut-state-university.shtml">Western<br/>Conn.</a></td>
+						<a href="/members/western-connecticut-state-university.shtml">WestConn</a></td>
 						<td>Danbury Ice Arena<br />
 						203-794-1704</td>
 						<td>1 Independence Way<br/>
