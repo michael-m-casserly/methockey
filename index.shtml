@@ -137,18 +137,18 @@ h3{
         
         <div class="round-border">
 		<h3>Numbers</h3>
-        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button" style="width:200px;">Results</a></p>
-        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button" style="width:200px;">Stats</a></p>
-        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button" style="width:200px;">Stats (All-Time)</a></p>
+        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
+        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
+        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a></p>
 		</div>
 
     <div class="round-border">
       <h3>Current Season</h3>
-      <!--p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');" style="width:250px;">COVID-19 Protocols (Team)</a></p>
-      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');" style="width:250px;">COVID-19 Protocols (Rink)</a></p-->
-      <p><a class="btn btn-secondary" href="/members/index.shtml" role="button" style="width:250px;">Conference Members</a></p>
-      <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button" style="width:250px;">Executive Board</a></p>
-      <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button" style="width:250px;">League Info</a></p>
+      <!--p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');">COVID-19 Protocols (Team)</a></p>
+      <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');">COVID-19 Protocols (Rink)</a></p-->
+      <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
+      <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
+      <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
     </div>
 
       </div><!-- /.col-lg-4 -->
@@ -184,8 +184,8 @@ h3{
         <h3>ACHA D3 Rankings</h3>
         <center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
-        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button" style="width:250px;">D3 Rankings 2019-20</a></p>
-		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button" style="width:250px;">All Atlantic Region Team</a></p>
+        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
+		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
 		</div-->        
 
 

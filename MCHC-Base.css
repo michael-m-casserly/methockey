@@ -157,8 +157,9 @@ td {
 /* Button properties */
 
 .btn-secondary {
-background-color: #1b95e0 !important;
-text-decoration: none !important;
+	width: 250px; 
+	background-color: #1b95e0 !important;
+	text-decoration: none !important;
 }
 
 a:link {
