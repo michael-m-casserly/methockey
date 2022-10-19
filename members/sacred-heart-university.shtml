@@ -108,6 +108,15 @@ var q = 'Sacred%20Heart'
     	<td colspan="2" align="center"><a href="https://sacredheart.edu/" target="_blank" class="LongURL">https://sacredheart.edu</a></td>
 	</tr>
     <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Social</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">    
+			<a class="text" href="https://twitter.com/SHUClubBHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
+			<a class="text" href="https://www.instagram.com/shuclubhockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
+	  </td>
+	</tr>
+    <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
     </tr>
     <tr>

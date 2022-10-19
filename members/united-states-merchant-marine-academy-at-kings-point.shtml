@@ -112,6 +112,15 @@ var q = 'Kings%20Point'
     <tr>
     	<td colspan="2" align="center"><a href="https://www.usmma.edu" target="_blank">www.usmma.edu</a></td>
     </tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Social</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">    
+			<a class="text" href="https://twitter.com/USMMAPuck" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
+			<a class="text" href="https://www.facebook.com/KingsPointHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Facebook"><title id="facebook-label-mouseover">Facebook</title><use xlink:href="#facebook"/></svg></a>
+	  </td>
+	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
     </tr>
