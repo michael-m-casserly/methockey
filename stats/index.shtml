@@ -28,9 +28,7 @@
 
 <!--p><center><b>2021-22 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p-->
 
-<!--include virtual="/stats/statistics-current-include.html"--><!--Add this back once the new season starts-->
-
-<!--#include virtual="/stats/statistics-final-2122-include.html"-->
+<!--#include virtual="/stats/statistics-current-include.html"--><!--Add this back once the new season starts-->
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
 
