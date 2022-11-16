@@ -28,7 +28,18 @@
 
 <!--p><center><b>2021-22 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p-->
 
-<!--#include virtual="/stats/statistics-current-include.html"--><!--Add this back once the new season starts-->
+<!--include virtual="/stats/statistics-current-include.html"--><!--Add this back once the new season starts-->
+<!--Broke this into separate tabs on the XLS starting Nov 2022-->
+
+<!--#include virtual="/stats/statistics-current-include-player-scoring.html"-->
+<br>
+<!--#include virtual="/stats/statistics-current-include-goalie.html"-->
+<br>
+<!--#include virtual="/stats/statistics-current-include-player-pim-ppg.html"-->
+<br>
+<!--#include virtual="/stats/statistics-current-include-team-pp-pk-pim.html"-->
+<br>
+<!--#include virtual="/stats/statistics-current-include-team-scoring.html"-->
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
 
