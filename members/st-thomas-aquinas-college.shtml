@@ -70,7 +70,7 @@ var q = 'STAC'
     <tr>
     	<td>Brad Sarno</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;845-398-4153<br/>
- <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:bsarno@stac.edu">bsarno@stac.edu</a></td>
+ 			<a href="mailto:bsarno@stac.edu">Email Brad</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
@@ -78,7 +78,7 @@ var q = 'STAC'
     <tr>
     	<td>Matt Schuster</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;201-913-4536<br/>
-<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:icehockey@stac.edu">icehockey@stac.edu</a></td>
+			<a href="mailto:icehockey@stac.edu">Email Matt</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

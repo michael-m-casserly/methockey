@@ -75,7 +75,7 @@ var q = 'Sacred%20Heart'
     <tr>
     	<td>Jordy Hagwell</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-4653<br/>
-            <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:hagwellj@sacredheart.edu">hagwellj@sacredheart.edu</a></td>
+            <a href="mailto:hagwellj@sacredheart.edu">Email Jordy</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Team Contact</td>
@@ -90,7 +90,7 @@ var q = 'Sacred%20Heart'
     <tr>
     	<td>Ray Mencio</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-371-8286<br/>
-                <span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:R-Mencio@sacredheart.edu">R-Mencio@sacredheart.edu</a></td>
+                <a href="mailto:R-Mencio@sacredheart.edu">Email Ray</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

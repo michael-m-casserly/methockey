@@ -79,14 +79,14 @@ var q = 'Columbia'
     </tr>
     <tr>
     	<td>Bruce Baker</td>
-    	<td><a href="mailto:brucebaker21@yahoo.com?subject=Ice Hockey Club Team">brucebaker21@yahoo.com</a></td>
+    	<td><a href="mailto:brucebaker21@yahoo.com?subject=Ice Hockey Club Team">Email Bruce</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Team President</td>
     </tr>
     <tr>
     	<td>Weston Goodman</td>
-        <td><a href="mailto:wag2123@columbia.edu">wag2123@columbia.edu</a></td>
+        <td><a href="mailto:wag2123@columbia.edu">Email Weston</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

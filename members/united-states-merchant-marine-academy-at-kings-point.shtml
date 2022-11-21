@@ -73,7 +73,7 @@ var q = 'Kings%20Point'
     <tr>
     	<td>Rick Dominique</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;1-516-726-6036<br/>
-		<a href="mailto:DominiqueR@usmma.edu">DominiqueR@usmma.edu</a></td>
+		<a href="mailto:DominiqueR@usmma.edu">Email Rick</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Asst. Coach</td>
@@ -95,7 +95,7 @@ var q = 'Kings%20Point'
     <tr>
     	<td>Professor Emily Gardner</td>
         <td><span class="TeamPageContactLabel">Phone:</span>&nbsp;516-726-5762<br/>
-		<a href="mailto:GardnerE@usmma.edu">GardnerE@usmma.edu</a></td>
+		<a href="mailto:GardnerE@usmma.edu">Email Emily</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

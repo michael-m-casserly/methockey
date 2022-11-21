@@ -70,14 +70,14 @@ var q = 'WestConn'
     <tr>
     	<td>Amy Shanks</td>
         <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-837-8609<br/>
-			<a href="mailto:shanksa@wcsu.edu" target="_blank" class="LongURL">shanksa@wcsu.edu</a></td>
+			<a href="mailto:shanksa@wcsu.edu" target="_blank">Email Amy</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
     	<td>Corey Dunn</td>
-        <td><a href="mailto:Cndunn17@sbcglobal.net" target="_blank">Cndunn17@sbcglobal.net</a></td>
+        <td><a href="mailto:Cndunn17@sbcglobal.net" target="_blank">Email Corey</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
