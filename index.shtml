@@ -111,30 +111,29 @@ h3{
 		</style>
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
+<div class="round-border">
+          <h3>Schedule</h3>
+          <center>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 542px; width: 100%; overflow: hidden;"></iframe></div>
+  
+          </center>
+           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar</a></p-->
+        </div>
+
         
         <div class="round-border">
-          <h3>News</h3>
-          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
-  
-      <p><a class="twitter-timeline" height="480" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-  
-          </div>
-            
-        <div class="round-border">
-          <h3>Coaches</h3>
-          <p>Submit Scores and Download Forms<br/>(Login Required)</p>
-          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
-      </div>
 
-      <div class="round-border">
-        <h3>ACHA Rankings</h3>
-        <!--p></p-->
-        <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking3.pdf" target="_blank">As of 11-27-2022&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg></a></center></p>
-            </div>
-
+		<h3>Player of the Month</h3>
+    <h5>Oct 2022</h5>
+        <p style="font-size:16px">
+            <b>#39 Chris Paulino-Simms</b><br/>
+			<a href="/members/maritime-college.shtml">Maritime</a><br/>
+			4-1<br/>
+      2.37 GAA<br/>
+      93.8&nbsp;SV%</p>
+ 		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+		</div>
+        
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
@@ -165,28 +164,29 @@ h3{
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
       
-        <div class="round-border">
-          <h3>Schedule</h3>
-          <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 542px; width: 100%; overflow: hidden;"></iframe></div>
+                <div class="round-border">
+          <h3>News</h3>
+          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
   
-          </center>
-           <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar</a></p-->
-        </div>
-
-        
+      <p><a class="twitter-timeline" height="480" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  
+          </div>
+            
         <div class="round-border">
+          <h3>Coaches</h3>
+          <p>Submit Scores and Download Forms<br/>(Login Required)</p>
+          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
+      </div>
 
-		<h3>Player of the Month</h3>
-    <h5>Oct 2022</h5>
-        <p style="font-size:16px">
-            <b>#39 Chris Paulino-Simms</b><br/>
-			<a href="/members/maritime-college.shtml">Maritime</a><br/>
-			4-1<br/>
-      2.37 GAA<br/>
-      93.8&nbsp;SV%</p>
- 		<p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
-		</div>
+      <div class="round-border">
+        <h3>ACHA Rankings</h3>
+        <!--p></p-->
+        <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking3.pdf" target="_blank">As of 11-27-2022&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+          <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
+          <use xlink:href="#filetype-pdf" />
+        </svg></a></center></p>
+            </div>
+
         
         <!--a id="ACHARankings"></a>
         <div class="round-border">
