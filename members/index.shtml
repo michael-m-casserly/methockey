@@ -38,18 +38,16 @@
 </div> 
 
           <a name="prospective-members"></a>
-        <br/>
+        <br>
         <div class="PageHeader">Prospective Conference Members</div>                   
 
-        <div class="schoolNames"><center>
-          <a href="/members/city-college-of-new-york.shtml"><img src="/images/school-names/ccny.jpg" alt="City College of New York" title="City College of New York" style="width:320px; height:135px;" /></a>
-        
-        </center>
+        <div><center>
+          <a href="/members/city-college-of-new-york.shtml"><img src="/images/school-names/ccny.jpg" alt="City College of New York" title="City College of New York" style="width:320px; height:135px;" /></a></center>
         </div>
         
+        <br>
           <a name="former-members"></a>
-				<br/>
-                <div class="PageHeader">Former Conference Members</div>                   
+            <div class="PageHeader">Former Conference Members</div>
 
                 <div class="schoolNames"><center>
                 <a href="/members/adelphi-university.shtml"><img src="/images/school-names/adelphi.png" alt="Adelphi University" title="Adelphi University" style="width:320px; height:142px;" /></a>
