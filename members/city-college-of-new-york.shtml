@@ -103,6 +103,12 @@ var q = 'CCNY'
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
+    	<td colspan="2" align="center"><a href="https://ccnyathletics.com/sports/ice-hockey?path=icehockey" target="_blank" class="LongURL">https://ccnyathletics.com/sports/ice-hockey?path=icehockey</a></td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Facebook Page</td>
+    </tr>
+    <tr>
     	<td colspan="2" align="center"><a href="https://www.facebook.com/pages/category/College---University/CCNY-Ice-Hockey-Club-424554941666650/" target="_blank" class="LongURL">https://www.facebook.com/pages/category/College---University/CCNY-Ice-Hockey-Club-424554941666650/</a></td>
 	</tr>
     <tr class="TableHeader">
