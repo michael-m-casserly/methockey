@@ -20,14 +20,21 @@
 <div class="PageHeader">MCHC All-Star Game</div>
 
 <div>
-<h5>Date/Time</h5>
-<p>Saturday, February 25, 2023</p>
+<div class="PageHeader">Date / Time</div>
+<center>Saturday, February 25, 2023 / 5:00 PM</center>
+<br>
+</div>
 
-<h5>Location</h5>
-<p>The Sterg, Great Neck, NY</p>
+<div>
+<div class="PageHeader">Location</div>
+<center>The Sterg, Great Neck, NY</center>
+<br>
+</div>
 
-<h5>Rosters</h5>
-<p>TBD</p>
+<div>
+<div class="PageHeader">Rosters</div>
+<center>TBD</center>
+<br>
 </div>
 
 <!--End Main Content section-->
