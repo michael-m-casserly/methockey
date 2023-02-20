@@ -121,6 +121,11 @@ h3{
 		</div>        
         
 		<div class="round-border">
+        <h3>All-Star Game</h3>
+        <p><a class="btn btn-secondary" href="/mchc/all-star-game.shtml" role="button">Go</a></p>
+        </div>        
+
+        <div class="round-border">
         <h3>Champions</h3>
         <p><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">Go</a></p>
 		</div>        

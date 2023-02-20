@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>All-Star Game | Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/mchc/index.shtml">MCHC</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">All-Star Game</span></li>
+  </ol>
+</nav>
+
+<div class="PageHeader">MCHC All-Star Game</div>
+
+<div>
+<h5>Date/Time</h5>
+<p>Saturday, February 25, 2023</p>
+
+<h5>Location</h5>
+<p>The Sterg, Great Neck, NY</p>
+
+<h5>Rosters</h5>
+<p>TBD</p>
+</div>
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>
