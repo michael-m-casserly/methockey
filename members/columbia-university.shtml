@@ -32,12 +32,12 @@ var q = 'Columbia'
 					</tr>
 					<tr height="17">
 						<td>248</td>
-						<td>491</td>
+						<td>507</td>
 						<td>22</td>
-						<td>11</td>
-						<td>.336</td>
-						<td>3211</td>
-						<td>5235</td>
+						<td>12</td>
+						<td>.334</td>
+						<td>3240</td>
+						<td>5316</td>
 					</tr>
 				</table>
                 <br/>
@@ -49,8 +49,8 @@ var q = 'Columbia'
 						<td>Final Season</td>
 					</tr>
 					<tr height="17">
-						<td>772</td>
-						<td>47</td>
+						<td>789</td>
+						<td>48</td>
 						<td>1968-69*</td>
 						<td>Active</td>
 					</tr>
@@ -58,7 +58,7 @@ var q = 'Columbia'
                     	<td colspan="11">*Did Not Play 1971-1975 &amp; 2003-2005</td>
                      </tr>
                      <tr>
-                    	<td colspan="11"><i>Records updated February 24, 2022</i></td>
+                    	<td colspan="11"><i>Records updated February 20, 2023</i></td>
                      </tr>
 				</table>
 				<div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>

@@ -36,11 +36,12 @@ h3{
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2023 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <a href="#Champs"><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_800.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers"></a>
+    <p>
     <center>
       <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1JbKL92Nya2sQQQ3NuJTqDpjEKaKnhiXW?usp=share_link" role="button" target="_blank">View Photos</a>
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a-->
     </center>
-    
+    </p>
     </div>
    </div>
     
@@ -115,12 +116,20 @@ h3{
 <div class="round-border">
           <h3>Schedule</h3>
           <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 542px; width: 100%; overflow: hidden;"></iframe></div>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 242px; width: 100%; overflow: hidden;"></iframe></div>
   
           </center>
            <!--p><a class="btn btn-secondary" href="/news/20130828_shared-calendar.shtml" role="button">How to Link to Calendar</a></p-->
         </div>
 
+        <div class="round-border">
+          <h3>ACHA Rankings</h3>
+          <!--p></p-->
+          <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking7.pdf" target="_blank">As of 2-12-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+            <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
+            <use xlink:href="#filetype-pdf" />
+          </svg></a></center></p>
+        </div>  
         
         <div class="round-border">
 
@@ -178,16 +187,6 @@ h3{
           <p>Submit Scores and Download Forms<br/>(Login Required)</p>
           <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
       </div>
-
-      <div class="round-border">
-        <h3>ACHA Rankings</h3>
-        <!--p></p-->
-        <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking7.pdf" target="_blank">As of 2-12-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg></a></center></p>
-            </div>
-
         
         <!--a id="ACHARankings"></a>
         <div class="round-border">

@@ -22,7 +22,7 @@
 
     <a name="2023"></a>
     <div class="row featurette">
-      <div class="col-md-7">
+      <div class="col-md-7 order-md-2">
         <h3 class="featurette-heading"><a href="/members/sacred-heart-university.shtml">2023 Sacred Heart Pioneers</a><br><span class="text-muted">February 19, 2023 -- The Sterg, Great Neck, NY</span></h3>
         <!--p class="lead"-->
         <!--p>
