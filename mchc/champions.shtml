@@ -20,6 +20,26 @@
 <div class="PageHeader">League Champions</div>
     <!--hr class="featurette-divider"-->
 
+    <a name="2023"></a>
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h3 class="featurette-heading"><a href="/members/sacred-heart-university.shtml">2023 Sacred Heart Pioneers</a><br><span class="text-muted">February 19, 2023 -- The Sterg, Great Neck, NY</span></h3>
+        <!--p class="lead"-->
+        <!--p>
+        <i>(L to R, Back Row, Standing)</i> Arieh Soferr, Rafe Batchelor, Bruce Baker <b>(Head Coach)</b>, Andy Baran, Michael Montanaro-Amato, TJ Schaffer, Jacob Lessick, Chris Mendell<br/>
+		<i>(L to R, Middle Row, Kneeling)</i> Teddy Kennedy, Liam Fitzgerald, Tim Simmons, Patrick McGoey, Eitan Hoffman<br/>
+		<i>(L to R, 2nd Row)</i> Kyle Orgel, Ethan Roth, Dennis Franklin (A), Sam Frelich, Alex Killips<br/>
+		<i>(L to R, Front Row, Sitting)</i> Rishab Nandan, Jason Cardinale (A), Ben Vermette (C), Jonas Passante, Rohil Sabherwal, Sean Reilly, Scott Slater (A), Weston Goodman (A)<br/>
+		<i>(Not Pictured)</i> Ian Ionnas Frankel, Justin Paik 
+		</p-->
+      </div>
+      <div class="col-md-5">
+        <!--svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="610" height="397" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 610x397" xmlns:xlink="https://www.w3.org/1999/xlink"><title>2019 MCHC Champion Fordham Rams</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">610x397</text><image xlink:href="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" width="610" height="397"/></svg-->
+      <img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_home.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers">
+      <!--include virtual="/schedule/playoff-programs/2021-22.html"-->
+      </div>
+    </div>
+	<hr>
     <a name="2022"></a>
     <div class="row featurette">
       <div class="col-md-7">
@@ -596,6 +616,12 @@
 						2021-22</td>
 						<td><a href="/members/columbia-university.shtml">Columbia University</a></td>
 						<td><a href="/results/results-2022.shtml">Results</a></td>
+					</tr>
+					<tr height="22">
+						<td height="22" style="height: 16.5pt;">
+						2021-22</td>
+						<td><a href="/members/sacred-heart-university.shtml">Sacred Heart University</a></td>
+						<td><a href="/results/results-2023.shtml">Results</a></td>
 					</tr>
 					<tr>
 						<td colspan="3" style="height: 26px" align="center">

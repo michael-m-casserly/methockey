@@ -32,16 +32,17 @@ h3{
   
   <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
-  	<h3>2022 MCHC Champs<br/>Columbia Lions</h3>
-    <a href="#Champs"><img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" border="0" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions"></a>
-    <center-->
+  	<h3>2023 MCHC Champs<br/>Sacred Heart Pioneers</h3>
+    <a href="#Champs"><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_800.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers"></a>
+    <center>
+      <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1JbKL92Nya2sQQQ3NuJTqDpjEKaKnhiXW?usp=share_link" role="button" target="_blank">View Photos</a>
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a-->
-    <!--/center>
+    </center>
     
     </div>
-   </div-->
+   </div>
     
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -208,16 +209,12 @@ h3{
 	<a id="Champs"></a>
     <div class="row featurette">
       <div class="col-md-7">
-        <h3 class="featurette-heading">2022 MCHC Champs - Columbia Lions<br><span class="text-muted">February 20, 2022 -- Dix Hills Arena, Dix Hills, NY</span></h3>
-		<!--p>
-        <i>(L to R, Back Row)</i> Austin Birkemeier '23, Jon Satanek '20, John Bowden <b>(Asst. Coach)</b>, Rick Dominique <b>(Head Coach)</b>, Kevin Stefanick '23, Harold Mahony '20, Nick Stockbridge '21, Jared Bennett '20, Tyler Coburn '20, Breanna Frank '22, Colby McLiverty '20, John VerDow '23, Glenn Rinyu <b>(Asst. Coach)</b><br/>
-<i>(L to R, Middle Row)</i> Kristof Vitok '22, Joe Gramegna '20 <b>(Captain)</b>, Mike Cipolla '20, Devon Mayes '22, John Cipolla '22, Justin McGaffigan '20, John Bibeau '22, Fallon Wulff<br/>
-<i>(L to R, Front Row)</i> Kevin Cruz '22, Preston Ford '22, Grey Wilson '20, Zach Kagle '20, Mike Fink '20<br/>
-<i>Not pictured:</i> Brandon Gyrion '20 and Alexa Vandermeer '20</p-->
-            </div>
+        <h3 class="featurette-heading">2023 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February 19, 2023 -- The Sterg, Great Neck, NY</span></h3>
+      </div>
       <div class="col-md-5">
-      <img src="/images/champions/2022ColumbiaTeamPictureChampionshipGame_home.png" alt="2022 MCHC Champion Columbia Lions" title="2022 MCHC Champion Columbia Lions" style="border: 0; ">
+      <img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_home.png" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers" style="border: 0; ">
      <br/>
+     <!--p>Insert Label with Names here</p-->
     <br/>    
     <p>
     <center>
