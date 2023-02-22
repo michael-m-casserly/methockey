@@ -33,7 +33,7 @@
     <td colspan="2" align="center">Date / Time</td>
   </tr>
 <tr>
-    <td colspan="2" align="center">Saturday, February 25, 2023 / 5:00 PM</td>
+    <td colspan="2" align="center">Sunday, February 26, 2023 / 5:00 PM</td>
   </tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">Location</td>
@@ -54,7 +54,10 @@
   <td colspan="2" align="center">Rosters</td>
 </tr>
 <tr>
-  <td colspan="2" align="center">TBD</td>
+  <td colspan="2" align="center"><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Progam.pdf target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg></a></td>
 </tr>
 </table>
 </center>
