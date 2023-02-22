@@ -54,10 +54,10 @@
   <td colspan="2" align="center">Rosters</td>
 </tr>
 <tr>
-  <td colspan="2" align="center"><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Progam.pdf target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+  <td colspan="2" align="center"><p><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Program.pdf" target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></td>
+  </svg></a></p></td>
 </tr>
 </table>
 </center>
