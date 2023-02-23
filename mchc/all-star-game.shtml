@@ -55,10 +55,11 @@
     <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
-  <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Rosters.xlsx" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
+  <!--Hide the XLSX link, as Rick reported a scrambled characters issue-->
+  <!--p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Rosters.xlsx" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
     <title id="pdf-label-mouseover-asg-2023-program-xlsx">XLSX</title>
     <use xlink:href="#filetype-xlsx" />
-  </svg></a></center></p>
+  </svg></a></center></p-->
 </td>
 </tr>
 <tr class="TableHeader">
