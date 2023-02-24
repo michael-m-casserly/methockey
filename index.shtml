@@ -42,9 +42,16 @@ h3{
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a-->
     </center>
     </p>
-    </div>
+  </div>
    </div>
-    
+
+       <!--Temporary Button for All Star Game-->
+       <p>
+        <center>
+          <a class="btn btn-secondary" href="/mchc/all-star-game.shtml" role="button">2023 All-Star Game</a>
+        </center>
+      </p>
+  
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
