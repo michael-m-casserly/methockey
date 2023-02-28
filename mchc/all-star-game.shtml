@@ -22,15 +22,22 @@
 
 <p><center><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">MCHC ASG Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">MCHC ASG Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Program.pdf" target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">MCHC ASG Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-asg-2023-scoresheet">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></center></p>
 
 <center>
 <table class="TableStandard" border="1">
@@ -51,12 +58,12 @@
 </tr>
 <tr>
   <td colspan="2" align="center">
-  <p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+  <p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
   <!--Hide the XLSX link, as Rick reported a scrambled characters issue-->
-  <!--p><center><a class="btn btn-secondary" role="button" href="/mchc/2022-23-MCHC-ASG-Rosters.xlsx" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
+  <!--p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.xlsx" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
     <title id="pdf-label-mouseover-asg-2023-program-xlsx">XLSX</title>
     <use xlink:href="#filetype-xlsx" />
   </svg></a></center></p-->
@@ -73,6 +80,77 @@
 </tr>
 </table>
 </center>
+<br>
+<center>
+  <table class="TableStandard" border="1">
+    <tr>
+      <td><img src="/images/all-star-game/2023/pre-game-front.png" alt="2023 MCHC All Star Game" title="2023 MCHC All Star Game"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td><img src="/images/all-star-game/2023/pre-game-back.png" alt="2023 MCHC All Star Game" title="2023 MCHC All Star Game"></td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+
+    <tr class="TableHeader" align="center">
+           <td>Maritime All-Stars</td>
+          </tr>
+          <tr>
+            <td><img src="/images/all-star-game/2023/maritime-all-stars.png" alt="2023 Maritime College All-Stars" title="2023 Maritime College All-Stars"></td>
+          </tr>
+          <tr>
+            <td>&nbsp;</td>
+          </tr>
+          <tr class="TableHeader" align="center">
+            <td>Sacred Heart All-Stars</td>
+           </tr>
+           <tr>
+             <td><img src="/images/all-star-game/2023/sacred-heart-all-stars.png" alt="2023 Sacred Heart University All-Stars" title="2023 Sacred Heart University All-Stars"></td>
+           </tr>
+           <tr>
+             <td>&nbsp;</td>
+           </tr>
+           <tr class="TableHeader" align="center">
+            <td>Sacred Heart All-Stars</td>
+           </tr>
+           <tr>
+             <td><img src="/images/all-star-game/2023/stac-all-stars.png" alt="2023 STAC All-Stars" title="2023 STAC All-Stars"></td>
+           </tr>
+           <tr>
+             <td>&nbsp;</td>
+           </tr>
+           <tr class="TableHeader" align="center">
+            <td>Sacred Heart All-Stars</td>
+           </tr>
+           <tr>
+             <td><img src="/images/all-star-game/2023/stevens-all-stars.png" alt="2023 Stevens Institute of Technology All-Stars" title="2023 Stevens Institute of Technology All-Stars"></td>
+           </tr>
+           <tr>
+             <td>&nbsp;</td>
+           </tr>
+           <tr class="TableHeader" align="center">
+            <td>USMMA All-Stars</td>
+           </tr>
+           <tr>
+             <td><img src="/images/all-star-game/2023/usmma-all-stars.png" alt="2023 USMMA All-Stars" title="2023 USMMA All-Stars"></td>
+           </tr>
+           <tr>
+             <td>&nbsp;</td>
+           </tr>
+           <tr class="TableHeader" align="center">
+            <td>WestConn All-Stars</td>
+           </tr>
+           <tr>
+             <td><img src="/images/all-star-game/2023/westconn-all-stars.png" alt="2023 Western Connecticut State University All-Stars" title="2023 Western Connecticut State University All-Stars"></td>
+           </tr>
+     </table>
+  </center>
+ 
+
 
 <!--End Main Content section-->
 
