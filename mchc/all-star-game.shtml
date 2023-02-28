@@ -115,7 +115,7 @@
              <td>&nbsp;</td>
            </tr>
            <tr class="TableHeader" align="center">
-            <td>Sacred Heart All-Stars</td>
+            <td>STAC All-Stars</td>
            </tr>
            <tr>
              <td><img src="/images/all-star-game/2023/stac-all-stars.png" alt="2023 STAC All-Stars" title="2023 STAC All-Stars"></td>
@@ -124,7 +124,7 @@
              <td>&nbsp;</td>
            </tr>
            <tr class="TableHeader" align="center">
-            <td>Sacred Heart All-Stars</td>
+            <td>Stevens All-Stars</td>
            </tr>
            <tr>
              <td><img src="/images/all-star-game/2023/stevens-all-stars.png" alt="2023 Stevens Institute of Technology All-Stars" title="2023 Stevens Institute of Technology All-Stars"></td>
@@ -147,7 +147,10 @@
            <tr>
              <td><img src="/images/all-star-game/2023/westconn-all-stars.png" alt="2023 Western Connecticut State University All-Stars" title="2023 Western Connecticut State University All-Stars"></td>
            </tr>
-     </table>
+           <tr>
+            <td>&nbsp;</td>
+          </tr>
+    </table>
   </center>
  
 
