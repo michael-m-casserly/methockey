@@ -22,24 +22,29 @@
 
 <p><center><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">MCHC ASG Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">MCHC ASG Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">MCHC ASG Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+    <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
+    <use xlink:href="#filetype-pdf" />
+  </svg></a></center></p>
+
+<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-scoresheet">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></center></p>
 
 <p><center><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></center></p>
 
-<center>
+<!--center>
 <table class="TableStandard" border="1">
 <tr class="TableHeader">
     <td colspan="2" align="center">Date / Time</td>
@@ -54,22 +59,6 @@
   <td colspan="2" align="center"><a href="https://www.livebarn.com/" target="_blank"><img src="/images/mchc/logo-livebarn.png" /></a></td>
 </tr>
 <tr class="TableHeader">
-  <td colspan="2" align="center">Rosters</td>
-</tr>
-<tr>
-  <td colspan="2" align="center">
-  <p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-    <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
-    <use xlink:href="#filetype-pdf" />
-  </svg></a></center></p>
-  <!--Hide the XLSX link, as Rick reported a scrambled characters issue-->
-  <!--p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.xlsx" target="_blank">MCHC ASG Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="XLSX">
-    <title id="pdf-label-mouseover-asg-2023-program-xlsx">XLSX</title>
-    <use xlink:href="#filetype-xlsx" />
-  </svg></a></center></p-->
-</td>
-</tr>
-<tr class="TableHeader">
   <td colspan="2" align="center">Location</td>
 </tr>
 <tr>
@@ -79,7 +68,7 @@
   <td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.007968701046!2d-73.74673068472953!3d40.80581867932174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2897c34099ab3%3A0xef16dc9dafdc573a!2sAndrew%20Stergiopoulos%20Ice%20Rink!5e0!3m2!1sen!2sus!4v1587570672474!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
 </tr>
 </table>
-</center>
+</center-->
 <br>
 <center>
   <table class="TableStandard" border="1">
@@ -103,7 +92,7 @@
             <td><img src="/images/all-star-game/2023/maritime-all-stars.png" alt="2023 Maritime College All-Stars" title="2023 Maritime College All-Stars"></td>
           </tr>
           <tr>
-            <td>#31 Chris Paulino-Sims, #91 Jack Hughes (Alternate Captain), #11 Nick Vertucci (Alternate Captain), #28 Matt Freitas (Alternate Captain), #16 Nick Barthold, #22 Will Nikas (Captain), TBD (TBD)</td>
+            <td>#31 Chris Paulino-Sims, #91 Jack Hughes (Alternate Captain), #11 Nick Vertucci (Alternate Captain), #28 Matt Freitas (Alternate Captain), #16 Nick Barthold, #22 Will Nikas (Captain), Nick Nikas (Head Coach)</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
