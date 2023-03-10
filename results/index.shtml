@@ -23,7 +23,7 @@
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <p><!--#include virtual="/results/current-season-summary-include.html"--></p><!--Add this back when the new season begins-->
 
-<p><center><!--#include virtual="/results/results-include.html"--></center></p><!--Remove the 2022 once the new season starts up-->
+<p><center><!--#include virtual="/results/results-include-2023.html"--></center></p><!--Remove the 2022 once the new season starts up-->
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
 <!--include virtual="/schedule/playoff-programs/2019-20.html"--> <!--There were no playoff programs for 2021-22-->
