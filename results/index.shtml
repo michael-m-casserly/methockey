@@ -21,7 +21,7 @@
 <div class="PageHeader">Current Results</div>
 
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<p><!--#include virtual="/results/current-season-summary-include.html"--></p><!--Add this back when the new season begins-->
+<p><!--include virtual="/results/current-season-summary-include.html"--></p><!--Add this back when the new season begins-->
 
 <p><center><!--#include virtual="/results/results-include-2023.html"--></center></p><!--Remove the 2022 once the new season starts up-->
 
