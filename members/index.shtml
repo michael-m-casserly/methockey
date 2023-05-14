@@ -33,7 +33,7 @@
                 <a href="/members/western-connecticut-state-university.shtml"><img src="/images/school-names/westconn.png" alt="Western Connecticut State University" title="Western Connecticut State University" style="width:320px; height:163px;" /></a>
                 <a href="/members/yale-university.shtml"><img src="/images/school-names/yale.png" alt="Yale University" title="Yale University" style="width:320px; height:77px;" /></a></center></div>
                 
-          <a name="affiliate-members"></a>
+          <a name="affiliate-members" id="affiliate-members"></a>
           <br>
           <br>
           <div class="PageHeader">Affiliate Members</div>                   
