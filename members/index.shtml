@@ -37,7 +37,7 @@
           <br>
           <div class="PageHeader">Affiliate Members</div>                   
         
-          <div class="schoolNames"><center>
+          <div><center>
               <!--a href="/members/yeshiva-university.shtml"--><img src="/images/school-names/yeshiva.png" alt="Yeshiva University" title="Yeshiva University" style="width:256px; height:186px;" /><!--/a--></center>
           </div>
         
@@ -51,7 +51,7 @@
           <br>
           <div class="PageHeader">Prospective Members</div>                   
 
-        <div class="schoolNames"><center>
+        <div><center>
           <a href="/members/city-college-of-new-york.shtml"><img src="/images/school-names/ccny.jpg" alt="City College of New York" title="City College of New York" style="width:320px; height:135px;" /></a></center>
         </div>
         
