@@ -37,7 +37,7 @@
           <div class="PageHeader">Affiliate Members</div>                   
         
           <div><center>
-              <!--a href="/members/yeshiva-university.shtml"--><img src="/images/school-names/yeshiva.png" alt="Yeshiva University" title="Yeshiva University" style="width:256px; height:186px;" /><!--/a--></center>
+              <a href="/members/yeshiva-university.shtml"><img src="/images/school-names/yeshiva.png" alt="Yeshiva University" title="Yeshiva University" style="width:325px; height:64px;" /></a></center>
           </div>
         
 <div style="padding-bottom:10px; padding-top:20px;">
