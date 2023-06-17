@@ -82,7 +82,7 @@
   <td colspan="2" align="center">Mackay Park, Englewood, NJ</td>
 </tr>
 <tr>
-  <td colspan="2" align="center"><iframe src="https://www.google.com/maps/place/Mackay+Park/@40.8950314,-73.9837722,17z/data=!3m1!4b1!4m6!3m5!1s0x89c2f12016cd5faf:0x786942699f670a9a!8m2!3d40.8950314!4d-73.9811973!16s%2Fg%2F1tdcy06_?entry=ttu" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+  <td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.9445430290775!2d-73.98377222378454!3d40.89503137136658!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2f12016cd5faf%3A0x786942699f670a9a!2sMackay%20Park!5e0!3m2!1sen!2sus!4v1686962926150!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
 </tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">College Website</td>
@@ -134,7 +134,7 @@
             
 <!--#include virtual="/schedule/display-schedule-current.html"-->
 
-<!--#include virtual="/schedule/display-schedule-previous.html"-->
+<!--include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/TBD?ref_src=twsrc%5Etfw">Tweets by TBD</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center-->
 
