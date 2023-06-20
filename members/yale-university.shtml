@@ -65,19 +65,19 @@ var q = 'Yale'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">General Manager</td>
+    	<td colspan="2" align="center"><!--General Manager-->Team Contact</td>
     </tr>
     <tr>
     	<td>Caitlin Brown</td>
         <td><a href="mailto:caitlin.brown@yale.edu">Email Caitlin</a></td>
     </tr>
-	<tr class="TableHeader">
+	<!--tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>Joe Booth</td>
-        <td><a href="mailto:???????">Email Joe</a></td>
-    </tr>
+    	<td></td>
+        <td><a href="mailto:"></a></td>
+    </tr-->
 	<!--tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>

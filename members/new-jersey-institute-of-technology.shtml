@@ -69,17 +69,15 @@ var q = 'NJIT'
     	<td>Bob McMorrow</td>
         <td><a href="mailto:hockey@njit.edu">Email Bob</a></td>
     </tr>
-	<!--tr class="TableHeader">
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
-    <tr>
-    	<td colspan="2" align="center">World Ice Arena, Flushing-Meadows Park, Queens, NY</td>
+	<tr>
+    	<td colspan="2" align="center">Barnabas Health Hockey House at the Prudential Center, Newark, NJ</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4699338375494!2d-73.83966888473131!3d40.751687779327554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25fdcb3203c1f%3A0xea22bb7cc8f64d3c!2sWorld%20Ice%20Arena!5e0!3m2!1sen!2sus!4v1587570242278!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
-
-
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.331556250232!2d-74.17320338473188!3d40.73272937932973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c253780b99a347%3A0x59e4c5331a59c402!2sRWJBarnabas%20Health%20Hockey%20House!5e0!3m2!1sen!2sus!4v1587570384441!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
