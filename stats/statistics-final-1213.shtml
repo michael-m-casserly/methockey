@@ -1,0 +1,61 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>Stats | Metropolitan Collegiate Hockey Conference</title>
+
+<link href="auto-styles-for-old-files.css" rel="stylesheet" type="text/css" />    
+
+  </head>
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2012-13 Stats</span></li>
+	</ol>
+  </nav>
+
+<div class="PageHeader">2012-13 Final Stats</div>
+<center>
+
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+
+<!--#include virtual="/stats/statistics-final-1213-include.html"-->
+
+<br/>
+<br/>
+
+<!--#include virtual="/stats/statistics-final-1213-goalie-include.html"-->
+
+<br/>
+<br/>
+<!--#include virtual="/stats/statistics-final-1213-pim-include.html"-->
+
+<br/>
+<br/>
+
+<!--#include virtual="/stats/statistics-final-1213-ppg-include.html"-->
+
+<br/>
+<br/>
+
+<!--#include virtual="/stats/statistics-final-1213-team-stats-include.html"-->
+
+</center>
+
+<br/><br/>
+<!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
+
+<!--#include virtual="/stats/sub-nav-stats.html"-->
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>
