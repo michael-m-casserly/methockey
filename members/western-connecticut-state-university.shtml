@@ -15,7 +15,7 @@ var q = 'WestConn'
 <!--Begin Central Content-->
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Western Connecticut State University</a></div>
 
-<div class="PageHeader">Western Connecticut State University "WestConn" Colonials</div>
+<div class="PageHeader">Western Connecticut State University "WestConn" Wolves</div>
 
 <p><center><img src="/images/team-logos/westconn.jpg" style="max-width:320px;" alt="Western Connecticut Logo" title="Western Connecticut Logo" /></center></p>
 
@@ -127,7 +127,7 @@ var q = 'WestConn'
     	<td colspan="2" align="center">School's Nickname</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Colonials</td>
+    	<td colspan="2" align="center">Wolves</td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Team Colors</td>
