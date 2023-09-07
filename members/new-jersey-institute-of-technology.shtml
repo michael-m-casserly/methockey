@@ -111,6 +111,8 @@ var q = 'NJIT'
 </table>
 </center>
                 
+<!--#include virtual="/schedule/display-schedule-current.html"-->
+
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
 <center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/NJITIceHockey?ref_src=twsrc%5Etfw">Tweets by @NJITIceHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>

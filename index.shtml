@@ -121,7 +121,7 @@ h3{
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
 
-        <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON
+        <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
         <div class="round-border">
           <h3>Schedule</h3>
           <center>
@@ -130,7 +130,7 @@ h3{
           </center>
            
         </div>
-      -->
+      
 
       <div class="round-border">
         <h3>Standings</h3>
