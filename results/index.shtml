@@ -23,13 +23,14 @@
 <p><center>
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/current-season-summary-include.html"--><!--Add this back when the new season begins-->
+<br>
 <!--#include virtual="/results/results-include.html"--><!--Add the -2024 when the season ends, Remove the -2024 once the new season starts up-->
 </center>
 </p>
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
 <!--include virtual="/schedule/playoff-programs/2019-20.html"--> <!--There were no playoff programs for 2021-22-->
-<!--#include virtual="/results/results-2022-23-notes.html"-->
+<!--include virtual="/results/results-2023-24-notes.html"-->
 <!--#include virtual="/results/results-footer.html"-->
 
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
