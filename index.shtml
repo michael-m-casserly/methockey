@@ -32,25 +32,25 @@ h3{
   
   <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2023 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <a href="#Champs"><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_800.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers"></a>
     <p>
     <center>
       <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1JbKL92Nya2sQQQ3NuJTqDpjEKaKnhiXW?usp=share_link" role="button" target="_blank">View Photos</a>
-    <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a-->
+    <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a>
     </center>
     </p>
   </div>
-   </div>
+   </div-->
 
        <!--Temporary Button for All Star Game-->
-       <p>
+       <!--p>
         <center>
           <a class="btn btn-secondary" href="/mchc/all-star-game.shtml" role="button">2023 All-Star Game</a>
         </center>
-      </p>
+      </p-->
   
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -122,48 +122,36 @@ h3{
         <!--hr-->
 
         <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
+
         <div class="round-border">
-          <h3>Schedule</h3>
-          <center>
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 242px; width: 100%; overflow: hidden;"></iframe></div>
+          <h3>News</h3>
+          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
   
-          </center>
-           
-        </div>
-      
+      <p><a class="twitter-timeline" height="957" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+  
+          </div>
 
-      <div class="round-border">
-        <h3>Standings</h3>
-        <p><!--#include virtual="/standings/standings-include.html"--></p>
-		</div>        
-
-        <div class="round-border">
-          <h3>ACHA Rankings</h3>
-          <!--p></p-->
-          <p><center><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking8.pdf" target="_blank">As of 2-26-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-            <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
-            <use xlink:href="#filetype-pdf" />
-          </svg></a></center></p>
-        </div>  
                 
       </div><!-- /.col-lg-4 -->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
 		<!--hr-->
         
-    <div class="round-border">
 
-      <h3>Player of the Month</h3>
-      <h5>Nov/Dec 2022</h5>
-          <p style="font-size:16px">
-              <b>#35 Andrew Capasso</b><br/>
-        <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br/>
-        5-0<br/>
-        2.20 GAA<br/>
-        91.1&nbsp;SV%</p>
-       <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+    <div class="round-border">
+      <h3>Standings</h3>
+      <p><!--#include virtual="/standings/standings-include.html"--></p>
+  </div>        
+
+      <div class="round-border">
+        <h3>ACHA Rankings</h3>
+        <!--p></p-->
+        <p><center><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking8.pdf" target="_blank">As of 2-26-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+          <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
+          <use xlink:href="#filetype-pdf" />
+        </svg></a></center></p>
       </div>
-  
+
     <div class="round-border">
 		<h3>Numbers</h3>
         <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
@@ -184,15 +172,28 @@ h3{
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
-      
-                <div class="round-border">
-          <h3>News</h3>
-          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
+        <div class="round-border">
+          <h3>Schedule</h3>
+          <center>
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 549px; width: 100%; overflow: hidden;"></iframe></div>
   
-      <p><a class="twitter-timeline" height="480" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-  
-          </div>
-            
+          </center>
+           
+        </div>
+             
+          <div class="round-border">
+
+            <h3>Player of the Month</h3>
+            <h5>Nov/Dec 2022</h5>
+                <p style="font-size:16px">
+                    <b>#35 Andrew Capasso</b><br/>
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br/>
+              5-0<br/>
+              2.20 GAA<br/>
+              91.1&nbsp;SV%</p>
+             <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+            </div>
+        
         <div class="round-border">
           <h3>Coaches</h3>
           <p>Submit Scores and Download Forms<br/>(Login Required)</p>
