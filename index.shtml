@@ -127,7 +127,9 @@ h3{
           <h3>News</h3>
           <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
   
-      <p><a class="twitter-timeline" height="957" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+          <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+
+      <p><a class="twitter-timeline" height="908" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
   
           </div>
 
