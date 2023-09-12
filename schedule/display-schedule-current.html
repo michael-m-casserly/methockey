@@ -88,6 +88,8 @@ if (key == "dateTime") {
   + date.toLocaleString("en-US", { minute: "2-digit", hour: "2-digit", hour12: true });
 	*/
 	
+// Answer from stackoverflow provided here: https://stackoverflow.com/questions/77085510/outputting-am-pm-from-a-google-calendar-onto-an-html-page-using-javascript
+
 	//If leading zeros are required here, they can be added to the 2 '' below
 	return ('' + (date.getMonth()+1)).slice(-2) + '/'
          + ('' + date.getDate()).slice(-2) + '/'
