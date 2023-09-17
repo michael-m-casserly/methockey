@@ -9,7 +9,10 @@
 var q = 'STAC'
 //alert('Q equals ' + q)
 </script>    
-    
+
+<meta name="keywords" content="STAC, St. Thomas Aquinas College, St. Thomas Aquinas College Hockey">
+<meta name="description" content="The Official team page for St. Thomas Aquinas College of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

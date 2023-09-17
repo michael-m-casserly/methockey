@@ -9,7 +9,11 @@
 var q = 'Maritime'
 //alert('Q equals ' + q)
 </script>    
-    
+
+
+<meta name="keywords" content="SUNY, SUNY Maritime, SUNY Maritime Hockey, Maritime Hockey, Maritime College">
+<meta name="description" content="The Official team page for Maritime College of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

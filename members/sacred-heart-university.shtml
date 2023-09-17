@@ -8,7 +8,11 @@
 <script type="text/javascript">
 var q = 'Sacred%20Heart'
 //alert('Q equals ' + q)
-</script>    
+</script>
+
+<meta name="keywords" content="SHU, Sacred Heart University, Sacred Heart University Hockey">
+<meta name="description" content="The Official team page for Sacred Heart University of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

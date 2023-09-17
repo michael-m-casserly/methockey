@@ -8,7 +8,11 @@
 <script type="text/javascript">
 var q = 'NJIT'
 //alert('Q equals ' + q)
-</script>    
+</script>
+
+<meta name="keywords" content="NJIT, New Jersey Institute of Technology, NJIT Hockey">
+<meta name="description" content="The Official team page for New Jersey Institute of Technology of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

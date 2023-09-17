@@ -8,7 +8,10 @@
 var q = 'WestConn'
 //alert('Q equals ' + q)
 </script>    
-    
+
+<meta name="keywords" content="WCSU, WestConn, Western Connecticut State University, WCSU Hockey, WestConn Hockey, Western Connecticut State University Hockey">
+<meta name="description" content="The Official team page for Western Connecticut State University of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

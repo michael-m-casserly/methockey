@@ -8,7 +8,11 @@
 <script type="text/javascript">
 var q = 'Yale'
 //alert('Q equals ' + q)
-</script>    
+</script>
+
+<meta name="keywords" content="Yale, Yale University, Yale Hockey, Yale University Hockey">
+<meta name="description" content="The Official team page for Yale University of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

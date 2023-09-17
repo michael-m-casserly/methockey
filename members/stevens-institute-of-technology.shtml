@@ -9,7 +9,10 @@
 var q = 'Stevens'
 //alert('Q equals ' + q)
 </script>    
-    
+
+<meta name="keywords" content="Stevens Institute of Technology, Stevens Institute of Technology Hockey">
+<meta name="description" content="The Official team page for Stevens Institute of Technology of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 

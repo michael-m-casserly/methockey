@@ -9,7 +9,10 @@
 var q = 'USMMA'
 //alert('Q equals ' + q)
 </script>    
-    
+
+<meta name="keywords" content="USMMA, Kings Point, U.S. Merchant Marine Academy, U.S. Merchant Marine Academy Hockey, USMMA Hockey, Kings Point Hockey">
+<meta name="description" content="The Official team page for U.S. Merchant Marine Academy of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
+
   </head>
   <!--#include virtual="/banner-m.html" -->
 
