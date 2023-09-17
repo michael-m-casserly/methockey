@@ -114,7 +114,7 @@ if (key == "dateTime") {
 
 for (i = 0; i < myObj.items.length; i++) 
 {
-  x += "<tr class='TableHeader'><td colspan='2' align='center'>" + myObj.items[i].summary + "</td></tr><tr><td align='center'><b>" + myObj.items[i].start.dateTime + "</b></td><td align='center' style='font-size:12px'>" + myObj.items[i].location + "</td></tr><tr><td colspan='2'></td></tr>";
+  x += "<tr class='TableHeader'><td colspan='2' align='center'>" + myObj.items[i].summary + "</td></tr><tr><td align='center'><b>" + myObj.items[i].start.dateTime + "</b></td><td align='center' style='font-size:12px'><a href='https://www.google.com/maps/search/" + myObj.items[i].location + "' target='_blank'>" + myObj.items[i].location + "</a></td></tr><tr><td colspan='2'></td></tr>";
 }
 document.getElementById("demo").innerHTML = x;  }
 };
