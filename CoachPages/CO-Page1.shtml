@@ -45,7 +45,9 @@ h3{
 
     <div class="round-border">
       <h3>Game Day</h3>
-      <p><center><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></center></p>
+      <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
+      <!--p><center><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></center></p-->
+      <p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link" target="_blank">MCHC Score Submit*</a></center></p>
       <p>*Please submit score within 24 hours of game completion.</p>
       <p><center><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></center></p>
       <p><center><a class="btn btn-secondary" role="button" href="https://lsadmin.hockeytech.com/login/" target="_blank">ACHA Score Submit</a></center></p>

@@ -109,32 +109,15 @@ h3{
 
   <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
-    <!-- Three columns of text below the carousel -->
-    <div class="row">
-      <div class="col-lg-4">
 		<!--Use this to center all of the content within the 3 columns-->
-        <style>
+    <style>
 	  	.col-lg-4 p {
 			text-align:center;
 			}
 		</style>
-        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-        <!--hr-->
 
-        <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
-
-        <div class="round-border">
-          <h3>News</h3>
-          <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
-  
-          <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-
-      <p><a class="twitter-timeline" height="908" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-  
-          </div>
-
-                
-      </div><!-- /.col-lg-4 -->
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
 		<!--hr-->
@@ -211,8 +194,23 @@ h3{
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
 		</div-->        
 
-
         </div><!-- /.col-lg-4 -->
+        <div class="col-lg-4">
+          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+          <!--hr-->
+  
+          <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
+  
+          <div class="round-border">
+            <h3>News</h3>
+            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
+    
+            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+  
+        <p><a class="twitter-timeline" height="908" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+    
+          </div>
+        </div><!-- /.col-lg-4 -->  
     </div><!-- /.row -->
 
 
