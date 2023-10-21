@@ -26,25 +26,25 @@
 
 <!--Temporary Note until we start publishing 2023-24 Stats-->
 
-<!--p><center><b>2023-24 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p-->
+<p><center><b>2023-24 Stats will be published a couple of weeks into the season, around mid-late October.</b></center></p>
 
 <!--Broke this into separate tabs on the XLS starting Nov 2022; SOURCE FILE: CASS MCHC WEB STATS 2022-23.xlsx, sent to Drew, and stored in local Downloads folder on Lenovo laptop-->
 
 <!--include virtual="/stats/statistics-current-include-player-scoring.html"-->
-<!--#include virtual="/stats/statistics-final-2223-include-player-scoring.html"-->
+<!--include virtual="/stats/statistics-final-2223-include-player-scoring.html"-->
 
 <br>
 <!--include virtual="/stats/statistics-current-include-goalie.html"-->
-<!--#include virtual="/stats/statistics-final-2223-include-goalie.html"-->
+<!--include virtual="/stats/statistics-final-2223-include-goalie.html"-->
 <br>
 <!--include virtual="/stats/statistics-current-include-player-pim-ppg.html"-->
-<!--#include virtual="/stats/statistics-final-2223-include-player-pim-ppg.html"-->
+<!--include virtual="/stats/statistics-final-2223-include-player-pim-ppg.html"-->
 <br>
 <!--include virtual="/stats/statistics-current-include-team-pp-pk-pim.html"-->
-<!--#include virtual="/stats/statistics-final-2223-include-team-pp-pk-pim.html"-->
+<!--include virtual="/stats/statistics-final-2223-include-team-pp-pk-pim.html"-->
 <br>
 <!--include virtual="/stats/statistics-current-include-team-scoring.html"-->
-<!--#include virtual="/stats/statistics-final-2223-include-team-scoring.html"-->
+<!--include virtual="/stats/statistics-final-2223-include-team-scoring.html"-->
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
 
