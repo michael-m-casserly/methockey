@@ -16,7 +16,7 @@ var q = 'Montclair'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Montclair State University</a></div>
 
 <div class="PageHeader">Montclair State University Red Hawks</div>
-<p><center><img src="/images/team-logos/montclair.jpg" style="width:320px; height:320px;" alt="Montclair State University Logo" title="Montclair State University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/montclair.jpg" style="width:320px; height:320px;" alt="Montclair State University Logo" title="Montclair State University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

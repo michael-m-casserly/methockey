@@ -46,51 +46,51 @@ h3{
     <div class="round-border">
       <h3>Game Day</h3>
       <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
-      <!--p><center><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></center></p-->
-      <p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link" target="_blank">MCHC Score Submit*</a></center></p>
+      <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></p-->
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link" target="_blank">MCHC Score Submit*</a></p>
       <p>*Please submit score within 24 hours of game completion.</p>
-      <p><center><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></center></p>
-      <p><center><a class="btn btn-secondary" role="button" href="https://lsadmin.hockeytech.com/login/" target="_blank">ACHA Score Submit</a></center></p>
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></p>
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://lsadmin.hockeytech.com/login/" target="_blank">ACHA Score Submit</a></p>
     </div>
   </div>
 
   <div class="col-lg-4">
     <div class="round-border">
       <h3>ACHA Eligibility</h3>
-      <p><center><a class="btn btn-secondary" role="button" href="ACHA M3 Fall Eligibility Form 2023.xlsx" target="_blank">Fall 2023 Form&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="ACHA M3 Fall Eligibility Form 2023.xlsx" target="_blank">Fall 2023 Form&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
         <title id="xlsx-label-mouseover-acha-eligibility-form">XLSX</title>
         <use xlink:href="#filetype-xlsx" />
-          </svg></a></center></p>
+          </svg></a></p>
 
-        <p><center><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-acha-eligibility-form-instructions">PDF</title>
         <use xlink:href="#filetype-pdf" />
-          </svg></a></center></p>
+          </svg></a></p>
     </div>
   </div>
 
   <div class="col-lg-4">
     <div class="round-border">
   
-      <p><center><a class="btn btn-secondary" role="button" href="https://www.youtube.com/watch?v=-htTi6mdt20" target="_blank">NCAA Rule Changes&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://www.youtube.com/watch?v=-htTi6mdt20" target="_blank">NCAA Rule Changes&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
       <title id="youtube-label-mouseover-ncaa-rule-changes">YouTube</title>
       <use xlink:href="#youtube" />
-      </svg></a></center></p>
+      </svg></a></p>
 
-      <!--p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+      <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-website-maintenance-tracker">Google</title>
       <use xlink:href="#google" />
-        </svg></a></center></p-->
+        </svg></a></p-->
 
-      <p><center><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing" target="_blank">External Team Game Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing" target="_blank">External Team Game Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-external-game-tracker">Google</title>
       <use xlink:href="#google" />
-        </svg></a></center></p>
+        </svg></a></p>
 
-      <p><center><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-upload-videos-files">Google</title>
       <use xlink:href="#google" />
-        </svg></a></center></p>
+        </svg></a></p>
     </div>
   </div>
 </div>

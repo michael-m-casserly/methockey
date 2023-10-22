@@ -16,7 +16,7 @@ var q = 'U. Bridgeport'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">University of Bridgeport</a></div>
 
 <div class="PageHeader">University of Bridgeport Purple Knights</div>
-<p><center><img src="/images/team-logos/bridgeport.jpg" style="width:320px; height:291px;" alt="University of Bridgeport Logo" title="University of Bridgeport Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/bridgeport.jpg" style="width:320px; height:291px;" alt="University of Bridgeport Logo" title="University of Bridgeport Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

@@ -36,20 +36,16 @@ h3{
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2023 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <a href="#Champs"><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_800.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers"></a>
-    <p>
-    <center>
+    <p class="text-align-center">
       <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1JbKL92Nya2sQQQ3NuJTqDpjEKaKnhiXW?usp=share_link" role="button" target="_blank">View Photos</a>
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a>
-    </center>
     </p>
   </div>
    </div-->
 
        <!--Temporary Button for All Star Game-->
-       <!--p>
-        <center>
+       <!--p class="text-align-center">
           <a class="btn btn-secondary" href="/mchc/all-star-game.shtml" role="button">2023 All-Star Game</a>
-        </center>
       </p-->
   
 <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
@@ -66,7 +62,7 @@ h3{
           <div class="carousel-caption">
             <h3>2019 MCHC Champions</h3>
             <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></center></p>
+            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></p>
           </div>
         </div>
       </div>
@@ -76,7 +72,7 @@ h3{
           <div class="carousel-caption">
             <h3>2018-19 Fordham Rams</h3>
             <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></center></p>
+            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></p>
           </div>
         </div>
       </div>
@@ -86,7 +82,7 @@ h3{
           <div class="carousel-caption">
             <h3>Class of 2019</h3>
             <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
-            <p><center><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></center></p>
+            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></p>
           </div>
         </div>
       </div>
@@ -131,10 +127,10 @@ h3{
       <div class="round-border">
         <h3>ACHA Rankings</h3>
         <!--p></p-->
-        <p><center><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking8.pdf" target="_blank">As of 2-26-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2022-23-ACHA-Mens-Division-3-Computer-Poll-Average-Ranking8.pdf" target="_blank">As of 2-26-2023&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
           <use xlink:href="#filetype-pdf" />
-        </svg></a></center></p>
+        </svg></a></p>
       </div>
 
     <div class="round-border">
@@ -159,10 +155,8 @@ h3{
         <!--hr-->
         <div class="round-border">
           <h3>Schedule</h3>
-          <center>
+
           <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 549px; width: 100%; overflow: hidden;"></iframe></div>
-  
-          </center>
            
         </div>
              
@@ -188,7 +182,7 @@ h3{
         <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
-        <center><p><i>Final Ranking (Feb. 21, 2020)</i></p></center>
+        <p class="text-align-center"><i>Final Ranking (Feb. 21, 2020)</i></p>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
         <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
@@ -225,11 +219,7 @@ h3{
       </div>
       <div class="col-md-5">
       <img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_home.png" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers" style="border: 0; ">
-     <p>
-    <center>
-    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a>
-    </center>
-    </p>
+     <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
       </div>
     </div>
 

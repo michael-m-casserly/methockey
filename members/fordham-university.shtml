@@ -16,7 +16,7 @@ var q = 'Fordham'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Fordham University</a></div>
 
 <div class="PageHeader">Fordham University Rams</div>
-<p><center><img src="/images/team-logos/fordham.png" style="width:300px; height:246px;" alt="Fordham Logo" title="Fordham Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/fordham.png" style="width:300px; height:246px;" alt="Fordham Logo" title="Fordham Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

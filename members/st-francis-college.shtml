@@ -16,7 +16,7 @@ var q = 'St. Francis'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">St. Francis College</a></div>
 
 <div class="PageHeader">St. Francis College Terriers</div>
-<p><center><img src="/images/team-logos/st-francis.jpg" style="width:320px; height:320px;" alt="St. Francis College Logo" title="St. Francis College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/st-francis.jpg" style="width:320px; height:320px;" alt="St. Francis College Logo" title="St. Francis College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

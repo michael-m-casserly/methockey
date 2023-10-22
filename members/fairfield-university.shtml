@@ -16,7 +16,7 @@ var q = 'Fairfield'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Fairfield University</a></div>
 
 <div class="PageHeader">Fairfield University Stags</div>
-<p><center><img src="/images/team-logos/fairfield.png" style="width:320px; height:292px;" alt="Fairfield University Logo" title="Fairfield University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/fairfield.png" style="width:320px; height:292px;" alt="Fairfield University Logo" title="Fairfield University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

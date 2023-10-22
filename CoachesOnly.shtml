@@ -21,15 +21,13 @@
 				<div align="center" class="PageHeader">Coaches Only Page</div>
                 
                 <p class="text-align-center">
-                Coaches and Administrators can access: 
-                <br/>
-                <br/>
-                --> Team Cell Numbers<br/>
-                --> Score Submit Forms<br/>
-                --> External Game Tracker<br/>
-                --> Player Eligibility Forms<br/>
-                --> Upload Videos, Files, etc.<br/>
-                --> Website Maintenance Request Form<br/>
+                Coaches and Administrators can access:<br><br>
+                  Team Cell Numbers<br><br>
+                  Score Submit Forms<br><br>
+                  External Game Tracker<br><br>
+                  Player Eligibility Forms<br><br>
+                  Upload Videos, Files, etc.<br><br>
+                  Website Maintenance Request Form
                 </p>
 
         <p class="text-align-center"><a class="btn btn-secondary" href="/CoachPages/CO-Page1.shtml" role="button">ENTER (Password Required)</a></p>        

@@ -20,7 +20,7 @@ var q = 'Stevens'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Stevens Institute of Technology</a></div>
 
 <div class="PageHeader">Stevens Institute of Technology Ducks</div>
-<p><center><img src="/images/team-logos/stevens.jpg" style="width:308px; height:337px;" alt="Stevens Logo" title="Stevens Logo" /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/stevens.jpg" style="width:308px; height:337px;" alt="Stevens Logo" title="Stevens Logo" /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

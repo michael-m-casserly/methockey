@@ -16,7 +16,7 @@ var q = 'Brooklyn College'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Brooklyn College</a></div>
 
 <div class="PageHeader">Brooklyn College Kingsmen</div>
-<p><center><img src="/images/team-logos/brooklyn.jpg" style="width:150px; height:160px;" alt="Brooklyn College Logo" title="Brooklyn College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/brooklyn.jpg" style="width:150px; height:160px;" alt="Brooklyn College Logo" title="Brooklyn College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

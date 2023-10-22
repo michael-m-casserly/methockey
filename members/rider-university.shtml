@@ -16,7 +16,7 @@ var q = 'Rider University'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Rider University</a></div>
 
 <div class="PageHeader">Rider University Broncs</div>
-<p><center><img src="/images/team-logos/rider.jpg" style="width:300px; height:300px;" alt="Rider University Logo" title="Rider University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/rider.jpg" style="width:300px; height:300px;" alt="Rider University Logo" title="Rider University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

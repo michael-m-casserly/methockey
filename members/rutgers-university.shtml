@@ -16,7 +16,7 @@ var q = 'Rutgers'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Rutgers University</a></div>
 
 <div class="PageHeader">Rutgers University Scarlet Knights</div>
-<p><center><img src="/images/team-logos/rutgers.jpg" style="width:160px; height:181px;" alt="Rutgers University Logo" title="Rutgers University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/rutgers.jpg" style="width:160px; height:181px;" alt="Rutgers University Logo" title="Rutgers University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

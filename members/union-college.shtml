@@ -16,7 +16,7 @@ var q = 'Union College'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Union College</a></div>
 
 <div class="PageHeader">Union College Dutchmen</div>
-<p><center><img src="/images/team-logos/union.jpg" style="width:300px; height:256px;" alt="Union College Logo" title="Union College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/union.jpg" style="width:300px; height:256px;" alt="Union College Logo" title="Union College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

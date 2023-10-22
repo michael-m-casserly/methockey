@@ -20,7 +20,7 @@ var q = 'NJIT'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">New Jersey Institute of Technology</a></div>
 
 <div class="PageHeader">New Jersey Institute of Technology Highlanders</div>
-<p><center><img src="/images/team-logos/njit.png" style="width:300px; height:195px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/njit.png" style="width:300px; height:195px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

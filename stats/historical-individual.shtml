@@ -27,9 +27,9 @@ td {
   
 <p>
 <div class="PageHeader">All-Time Goals Leaders (Season)</div>
-<p><center>Current as of March 1, 2023</center></p>
+<p class="text-align-center">Current as of March 1, 2023</p>
 				<center>
-				<Table Border="1" Cellpadding="2" Cellspacing="2" Style="Text-Align:Center;">
+				<Table Border="1" Cellpadding="2" Cellspacing="2" Style="Text-Align:Center;" class="text-align-center">
 					<Tr Height="19" Class="TableHeader">
 						<Td Class="TableHeader">Rank</Td>
 						<Td Class="TableHeader">Player</Td>
@@ -660,7 +660,7 @@ td {
 						<Td>(1983-84)</Td>
 					</Tr>
 				</table>
-                </center>
+			</center>
 </p>
 <p>                
 <div class="PageHeader">All-Time Points Leaders (Season)</div>

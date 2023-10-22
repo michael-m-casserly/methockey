@@ -16,7 +16,7 @@ var q = 'Adelphi University'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Adelphi University</a></div>
 
 <div class="PageHeader">Adelphi University Panthers</div>
-<p><center><img src="/images/team-logos/adelphi.png" style="width:300px; height:142px;" alt="Adelphi University Logo" title="Adelphi University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/adelphi.png" style="width:300px; height:142px;" alt="Adelphi University Logo" title="Adelphi University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

@@ -20,7 +20,7 @@
   </nav>
   
 <div class="PageHeader">1975 Playoffs</div>
-<p><center>
+<p class="text-align-center">
 
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 
@@ -162,7 +162,7 @@
 
 </table>
     
-</center></p>
+</p>
 
 <!--#include virtual="/results/results-footer.html"-->
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->

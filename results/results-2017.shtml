@@ -19,10 +19,10 @@
 </nav>
 
 <div class="PageHeader">2016-17 Results</div>
-<p><center>
+<p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/results-include-2017.html"-->
-</center></p>
+</p>
 
 <!--#include virtual="/results/results-footer.html"-->
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->

@@ -19,9 +19,9 @@
 </nav>
 
 <div class="PageHeader">2022-23 Results</div>
-<p><center>
+<p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<!--#include virtual="/results/results-include-2023.html"--></center></p>
+<!--#include virtual="/results/results-include-2023.html"--></p>
 
 <!--#include virtual="/results/results-2022-23-notes.html"-->
 <!--#include virtual="/results/results-footer.html"-->

@@ -48,8 +48,8 @@ td {
         <td>Second Team Defense</td>
     </tr>
     <tr>
-    	<td colspan="3"><p><center><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_529843" target="_blank">ACHA Men's Division 3 All Atlantic Region Awards</a><br/>
-            <a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_529999" target="_blank">Men's Division 3 First and Second All American Teams Announced</a></center></p></td>
+    	<td colspan="3"><p class="text-align-center"><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_529843" target="_blank">ACHA Men's Division 3 All Atlantic Region Awards</a><br/>
+            <a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_529999" target="_blank">Men's Division 3 First and Second All American Teams Announced</a></p></td>
     </tr>
     <tr>
     	<td colspan="3"></td>
@@ -84,7 +84,7 @@ td {
         <td><b><i>ACHA All-Atlantic Region Coach of the Year</i></b></td>
     </tr>
     <tr>
-    	<td colspan="3"><p><center><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_515717" target="_blank">Men's D-III All-Teams Announced for Atlantic, South Regions</a></center></p></td>
+    	<td colspan="3"><p class="text-align-center"><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_515717" target="_blank">Men's D-III All-Teams Announced for Atlantic, South Regions</a></p></td>
     </tr>
     <tr>
     	<td colspan="3"></td>
@@ -103,7 +103,7 @@ td {
         <td>Third Team Goaltender</td>
     </tr>
     <tr>
-    	<td colspan="3"><p><center><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_502652" target="_blank">Men's Division 3 Names 2017-2018 Award Winners</a></center></p></td>
+    	<td colspan="3"><p class="text-align-center"><a href="https://www.achahockey.org/view/achahockey/acha-hockey-news/news_502652" target="_blank">Men's Division 3 Names 2017-2018 Award Winners</a></p></td>
     </tr>
     <tr>
     	<td colspan="3"></td>

@@ -16,7 +16,7 @@ var q = 'Marist'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Marist College</a></div>
 
 <div class="PageHeader">Marist College Red Foxes</div>
-<p><center><img src="/images/team-logos/marist.jpg" style="width:320px; height:155px;" alt="Marist College Logo" title="Marist College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/marist.jpg" style="width:320px; height:155px;" alt="Marist College Logo" title="Marist College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

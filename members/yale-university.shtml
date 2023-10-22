@@ -20,7 +20,7 @@ var q = 'Yale'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Yale University</a></div>
 
 <div class="PageHeader">Yale University Bulldogs</div>
-<p><center><img src="/images/team-logos/yale.png" style="width:330px; height:153px;" alt="Yale University Logo" title="Yale University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/yale.png" style="width:330px; height:153px;" alt="Yale University Logo" title="Yale University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

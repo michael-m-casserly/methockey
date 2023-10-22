@@ -20,7 +20,7 @@
  
       
         <div class="PageHeader">1974-75 Standings</div>
-        <p><center>
+        <p class="text-align-center">
        
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">

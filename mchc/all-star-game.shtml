@@ -20,29 +20,29 @@
 <div class="PageHeader">MCHC All-Star Game</div>
 
 
-<p><center><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></center></p>
+<p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></center></p>
+  </svg></a></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></center></p>
+  </svg></a></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></center></p>
+  </svg></a></p>
 
-<p><center><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-scoresheet">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></center></p>
+  </svg></a></p>
 
-<p><center><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></center></p>
+<p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></p>
 
 <!--center>
 <table class="TableStandard" border="1">

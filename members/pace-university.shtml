@@ -16,7 +16,7 @@ var q = 'Pace'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Pace University</a></div>
 
 <div class="PageHeader">Pace University Setters</div>
-<p><center><img src="/images/team-logos/pace.jpg" style="width:320px; height:204px;" alt="Pace University Logo" title="Pace University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/pace.jpg" style="width:320px; height:204px;" alt="Pace University Logo" title="Pace University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

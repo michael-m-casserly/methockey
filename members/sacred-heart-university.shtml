@@ -20,7 +20,7 @@ var q = 'Sacred%20Heart'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Sacred Heart University</a></div>
 
 <div class="PageHeader">Sacred Heart University Pioneers</div>
-<p><center><img src="/images/team-logos/sacred-heart.jpg" style="width:320px; height:295px;" alt="Sacred Heart University Logo" title="Sacred Heart University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/sacred-heart.jpg" style="width:320px; height:295px;" alt="Sacred Heart University Logo" title="Sacred Heart University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

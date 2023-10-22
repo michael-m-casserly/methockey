@@ -223,8 +223,8 @@
 				<!--img src="Pictures/upcoming%20games.jpg" /-->Upcoming MCHC Games</td>
 			</tr>
 			<tr>
-				<td  style="width: 603px;"><center>
-                <img src="/Pictures/upcoming-games-header.jpg" border="0" width="637"/><br/><img src="/Pictures/upcoming-games.jpg" border="0" width="637"/></center>
+				<td style="width: 603px;" class="text-align-center">
+                <img src="/Pictures/upcoming-games-header.jpg" border="0" width="637"/><br/><img src="/Pictures/upcoming-games.jpg" border="0" width="637"/>
                 <!--p>***The January 25th game at World Ice Arena WILL NOT BE OPEN TO SPECTATORS. This ice slot is a converted "practice slot" and the arena will not have the proper staff on hand to accommodate fans/spectators. We apologize for any inconvenience.</p-->
 				</td>
 			</tr>

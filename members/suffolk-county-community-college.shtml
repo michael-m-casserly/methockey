@@ -17,7 +17,7 @@ var q = 'Suffolk'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Suffolk County Community College</a></div>
 
 <div class="PageHeader">Suffolk County Community College Sharks</div>
-<p><center><img src="/images/team-logos/suffolk.jpg" style="width:240px; height:152px;" alt="Suffolk Logo" title="Suffolk Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/suffolk.jpg" style="width:240px; height:152px;" alt="Suffolk Logo" title="Suffolk Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

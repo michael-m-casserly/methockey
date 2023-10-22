@@ -20,7 +20,7 @@
 
 <div class="PageHeader">Yeshiva University TBD</div>
 
-<p><center><img src="/images/team-logos/yeshiva.png" style="max-width:320px;" alt="Yeshiva Logo" title="Yeshiva Logo" /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/yeshiva.png" style="max-width:320px;" alt="Yeshiva Logo" title="Yeshiva Logo" /></p>
 
   <center>
     <div class="PageSectionHeader">All Time MCHC Stats</div>

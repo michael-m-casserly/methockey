@@ -16,7 +16,7 @@ var q = 'Queens College'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Queens College</a></div>
 
 <div class="PageHeader">Queens College Knights</div>
-<p><center><img src="/images/team-logos/queens.jpg" style="width:320px; height:287px;" alt="Queens College Logo" title="Queens College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/queens.jpg" style="width:320px; height:287px;" alt="Queens College Logo" title="Queens College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

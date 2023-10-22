@@ -16,7 +16,7 @@ var q = 'Stony Brook'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Stony Brook University</a></div>
 
 <div class="PageHeader">Stony Brook University Seawolves</div>
-<p><center><img src="/images/team-logos/stony-brook.png" style="width:320px; height:248px;" alt="Stony Brook University Logo" title="Stony Brook University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/stony-brook.png" style="width:320px; height:248px;" alt="Stony Brook University Logo" title="Stony Brook University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

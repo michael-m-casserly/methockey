@@ -16,7 +16,7 @@ var q = 'Seton Hall'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Seton Hall University</a></div>
 
 <div class="PageHeader">Seton Hall University Pirates</div>
-<p><center><img src="/images/team-logos/seton-hall.png" style="width:250px; height:254px;" alt="Seton Hall University Logo" title="Seton Hall University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/seton-hall.png" style="width:250px; height:254px;" alt="Seton Hall University Logo" title="Seton Hall University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

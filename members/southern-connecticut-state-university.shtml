@@ -16,7 +16,7 @@ var q = 'SCSU'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Southern Connecticut State University</a></div>
 
 <div class="PageHeader">Southern Connecticut State University Owls</div>
-<p><center><img src="/images/team-logos/scsu.jpg" style="width:220px; height:220px;" alt="Southern Connecticut State University Logo" title="Southern Connecticut State University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/scsu.jpg" style="width:220px; height:220px;" alt="Southern Connecticut State University Logo" title="Southern Connecticut State University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

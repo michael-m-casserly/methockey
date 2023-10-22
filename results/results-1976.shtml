@@ -19,7 +19,7 @@
   </nav>
 
 <div class="PageHeader">1976 Playoffs</div>
-<p><center>
+<p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 
 <table cellpadding="2" cellpadding="2" border="1" class="TableStandard">
@@ -173,7 +173,7 @@
 
 </table>
     
-</center></p>
+</p>
 
 <!--#include virtual="/results/results-footer.html"-->
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->

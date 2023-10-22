@@ -16,7 +16,7 @@ var q = 'Binghamton'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Binghamton University</a></div>
 
 <div class="PageHeader">Binghamton University Bearcats</div>
-<p><center><img src="/images/team-logos/binghamton.png" style="width:300px; height:174px;" alt="Binghamton University Logo" title="Binghamton University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/binghamton.png" style="width:300px; height:174px;" alt="Binghamton University Logo" title="Binghamton University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

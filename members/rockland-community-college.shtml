@@ -16,7 +16,7 @@ var q = 'Rockland C.C.'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Rockland Community College</a></div>
 
 <div class="PageHeader">Rockland Community College Fighting Hawks</div>
-<p><center><img src="/images/team-logos/rockland.jpg" style="width:320px; height:163px;" alt="Rockland Community College Logo" title="Rockland Community College Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/rockland.jpg" style="width:320px; height:163px;" alt="Rockland Community College Logo" title="Rockland Community College Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

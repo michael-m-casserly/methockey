@@ -20,7 +20,7 @@ var q = 'WestConn'
 
 <div class="PageHeader">Western Connecticut State University "WestConn" Wolves</div>
 
-<p><center><img src="/images/team-logos/westconn.jpg" style="max-width:320px;" alt="Western Connecticut Logo" title="Western Connecticut Logo" /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/westconn.jpg" style="max-width:320px;" alt="Western Connecticut Logo" title="Western Connecticut Logo" /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

@@ -16,7 +16,7 @@ var q = 'St. Johns'
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">St. John's University</a></div>
 
 <div class="PageHeader">St. John's University Red Storm</div>
-<p><center><img src="/images/team-logos/st-johns.png" style="width:215px; height:300px;" alt="St. John's University Logo" title="St. John's University Logo"  /></center></p>
+<p class="text-align-center"><img src="/images/team-logos/st-johns.png" style="width:215px; height:300px;" alt="St. John's University Logo" title="St. John's University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

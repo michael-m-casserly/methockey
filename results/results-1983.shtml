@@ -19,7 +19,7 @@
   </nav>
 
 <div class="PageHeader">1983 Playoffs</div>
-<p><center>
+<p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--include virtual="/results/results-include-2017.html"-->
 
@@ -143,7 +143,7 @@
     </tr>
 </table>
     
-</center></p>
+</p>
 
 <!--#include virtual="/results/results-footer.html"-->
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
