@@ -20,11 +20,7 @@
 
 <p>You are trying to access a page that no longer exists. Our site has been recently redesigned, so you may have bookmarked an old page that has been removed. Please update your bookmark(s) to use the most recent page(s) on the website. We apologize for any inconvenience.</p>
 
-<p>
-	<center>
-<a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home</a>
-	</center>
-</p>
+<p class="text-align-center"><a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home</a></p>
 
 <!--End Main Content section-->
 

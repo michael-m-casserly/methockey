@@ -24,11 +24,7 @@
   
         <p>Access is forbidden to the requested page. Please visit our current home page by clicking <a href="/index.shtml">here</a>.</p>
 
-        <p>
-          <center>
-        <a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home</a>
-          </center>
-        </p>
+        <p class="text-align-center"><a class="btn btn-secondary" href="/index.shtml" role="button">Go to methockey.com Home</a></p>
         
         <!--End Main Content section-->
         

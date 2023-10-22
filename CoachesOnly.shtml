@@ -20,8 +20,7 @@
 
 				<div align="center" class="PageHeader">Coaches Only Page</div>
                 
-                <p>
-                <center>
+                <p class="text-align-center">
                 Coaches and Administrators can access: 
                 <br/>
                 <br/>
@@ -31,10 +30,9 @@
                 --> Player Eligibility Forms<br/>
                 --> Upload Videos, Files, etc.<br/>
                 --> Website Maintenance Request Form<br/>
-                </center>
                 </p>
 
-        <p><center><a class="btn btn-secondary" href="/CoachPages/CO-Page1.shtml" role="button">ENTER (Password Required)</a></center></p>        
+        <p class="text-align-center"><a class="btn btn-secondary" href="/CoachPages/CO-Page1.shtml" role="button">ENTER (Password Required)</a></p>        
 
 <!--End Main Content section-->
 
