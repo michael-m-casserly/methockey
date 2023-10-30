@@ -27,6 +27,24 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Oct 2023</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#42 Sean Kiewe</span></td>
+        <td><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+        <td>6 G, 10 A, 16 PTS<br>
+            5 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#33 Michael Pippo</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>3-0-1, .910&nbsp;SV%, 3.66 GAA<br>
+            213 Minutes, 4 Games Played</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Nov/Dec 2022</td>
     </tr>
 	<tr>
