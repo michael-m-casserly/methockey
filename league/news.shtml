@@ -25,7 +25,9 @@
 
 <p class="text-align-center"><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
 
+<center><!--This seems to still require the center tag-->
 <p class="text-align-center"><div class="TeamPageScheduleTwitterWidth" class="text-align-center"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/methockey">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></p>
+</center>
 
 <!--End Main Content section-->
 
