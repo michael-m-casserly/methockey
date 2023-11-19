@@ -270,9 +270,11 @@
 	<hr>
 
 <a name="PastChampions"></a>
-<div class="PageHeader">PAST MCHC CHAMPIONS</div>
 				<center>
 				<table border="1" cellpadding="2" cellspacing="2" style="text-align:center;" class="TableStandard">
+					<tr class="PageHeader">
+						<td colspan="3">PAST MCHC CHAMPIONS</td>
+					</tr>
 					<tr height="22" class="TableHeader">
 						<td height="22">Year</td>
 						<td>Team</td>
