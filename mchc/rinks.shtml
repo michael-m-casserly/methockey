@@ -26,100 +26,119 @@
 						<td height="25" >
 						Team</td>
 						<td>
-						Home Rink(s)<br/>Rink Phone</td>
+						Home Rink(s)<br>Rink Phone</td>
 						<td>Address</td>
 						<td style="text-align:center;" colspan="2">
 						Rink Info</td>
 					</tr>
-					<tr height="53">
+					<!--tr height="53">
 						<td height="53" style="height: 39.95pt">
 						<a href="/members/columbia-university.shtml">Columbia (1)</a></td>
-						<td>Ice Hutch Ice Rink<br/>914-699-6787</td>
+						<td>Ice Hutch Ice Rink<br>914-699-6787</td>
 						<td>655 Garden 
 						Ave.<br />
 						Mount Vernon, NY 10552</td>
 						<td>
-						<a href="https://www.icehutch.com/" target="_blank">Website</a><br/><br/>
+						<a href="https://www.icehutch.com/" target="_blank">Website</a><br><br>
 						<a href="https://goo.gl/maps/tg3BVd5GZxUBsta26" target="_blank">Map</a></td>
 					</tr>
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
 						<a href="/members/columbia-university.shtml">Columbia (2)</a></td>
-						<td>Riverbank State Park<br/>212-694-3600</td>
+						<td>Riverbank State Park<br>212-694-3600</td>
 						<td>679 Riverside Drive<br>
 							New York, NY 10031</td>
 						<td>
-						<a href="https://www.nycgo.com/venues/riverbank-state-park-ice-rink" target="_blank">Website</a><br/><br/>
+						<a href="https://www.nyctourism.com/places/riverbank-state-park-ice-rink/" target="_blank">Website</a><br><br>
 						<a href="https://goo.gl/maps/wvJJVudGNshC2PUn6" target="_blank">Map</a></td>
+					</tr-->
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/maritime-college.shtml">Maritime</a></td>
+						<td>World Ice Arena<br>(Flushing Meadows<br>Corona Park)<br>718-760-9001</td>
+						<td>Avery Ave.<br>
+						Flushing, NY 11368</td>
+						<td>
+						<a href="https://worldice.com/" target="_blank">Website</a><br><br>
+						<a href="https://goo.gl/maps/yDcsRwStvu4UNtLD8" target="_blank">Map</a></td>
+					</tr>
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a></td>
+						<td>Barnabas Health<br>Hockey House at the<br>Prudential Center<br>973-757-6000</td>
+						<td>Edison 
+						Place &amp;<br>Mulberry Street<br />
+						Newark, NJ 07102</td>
+						<td>
+						<a href="https://www.prucenter.com/" target="_blank">Website</a><br><br>
+						<a href="https://goo.gl/maps/tqp8GSjkvbs9acFf9" target="_blank">Map</a></td>
+					</tr>
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/sacred-heart-university.shtml">Sacred Heart</a></td>
+						<td>Wonderland of Ice<br>203-576-8118</td>
+						<td>123 Glenwood Ave<br />
+						Bridgeport, CT 06610</td>
+						<td>
+						<a href="https://wonderlandofice.com/" target="_blank">Website</a><br><br>
+						<a href="https://www.google.com/maps/place/Wonderland+of+Ice/@41.205805,-73.18834,16z/data=!4m5!3m4!1s0x0:0x2b7f2f067b5c0ee1!8m2!3d41.2057428!4d-73.1879538?hl=en" target="_blank">Map</a></td>
+					</tr>
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+						<td>Sport-o-Rama<br>845-356-3919</td>
+						<td>20 College 
+						Road<br />
+						Monsey, NY 10952</td>
+						<td>
+						<a href="https://sportorama.com/" target="_blank">Website</a><br><br>
+						<a href="https://goo.gl/maps/KNvnCjMTbwyyvFS76" target="_blank">Map</a></td>
+					</tr>                    
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+						<td>Barnabas Health<br>Hockey House at the<br>Prudential Center<br>973-757-6000</td>
+						<td>Edison 
+						Place &amp;<br>Mulberry Street<br />
+						Newark, NJ 07102</td>
+						<td>
+						<a href="https://www.prucenter.com/" target="_blank">Website</a><br><br>
+						<a href="https://goo.gl/maps/tqp8GSjkvbs9acFf9" target="_blank">Map</a></td>
 					</tr>
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
 						<a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">USMMA</a></td>
-						<td>Andrew Stergiopoulos Ice Rink<br/>516-487-2976</td>
+						<td>Andrew Stergiopoulos Ice Rink<br>516-487-2976</td>
 						<td>65 
-						Arrandale Ave.<br/>(&amp; Wood Rd.)<br />
+						Arrandale Ave.<br>(&amp; Wood Rd.)<br />
 						Great Neck, NY 11023</td>
 						<td>
-						<a href="https://www.gnparks.org/Facilities/Facility/Details/Parkwood-Sports-Complex-21" target="_blank">Website</a><br/><br/>
+						<a href="https://www.gnparks.org/Facilities/Facility/Details/Parkwood-Sports-Complex-21" target="_blank">Website</a><br><br>
 						<a href="https://goo.gl/maps/PN892b9o4A5o1h6W9" target="_blank">Map</a>
 						</td>
 					</tr>
 					<tr height="53">
 						<td height="53" style="height: 39.95pt">
-						<a href="/members/maritime-college.shtml">Maritime</a></td>
-						<td>World Ice Arena<br/>(Flushing Meadows<br/>Corona Park)<br/>718-760-9001</td>
-						<td>Avery Ave.<br/>
-						Flushing, NY 11368</td>
-						<td>
-						<a href="https://www.worldice.com/" target="_blank">Website</a><br/><br/>
-						<a href="https://goo.gl/maps/yDcsRwStvu4UNtLD8" target="_blank">Map</a></td>
-					</tr>
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
-						<a href="/members/sacred-heart-university.shtml">Sacred Heart</a></td>
-						<td>Wonderland of Ice<br/>203-576-8118</td>
-						<td>123 Glenwood Ave<br />
-						Bridgeport, CT 06610</td>
-						<td>
-						<a href="https://wonderlandofice.com/" target="_blank">Website</a><br/><br/>
-						<a href="https://www.google.com/maps/place/Wonderland+of+Ice/@41.205805,-73.18834,16z/data=!4m5!3m4!1s0x0:0x2b7f2f067b5c0ee1!8m2!3d41.2057428!4d-73.1879538?hl=en" target="_blank">Map</a></td>
-					</tr>
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
-						<a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-						<td>Barnabas Health<br/>Hockey House at the<br/>Prudential Center<br/>973-757-6000</td>
-						<td>Edison 
-						Place &amp;<br/>Mulberry Street<br />
-						Newark, NJ 07102</td>
-						<td>
-						<a href="https://www.prucenter.com/" target="_blank">Website</a><br/><br/>
-						<a href="https://goo.gl/maps/tqp8GSjkvbs9acFf9" target="_blank">Map</a></td>
-					</tr>
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
-						<a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-						<td>Sport-o-Rama<br/>845-356-3919</td>
-						<td>20 College 
-						Road<br />
-						Monsey, NY 10952</td>
-						<td>
-						<a href="https://sportorama.com/" target="_blank">Website</a><br/><br/>
-						<a href="https://goo.gl/maps/KNvnCjMTbwyyvFS76" target="_blank">Map</a></td>
-					</tr>                    
-					<tr height="53">
-						<td height="53" style="height: 39.95pt">
 						<a href="/members/western-connecticut-state-university.shtml">WestConn</a></td>
 						<td>Danbury Ice Arena<br />
 						203-794-1704</td>
-						<td>1 Independence Way<br/>
+						<td>1 Independence Way<br>
 						Danbury, CT 06810</td>
 						<td>
-						<a href="http://danburyice.com/directions/" target="_blank">Website</a><br/><br/>
+						<a href="https://danburyice.com/" target="_blank">Website</a><br><br>
 						<a href="https://goo.gl/maps/HqNiLAKPyWVrbXPu8" target="_blank">Map</a></td>
+					</tr>
+					<tr height="53">
+						<td height="53" style="height: 39.95pt">
+						<a href="/members/yale-university.shtml">Yale</a></td>
+						<td>Ingalls Rink</td>
+						<td>73 Sachem St<br> 
+						New Haven, CT 06511</td>
+						<td><a href="https://maps.app.goo.gl/LriT79t5NBU9G5vw8" target="_blank">Map</a></td>
 					</tr>
 				</table>
                 </center>
-                <br/>
+                <br>
 
 <!-- End Table imported from old page-->
 
