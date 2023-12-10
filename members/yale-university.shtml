@@ -82,15 +82,15 @@ var q = 'Yale'
     	<td></td>
         <td><a href="mailto:"></a></td>
     </tr-->
-	<!--tr class="TableHeader">
+	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">World Ice Arena, Flushing-Meadows Park, Queens, NY</td>
+    	<td colspan="2" align="center">Ingalls Rink, New Haven, CT</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4699338375494!2d-73.83966888473131!3d40.751687779327554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25fdcb3203c1f%3A0xea22bb7cc8f64d3c!2sWorld%20Ice%20Arena!5e0!3m2!1sen!2sus!4v1587570242278!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2996.6356785410267!2d-72.9250156!3d41.316788599999995!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89e7d9b7e520e697%3A0xa40b4f5a8c178afb!2sIngalls%20Ice%20Rink!5e0!3m2!1sen!2sus!4v1702248893907!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
@@ -114,6 +114,12 @@ var q = 'Yale'
     </tr>
     <tr>
     	<td colspan="2" align="center">Bulldogs</td>
+	</tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Colors</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Home-White | Away-Blue</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
