@@ -21,7 +21,8 @@
 <div class="PageHeader">2021-22 Results</div>
 <p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<!--#include virtual="/results/results-include-2022.html"--></p>
+<!--#include virtual="/results/results-include-2022.html"-->
+</p>
 
 <!--#include virtual="/results/results-footer.html"-->
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
