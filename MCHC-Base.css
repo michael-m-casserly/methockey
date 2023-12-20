@@ -6,7 +6,7 @@
 }
 
 
-/* CSS layout */
+/* CSS layout 
 body {
 	background: #000080;
 	margin: 0;
@@ -46,6 +46,8 @@ body {
 #footer {
 	clear: both;
 }
+*/
+
 /*Added from FU Hockey Site*/
 p, span, ul, li {
 text-align:left; 
@@ -179,4 +181,114 @@ div.dropdown-menu{
   .text-align-center {
 	text-align: center;
   }
+  
+  /* Everything below was ported over from gallop.css when the upgrade to Bootstrap 5.1 was made in Dec 2023*/
+
+  /* Added these to overwrite the bootstrap classes for the nav bar */
+
+.nav-link {
+	color: #FFFFFF !important;
+	font-weight: bold !important;
+  }
+  
+  .navbar-toggler-icon {
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255, 255, 255, 0.95%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e") !important;
+  }
+  
+  /* End custom nav bar overwrites */
+  
+  /* BEGIN Custom CSS for nav bar "X" */
+  
+  .navbar-toggler {
+	width: 20px;
+	height: 20px;
+	position: relative;
+	transition: .5s ease-in-out;
+  }
+  
+  .navbar-toggler,
+  .navbar-toggler:focus,
+  .navbar-toggler:active,
+  .navbar-toggler-icon:focus {
+	outline: none;
+	box-shadow: none;
+	border: 0;
+	position: relative;
+  }
+  
+  .navbar-toggler span {
+	margin: 0;
+	padding: 0;
+  }
+  
+  .toggler-icon {
+	display: block;
+	position: absolute;
+	height: 3px;
+	width: 100%;
+	background: #FFFFFF;
+	border-radius: 1px;
+	opacity: 1;
+	left: 0;
+	transform: rotate(0deg);
+	transition: .25s ease-in-out;
+  }
+  
+  .middle-bar {
+	margin-top: 0px;
+  }
+  
+  
+  /* State when the navbar is collapsed */
+  
+  .navbar-toggler.collapsed .top-bar {
+	position: absolute;
+	top: 0px;
+	transform: rotate(0deg);
+  }
+  
+  .navbar-toggler.collapsed .middle-bar {
+	opacity: 1;
+	position: absolute;
+	top: 10px;
+	filter: alpha(opacity=100);
+  }
+  
+  .navbar-toggler.collapsed .bottom-bar {
+	position: absolute;
+	top: 20px;
+	transform: rotate(0deg);
+  }
+  
+  /* when navigation is clicked */
+  
+  .navbar-toggler .top-bar {
+	top: inherit;
+	transform: rotate(135deg);
+  }
+  
+  .navbar-toggler .middle-bar {
+	opacity: 0;
+	top: inherit;
+	filter: alpha(opacity=0);
+  }
+  
+  .navbar-toggler .bottom-bar {
+	top: inherit;
+	transform: rotate(-135deg);
+  }
+  
+  .upcoming-races-day-row {
+	background-color: #e9ecef;
+	font-style: italic;
+  }
+  
+  /* Color of 3 lines */
+  
+  .navbar-toggler.collapsed .toggler-icon {
+  /*   background: linear-gradient( 263deg, rgba(252,74,74,1) 0%, rgba(0,212,255,1) 100% ); */
+  }
+  
+  /* END Custom CSS for nav bar "X" */
+  
   

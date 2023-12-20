@@ -15,7 +15,14 @@ var q = 'Maritime'
 <meta name="description" content="The Official team page for Maritime College of the Metropolitan Collegiate Hockey Conference (MCHC), located in the metro-NYC area.">
 
   </head>
+
+<body class="bodyTag">
+
   <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
 
 <!--Begin Central Content-->
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Maritime College</a></div>

@@ -6,7 +6,14 @@
 <title>[Page Title] | Metropolitan Collegiate Hockey Conference</title>
     
   </head>
+
+<body class="bodyTag">
+
   <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
 
 <!--Begin Central Content-->
 <div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">[Page Title]</a></div>
