@@ -20,7 +20,13 @@ var q = 'Montclair'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Montclair State University</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Montclair State University</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">Montclair State University Red Hawks</div>
 <p class="text-align-center"><img src="/images/team-logos/montclair.jpg" style="width:320px; height:320px;" alt="Montclair State University Logo" title="Montclair State University Logo"  /></p>

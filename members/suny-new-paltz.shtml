@@ -20,7 +20,13 @@ var q = 'New Paltz'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">SUNY New Paltz</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">SUNY New Paltz</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">SUNY New Paltz Hawks</div>
 <p class="text-align-center"><img src="/images/team-logos/new-paltz.jpg" style="width:320px; height:190px;" alt="SUNY New Paltz Logo" title="SUNY New Paltz Logo"  /></p>

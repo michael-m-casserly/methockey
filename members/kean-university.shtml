@@ -20,7 +20,13 @@ var q = 'Kean'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Kean University</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Kean University</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">Kean University Cougars</div>
 <p class="text-align-center"><img src="/images/team-logos/kean.jpg" style="width:300px; height:300px;" alt="Kean University Logo" title="Kean University Logo"  /></p>

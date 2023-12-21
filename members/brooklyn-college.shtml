@@ -20,7 +20,13 @@ var q = 'Brooklyn College'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Brooklyn College</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Brooklyn College</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">Brooklyn College Kingsmen</div>
 <p class="text-align-center"><img src="/images/team-logos/brooklyn.jpg" style="width:150px; height:160px;" alt="Brooklyn College Logo" title="Brooklyn College Logo"  /></p>

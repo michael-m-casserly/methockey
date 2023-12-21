@@ -20,7 +20,13 @@ var q = 'C.C.M.'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">County College of Morris</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">County College of Morris</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">County College of Morris Titans</div>
 <p class="text-align-center"><img src="/images/team-logos/ccm.jpg" style="width:170px; height:171px;" alt="C.C.M. Logo" title="C.C.M. Logo"  /></p>

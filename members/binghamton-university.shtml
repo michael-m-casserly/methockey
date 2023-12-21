@@ -20,7 +20,13 @@ var q = 'Binghamton'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Binghamton University</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Binghamton University</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">Binghamton University Bearcats</div>
 <p class="text-align-center"><img src="/images/team-logos/binghamton.png" style="width:300px; height:174px;" alt="Binghamton University Logo" title="Binghamton University Logo"  /></p>

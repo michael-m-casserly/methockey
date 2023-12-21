@@ -20,7 +20,13 @@ var q = 'St. Rose'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">The College of St. Rose</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">The College of St. Rose</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">The College of St. Rose Golden Knights</div>
 <p class="text-align-center"><img src="/images/team-logos/st-rose.jpg" style="width:300px; height:300px;" alt="The College of St. Rose Logo" title="The College of St. Rose Logo"  /></p>

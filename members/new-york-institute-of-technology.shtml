@@ -20,7 +20,13 @@ var q = 'NYIT'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">New York Institute of Technology</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">New York Institute of Technology</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">New York Institute of Technology Bears</div>
 <p class="text-align-center"><img src="/images/team-logos/nyit.png" style="width:250px; height:306px;" alt="New York Institute of Technology Logo" title="New York Institute of Technology Logo"  /></p>

@@ -20,7 +20,13 @@ var q = 'Skidmore'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">Skidmore College</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Skidmore College</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">Skidmore College Thoroughbreds</div>
 <p class="text-align-center"><img src="/images/team-logos/skidmore.jpg" style="width:317px; height:146px;" alt="Skidmore College Logo" title="Skidmore College Logo"  /></p>

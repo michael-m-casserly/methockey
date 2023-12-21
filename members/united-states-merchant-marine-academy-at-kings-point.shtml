@@ -24,7 +24,13 @@ var q = 'USMMA'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">U.S. Merchant Marine Academy</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">U.S. Merchant Marine Academy</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">U.S. Merchant Marine Academy Mariners</div>
 <p class="text-align-center"><img src="/images/team-logos/usmma.png" style="width:268px; height:286px;" alt="USMMA Logo" title="USMMA Logo" /></p>

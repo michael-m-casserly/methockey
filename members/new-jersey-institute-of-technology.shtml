@@ -24,7 +24,13 @@ var q = 'NJIT'
 
 
 <!--Begin Central Content-->
-<div class="breadcrumb"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a><a class="PageTitleBreadCrumb">&nbsp;&gt;&nbsp;</a><a class="PageTitleBreadCrumb">New Jersey Institute of Technology</a></div>
+<nav aria-label="breadcrumb">
+	<ol class="breadcrumb">
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/members/index.shtml">Conference Members</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">New Jersey Institute of Technology</span></li>
+	</ol>
+</nav>
 
 <div class="PageHeader">New Jersey Institute of Technology Highlanders</div>
 <p class="text-align-center"><img src="/images/team-logos/njit.png" style="width:300px; height:195px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></p>
