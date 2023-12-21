@@ -1,12 +1,18 @@
-<br/>
-<center>
-<div class="dropdown" style="border:hidden;">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Previous Seasons
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-<!--#include virtual="/results/results-list-by-year.html"-->
-  </div>
-</div>
-</center>
-<br/>
+<p style="text-align: center;">
+  <select class="form-select" aria-label="" onchange="javascript:handleSelectMenuItem(this)"
+    style="max-width: 240px; margin: auto;">
+    <option value="" selected>Previous Seasons</option>
+    <option value="/results/index.shtml">Current Results</option>
+    <option value="/results/results-2023.shtml">2022-2023 Results</option>
+    <option value="/results/results-2022.shtml">2021-2022 Results</option>
+    <option value="/results/results-2020.shtml">2019-2020 Results</option>
+    <option value="/results/results-2019.shtml">2018-2019 Results</option>
+    <option value="/results/results-2018.shtml">2017-2018 Results</option>
+    <option value="/results/results-2017.shtml">2016-2017 Results</option>
+    <option value="/results/results-1984.shtml">1983-1984 Results</option>
+    <option value="/results/results-1983.shtml">1982-1983 Results</option>
+    <option value="/results/results-1977.shtml">1976-1977 Results</option>
+    <option value="/results/results-1976.shtml">1975-1976 Results</option>
+    <option value="/results/results-1975.shtml">1974-1975 Results</option>
+  </select>
+</p>

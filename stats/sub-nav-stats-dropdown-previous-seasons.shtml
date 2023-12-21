@@ -1,12 +1,20 @@
-<br/>
-<center>
-<div class="dropdown" style="border:hidden;">
-  <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-    Previous Seasons
-  </button>
-  <div class="dropdown-menu" aria-labelledby="dropdownMenuButton">
-<!--#include virtual="/stats/stats-list-by-year.html"-->
-  </div>
-</div>
-</center>
-<br/>
+<p style="text-align: center;">
+  <select class="form-select" aria-label="" onchange="javascript:handleSelectMenuItem(this)"
+    style="max-width: 240px; margin: auto;">
+    <option value="" selected>Previous Seasons</option>
+    <option value="/stats/index.shtml">Current Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-2223.shtml">2022-2023 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-2122.shtml">2021-2022 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1920.shtml">2019-2020 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1819.shtml">2018-2019 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1718.shtml">2017-2018 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2016-2017 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2015-2016 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2014-2015 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2013-2014 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2012-2013 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2011-2012 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2010-2011 Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-1617.shtml">2009-2010 Individual &amp; Team Stats</option>
+    </select>
+</p>
