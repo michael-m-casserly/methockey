@@ -5,48 +5,26 @@
 	url('https://www.methockey.com/fonts/charlemagne-std/CharlemagneStd-Bold.woff') format('woff');
 }
 
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+  }
+  /*force all images to be responsive*/
+  img
+      {
+        width: 100%;
+        height: auto;
+    }
 
-/* CSS layout */
-body {
-	background: #000080;
-	margin: 0;
-	padding: 0;
-}
-
-#masthead {
-	min-width: 600px;
-}
-
-
-#buttons {
-	clear: both;
-	min-width: 600px;
-}
-
-#container {
-	clear: both;
-	min-width: 1100px;
-}
-
-#left_col {
-	float: left;
-	width: 220px;
-}
-
-#right_col {
-	float:right;
-	width: 220px;
-}
-
-#page_content {
-	margin-left: 220px;
-	float:none
-}
-
-#footer {
-	clear: both;
-}
-
+  @media (min-width: 320px) {
+    .bd-placeholder-img-lg {
+      font-size: 3.5rem;
+    }
+  }
 
 /*Added from FU Hockey Site*/
 p, span, ul, li {
@@ -58,9 +36,6 @@ font: 10pt "Verdana"}
 margin: 0 0 0 0;
 padding-top: 0 !important ; 
 background-image: url(/images/background.gif)
-}
-
-.pageWidth {
 }
 
 a.homepagelink, a.PageTitleBreadCrumb { 
@@ -304,4 +279,16 @@ div.dropdown-menu{
   /* this is used to force the breadcrumb separator to be white */
   .breadcrumb-item+.breadcrumb-item::before {
     color: #000 !important;
+  }
+
+  .round-border{
+    border: 2px solid #344f7c; 
+    border-radius:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    margin-bottom: 10px;
+    background-color: #e5ecf9;
+    text-align: center;
+   /* padding-left: 10px;
+    padding-right: 10px; */
   }
