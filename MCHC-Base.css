@@ -6,7 +6,7 @@
 }
 
 
-/* CSS layout 
+/* CSS layout */
 body {
 	background: #000080;
 	margin: 0;
@@ -46,7 +46,7 @@ body {
 #footer {
 	clear: both;
 }
-*/
+
 
 /*Added from FU Hockey Site*/
 p, span, ul, li {
@@ -54,9 +54,11 @@ text-align:left;
 color: black; 
 font: 10pt "Verdana"}
 
-.bodyTag{ 
-margin:0 0 0 0; 
-background-image: url(/images/background.gif)}
+.bodyTag { 
+margin: 0 0 0 0;
+padding-top: 0 !important ; 
+background-image: url(/images/background.gif)
+}
 
 .pageWidth {
 }
@@ -89,10 +91,11 @@ font-weight:bold}
 
 /* Added Breadcrumb for Responsive pages, May 2019*/
 .breadcrumb {
-	padding-top: 30px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	padding-top: 0px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
+	background-color: #c9daf8;
 }
 
 /*Added this for responsive IFRAMEs */
@@ -291,4 +294,14 @@ div.dropdown-menu{
   
   /* END Custom CSS for nav bar "X" */
   
-  
+  /*This is used as an add-on style for the main body of the page*/
+  .container-round-border {
+    border: 2px solid black; 
+    border-radius:5px;
+    background-color: #FFF;
+  }
+
+  /* this is used to force the breadcrumb separator to be white */
+  .breadcrumb-item+.breadcrumb-item::before {
+    color: #000 !important;
+  }
