@@ -66,7 +66,8 @@ font-weight:bold}
 
 /* Added Breadcrumb for Responsive pages, May 2019*/
 .breadcrumb {
-	padding-top: 0px !important; /* any adjustment here should also be applied to the jumbotron pic on index.shtml */
+	padding-top: 5px !important;
+	padding-bottom: 5px !important;
 	border: 2px solid black; 
 	border-radius:5px;
 	padding-left: 20px !important;
