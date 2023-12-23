@@ -118,7 +118,7 @@ p.MsoNormal {
 	font-size: x-large;
 	text-decoration: underline;
 	font-family: "Arial Rounded MT Bold";
-	color: #0000FF;
+	color: #344f7c;
 }
 .auto-style27 {
 	border: 3px solid #FFFF00;
@@ -132,7 +132,7 @@ p.MsoNormal {
 	border: 3px solid #FFFFFF;
 	color: #FFFFFF;
 	text-align: center;
-	background-color: #800000;
+	background-color: #344f7c;
 	padding: 5px;
 /*	background-color: #344f7c; Use this if we want the button background to match the page background*/
 
@@ -472,6 +472,7 @@ p.MsoNormal {
 	font-weight: bold;
 	font-size: small;
 }
+
 .auto-style48 {
 	border: 1px solid #FFFFFF;
 	color: #FFFFFF;
@@ -794,7 +795,7 @@ p.MsoNormal {
 	text-align: left;
 	vertical-align: middle;
 	white-space: nowrap;
-	border: 2px solid #800000;
+	border: 2px solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -809,7 +810,7 @@ p.MsoNormal {
 	text-align: general;
 	vertical-align: middle;
 	white-space: nowrap;
-	border: 2px solid #800000;
+	border: 2px solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -842,10 +843,10 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: middle;
 	white-space: nowrap;
-	border-left: 2px solid #800000;
-	border-right: 2px solid #800000;
-	border-top: 2px none #800000;
-	border-bottom: 2px solid #800000;
+	border-left: 2px solid #344f7c;
+	border-right: 2px solid #344f7c;
+	border-top: 2px none #344f7c;
+	border-bottom: 2px solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -860,10 +861,10 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: middle;
 	white-space: nowrap;
-	border-left: 2px solid #800000;
-	border-right: 2px solid #800000;
-	border-top: 2px none #800000;
-	border-bottom: 2px solid #800000;
+	border-left: 2px solid #344f7c;
+	border-right: 2px solid #344f7c;
+	border-top: 2px none #344f7c;
+	border-bottom: 2px solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -877,7 +878,7 @@ p.MsoNormal {
 	font-size: x-small;
 }
 .auto-style74 {
-	border: 2px solid #000000;
+	border: 2px solid #344f7c;
 	
 }
 .auto-style75 {
@@ -908,7 +909,7 @@ p.MsoNormal {
 	font-weight: bold;
 	font-size: medium;
 	color: #FFFFFF;
-	background-color: #800000;
+	background-color: #344f7c;
 }
 .auto-style79 {
 	text-align: center;
@@ -917,7 +918,7 @@ p.MsoNormal {
 	font-size: large;
 }
 .auto-style80 {
-	border: 2px solid #000000;
+	border: 2px solid #344f7c;
 	text-align: center;
 }
 .auto-style81 {
@@ -930,7 +931,7 @@ p.MsoNormal {
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 2px solid #800000;
+	border: 2px solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1042,7 +1043,7 @@ p.MsoNormal {
 	font-family: "Arial Rounded MT Bold";
 	font-weight: bold;
 	text-align: center;
-	border: 2px solid #800000;
+	border: 2px solid #344f7c;
 }
 .auto-style88 {
 	font-family: Arial;
@@ -1148,7 +1149,7 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1163,13 +1164,13 @@ p.MsoNormal {
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
 }
 .auto-style133 {
-	border: 6px solid #800000;
+	border: 6px solid #344f7c;
 	border-collapse: collapse;
 	font-size: 20pt;
 }
@@ -1184,7 +1185,7 @@ p.MsoNormal {
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1199,7 +1200,7 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1214,7 +1215,7 @@ p.MsoNormal {
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1240,7 +1241,7 @@ p.MsoNormal {
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
-	background: #1F497D;
+	background: #344f7c;
 }
 .auto-style140 {
 	color: windowtext;
@@ -1252,7 +1253,7 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #002060;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1267,7 +1268,7 @@ p.MsoNormal {
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #002060;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1282,7 +1283,7 @@ p.MsoNormal {
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #002060;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1297,7 +1298,7 @@ p.MsoNormal {
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #002060;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1312,7 +1313,7 @@ p.MsoNormal {
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #002060;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1327,7 +1328,7 @@ p.MsoNormal {
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 1.5pt solid #1F497D;
+	border: 1.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -1355,7 +1356,7 @@ p.MsoNormal {
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
-	background: #1F497D;
+	background: #344f7c;
 }
 .auto-style147 {
 	border-collapse: collapse;
@@ -1364,7 +1365,7 @@ p.MsoNormal {
 	font-size: large;
 	text-decoration: underline;
 	font-family: "Arial Rounded MT Bold";
-	color: #0000FF;
+	color: #344f7c;
 }
 .auto-style167 {
 	margin-left: 0px;
@@ -1388,7 +1389,7 @@ p.MsoNormal {
 .auto-style194 {
 	font-size: x-large;
 	font-family: "Arial Rounded MT Bold";
-	color: #0000FF;
+	color: #344f7c;
 }
 .auto-style203 {
 	color: windowtext;
@@ -1708,7 +1709,7 @@ p.MsoNormal {
 	background-color: #FFFF99;
 }
 .auto-style326 {
-	color: #16365C;
+	color: #344f7c;
 	font-size: 12.0pt;
 	font-weight: 700;
 	font-style: normal;
@@ -1724,7 +1725,7 @@ p.MsoNormal {
 	background-color: #FFFF99;
 }
 .auto-style327 {
-	color: #16365C;
+	color: #344f7c;
 	font-size: 12.0pt;
 	font-weight: 700;
 	font-style: normal;
@@ -1746,11 +1747,11 @@ p.MsoNormal {
 .auto-style329 {
 	font-size: xx-large;
 	font-family: "Arial Rounded MT Bold";
-	color: #0000FF;
+	color: #344f7c;
 }
 .auto-style330 {
 	font-family: "Arial Rounded MT Bold";
-	color: #0000FF;
+	color: #344f7c;
 }
 .auto-style332 {
 	font-size: xx-large;

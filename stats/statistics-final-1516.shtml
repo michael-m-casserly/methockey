@@ -30,7 +30,7 @@
 	color: #FFFFFF;
 	text-align: center;
 	font-size: large;
-	background-color: #800000;
+	background-color: #344f7c;
 }
 .auto-style30 {
 	vertical-align: middle;
@@ -62,7 +62,7 @@
 	text-align: center;
 	color: #FFFFFF;
 	font-size: large;
-	background-color: #000080;
+	background-color: #344f7c;
 }
 .auto-style39 {
 	border: 1px solid #000000;
@@ -82,7 +82,7 @@
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -97,7 +97,7 @@
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c;
 	padding-left: 3px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -112,7 +112,7 @@
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -127,7 +127,7 @@
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -142,7 +142,7 @@
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -168,7 +168,7 @@
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
-	background: #1F497D;
+	background: #344f7c;
 }
 .auto-style140 {
 	color: windowtext;
@@ -180,7 +180,7 @@
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #002060;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -195,7 +195,7 @@
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #002060;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -210,7 +210,7 @@
 	text-align: center;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #002060;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -225,7 +225,7 @@
 	text-align: left;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #002060;
+	border: 0.5pt solid #344f7c;
 	padding-left: 3px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -240,7 +240,7 @@
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #002060;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -255,7 +255,7 @@
 	text-align: general;
 	vertical-align: bottom;
 	white-space: nowrap;
-	border: 0.5pt solid #1F497D;
+	border: 0.5pt solid #344f7c;
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
@@ -283,7 +283,7 @@
 	padding-left: 1px;
 	padding-right: 1px;
 	padding-top: 1px;
-	background: #1F497D;
+	background: #344f7c;
 }
 .auto-style147 {
 	border-collapse: collapse;
