@@ -28,7 +28,7 @@
 
                 <div class="PageHeader">LEAGUE RINKS</div>
 				<center>
-                <table cellpadding="2" cellspacing="0" border="1" style="border:medium; border-color:#000000; font-family:Verdana, Geneva, sans-serif; font-size:12px;">
+                <table class="TableStandard">
 					<tr height="25" style="font-weight:bold;" class="TableHeader">
 						<td height="25" >
 						Team</td>
