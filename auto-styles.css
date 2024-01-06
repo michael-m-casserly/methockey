@@ -51,8 +51,6 @@ p.MsoNormal {
 .TableLayoutHistoricalWinLossRecord
 {
 	/*width:600px; */
-	border-width: 1px !important;  
-	border-color: #CCCCCC !important;
 	font-family:Verdana, Geneva, sans-serif; 
 	font-size:12px;
 	text-align:center;
@@ -62,14 +60,15 @@ p.MsoNormal {
 .TableLayoutHistoricalWinLossRecord td
 {
 	padding: 5px;	
-	border-width: 1px !important;  
-	border-color: #CCCCCC !important;
+	/*border-width: 1px;  */
+	border-color: #CCCCCC;
 }
 .TableLayoutHistoricalWinLossRecordHeaderRow
 {
 	font-weight:bold;
 	color:white;
 	background:#344f7c;
+	border: none !important;
 }
 .LongURL
 {
