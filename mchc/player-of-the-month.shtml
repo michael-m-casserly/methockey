@@ -34,6 +34,24 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Dec 2023 / Jan 2024</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#26 Mike Doshan</span></td>
+        <td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">USMMA</a></td>
+        <td>8 G, 4 A, 12 PTS, 1 PP, 1 SH<br>
+            4 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#70 Connor Ivancik</span></td>
+        <td><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
+        <td>2-0, .920&nbsp;SV%, 2.00 GAA<br>
+            120 Minutes Played</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Nov 2023</td>
     </tr>
 	<tr>
