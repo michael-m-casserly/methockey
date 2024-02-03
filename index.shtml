@@ -134,7 +134,7 @@ h3{
       <div class="round-border">
         <h3>ACHA Rankings</h3>
         <!--p></p-->
-        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2023-24-ACHA-M3-Ranking5.pdf" target="_blank">As of 1-14-2024&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2023-24-ACHA-M3-Ranking6.pdf" target="_blank">As of 1-28-2024&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-myhockeyrankings">PDF</title>
           <use xlink:href="#filetype-pdf" />
         </svg></a></p>
