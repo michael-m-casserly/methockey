@@ -20,7 +20,8 @@
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/mchc/index.shtml">MCHC</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">All-Star Game</span></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/mchc/all-star-game.shtml">All-Star Game</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2023</span></li>
   </ol>
 </nav>
 
@@ -28,7 +29,7 @@
 
 <!--#include virtual="/mchc/all-star-game/sub-nav-all-star-game-dropdown-previous-seasons.shtml"-->
 
-<!--p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></p>
+<p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></p>
 
 <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
@@ -50,15 +51,15 @@
     <use xlink:href="#filetype-pdf" />
   </svg></a></p>
 
-<p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></p-->
+<p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></p>
 
-<center>
+<!--center>
 <table class="TableStandard" border="1">
 <tr class="TableHeader">
     <td colspan="2" align="center">Date / Time</td>
   </tr>
 <tr>
-    <td colspan="2" align="center">Sunday, March 3, 2024 / 5:00 PM</td>
+    <td colspan="2" align="center">Sunday, February 26, 2023 / 5:00 PM</td>
 </tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">Live Streaming</td>
@@ -76,8 +77,8 @@
   <td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3020.007968701046!2d-73.74673068472953!3d40.80581867932174!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c2897c34099ab3%3A0xef16dc9dafdc573a!2sAndrew%20Stergiopoulos%20Ice%20Rink!5e0!3m2!1sen!2sus!4v1587570672474!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
 </tr>
 </table>
-</center>
-<!--br>
+</center-->
+<br>
 <center>
   <table class="TableStandard" border="1">
     <tr>
@@ -166,7 +167,7 @@
             <td>&nbsp;</td>
           </tr>
     </table>
-  </center-->
+  </center>
  
 
 
