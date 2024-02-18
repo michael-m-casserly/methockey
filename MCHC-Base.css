@@ -295,3 +295,19 @@ div.dropdown-menu{
    /* padding-left: 10px;
     padding-right: 10px; */
   }
+
+  /* Season-By-Season Consolidated Summary Styles */
+
+  .sbs-best{
+	background-color: #ff0;
+	font-weight: bold;
+	font-style: italic;
+  }
+
+  .sbs-worst{
+	color: red;
+	font-weight: bold;
+	font-style: italic;
+  }
+
+  
