@@ -189,10 +189,7 @@ var q = 'Sacred%20Heart'
             </table>
 			</center>
 
-<!--include virtual="/schedule/display-schedule-previous.html"-->
-
-<!--Remove these 2 br tags when previous schedule is enabled-->
-<br><br>
+<!--#include virtual="/schedule/display-schedule-previous.html"-->
 
 <center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/SHUClubBHockey
 ?ref_src=twsrc%5Etfw">Tweets by @SHUClubBHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center>
