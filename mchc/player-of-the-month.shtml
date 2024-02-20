@@ -34,6 +34,25 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Feb 2024</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#26 Mike Doshan</span></td>
+        <td><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">USMMA</a></td>
+        <td>10 G, 6 A, 16 PTS<br>
+            3 PP, 2 SH, 3 GWG<br>
+            6 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#33 Connor Smith</span></td>
+        <td><a href="/members/sacred-heart-university.shtml">Sacred Heart</a></td>
+        <td>2-0, .946&nbsp;SV%, 1.00 GAA<br>
+            120 Minutes Played</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Dec 2023 / Jan 2024</td>
     </tr>
 	<tr>
