@@ -39,16 +39,16 @@ h3{
   
   <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
-  	<h3>2023 MCHC Champs<br/>Sacred Heart Pioneers</h3>
-    <a href="#Champs"><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_800.png" border="0" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers"></a>
-    <p class="text-align-center">
+  	<h3>2024 MCHC Champs<br/>Sacred Heart Pioneers</h3>
+    <a href="#Champs"><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers"></a>
+    <!--p class="text-align-center">
       <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1JbKL92Nya2sQQQ3NuJTqDpjEKaKnhiXW?usp=share_link" role="button" target="_blank">View Photos</a>
     <!--a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a>
-    </p>
+    </p-->
   </div>
-   </div-->
+   </div>
 
        <!--Temporary Button for All Star Game-->
        <!--p class="text-align-center">
@@ -232,11 +232,11 @@ h3{
 	<a id="Champs"></a>
     <div class="row featurette">
       <div class="col-md-7">
-        <h3 class="featurette-heading">2023 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February 19, 2023 -- The Sterg, Great Neck, NY</span></h3>
-        <p>Jordy Hagwell <b>(Head Coach)</b>, Corey Dybas <b>(Asst. Coach / Athletic Trainer)</b>, Chris Moran <b>(Student Asst. Coach)</b>, Joe Schuler <b>(Team Manager)</b>, #2 Rob Goetze, #3 Declan Lovett, #5 Dan O'Connor, #6 Chris Hughes, #7 Sean Feeney, #8 Jeremiah Ryan, #9 Kevin Harcourt <b>(Captain)</b>, #10 Rich Meyers <b>(Alt. Captain)</b>, #11 Mike Angeletti, #13 Brandon Cardelli, #14 Stan Duwal <b>(Alt. Captain)</b>, #15 Andrey Hamparzoumian, #16 Mike Richardson, #17 Logan Gallagher, #19 Lucca Conigliaro, #20 Ryan Onderdonk, #21 Thomas Howell, #23 Austin Jellison, #26 Jack Reid, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Paul Dematos, #33 Connor Smith, #35 Andrew Capasso</p>
+        <h3 class="featurette-heading">2024 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February 25, 2023 -- The Sterg, Great Neck, NY</span></h3>
+        <!--p>Jordy Hagwell <b>(Head Coach)</b>, Corey Dybas <b>(Asst. Coach / Athletic Trainer)</b>, Chris Moran <b>(Student Asst. Coach)</b>, Joe Schuler <b>(Team Manager)</b>, #2 Rob Goetze, #3 Declan Lovett, #5 Dan O'Connor, #6 Chris Hughes, #7 Sean Feeney, #8 Jeremiah Ryan, #9 Kevin Harcourt <b>(Captain)</b>, #10 Rich Meyers <b>(Alt. Captain)</b>, #11 Mike Angeletti, #13 Brandon Cardelli, #14 Stan Duwal <b>(Alt. Captain)</b>, #15 Andrey Hamparzoumian, #16 Mike Richardson, #17 Logan Gallagher, #19 Lucca Conigliaro, #20 Ryan Onderdonk, #21 Thomas Howell, #23 Austin Jellison, #26 Jack Reid, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Paul Dematos, #33 Connor Smith, #35 Andrew Capasso</p-->
       </div>
       <div class="col-md-5">
-      <p><img src="/images/champions/2023SacredHeartTeamPictureChampionshipGame_home.png" alt="2023 MCHC Champion Sacred Heart Pioneers" title="2023 MCHC Champion Sacred Heart Pioneers" style="border: 0; "></p>
+      <p><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_home.jpg" alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers" style="border: 0; "></p>
      <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
       </div>
     </div>
