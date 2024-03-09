@@ -25,7 +25,7 @@
 </nav>
 
         
-        <div class="PageHeader">Current Standings</div>
+        <div class="PageHeader">2023-24 Standings</div>
        	<p><!--include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
         <!--#include virtual="/standings/standings-include-2024.html"-->
         </p>

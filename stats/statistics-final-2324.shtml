@@ -20,42 +20,27 @@
 	<ol class="breadcrumb">
 	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
 	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
-	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Stats</span></li>
+	  <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/stats/index.shtml">Stats</a></li>
+	  <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2023-24 Stats</span></li>
 	</ol>
   </nav>
 
       
-<div class="PageHeader">Current Stats</div>
-
-<!--Leave this commented out until new season stats are ready-->
+<div class="PageHeader">2023-24 Final Stats</div>
 
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
 
-<!--Temporary Note until we start publishing 2023-24 Stats-->
-
-<!--p class="text-align-center"><b>2023-24 Stats will be published a couple of weeks into the season, around mid-late October.</b></p-->
-
-<!--Broke this into separate tabs on the XLS starting Nov 2022; SOURCE FILE: CASS MCHC WEB STATS 2022-23.xlsx, sent to Drew, and stored in local Downloads folder on Lenovo laptop-->
-
-<!--include virtual="/stats/statistics-current-include-player-scoring.html"-->
 <!--#include virtual="/stats/statistics-final-2324-include-player-scoring.html"-->
-
 <br>
-<!--include virtual="/stats/statistics-current-include-goalie.html"-->
 <!--#include virtual="/stats/statistics-final-2324-include-goalie.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-player-pim-ppg.html"-->
 <!--#include virtual="/stats/statistics-final-2324-include-player-pim-ppg.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim.html"-->
 <!--#include virtual="/stats/statistics-final-2324-include-team-pp-pk-pim.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-scoring.html"-->
 <!--#include virtual="/stats/statistics-final-2324-include-team-scoring.html"-->
 
-<br>
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
-
 <!--#include virtual="/stats/sub-nav-stats.html"-->
 
 <!--End Main Content section-->

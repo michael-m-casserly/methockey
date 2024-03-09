@@ -28,29 +28,29 @@
 
 <!--#include virtual="/mchc/all-star-game/sub-nav-all-star-game-dropdown-previous-seasons.shtml"-->
 
-<!--p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2023.png" style="width:320px; height:319px;" alt="2023 MCHC All-Star Game Logo" title="2023 MCHC All-Star Game Logo" /></p>
+<p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2024.png" style="width:320px; height:301px;" alt="2024 MCHC All-Star Game Logo" title="2024 MCHC All-Star Game Logo" /></p>
 
-<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></p>
+  </svg></a></p-->
 
 <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Program.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program">PDF</title>
     <use xlink:href="#filetype-pdf" />
   </svg></a></p>
 
-<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2022-23-MCHC-ASG-Rosters.pdf" target="_blank">Rosters&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-program-pdf">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></p>
+  </svg></a></p-->
 
-<p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/2023-ASG-scoresheet.pdf" target="_blank">Scoresheet&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-scoresheet">PDF</title>
     <use xlink:href="#filetype-pdf" />
-  </svg></a></p>
+  </svg></a></p-->
 
-<p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></p-->
+<!--p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1aZxt6LoHrHaaPMItCwuvh_xOLwEtoAhT?usp=share_link" role="button" target="_blank">View Photos</a></p-->
 
 <center>
 <table class="TableStandard" border="1">
@@ -77,17 +77,17 @@
 </tr>
 </table>
 </center>
-<!--br>
+<br>
 <center>
   <table class="TableStandard" border="1">
-    <tr>
+    <!--tr>
       <td><img src="/images/all-star-game/2023/pre-game-front.png" alt="2023 MCHC All Star Game" title="2023 MCHC All Star Game"></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
-    </tr>
+    </tr-->
     <tr>
-      <td><img src="/images/all-star-game/2023/pre-game-back.png" alt="2023 MCHC All Star Game" title="2023 MCHC All Star Game"></td>
+      <td><img src="/images/all-star-game/2024/pre-game-back.jpg" alt="2024 MCHC All Star Game" title="2024 MCHC All Star Game"></td>
     </tr>
     <tr>
       <td>&nbsp;</td>
@@ -97,10 +97,10 @@
            <td>Maritime All-Stars</td>
           </tr>
           <tr>
-            <td><img src="/images/all-star-game/2023/maritime-all-stars.png" alt="2023 Maritime College All-Stars" title="2023 Maritime College All-Stars"></td>
+            <td><img src="/images/all-star-game/2024/maritime-all-stars.jpg" alt="2024 Maritime College All-Stars" title="2024 Maritime College All-Stars"></td>
           </tr>
           <tr>
-            <td>#31 Chris Paulino-Sims, #91 Jack Hughes (Alternate Captain), #11 Nick Vertucci (Alternate Captain), #28 Matt Freitas (Alternate Captain), #16 Nick Barthold, #22 Will Nikas (Captain), Nick Nikas (Head Coach)</td>
+            <td>#3 Anthony Altini, #15 Matt Hudak, #10 Zach Chirinkin, #30 Chris Paulino-Sims<br>Selected but could not attend: #91 Jack Hughes</td>
           </tr>
           <tr>
             <td>&nbsp;</td>
@@ -109,10 +109,10 @@
             <td>Sacred Heart All-Stars</td>
            </tr>
            <tr>
-             <td><img src="/images/all-star-game/2023/sacred-heart-all-stars.png" alt="2023 Sacred Heart University All-Stars" title="2023 Sacred Heart University All-Stars"></td>
+             <td><img src="/images/all-star-game/2024/sacred-heart-all-stars.jpg" alt="2024 Sacred Heart University All-Stars" title="2024 Sacred Heart University All-Stars"></td>
            </tr>
            <tr>
-            <td>#35 Andrew Capasso, Jordy Hagwell (Head Coach), TBD, TBD, #9 Kevin Harcourt (Captain), TBD, #11 Mike Angeletti, TBD, #21 Thomas Howell</td>
+            <td>#27 Ryan Martin, #17 Justin Bernhard, #8 Jeremiah Ryan, #30 Ben Sfarra, #24 Zach Macleod, #10 Jack Reid, #12 Conall Gately, TBD, Jordy Hagwell (Head Coach)</td>
           </tr>
           <tr>
              <td>&nbsp;</td>
@@ -121,10 +121,10 @@
             <td>STAC All-Stars</td>
            </tr>
            <tr>
-             <td><img src="/images/all-star-game/2023/stac-all-stars.png" alt="2023 STAC All-Stars" title="2023 STAC All-Stars"></td>
+             <td><img src="/images/all-star-game/2024/stac-all-stars.jpg" alt="2024 STAC All-Stars" title="2024 STAC All-Stars"></td>
            </tr>
            <tr>
-            <td>Sean Jennings (Asst. Coach), #13 Carter Taylor (Captain), #14 Will Thyberg, #3 Daniel McKeon, #11 Noah Barr, #5 Sean Kunz (Alternate Captain), Matt Schuster (Head Coach)</td>
+            <td>Matt Schuster (Head Coach), #16 Jason DeSalvo, #27 Andrew Fenninger, #12 Nick Delia, #11 Noah Barr, #33 Michael Pippo, #14 Will Thyberg (A), Sean Jennings (Asst. Coach)</td>
           </tr>
           <tr>
              <td>&nbsp;</td>
@@ -133,10 +133,10 @@
             <td>Stevens All-Stars</td>
            </tr>
            <tr>
-             <td><img src="/images/all-star-game/2023/stevens-all-stars.png" alt="2023 Stevens Institute of Technology All-Stars" title="2023 Stevens Institute of Technology All-Stars"></td>
+             <td><img src="/images/all-star-game/2024/stevens-all-stars.jpg" alt="2024 Stevens Institute of Technology All-Stars" title="2024 Stevens Institute of Technology All-Stars"></td>
            </tr>
            <tr>
-            <td>#17 Shea Bontempo (Captain), #90 David Canales, #8 Paul Golembewski, #42 Sean Kiewe (Alternate Captain), #95 Nick Adams, #2 Dylan Faulhaber, Dillon Wu (Head Coach)</td>
+            <td>#12 Nick Adams, #90 David Canales, #13 Bernard Vitale, #2 Dylan Faulhaber, #19 Tom Bissaillon, Dillon Wu (Head Coach)<br>Selected but could not attend: #42 Sean Kiewe</td>
           </tr>
           <tr>
              <td>&nbsp;</td>
@@ -145,10 +145,10 @@
             <td>USMMA All-Stars</td>
            </tr>
            <tr>
-             <td><img src="/images/all-star-game/2023/usmma-all-stars.png" alt="2023 USMMA All-Stars" title="2023 USMMA All-Stars"></td>
+             <td><img src="/images/all-star-game/2024/usmma-all-stars.jpg" alt="2024 USMMA All-Stars" title="2024 USMMA All-Stars"></td>
            </tr>
            <tr>
-             <td>#4 Conor Duffy, #13 Henry Root (Alternate Captain), #7 Kevin Stefanick (Captain), #8 Nicole Stefanick, #6 Mark Stefanick, Rick Dominique (Head Coach)</td>
+             <td>Rick Dominique (Head Coach), TBD, TBD, #35 Ben Cloutier, #10 Reese Goetz (Alternate Captain)<br>Selected but could not attend: #6 Nicole Stefanick</td>
            </tr>
            <tr>
             <td>&nbsp;</td>
@@ -157,10 +157,10 @@
             <td>WestConn All-Stars</td>
            </tr>
            <tr>
-             <td><img src="/images/all-star-game/2023/westconn-all-stars.png" alt="2023 Western Connecticut State University All-Stars" title="2023 Western Connecticut State University All-Stars"></td>
+             <td><img src="/images/all-star-game/2024/westconn-all-stars.jpg" alt="2024 Western Connecticut State University All-Stars" title="2024 Western Connecticut State University All-Stars"></td>
            </tr>
            <tr>
-            <td>#13 Matthias Paltauf, #12 Landon Fitzgerald, #33 Colin Coe, #6 Frank Vigiletti, #23 Mason Peragine, #19 Nick Howlett</td>
+            <td>#17 Dan Gallagher, #21 Alex Tsymbalyuk, #8 Gavin Golisano, #23 Matt Peragine (Captain)</td>
           </tr>
            <tr>
             <td>&nbsp;</td>

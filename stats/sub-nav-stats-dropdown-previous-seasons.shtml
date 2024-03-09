@@ -3,6 +3,7 @@
     style="max-width: 240px; margin: auto;">
     <option value="" selected>Previous Seasons</option>
     <option value="/stats/index.shtml">Current Individual &amp; Team Stats</option>
+    <option value="/stats/statistics-final-2324.shtml">2023-2024 Individual &amp; Team Stats</option>
     <option value="/stats/statistics-final-2223.shtml">2022-2023 Individual &amp; Team Stats</option>
     <option value="/stats/statistics-final-2122.shtml">2021-2022 Individual &amp; Team Stats</option>
     <option value="/stats/statistics-final-1920.shtml">2019-2020 Individual &amp; Team Stats</option>

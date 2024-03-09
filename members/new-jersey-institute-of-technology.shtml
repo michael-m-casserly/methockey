@@ -48,13 +48,13 @@ var q = 'NJIT'
 						<td>Goals Against</td>
 					</tr>
 					<tr height="17">
-						<td>134</td>
-						<td>259</td>
+						<td>136</td>
+						<td>270</td>
 						<td>21</td>
-						<td>1</td>
-						<td>.341</td>
-						<td>1592</td>
-						<td>2389</td>
+						<td>2</td>
+						<td>.317</td>
+						<td>1621</td>
+						<td>2488</td>
 					</tr>
 				</table>
 <br/>
@@ -66,14 +66,17 @@ var q = 'NJIT'
 						<td>Final Season</td>
 					</tr>
 					<tr height="17">
-						<td>415</td>
-						<td>24</td>
+						<td>429</td>
+						<td>25</td>
 						<td>1970-71*</td>
 						<td>Active</td>
 					</tr>
                     <tr>
                     	<td colspan="11">*Played 2 Years as Newark School of Engineering<br/> 
                         Did Not Play 1972-74, 1986-91, 1997-2005, 2009-22</td>
+                     </tr>
+                     <tr>
+                    	<td colspan="11"><i>Records updated March 9, 2024</i></td>
                      </tr>
 				</table>
 				
