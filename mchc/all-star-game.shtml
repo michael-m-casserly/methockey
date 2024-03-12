@@ -105,7 +105,7 @@
           <tr>
             <td>&nbsp;</td>
           </tr>
-          <tr class="TableHeader" align="center">
+    <tr class="TableHeader" align="center">
             <td>NJIT All-Stars</td>
            </tr>
            <tr>
@@ -117,7 +117,7 @@
            <tr>
              <td>&nbsp;</td>
            </tr>
-               <tr class="TableHeader" align="center">
+    <tr class="TableHeader" align="center">
             <td>Sacred Heart All-Stars</td>
            </tr>
            <tr>
