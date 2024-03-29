@@ -175,18 +175,29 @@ var q = 'Sacred%20Heart'
                <center>
                 <table class="TableStandard" border="1">
                 	    <tr class="TableHeader" align="center">
-                   			<td>2021-22 Sacred Heart Pioneers</td>
+                   			<td>2023-24 Sacred Heart Pioneers</td>
                         </tr>
                         <tr>
-                        	<td><img src="/images/team-pictures/sacred-heart/2021-22.jpeg" alt="2021-22 Sacred Heart Pioneers" title="2021-22 Sacred Heart Pioneers"></td>
+                        	<td><img src="/images/team-pictures/sacred-heart/2023-24.jpg" alt="2023-24 Sacred Heart Pioneers" title="2023-24 Sacred Heart Pioneers"></td>
                         </tr>
-                        <tr>
-                        	<td align="center">December 2021, Wonderland of Ice, Bridgeport, CT<br><br>
-							<i>Standing (Left to Right):</i> Chris Moran (<b>Team Manager</b>), Chris Hughes, Ryan Onderdonk, Austin Jellison, Jack Reid, Connor Donahue, Mike Angeletti, Matt Licameli, Kyle Horsa, Griffin Ferreira, Thomas Howell, Robbie Goetze, Mike Zdanowicz, Brandon Cardelli, Lucca Conigliaro, Stanley Duwal, Eric Fuga, Zach Forrest, Joseph Schuler, Stephanie Watson (<b>Head Athletic Trainer</b>)<br>
-                            
-							<i>Sitting (Left to Right):</i> Paul Dematos, Monty Gray, Logan Gallagher (<b>A</b>), Richie Myers (<b>A</b>),  Corey Dybas (<b>Assistant Coach</b>), Jordy Hagwell (<b>Head Coach</b>), Joe Lane (<b>Assistant Coach</b>), Charles Sikorski (<b>C</b>), Kevin Harcourt (<b>A</b>), Andrew Capasso, Ben Sfarra</td>
-                        </tr>
-            </table>
+                    <tr>
+                        <td align="center">December 2023, Wonderland of Ice, Bridgeport, CT<br><br>
+								#2 Rob Goetze, #3 Declan Lovett, #4	Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8 Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately,	#13	Brandon	Cardelli, #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33 Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst. Coach)</td>
+                    </tr>
+					<tr><td>&nbsp;</td></tr>
+                	<tr class="TableHeader" align="center">
+							<td>2021-22 Sacred Heart Pioneers</td>
+					 </tr>
+					 <tr>
+						 <td><img src="/images/team-pictures/sacred-heart/2021-22.jpeg" alt="2021-22 Sacred Heart Pioneers" title="2021-22 Sacred Heart Pioneers"></td>
+					 </tr>
+					 <tr>
+						 <td align="center">December 2021, Wonderland of Ice, Bridgeport, CT<br><br>
+						 <i>Standing (Left to Right):</i> Chris Moran (<b>Team Manager</b>), Chris Hughes, Ryan Onderdonk, Austin Jellison, Jack Reid, Connor Donahue, Mike Angeletti, Matt Licameli, Kyle Horsa, Griffin Ferreira, Thomas Howell, Robbie Goetze, Mike Zdanowicz, Brandon Cardelli, Lucca Conigliaro, Stanley Duwal, Eric Fuga, Zach Forrest, Joseph Schuler, Stephanie Watson (<b>Head Athletic Trainer</b>)<br>
+						 
+						 <i>Sitting (Left to Right):</i> Paul Dematos, Monty Gray, Logan Gallagher (<b>A</b>), Richie Myers (<b>A</b>),  Corey Dybas (<b>Assistant Coach</b>), Jordy Hagwell (<b>Head Coach</b>), Joe Lane (<b>Assistant Coach</b>), Charles Sikorski (<b>C</b>), Kevin Harcourt (<b>A</b>), Andrew Capasso, Ben Sfarra</td>
+					 </tr>
+		 </table>
 			</center>
 
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
