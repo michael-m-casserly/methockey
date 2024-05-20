@@ -42,15 +42,15 @@
                 <a href="/members/stevens-institute-of-technology.shtml"><img src="/images/school-names/stevens.png" alt="Stevens Institute of Technology" title="Stevens Institute of Technology" style="width:320px; height:145px;" /></a>
                 <a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml"><img src="/images/school-names/usmma.jpg" alt="U.S. Merchant Marine Academy" title="U.S. Merchant Marine Academy" style="width:320px; height:148px; padding-bottom:20px; padding-top:0px;" /></a>
                 <a href="/members/western-connecticut-state-university.shtml"><img src="/images/school-names/westconn.png" alt="Western Connecticut State University" title="Western Connecticut State University" style="width:320px; height:163px;" /></a>
-                <a href="/members/yale-university.shtml"><img src="/images/school-names/yale.png" alt="Yale University" title="Yale University" style="width:320px; height:77px;" /></a></center></div>
+                <a href="/members/yeshiva-university.shtml"><img src="/images/school-names/yeshiva.png" alt="Yeshiva University" title="Yeshiva University" style="width:325px; height:64px;" /></a></center></div>
                 
-          <a name="affiliate-members" id="affiliate-members"></a>
+          <!--a name="affiliate-members" id="affiliate-members"></a>
           <br>
           <div class="PageHeader">Affiliate Members</div>                   
         
           <div><center>
-              <a href="/members/yeshiva-university.shtml"><img src="/images/school-names/yeshiva.png" alt="Yeshiva University" title="Yeshiva University" style="width:325px; height:64px;" /></a></center>
-          </div>
+              </center>
+          </div-->
         
 <div style="padding-bottom:10px; padding-top:20px;">
 	<center><br/><br/>
@@ -121,7 +121,9 @@
                 <a href="/members/union-college.shtml"><img src="/images/school-names/union.png" alt="Union College" title="Union College" style="width:320px; height:133px;" /></a>
                 <a href="/members/upsala-college.shtml"><img src="/images/school-names/upsala.jpg" alt="Upsala College" title="Upsala College" style="width:320px; height:90px;" /></a>
                 <a href="/members/wagner-college.shtml"><img src="/images/school-names/wagner.jpg" alt="Wagner College" title="Wagner College" style="width:320px; height:104px;" /></a>
-                <a href="/members/william-paterson-university.shtml"><img src="/images/school-names/paterson.png" alt="William Paterson University" title="William Paterson University" style="width:320px; height:118px;" /></a></center></div>
+                <a href="/members/william-paterson-university.shtml"><img src="/images/school-names/paterson.png" alt="William Paterson University" title="William Paterson University" style="width:320px; height:118px;" /></a>
+                <a href="/members/yale-university.shtml"><img src="/images/school-names/yale.png" alt="Yale University" title="Yale University" style="width:320px; height:77px;" /></a>
+            </center></div>
 
 <!--End Main Content section-->
 

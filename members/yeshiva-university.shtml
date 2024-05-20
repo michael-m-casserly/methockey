@@ -31,7 +31,7 @@
 	</ol>
 </nav>
 
-<div class="PageHeader">Yeshiva University TBD</div>
+<div class="PageHeader">Yeshiva University Maccabees</div>
 
 <p class="text-align-center"><img src="/images/team-logos/yeshiva.png" style="max-width:320px;" alt="Yeshiva Logo" title="Yeshiva Logo" /></p>
 
@@ -121,24 +121,24 @@
 <tr>
   <td colspan="2" align="center">New York, NY</td>
 </tr>
-<!--tr class="TableHeader">
+<tr class="TableHeader">
   <td colspan="2" align="center">Team Website</td>
 </tr>
 <tr>
-  <td colspan="2" align="center"><a href="TBD" target="_blank" class="LongURL">TBD</a></td>
+  <td colspan="2" align="center"><a href="https://yumacs.com/" target="_blank" class="LongURL">https://yumacs.com/</a></td>
 </tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">School's Nickname</td>
 </tr>
 <tr>
-  <td colspan="2" align="center">TBD</td>
+  <td colspan="2" align="center">Maccabees</td>
 </tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">Team Colors</td>
 </tr>
 <tr>
   <td colspan="2" align="center">Home-White | Away-Blue</td>
-</tr-->
+</tr>
 <tr class="TableHeader">
   <td colspan="2" align="center">School Established</td>
 </tr>

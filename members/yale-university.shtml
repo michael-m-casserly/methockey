@@ -69,10 +69,10 @@ var q = 'Yale'
 						<td>89</td>
 						<td>6</td>
 						<td>2006-07*</td>
-						<td>Active</td>
+						<td>Suspended**</td>
 					</tr>
                     <tr>
-                    	<td colspan="11" align="center">*Did Not Play 2009-15, 2017-22</td>
+                    	<td colspan="11" align="center">*Did Not Play 2009-15, 2017-22<br>**Team Suspended as of May 2024.</td>
                     </tr>
 					<tr>
                     	<td colspan="11"><i>Records updated March 9, 2024</i></td>
