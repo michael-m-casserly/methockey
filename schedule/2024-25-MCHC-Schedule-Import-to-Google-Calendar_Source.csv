@@ -41,17 +41,7 @@ G39 - Maritime @ USMMA,2/8/2025,10:15:00 PM,2/8/2025,11:45:00 PM,FALSE,"Andrew S
 G40 - STAC @ NJIT,2/15/2025,8:30:00 PM,2/15/2025,10:00:00 PM,FALSE,"RWJBarnabas Health Hockey House, 25 Lafayette St, Newark, NJ 07102, USA",,,40,2/15/2025,8:30:00 PM,10:00 PM,NJIT,STAC,"RWJBarnabas Health Hockey House, 25 Lafayette St, Newark, NJ 07102, USA",G40 - STAC @ NJIT
 G41 - Sacred Heart @ Maritime,2/15/2025,10:00:00 PM,2/15/2025,11:30:00 PM,FALSE,"Sport-O-Rama Ice Rinks, 20 College Rd, Monsey, NY 10952, USA",,,41,2/15/2025,10:00:00 PM,11:30 PM,Maritime,Sacred Heart,"Sport-O-Rama Ice Rinks, 20 College Rd, Monsey, NY 10952, USA",G41 - Sacred Heart @ Maritime
 G42 - Maritime @ Yeshiva,2/16/2025,3:45:00 PM,2/16/2025,5:15:00 PM,FALSE,"Mackay Park, Englewood, NJ 07631",,,42,2/16/2025,3:45:00 PM,5:15 PM,Yeshiva,Maritime,"Mackay Park, Englewood, NJ 07631",G42 - Maritime @ Yeshiva
-S1 - MCHC Semi-Finals Game 1,2/22/2025,6:00:00 PM,2/22/2025,7:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,,2/22/2025,6:00:00 PM,7:30 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",S1 - TBD
-S2 - MCHC Semi-Finals Game 2,2/22/2025,8:30:00 PM,2/22/2025,10:00:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,,2/22/2025,8:30:00 PM,10:00 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",S2 - TBD
-CH - MCHC Championship Game,2/23/2025,3:00:00 PM,2/23/2025,4:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,,2/23/2025,3:00:00 PM,4:30 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",CH - TBD
-ASG - MCHC All Star Game,3/2/2025,5:00:00 PM,3/2/2025,6:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,,3/2/2025,5:00:00 PM,6:30 PM,MCHC All-Stars 1,MCHC All-Stars 2,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",ASG - All Star Game
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,
+S1 - MCHC Semi-Finals Game 1,2/22/2025,6:00:00 PM,2/22/2025,7:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,S1,2/22/2025,6:00:00 PM,7:30 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",S1 - TBD
+S2 - MCHC Semi-Finals Game 2,2/22/2025,8:30:00 PM,2/22/2025,10:00:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,S2,2/22/2025,8:30:00 PM,10:00 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",S2 - TBD
+CH - MCHC Championship Game,2/23/2025,3:00:00 PM,2/23/2025,4:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,CH,2/23/2025,3:00:00 PM,4:30 PM,TBA,TBA (2),"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",CH - TBD
+ASG - MCHC All Star Game,3/2/2025,5:00:00 PM,3/2/2025,6:30:00 PM,FALSE,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",,,ASG,3/2/2025,5:00:00 PM,6:30 PM,MCHC All-Stars 1,MCHC All-Stars 2,"Andrew Stergiopoulos Ice Rink, 65 Arrandale Ave, Great Neck, NY 11024, USA",ASG - All Star Game
