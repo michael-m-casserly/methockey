@@ -54,6 +54,7 @@ h3{
       <h3>Game Day</h3>
       <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
       <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></p-->
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/CoachPages/MCHC-Game-Protocols.pdf" target="_blank">MCHC Game Protocols</a></p>
       <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link" target="_blank">MCHC Score Submit*</a></p>
       <p>*Please submit score within 24 hours of game completion.</p>
       <p class="text-align-center"><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></p>
