@@ -121,6 +121,9 @@ h3{
 
     <!-- Three columns of text below the carousel -->
     <div class="row">
+
+      <!--Begin Left Column-->
+
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
 		<!--hr-->
@@ -152,15 +155,17 @@ h3{
 		</div>
 
       </div><!-- /.col-lg-4 -->
+      
+      <!--Begin Center Column-->
       <div class="col-lg-4">
         <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
         <!--hr-->
-        <!--div class="round-border">
+        <div class="round-border">
           <h3>Schedule</h3>
 
           <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
            
-        </div-->
+        </div>
                   
         <div class="round-border">
           <h3>Current Season</h3>
@@ -207,6 +212,9 @@ h3{
 		</div-->        
 
         </div><!-- /.col-lg-4 -->
+
+        <!--Begin Right Column-->
+
         <div class="col-lg-4">
           <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
           <!--hr-->
@@ -219,7 +227,7 @@ h3{
     
             <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
   
-        <p><a class="twitter-timeline" height="908" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+        <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
     
           </div>
         </div><!-- /.col-lg-4 -->  
