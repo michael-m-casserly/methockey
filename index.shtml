@@ -131,7 +131,7 @@ h3{
 
     <div class="round-border">
       <h3>Standings</h3>
-      <p><!--#include virtual="/standings/standings-include-2024.html"--></p>
+      <p><!--#include virtual="/standings/standings-include.html"--></p>
   </div>        
 
       <div class="round-border">
