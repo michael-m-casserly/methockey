@@ -134,7 +134,13 @@ h3{
       <p><!--#include virtual="/standings/standings-include.html"--></p>
   </div>        
 
-      <div class="round-border">
+    <div class="round-border">
+    <!--h3>Instagram</h3-->
+    <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram" title="Follow us on Instagram" /></a>
+    <!--br/>Follow us on Instagram--></p>
+    <p><a class="btn btn-secondary" href="https://www.instagram.com/mchc_hockey/" target="_blank" role="button">Follow Us &raquo;</a></p>
+    </div>
+    <div class="round-border">
         <h3>ACHA Final Rankings</h3>
         <!--p></p-->
         <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2023-24-ACHA-M3-Ranking8.pdf" target="_blank">As of 2-18-2024&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
