@@ -75,6 +75,26 @@ h3{
         <use xlink:href="#filetype-pdf" />
           </svg></a></p-->
     </div>
+    <div class="round-border">
+      <h3>ACHA Registration</h3>
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/agPEZQJLv6g" target="_blank">ACHA Team Manager Guide Part 1&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+        <title id="youtube-label-mouseover-acha-team-manager-guide-1">YouTube</title>
+        <use xlink:href="#youtube" />
+          </svg></a></p>
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/SVfhdJPJzS0" target="_blank">ACHA Team Manager Guide Part 2&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+            <title id="youtube-label-mouseover-acha-team-manager-guide-2">YouTube</title>
+            <use xlink:href="#youtube" />
+        </svg></a></p>
+        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/ViibfCzuZYw" target="_blank">ACHA Team Manager Guide Part 3&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+          <title id="youtube-label-mouseover-acha-team-manager-guide-3">YouTube</title>
+          <use xlink:href="#youtube" />
+      </svg></a></p>
+  
+        <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-acha-eligibility-form-instructions">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+          </svg></a></p-->
+    </div>
   </div>
 
   <div class="col-lg-4">

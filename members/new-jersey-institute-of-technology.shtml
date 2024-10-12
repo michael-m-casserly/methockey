@@ -110,7 +110,7 @@ var q = 'NJIT'
     <tr>
     	<td colspan="2" align="center">    
 			<a class="text" href="https://www.facebook.com/NJITIceHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Facebook"><title id="facebook-label-mouseover">Facebook</title><use xlink:href="#facebook"/></svg></a>
-	  </td>
+			<a class="text" href="https://www.instagram.com/njithockeyofficial/" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a></td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
