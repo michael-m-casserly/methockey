@@ -37,21 +37,21 @@
 
 <!--Broke this into separate tabs on the XLS starting Nov 2022; SOURCE FILE: CASS MCHC WEB STATS 2022-23.xlsx, sent to Drew, and stored in local Downloads folder on Lenovo laptop-->
 
-<!--include virtual="/stats/statistics-current-include-player-scoring.html"-->
-<!--#include virtual="/stats/statistics-final-2324-include-player-scoring.html"-->
+<!--#include virtual="/stats/statistics-current-include-player-scoring.html"-->
+<!--include virtual="/stats/statistics-final-2425-include-player-scoring.html"-->
 
 <br>
-<!--include virtual="/stats/statistics-current-include-goalie.html"-->
-<!--#include virtual="/stats/statistics-final-2324-include-goalie.html"-->
+<!--#include virtual="/stats/statistics-current-include-goalie.html"-->
+<!--include virtual="/stats/statistics-final-2425-include-goalie.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-player-pim-ppg.html"-->
-<!--#include virtual="/stats/statistics-final-2324-include-player-pim-ppg.html"-->
+<!--#include virtual="/stats/statistics-current-include-player-pim-ppg.html"-->
+<!--include virtual="/stats/statistics-final-2425-include-player-pim-ppg.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim.html"-->
-<!--#include virtual="/stats/statistics-final-2324-include-team-pp-pk-pim.html"-->
+<!--#include virtual="/stats/statistics-current-include-team-pp-pk-pim.html"-->
+<!--include virtual="/stats/statistics-final-2425-include-team-pp-pk-pim.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-scoring.html"-->
-<!--#include virtual="/stats/statistics-final-2324-include-team-scoring.html"-->
+<!--#include virtual="/stats/statistics-current-include-team-scoring.html"-->
+<!--include virtual="/stats/statistics-final-2425-include-team-scoring.html"-->
 
 <br>
 <!--#include virtual="/stats/sub-nav-stats-dropdown-previous-seasons.shtml"-->
