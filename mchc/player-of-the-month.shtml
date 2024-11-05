@@ -34,6 +34,25 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Oct 2024</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#27 Andrew Fenninger</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>2 G, 8 A, 10 PTS<br>
+            1 GWG<br>
+            3 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#33 Mike Pippo</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>2-0, .948&nbsp;SV%, 2.50 GAA<br>
+            120 Minutes Played</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Feb 2024</td>
     </tr>
 	<tr>
