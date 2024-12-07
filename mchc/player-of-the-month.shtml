@@ -34,6 +34,24 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Nov 2024</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#18 Blake Alexander</span></td>
+        <td><a href="/members/western-connecticut-state-university.shtml">WestConn</a></td>
+        <td>9 G, 4 A, 13 PTS<br>
+            1 GWG<br>
+            4 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#33 Markus Paltauf</span></td>
+        <td><a href="/members/western-connecticut-state-university.shtml">WestConn</a></td>
+        <td>4-0, .881&nbsp;SV%, 3.59 GAA</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Oct 2024</td>
     </tr>
 	<tr>
