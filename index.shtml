@@ -143,7 +143,7 @@ h3{
     <div class="round-border">
         <h3>ACHA Rankings</h3>
         <!--p></p-->
-        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2024-25-ACHA-M3-Ranking2.pdf" target="_blank">As of 11-11-2024&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2024-25-ACHA-M3-Ranking3.pdf" target="_blank">As of 12-01-2024&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-acha-rankings">PDF</title>
           <use xlink:href="#filetype-pdf" />
         </svg></a></p>
