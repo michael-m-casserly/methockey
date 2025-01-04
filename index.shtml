@@ -147,6 +147,7 @@ h3{
           <title id="pdf-label-mouseover-acha-rankings">PDF</title>
           <use xlink:href="#filetype-pdf" />
         </svg></a></p>
+        <p><a class="btn btn-secondary" href="https://www.achahockey.org/m3-rankings" target="_blank" role="button">M3 Rankings &raquo;</a></p>
         <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/ACHA-M3-2024-National-Teams-&-Pools.pdf" target="_blank">National Tournament&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
           <title id="pdf-label-mouseover-acha-national-tourney">PDF</title>
           <use xlink:href="#filetype-pdf" />
