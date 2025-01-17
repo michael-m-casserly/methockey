@@ -119,6 +119,11 @@ h3{
       <title id="google-label-mouseover-upload-videos-files">Google</title>
       <use xlink:href="#google" />
         </svg></a></p>
+
+      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://www.youtube.com/@LISportsNetwork/videos" target="_blank">LI Sports Network&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+          <title id="youtube-label-mouseover-lisn">YouTube</title>
+          <use xlink:href="#youtube" />
+            </svg></a></p>
     </div>
   </div>
 </div>
