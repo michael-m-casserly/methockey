@@ -20,7 +20,8 @@
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/mchc/index.shtml">MCHC</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">All-Star Game</span></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/mchc/all-star-game.shtml">All-Star Game</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2024</span></li>
   </ol>
 </nav>
 
@@ -28,9 +29,7 @@
 
 <!--#include virtual="/mchc/all-star-game/sub-nav-all-star-game-dropdown-previous-seasons.shtml"-->
 
-<p class="text-align-center"><img src="/images/all-star-game/2025/2025-ASG-Roster.jpg" style="width:299px; height:554px;" alt="2025 MCHC All-Star Game Roster" title="2025 MCHC All-Star Game Roster" /></p>
-
-<!--p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2024.png" style="width:320px; height:301px;" alt="2024 MCHC All-Star Game Logo" title="2024 MCHC All-Star Game Logo" /></p-->
+<p class="text-align-center"><img src="/images/mchc/logo-mchc-all-star-game-2024.png" style="width:320px; height:301px;" alt="2024 MCHC All-Star Game Logo" title="2024 MCHC All-Star Game Logo" /></p>
 
 <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/all-star-game/MCHC-All-Star-Game-2023-Flyer.pdf" target="_blank">Promotional Flyer&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
     <title id="pdf-label-mouseover-asg-2023-flyer">PDF</title>
@@ -88,7 +87,7 @@
     <tr>
       <td>&nbsp;</td>
     </tr-->
-    <!--tr>
+    <tr>
       <td><img src="/images/all-star-game/2024/pre-game-back.jpg" alt="2024 MCHC All Star Game" title="2024 MCHC All Star Game"></td>
     </tr>
     <tr>
@@ -178,7 +177,7 @@
           </tr>
            <tr>
             <td>&nbsp;</td>
-          </tr-->
+          </tr>
     </table>
   </center-->
  

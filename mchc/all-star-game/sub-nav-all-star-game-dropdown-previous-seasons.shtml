@@ -3,6 +3,7 @@
     style="max-width: 240px; margin: auto;">
     <option value="" selected>Previous Seasons</option>
     <option value="/mchc/all-star-game.shtml">Current Season</option>
+    <option value="/mchc/all-star-game/all-star-game-2024.shtml">2023-2024 All Star Game</option>
     <option value="/mchc/all-star-game/all-star-game-2023.shtml">2022-2023 All Star Game</option>
     </select>
 </p>
