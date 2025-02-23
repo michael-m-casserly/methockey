@@ -28,8 +28,7 @@
 <div class="PageHeader">2023-24 Results</div>
 <p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<!--#include virtual="/results/results-include-2024.html"-->
-<!--#include virtual="/schedule/playoff-programs/2024-25.html"--></p>
+<!--#include virtual="/results/results-include-2024.html"--></p>
 
 <!--#include virtual="/results/results-2023-24-notes.html"-->
 <!--#include virtual="/results/results-footer.html"-->

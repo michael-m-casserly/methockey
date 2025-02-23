@@ -35,7 +35,7 @@
 </p>
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
-<!--include virtual="/schedule/playoff-programs/2019-20.html"--> <!--There were no playoff programs for 2021-22-->
+<!--#include virtual="/schedule/playoff-programs/2024-25.html"-->
 <!--include virtual="/results/results-2023-24-notes.html"-->
 <!--#include virtual="/results/results-footer.html"-->
 

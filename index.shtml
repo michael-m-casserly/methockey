@@ -126,12 +126,12 @@ h3{
         
     <div class="round-border">
       <h3>Playoffs</h3>
-      <p><img src="/images/mchc/2025-MCHC-Semifinals.jpg" style="width: 275px; height: 273px;"/></p>
+      <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+      <p><a href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p>
       <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/schedule/playoff-programs/2024-25.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-acha-rankings">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg></a></p>
-      <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>        
 
     <div class="round-border">
