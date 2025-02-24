@@ -132,6 +132,8 @@ h3{
         <title id="pdf-label-mouseover-acha-rankings">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg></a></p>
+      <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1sn83mUWAip-wNndsbmzinmKj2iUoTunZ?usp=drive_link" role="button" target="_blank">View Photos SHU v WCSU</a></p>
+      <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1cUXq6vstOlUa059NmFwLARFAcBo9cZnN?usp=drive_link" role="button" target="_blank">View Photos STAC v NYM</a></p>
     </div>        
 
     <div class="round-border">
