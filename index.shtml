@@ -135,14 +135,15 @@ h3{
     <div class="round-border">
       <h3>Playoffs</h3>
       <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><a href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p>
+      <!--p><a href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p-->
       <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/schedule/playoff-programs/2024-25.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-        <title id="pdf-label-mouseover-acha-rankings">PDF</title>
+        <title id="pdf-label-mouseover-playoff-program">PDF</title>
         <use xlink:href="#filetype-pdf" />
       </svg></a></p>
       <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1sn83mUWAip-wNndsbmzinmKj2iUoTunZ?usp=drive_link" role="button" target="_blank">View Photos SHU v WCSU</a></p>
       <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1cUXq6vstOlUa059NmFwLARFAcBo9cZnN?usp=drive_link" role="button" target="_blank">View Photos STAC v NYM</a></p>
       <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos SHU v STAC</a></p>
+      <p class="text-align-center"><a class="btn btn-secondary" href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" role="button" target="_blank">Replay on YouTube</a></p>
     </div>        
 
     <div class="round-border">
