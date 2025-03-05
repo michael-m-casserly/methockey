@@ -1,43 +1,41 @@
-
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
   <!--#include virtual="/banner-head.html" -->
 
-    <title>Metropolitan Collegiate Hockey Conference | Home</title>
+  <title>Metropolitan Collegiate Hockey Conference | Home</title>
 
-    <link rel="canonical" href="https://www.methockey.com/">
+  <link rel="canonical" href="https://www.methockey.com/">
 
-<style>
+  <style>
+    h3 {
+      font-family: Charlemagne std;
+      color: #344f7c;
+    }
 
-h3{
-	font-family: Charlemagne std;
-	color: #344f7c;
-}
-
-.round-border{
-	border: 2px solid #344f7c; 
-	border-radius:5px;
-	padding-bottom:10px;
-	padding-top:10px;
-	margin-bottom: 10px;
-  background-color: #e5ecf9;
-}
-
-</style>
-  </head>
+    .round-border {
+      border: 2px solid #344f7c;
+      border-radius: 5px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      margin-bottom: 10px;
+      background-color: #e5ecf9;
+    }
+  </style>
+</head>
 
 <body class="bodyTag">
 
   <!--#include virtual="/banner-m.html" -->
 
-<!--Begin Main Content Section-->
+  <!--Begin Main Content Section-->
   <main class="container container-round-border">
 
 
-  <!-- Main jumbotron for a primary marketing message or call to action -->
-  
-  <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)
+    <!-- Main jumbotron for a primary marketing message or call to action -->
+
+    <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)
   
   <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
@@ -50,8 +48,8 @@ h3{
   </div>
    </div-->
 
-  
-<!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
+
+    <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -99,140 +97,201 @@ h3{
       <span class="sr-only">Next</span>
     </a>
   </div-->
- <!--End hide carousel during off-season-->
+    <!--End hide carousel during off-season-->
 
 
-  <!-- Marketing messaging and featurettes
+    <!-- Marketing messaging and featurettes
   ================================================== -->
-  <!-- Wrap the rest of the page in another container to center all the content. -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
 
-  <div class="container marketing" style="padding-top: 30px;"> <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
+    <div class="container marketing" style="padding-top: 30px;">
+      <!--This 30px can be removed when the jumbotron above is activated (for Champs picture)-->
 
-		<!--Use this to center all of the content within the 3 columns-->
-    <style>
-	  	.col-lg-4 p {
-			text-align:center;
-			}
-		</style>
+      <!--Use this to center all of the content within the 3 columns-->
+      <style>
+        .col-lg-4 p {
+          text-align: center;
+        }
+      </style>
 
-    <!-- Three columns of text below the carousel -->
-    <div class="row">
+      <!-- Three columns of text below the carousel -->
+      <div class="row">
 
-      <!--Begin Left Column-->
+        <!--Begin Left Column-->
 
-      <div class="col-lg-4">
-        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-		<!--hr-->
-        
-    <div class="round-border">
-      <h3>All-Star Game</h3>
-      <p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml" role="button">2025 All-Star Game</a></p>
-      <iframe width="275" height="169" src="https://www.youtube.com/embed/nvN_ZjohqBw?si=2vtLU6moHhY14yuh" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <p><a href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p>
-    </div>        
+        <div class="col-lg-4">
+          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+          <!--hr-->
 
-    <div class="round-border">
-      <h3>Playoffs</h3>
-      <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-      <!--p><a href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p-->
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/schedule/playoff-programs/2024-25.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-        <title id="pdf-label-mouseover-playoff-program">PDF</title>
+          <div class="round-border">
+            <h3>National Tourney</h3>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/acha-rankings/2025-ACHA-M3-NATIONALS-Practice-Times.pdf" target="_blank">Practice
+                Times&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-natl-tourney-practice-times">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/acha-rankings/2025-ACHA-M3-NATIONALS-Game-Schedule.pdf" target="_blank">Game
+                Schedule&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-natl-tourney-game-schedule">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/acha-rankings/2025-ACHA-M3-NATIONALS-Teams-&-Pools.pdf" target="_blank">Game
+                Schedule&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-natl-tourney-teams-and-pools">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>ACHA Rankings</h3>
+            <!--p></p-->
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/acha-rankings/2024-25-ACHA-M3-Ranking7.pdf" target="_blank">As of 2-16-2025&nbsp;<svg
+                  class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-rankings">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+            <p><a class="btn btn-secondary" href="https://www.achahockey.org/m3-rankings" target="_blank"
+                role="button">M3 Rankings &raquo;</a></p>
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/ACHA-M3-2024-National-Teams-&-Pools.pdf" target="_blank">National Tournament&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-acha-national-tourney">PDF</title>
         <use xlink:href="#filetype-pdf" />
-      </svg></a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1sn83mUWAip-wNndsbmzinmKj2iUoTunZ?usp=drive_link" role="button" target="_blank">View Photos SHU v WCSU</a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1cUXq6vstOlUa059NmFwLARFAcBo9cZnN?usp=drive_link" role="button" target="_blank">View Photos STAC v NYM</a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos SHU v STAC</a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" role="button" target="_blank">Replay on YouTube</a></p>
-    </div>        
+      </svg></a></p-->
+          </div>
 
-    <div class="round-border">
-      <h3>Standings</h3>
-      <p><!--#include virtual="/standings/standings-include.html"--></p>
-  </div>        
+          <div class="round-border">
+            <h3>All-Star Game</h3>
+            <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
+                role="button" target="_blank">2025 ASG Photos</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml"
+                role="button">2025 All-Star Game</a></p>
+            <iframe width="275" height="169" src="https://www.youtube.com/embed/nvN_ZjohqBw?si=2vtLU6moHhY14yuh"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" role="button" target="_blank">Replay
+                on YouTube</a></p>
+            <!--p><a href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p-->
+          </div>
 
-    <div class="round-border">
-    <!--h3>Instagram</h3-->
-    <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram" title="Follow us on Instagram" /></a>
-    <!--br/>Follow us on Instagram--></p>
-    <p><a class="btn btn-secondary" href="https://www.instagram.com/mchc_hockey/" target="_blank" role="button">Follow Us &raquo;</a></p>
-    </div>
-    <div class="round-border">
-        <h3>ACHA Rankings</h3>
-        <!--p></p-->
-        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/2024-25-ACHA-M3-Ranking6.pdf" target="_blank">As of 2-2-2025&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-acha-rankings">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg></a></p>
-        <p><a class="btn btn-secondary" href="https://www.achahockey.org/m3-rankings" target="_blank" role="button">M3 Rankings &raquo;</a></p>
-        <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/ACHA-M3-2024-National-Teams-&-Pools.pdf" target="_blank">National Tournament&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-          <title id="pdf-label-mouseover-acha-national-tourney">PDF</title>
-          <use xlink:href="#filetype-pdf" />
-        </svg></a></p-->
-      </div>
+          <div class="round-border">
+            <h3>Playoffs</h3>
+            <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <!--p><a href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p-->
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/schedule/playoff-programs/2024-25.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24"
+                  height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-playoff-program">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1sn83mUWAip-wNndsbmzinmKj2iUoTunZ?usp=drive_link"
+                role="button" target="_blank">View Photos SHU v WCSU</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1cUXq6vstOlUa059NmFwLARFAcBo9cZnN?usp=drive_link"
+                role="button" target="_blank">View Photos STAC v NYM</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
+                role="button" target="_blank">View Photos SHU v STAC</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://www.youtube.com/live/dWR6qx9l14k?si=QtZQCBXQwEumKrfS" role="button" target="_blank">Replay
+                on YouTube</a></p>
+          </div>
 
-    <div class="round-border">
-		<h3>Numbers</h3>
-        <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
-        <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
-        <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a></p>
-		</div>
+        </div><!-- /.col-lg-4 -->
 
-      </div><!-- /.col-lg-4 -->
-      
-      <!--Begin Center Column-->
-      <div class="col-lg-4">
-        <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-        <!--hr-->
-        <div class="round-border">
+        <!--Begin Center Column-->
+        <div class="col-lg-4">
+          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+          <!--hr-->
+
+          <!--############## HIDE SCHEDULE IN OFF-SEASON ##############-->
+          <!--div class="round-border">
           <h3>Schedule</h3>
 
           <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
            
-        </div>
-                  
-        <div class="round-border">
+        </div-->
+
+          <!--############## HIDE DURING OFF-SEASON ##############-->
+          <!--div class="round-border">
           <h3>Current Season</h3>
-          <!--p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=0&single=true');">COVID-19 Protocols (Team)</a></p>
-          <p><a class="btn btn-secondary" href="https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true" role="button" target="_blank" onclick="captureOutboundLink('https://docs.google.com/spreadsheets/d/e/2PACX-1vQ-jizXVjW33dnOlWMckCz_vbrkQ7m_41R4yHAvrXFIUtvD9AhjQrXPID5RvrVAkAPsO417fMKuZz9I/pubhtml?gid=1292754071&single=true');">COVID-19 Protocols (Rink)</a></p-->
           <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
           <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
           <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
-        </div>
-    
-        <div class="round-border">
+        </div-->
+
+          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <div class="round-border">
+            <h3>Standings</h3>
+            <p><!--#include virtual="/standings/standings-include.html"--></p>
+          </div>
+
+          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <div class="round-border">
+            <!--h3>Instagram</h3-->
+            <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img
+                  src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram"
+                  title="Follow us on Instagram" /></a>
+              <!--br/>Follow us on Instagram-->
+            </p>
+            <p><a class="btn btn-secondary" href="https://www.instagram.com/mchc_hockey/" target="_blank"
+                role="button">Follow Us &raquo;</a></p>
+          </div>
+
+          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <div class="round-border">
+            <h3>Numbers</h3>
+            <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
+            <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
+            <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a>
+            </p>
+          </div>
+
+          <div class="round-border">
 
             <h3>Player of the Month</h3>
             <h5>Dec 2024</h5>
-                <p style="font-size:16px">
-                    <b>#10 Jack Reid</b><br/>
+            <p style="font-size:16px">
+              <b>#10 Jack Reid</b><br />
               <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
               2 G, 5 A, 7 PTS<br>
               1 SH<br>
-              2 Games Played</p>
-              <p style="font-size:16px">
-                <b>#30 Ben Sfarra</b><br/>
-                <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-          2-0<br>
-          .923&nbsp;SV%<br>
-          2.25 GAA</p>
-             <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
-            </div>
-        
-        <div class="round-border">
-          <h3>Coaches</h3>
-          <p>Submit Scores and Download Forms<br/>(Login Required)</p>
-          <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
-      </div>
-        
-        <!--a id="ACHARankings"></a>
+              2 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>#30 Ben Sfarra</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              2-0<br>
+              .923&nbsp;SV%<br>
+              2.25 GAA
+            </p>
+            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>Coaches</h3>
+            <p>Submit Scores and Download Forms<br />(Login Required)</p>
+            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
+          </div>
+
+          <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
         <p class="text-align-center"><i>Final Ranking (Feb. 21, 2020)</i></p>
 		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
         <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
 		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
-		</div-->        
+		</div-->
 
         </div><!-- /.col-lg-4 -->
 
@@ -241,46 +300,62 @@ h3{
         <div class="col-lg-4">
           <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
           <!--hr-->
-  
+
           <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
-  
+
           <div class="round-border">
             <h3>News</h3>
-            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account for the MCHC. Follow us for League News, Scores, and Updates.</p>
-    
+            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
+              for the MCHC. Follow us for League News, Scores, and Updates.</p>
+
             <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-  
-        <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
-    
+
+            <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets
+                by methockey</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </p>
+
           </div>
-        </div><!-- /.col-lg-4 -->  
-    </div><!-- /.row -->
+        </div><!-- /.col-lg-4 -->
+      </div><!-- /.row -->
 
 
-    <!-- START THE FEATURETTES -->
+      <!-- START THE FEATURETTES -->
 
-	<hr>
-	<a id="Champs"></a>
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h3 class="featurette-heading">2024 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February 25, 2024 -- The Sterg, Great Neck, NY</span></h3>
-        <p>#2 Rob Goetze, #3 Declan Lovett, #4	Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8 Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately,	#13	Brandon	Cardelli, #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33 Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst. Coach)</p>
-        <p class="text-align-center">
-          <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1Ak9hUrSw7GtHR_tveyDdh5tgWFwDEUdy?usp=drive_link" role="button" target="_blank">View Photos</a>
-        </p>
+      <hr>
+      <a id="Champs"></a>
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">2024 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February
+              25, 2024 -- The Sterg, Great Neck, NY</span></h3>
+          <p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
+            Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
+            #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
+            Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach
+            Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33
+            Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst.
+            Coach)</p>
+          <p class="text-align-center">
+            <a class="btn btn-secondary"
+              href="https://drive.google.com/drive/folders/1Ak9hUrSw7GtHR_tveyDdh5tgWFwDEUdy?usp=drive_link"
+              role="button" target="_blank">View Photos</a>
+          </p>
+        </div>
+        <div class="col-md-5">
+          <p><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_home.jpg"
+              alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers"
+              style="border: 0; "></p>
+          <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All
+              MCHC Champions</a></p>
+        </div>
       </div>
-      <div class="col-md-5">
-      <p><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_home.jpg" alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers" style="border: 0; "></p>
-     <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
-      </div>
-    </div>
 
-    <hr>
+      <hr>
 
-    <!-- /END THE FEATURETTES -->
+      <!-- /END THE FEATURETTES -->
 
-  </div><!-- /.container -->
+    </div><!-- /.container -->
 
-  <!--#include virtual="/footer-m.html" -->
+    <!--#include virtual="/footer-m.html" -->
 
 </html>
