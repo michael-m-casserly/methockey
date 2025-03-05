@@ -138,8 +138,8 @@
                   <use xlink:href="#filetype-pdf" />
                 </svg></a></p>
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="/mchc/acha-rankings/2025-ACHA-M3-NATIONALS-Teams-&-Pools.pdf" target="_blank">Game
-                Schedule&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                href="/mchc/acha-rankings/2025-ACHA-M3-NATIONALS-Teams-&-Pools.pdf" target="_blank">Teams
+                & Pools&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
                   <title id="pdf-label-mouseover-acha-natl-tourney-teams-and-pools">PDF</title>
                   <use xlink:href="#filetype-pdf" />
                 </svg></a></p>
@@ -214,7 +214,7 @@
           <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
           <!--hr-->
 
-          <!--############## HIDE SCHEDULE IN OFF-SEASON ##############-->
+          <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
           <!--div class="round-border">
           <h3>Schedule</h3>
 
@@ -222,7 +222,7 @@
            
         </div-->
 
-          <!--############## HIDE DURING OFF-SEASON ##############-->
+          <!-- ############## HIDE DURING OFF-SEASON ############## -->
           <!--div class="round-border">
           <h3>Current Season</h3>
           <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
@@ -230,13 +230,13 @@
           <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
         </div-->
 
-          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <h3>Standings</h3>
             <p><!--#include virtual="/standings/standings-include.html"--></p>
           </div>
 
-          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <!--h3>Instagram</h3-->
             <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img
@@ -248,7 +248,7 @@
                 role="button">Follow Us &raquo;</a></p>
           </div>
 
-          <!--##########MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ###########-->
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <h3>Numbers</h3>
             <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
