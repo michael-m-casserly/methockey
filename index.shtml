@@ -41,10 +41,7 @@
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2025 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <p><a href="#Champs"><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"></a></p>
-    <p class="text-align-center">
-      <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos</a>
-    <a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">Go</a>
-    </p>
+    <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos</a></p>
   </div>
    </div>
 
@@ -233,7 +230,7 @@
           <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <h3>Standings</h3>
-            <p><!--#include virtual="/standings/standings-include.html"--></p>
+            <p><!--#include virtual="/standings/standings-include-2025.html"--></p>
           </div>
 
           <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
