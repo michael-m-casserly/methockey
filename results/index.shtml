@@ -31,7 +31,7 @@
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/current-season-summary-include.html"--><!--Add this back when the new season begins-->
 <br>
-<!--#include virtual="/results/results-include.html"--><!--Add the -2024 when the season ends, Remove the -2024 once the new season starts up-->
+<!--#include virtual="/results/results-include-2025.html"--><!--Add the -2024 when the season ends, Remove the -2024 once the new season starts up-->
 </p>
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->

@@ -25,7 +25,7 @@
   </ol>
 </nav>
 
-<div class="PageHeader">2023-24 Results</div>
+<div class="PageHeader">2024-25 Results</div>
 <p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/results-include-2025.html"--></p>
