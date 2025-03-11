@@ -3,6 +3,7 @@
     style="max-width: 240px; margin: auto;">
     <option value="" selected>Previous Seasons</option>
     <option value="/results/index.shtml">Current Results</option>
+    <option value="/results/results-2025.shtml">2024-2025 Results</option>
     <option value="/results/results-2024.shtml">2023-2024 Results</option>
     <option value="/results/results-2023.shtml">2022-2023 Results</option>
     <option value="/results/results-2022.shtml">2021-2022 Results</option>

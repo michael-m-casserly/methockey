@@ -3,6 +3,7 @@
     style="max-width: 240px; margin: auto;">
     <option value="" selected>Previous Seasons</option>
     <option value="/standings/index.shtml">Current Standings</option>
+    <option value="/standings/standings-2025.shtml">2024-2025 Standings</option>
     <option value="/standings/standings-2024.shtml">2023-2024 Standings</option>
     <option value="/standings/standings-2023.shtml">2022-2023 Standings</option>
     <option value="/standings/standings-2022.shtml">2021-2022 Standings</option>

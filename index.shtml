@@ -35,18 +35,18 @@
 
     <!-- Main jumbotron for a primary marketing message or call to action -->
 
-    <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)
+    <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
   <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
-  	<h3>2024 MCHC Champs<br/>Sacred Heart Pioneers</h3>
-    <p><a href="#Champs"><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers"></a></p>
+  	<h3>2025 MCHC Champs<br/>Sacred Heart Pioneers</h3>
+    <p><a href="#Champs"><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"></a></p>
     <p class="text-align-center">
-      <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1Ak9hUrSw7GtHR_tveyDdh5tgWFwDEUdy?usp=drive_link" role="button" target="_blank">View Photos</a>
+      <a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos</a>
     <a class="btn btn-secondary" href="/league/champions.shtml" role="button">Go</a>
     </p>
   </div>
-   </div-->
+   </div>
 
 
     <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
@@ -326,24 +326,24 @@
       <a id="Champs"></a>
       <div class="row featurette">
         <div class="col-md-7">
-          <h3 class="featurette-heading">2024 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February
-              25, 2024 -- The Sterg, Great Neck, NY</span></h3>
-          <p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
+          <h3 class="featurette-heading">2025 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February
+              23, 2025 -- The Sterg, Great Neck, NY</span></h3>
+          <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
             Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
             #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
             Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach
             Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33
             Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst.
-            Coach)</p>
+            Coach)</p-->
           <p class="text-align-center">
             <a class="btn btn-secondary"
-              href="https://drive.google.com/drive/folders/1Ak9hUrSw7GtHR_tveyDdh5tgWFwDEUdy?usp=drive_link"
+              href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
               role="button" target="_blank">View Photos</a>
           </p>
         </div>
         <div class="col-md-5">
-          <p><img src="/images/champions/2024SacredHeartTeamPictureChampionshipGame_home.jpg"
-              alt="2024 MCHC Champion Sacred Heart Pioneers" title="2024 MCHC Champion Sacred Heart Pioneers"
+          <p><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_home.jpg"
+              alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"
               style="border: 0; "></p>
           <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All
               MCHC Champions</a></p>

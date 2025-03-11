@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+  <head>
+  <!--#include virtual="/banner-head.html" -->
+
+<title>MCHC Standings | Metropolitan Collegiate Hockey Conference</title>
+    
+  </head>
+
+<body class="bodyTag">
+
+  <!--#include virtual="/banner-m.html" -->
+
+<!--Begin Main Content Section-->
+  <main class="container container-round-border">
+
+
+<!--Begin Central Content-->
+<nav aria-label="breadcrumb">
+  <ol class="breadcrumb">
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Standings</span></li>
+  </ol>
+</nav>
+
+        
+        <div class="PageHeader">2024-25 Standings</div>
+       	<p><!--include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
+        <!--#include virtual="/standings/standings-include-2025.html"-->
+        </p>
+		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
+		<!--#include virtual="/standings/sub-nav-standings.html"-->
+
+<!--End Main Content section-->
+
+<!--#include virtual="/footer-m.html" -->
+
+<!--End Bottom Navigation Menu-->
+</html>
