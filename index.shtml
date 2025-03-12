@@ -254,33 +254,6 @@
             </p>
           </div>
 
-          <div class="round-border">
-
-            <h3>Player of the Month</h3>
-            <h5>Dec 2024</h5>
-            <p style="font-size:16px">
-              <b>#10 Jack Reid</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-              2 G, 5 A, 7 PTS<br>
-              1 SH<br>
-              2 Games Played
-            </p>
-            <p style="font-size:16px">
-              <b>#30 Ben Sfarra</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-              2-0<br>
-              .923&nbsp;SV%<br>
-              2.25 GAA
-            </p>
-            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
-          </div>
-
-          <div class="round-border">
-            <h3>Coaches</h3>
-            <p>Submit Scores and Download Forms<br />(Login Required)</p>
-            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
-          </div>
-
           <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
@@ -313,6 +286,34 @@
             </p>
 
           </div>
+
+          <div class="round-border">
+
+            <h3>Player of the Month</h3>
+            <h5>Dec 2024</h5>
+            <p style="font-size:16px">
+              <b>#10 Jack Reid</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              2 G, 5 A, 7 PTS<br>
+              1 SH<br>
+              2 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>#30 Ben Sfarra</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              2-0<br>
+              .923&nbsp;SV%<br>
+              2.25 GAA
+            </p>
+            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>Coaches</h3>
+            <p>Submit Scores and Download Forms<br />(Login Required)</p>
+            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
+          </div>
+
         </div><!-- /.col-lg-4 -->
       </div><!-- /.row -->
 
