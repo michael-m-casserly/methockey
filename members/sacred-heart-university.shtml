@@ -91,24 +91,25 @@ var q = 'Sacred%20Heart'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>Jordy Hagwell</td>
-        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-4653<br/>
-            <a href="mailto:hagwellj@sacredheart.edu">Email Jordy</a></td>
+    	<td>Corey Dybas</td>
+        <td><!--span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-4653<br/-->
+            <a href="mailto:coreydybas12@gmail.com">Email Corey</a></td>
     </tr>
     <tr class="TableHeader">
-    	<td colspan="2" align="center">Team Contact</td>
+    	<td colspan="2" align="center">Team Contact / Hockey Operations</td>
     </tr>
     <tr>
-    	<td>Corey Dybas</td>
-    	<td></td>
+    	<td>Jordy Hagwell</td>
+    	<td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-4653<br/>
+            <a href="mailto:hagwellj@sacredheart.edu">Email Jordy</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Director of Club Sports</td>
     </tr>
     <tr>
-    	<td>Ray Mencio</td>
-        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-371-8286<br/>
-                <a href="mailto:R-Mencio@sacredheart.edu">Email Ray</a></td>
+    	<td>Ashley Lane</td>
+        <td><span class="TeamPageContactLabel">Office:</span>&nbsp;203-365-7540<br/>
+                <a href="mailto:lanea2@sacredheart.edu">Email Ashley</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
