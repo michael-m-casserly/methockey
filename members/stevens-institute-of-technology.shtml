@@ -69,10 +69,10 @@ var q = 'Stevens'
 						<td>303</td>
 						<td>20</td>
 						<td>1991-92*</td>
-						<td>2023-24</td>
+						<td>Active</td>
 					</tr>
                     <tr>
-                    	<td colspan="11">*Did Not Play 1997-2009</td>
+                    	<td colspan="11">*Did Not Play 1997-2009, 2024-25</td>
                     </tr>
                      <tr>
                     	<td colspan="11"><i>Records updated March 9, 2024</i></td>
@@ -88,9 +88,8 @@ var q = 'Stevens'
     	<td colspan="2" align="center">Team President</td>
     </tr>
     <tr>
-    	<td>Vasili Karalewich</td>
-        <td><span class="TeamPageContactLabel">Phone:</span>&nbsp;201-470-2729<!--br/>
-<span class="TeamPageContactLabel">Email:</span>&nbsp;<a href="mailto:jsurless@stevens.edu">jsurless@stevens.edu</a--></td>
+    	<td>Tyler Buss</td>
+        <td><a href="mailto:tbuss@stevens.edu">Email Tyler</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>

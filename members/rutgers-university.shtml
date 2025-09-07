@@ -64,9 +64,12 @@ var q = 'Rutgers'
 					<tr height="17">
 						<td>298</td>
 						<td>17</td>
-						<td>1978-79</td>
-						<td>1994-95</td>
+						<td>1978-79*</td>
+						<td>Active</td>
 					</tr>
+					<tr>
+                    	<td colspan="11">*Did not play 1995-2025</td>
+                     </tr>
 				</table>
 				
 <div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>
