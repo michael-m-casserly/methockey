@@ -6,7 +6,7 @@
 <title>Stony Brook University | Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'Stony Brook'
+var q = 'Stony%20Brook'
 //alert('Q equals ' + q)
 </script>    
   </head>
@@ -65,10 +65,10 @@ var q = 'Stony Brook'
 						<td>486</td>
 						<td>28</td>
 						<td>1969-70*</td>
-						<td>1999-2000</td>
+						<td>Active</td>
 					</tr>
                     <tr>
-                    	<td colspan="11">*Did Not Play 1972-75</td>
+                    	<td colspan="11">*Did Not Play 1972-75, 2001-25</td>
                      </tr>
 				</table>
 				
@@ -109,6 +109,8 @@ var q = 'Stony Brook'
 	</tr>
 </table>
 </center>
+
+<!--#include virtual="/schedule/display-schedule-current.html"-->
 
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 

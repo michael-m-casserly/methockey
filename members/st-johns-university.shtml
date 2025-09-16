@@ -6,7 +6,7 @@
 <title>St. John's University | Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'St. Johns'
+var q = 'St.%20Johns'
 //alert('Q equals ' + q)
 </script>    
   </head>
@@ -65,10 +65,10 @@ var q = 'St. Johns'
 						<td>162</td>
 						<td>9</td>
 						<td>1970-71*</td>
-						<td>1979-80</td>
+						<td>Active</td>
 					</tr>
                     <tr>
-                    	<td colspan="11">*Did Not Play 1974-75</td>
+                    	<td colspan="11">*Did Not Play 1974-75, 1981-2025</td>
                      </tr>
 				</table>
 <br/>
@@ -100,6 +100,8 @@ var q = 'St. Johns'
 </table>
 </center>
             
+<!--#include virtual="/schedule/display-schedule-current.html"-->
+
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--End Main Content section-->

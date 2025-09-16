@@ -65,11 +65,11 @@ var q = 'Hofstra'
 						<td>452</td>
 						<td>28</td>
 						<td>1968-69*</td>
-						<td>2018-19</td>
+						<td>Active</td>
 					</tr>
                     <tr>
                     	<td colspan="11" align="center">*Played in 1968-69<br/>
-                        Did Not Play 1969-85, 1996-2001, 2009-11</td>
+                        Did Not Play 1969-85, 1996-2001, 2009-11, 2020-25</td>
                     </tr>
 				</table>
 <br/>
@@ -107,7 +107,7 @@ var q = 'Hofstra'
 </table>
 </center>
 
-<!--include virtual="/schedule/display-schedule-current.html"-->
+<!--#include virtual="/schedule/display-schedule-current.html"-->
 
 <!--#include virtual="/schedule/playoff-programs/2018-19.html"-->
 

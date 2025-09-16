@@ -65,11 +65,11 @@ var q = 'Fairfield'
 						<td>214</td>
 						<td>13</td>
 						<td>1968-69*</td>
-						<td>2008-09</td>
+						<td>Active</td>
 					</tr>
                     <tr>
                     	<td colspan="11">*Did Not Play 1975-2003<br/> 
-                        Returned 2003-04</td>
+                        Returned 2003-04, Did Not Play 2010-25</td>
                      </tr>
 				</table>
 				
@@ -112,6 +112,8 @@ var q = 'Fairfield'
 	</tr>
 </table>
 </center>
+
+<!--#include virtual="/schedule/display-schedule-current.html"-->
 
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
