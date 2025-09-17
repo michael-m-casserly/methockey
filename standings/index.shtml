@@ -26,9 +26,11 @@
 
         
         <div class="PageHeader">Current Standings</div>
-       	<p><!--#include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
+       	<div class="PageSectionHeader">Metropolitan Division</div>
+        <p><!--#include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
         <!--include virtual="/standings/standings-include-2025.html"-->
         </p>
+        <div class="PageSectionHeader">Atlantic Division</div>
 		<!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
 		<!--#include virtual="/standings/sub-nav-standings.html"-->
 
