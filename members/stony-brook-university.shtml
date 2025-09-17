@@ -77,6 +77,22 @@ var q = 'Stony%20Brook'
 </div>
 <br/>
 <table class="TableStandard" border="1">
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>[Name]</td>
+        <td><a href="mailto:[Name]">Email [Name]</a></td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Home Rink</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">[Name of Rink], [City], [State]</td>
+	</tr>
+    <!--tr>
+    	<td colspan="2" align="center"><iframe src="" height="450" frameborder="0" style="border:0; min-width:320px; max-width:500px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr-->
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
@@ -89,17 +105,23 @@ var q = 'Stony%20Brook'
     <tr>
     	<td colspan="2" align="center">Stony Brook, NY</td>
 	</tr>
-    <!--tr class="TableHeader">
+    <tr class="TableHeader">
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="[Team Website]" target="_blank" class="LongURL">[Team Website]</a></td>
-	</tr-->
+    	<td colspan="2" align="center"><a href="" target="_blank" class="LongURL">[URL for Team Website, if available]</a></td>
+	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">School's Nickname</td>
     </tr>
     <tr>
     	<td colspan="2" align="center">Seawolves</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Team Colors</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Home-[Color] | Away-[Color]</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>

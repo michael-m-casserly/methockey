@@ -6,7 +6,7 @@
 <title>Sacred Heart University ACDC | Metropolitan Collegiate Hockey Conference</title>
 
 <script type="text/javascript">
-var q = 'Sacred%20Heart%20ACDC'
+var q = 'SHU%20ACDC'
 //alert('Q equals ' + q)
 </script>
 
@@ -87,6 +87,13 @@ var q = 'Sacred%20Heart%20ACDC'
 </div-->
 <br/>
 <table class="TableStandard" border="1">
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>[Name]</td>
+        <td><a href="mailto:[Name]">Email [Name]</a></td>
+    </tr>
 	<!--tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
@@ -167,14 +174,15 @@ var q = 'Sacred%20Heart%20ACDC'
 	</tr>
 </table>
 </center>
-                
+
 <!--#include virtual="/schedule/display-schedule-current.html"-->
 
-<!--#include virtual="/schedule/display-schedule-previous.html"-->
+<!--include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--center><div class="TeamPageScheduleTwitterWidth"><a class="twitter-timeline" data-theme="dark" href="https://twitter.com/SHUClubBHockey
 ?ref_src=twsrc%5Etfw">Tweets by @SHUClubBHockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div></center-->
 
+<br> <!--Added this for spacing between Current Schedule and Footer, Only needed when everything in between is commented out-->
 <!--End Main Content section-->
 
 <!--#include virtual="/footer-m.html" -->
