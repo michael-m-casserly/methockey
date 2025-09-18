@@ -96,6 +96,14 @@ var q = 'St.%20Johns'
     	<td colspan="2" align="center"><a href="https://www.stjohns.edu/" target="_blank" class="LongURL">www.stjohns.edu</a></td>
 	</tr>
     <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Social</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">    
+			<a class="text" href="https://www.instagram.com/sjuicehockey_" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
+	  </td>
+	</tr>
+    <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
     </tr>
     <tr>

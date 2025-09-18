@@ -73,14 +73,7 @@ var q = 'RUTG%20ACDC'
 				</table-->
 <br/>
 <table class="TableStandard" border="1">
-	<tr class="TableHeader">
-    	<td colspan="2" align="center">Head Coach</td>
-    </tr>
-    <tr>
-    	<td>[Name]</td>
-        <td><a href="mailto:[Name]">Email [Name]</a></td>
-    </tr>
-    <!--tr class="TableHeader">
+    <tr class="TableHeader">
     	<td colspan="2" align="center">General Manager</td>
     </tr>
     <tr>
@@ -121,7 +114,7 @@ var q = 'RUTG%20ACDC'
     <tr>
     	<td>Mike Murphy</td>
 		<td><a href="mailto:mikemurphy.hockey@gmail.com">Email Mike</a></td>
-	</tr-->
+	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
