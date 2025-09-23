@@ -91,8 +91,8 @@ var q = 'SHU%20ACDC'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>[Name]</td>
-        <td><a href="mailto:[Name]">Email [Name]</a></td>
+    	<td>Steve Minichini</td>
+        <td><a href="mailto:stevemini@gmail.com">Email Steve</a></td>
     </tr>
 	<!--tr class="TableHeader">
     	<td colspan="2" align="center">Head Coach</td>
