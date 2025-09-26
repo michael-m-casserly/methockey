@@ -85,11 +85,11 @@ var q = 'Hofstra'
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">[Name of Rink], [City], [State]</td>
+    	<td colspan="2" align="center">Freeport Recreation Center, Freeport, NY</td>
 	</tr>
-    <!--tr>
-    	<td colspan="2" align="center"><iframe src="" height="450" frameborder="0" style="border:0; min-width:320px; max-width:500px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
+    <tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3026.948510264788!2d-73.5756282!3d40.65306539999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c27bf6581493b1%3A0xa7c05b1af691ab62!2sFreeport%20Recreation%20Center!5e0!3m2!1sen!2sus!4v1758850623581!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px; max-width:500px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
