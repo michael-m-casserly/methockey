@@ -37,13 +37,13 @@
 
     <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
   
-  <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2025 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <p><a href="#Champs"><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"></a></p>
     <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos</a></p>
   </div>
-   </div>
+   </div-->
 
 
     <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
@@ -115,7 +115,113 @@
       <div class="row">
 
         <!--Begin Left Column-->
+        <div class="col-lg-4">
+          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+          <!--hr-->
 
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
+          <div class="round-border">
+            <h3>Standings</h3>
+            <p><div class="PageSectionHeader">Metropolitan</div><!--#include virtual="/standings/standings-include.html"--></p>
+            <p><div class="PageSectionHeader">Atlantic</div><!--#include virtual="/standings/standings-atlantic-include.html"--></p>
+          </div>
+
+          <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
+          <div class="round-border">
+          <h3>Schedule</h3>
+          <p>Gxx = Metropolitan Division<br>
+          Axx = Atlantic Division</p>
+
+          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
+           
+        </div>
+          
+          <!--a id="ACHARankings"></a>
+        <div class="round-border">
+        <h3>ACHA D3 Rankings</h3>
+        <p class="text-align-center"><i>Final Ranking (Feb. 21, 2020)</i></p>
+		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
+        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
+		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
+		</div-->
+
+        </div><!-- /.col-lg-4 -->
+
+        <!--Begin Center Column-->
+
+        <div class="col-lg-4">
+          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
+          <!--hr-->
+
+          <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
+
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
+          <div class="round-border">
+            <!--h3>Instagram</h3-->
+            <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img
+                  src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram"
+                  title="Follow us on Instagram" /></a>
+              <!--br/>Follow us on Instagram-->
+            </p>
+            <p><a class="btn btn-secondary" href="https://www.instagram.com/mchc_hockey/" target="_blank"
+                role="button">Follow Us &raquo;</a></p>
+          </div>
+
+          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
+          <div class="round-border">
+            <h3>Numbers</h3>
+            <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
+            <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
+            <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a>
+            </p>
+          </div>
+
+        <!-- ############## HIDE DURING OFF-SEASON ############## -->
+          <div class="round-border">
+          <h3>Current Season</h3>
+          <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
+          <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
+          <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
+        </div>
+
+        <div class="round-border">
+            <h3>News</h3>
+            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
+              for the MCHC. Follow us for League News, Scores, and Updates.</p>
+
+            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+
+            <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets
+                by methockey</a>
+              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            </p>
+
+          </div>
+
+          <div class="round-border">
+
+            <h3>Player of the Month</h3>
+            <h5>Dec 2024</h5>
+            <p style="font-size:16px">
+              <b>#10 Jack Reid</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              2 G, 5 A, 7 PTS<br>
+              1 SH<br>
+              2 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>#30 Ben Sfarra</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              2-0<br>
+              .923&nbsp;SV%<br>
+              2.25 GAA
+            </p>
+            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+          </div>
+
+        </div><!-- /.col-lg-4 -->
+
+        <!--Begin Right Column-->
         <div class="col-lg-4">
           <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
           <!--hr-->
@@ -145,6 +251,12 @@
                   <use xlink:href="#filetype-pdf" />
                 </svg></a></p>
           </div-->
+
+          <div class="round-border">
+            <h3>Coaches</h3>
+            <p>Submit Scores and Download Forms<br />(Login Required)</p>
+            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
+          </div>
 
           <div class="round-border">
             <h3>ACHA Rankings</h3>
@@ -209,118 +321,7 @@
           </div>
 
         </div><!-- /.col-lg-4 -->
-
-        <!--Begin Center Column-->
-        <div class="col-lg-4">
-          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-          <!--hr-->
-
-          <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
-          <div class="round-border">
-          <h3>Schedule</h3>
-          <p>Gxx = Metropolitan Division<br>
-          Axx = Atlantic Division</p>
-
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
-           
-        </div>
-
-          <!-- ############## HIDE DURING OFF-SEASON ############## -->
-          <div class="round-border">
-          <h3>Current Season</h3>
-          <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
-        </div>
-
-          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
-          <div class="round-border">
-            <h3>Standings</h3>
-            <p><!--#include virtual="/standings/standings-include-2025.html"--></p>
-          </div>
-
-          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
-          <div class="round-border">
-            <!--h3>Instagram</h3-->
-            <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img
-                  src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram"
-                  title="Follow us on Instagram" /></a>
-              <!--br/>Follow us on Instagram-->
-            </p>
-            <p><a class="btn btn-secondary" href="https://www.instagram.com/mchc_hockey/" target="_blank"
-                role="button">Follow Us &raquo;</a></p>
-          </div>
-
-          <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
-          <div class="round-border">
-            <h3>Numbers</h3>
-            <p><a class="btn btn-secondary" href="/results/index.shtml" role="button">Results</a></p>
-            <p><a class="btn btn-secondary" href="/stats/index.shtml" role="button">Stats</a></p>
-            <p><a class="btn btn-secondary" href="/stats/historical-individual.shtml" role="button">Stats (All-Time)</a>
-            </p>
-          </div>
-
-          <!--a id="ACHARankings"></a>
-        <div class="round-border">
-        <h3>ACHA D3 Rankings</h3>
-        <p class="text-align-center"><i>Final Ranking (Feb. 21, 2020)</i></p>
-		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
-        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
-		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
-		</div-->
-
-        </div><!-- /.col-lg-4 -->
-
-        <!--Begin Right Column-->
-
-        <div class="col-lg-4">
-          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-          <!--hr-->
-
-          <!--THIS CAN BE HIDDEN DURING THE OFF-SEASON-->
-
-          <div class="round-border">
-            <h3>News</h3>
-            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
-              for the MCHC. Follow us for League News, Scores, and Updates.</p>
-
-            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-
-            <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets
-                by methockey</a>
-              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </p>
-
-          </div>
-
-          <div class="round-border">
-
-            <h3>Player of the Month</h3>
-            <h5>Dec 2024</h5>
-            <p style="font-size:16px">
-              <b>#10 Jack Reid</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-              2 G, 5 A, 7 PTS<br>
-              1 SH<br>
-              2 Games Played
-            </p>
-            <p style="font-size:16px">
-              <b>#30 Ben Sfarra</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-              2-0<br>
-              .923&nbsp;SV%<br>
-              2.25 GAA
-            </p>
-            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
-          </div>
-
-          <div class="round-border">
-            <h3>Coaches</h3>
-            <p>Submit Scores and Download Forms<br />(Login Required)</p>
-            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
-          </div>
-
-        </div><!-- /.col-lg-4 -->
+        <!--End Right Column-->
       </div><!-- /.row -->
 
 
