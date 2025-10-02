@@ -84,7 +84,7 @@ var q = '_Fairfield%20U.'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>[Name]</td>
+    	<td>Justin Dirienzo</td>
         <td><a href="mailto:[Name]">Email [Name]</a></td>
     </tr>
     <tr class="TableHeader">
@@ -120,7 +120,7 @@ var q = '_Fairfield%20U.'
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><a href="" target="_blank" class="LongURL">[URL for Team Website, if available]</a></td>
+    	<td colspan="2" align="center"><a href=" https://clubsports.fairfieldstags.com/sports/mens-ice-hockey-d3-team" target="_blank" class="LongURL"> https://clubsports.fairfieldstags.com/sports/mens-ice-hockey-d3-team</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">School's Nickname</td>
@@ -132,7 +132,7 @@ var q = '_Fairfield%20U.'
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Home-[Color] | Away-[Color]</td>
+    	<td colspan="2" align="center">Home-White | Away-Red</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>

@@ -78,7 +78,7 @@ var q = 'Hofstra'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>[Name]</td>
+    	<td>Jim Duggan</td>
         <td><a href="mailto:[Name]">Email [Name]</a></td>
     </tr>
     <tr class="TableHeader">
