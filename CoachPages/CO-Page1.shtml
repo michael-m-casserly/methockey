@@ -58,7 +58,11 @@
             <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
             <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></p-->
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="/CoachPages/MCHC-Game-Protocols.pdf" target="_blank">MCHC Game Protocols</a></p>
+                href="/CoachPages/MCHC-Game-Protocols.pdf" target="_blank">MCHC Game Protocols&nbsp;<svg
+                  class="bi" width="16" height="16" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-mchc-game-protocols">PDF</title>
+                  <use xlink:href="#file-earmark-pdf" />
+                </svg></a></p>
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
                 href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link"
                 target="_blank">MCHC Score Submit*</a></p>
@@ -73,9 +77,6 @@
             <p><sup>&dagger;</sup>HorizonWebRef requires an separate login ID. Please reach out to Jason Remsbecker if
               you don't have one.</p>
           </div>
-        </div>
-
-        <div class="col-lg-4">
           <div class="round-border">
             <h3>ACHA Eligibility</h3>
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
@@ -90,6 +91,9 @@
         <use xlink:href="#filetype-pdf" />
           </svg></a></p-->
           </div>
+        </div>
+
+        <div class="col-lg-4">
           <div class="round-border">
             <h3>ACHA Registration</h3>
             <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/agPEZQJLv6g"
@@ -116,9 +120,6 @@
         <use xlink:href="#filetype-pdf" />
           </svg></a></p-->
           </div>
-        </div>
-
-        <div class="col-lg-4">
           <div class="round-border">
 
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
@@ -130,15 +131,10 @@
 
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
                 href="/mchc/2025-2026_NCAA_Rule_Changes.pdf" target="_blank">NCAA Rule Changes<br>2025-26&nbsp;<svg
-                  class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  class="bi" width="16" height="16" role="img" aria-label="PDF">
                   <title id="pdf-label-mouseover-ncaa-rulechanges-25-26">PDF</title>
-                  <use xlink:href="#filetype-pdf" />
+                  <use xlink:href="#file-earmark-pdf" />
                 </svg></a></p>
-
-            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-website-maintenance-tracker">Google</title>
-      <use xlink:href="#google" />
-        </svg></a></p-->
 
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
                 href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing"
@@ -163,10 +159,13 @@
                 </svg></a></p>
           </div>
 
+        </div>
+
+        <div class="col-lg-4">
           <div class="round-border">
             <h3>MCHC Registration</h3>
             <p class="text-align-center"><a class="btn btn-secondary" role="button" href="MCHC - Team Application.doc"
-                target="_blank">2025-26 Team Application&nbsp;<svg class="bi" width="16" height="16" role="img"
+                target="_blank">'25-26 Team Application&nbsp;<svg class="bi" width="16" height="16" role="img"
                   aria-label="DOC">
                   <title id="doc-label-mouseover-mchc-team-registration-form">DOC</title>
                   <use xlink:href="#filetype-doc" />
@@ -180,25 +179,18 @@
                 </svg></a></p>
 
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="https://lsadmin.hockeytech.com/login/" target="_blank">LeagueStat (HockeyTech) Login</a></p>
-
-            <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="2025-and-2026-Mens-Schedule-Template.xlsx" target="_blank">2025-26 Schedule Template &nbsp;<svg
-                  class="bi" width="16" height="16" role="img" aria-label="XLSX">
-                  <title id="xlsx-label-mouseover-2025-26-schedule-template">XLSX</title>
-                  <use xlink:href="#filetype-xlsx" />
-                </svg></a></p>
-
-            <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="ACHA-Team-Manager-User-Guide 2025-26.pdf" target="_blank">ACHA Team Manager<br>User Guide 2025-26&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                href="ACHA-Team-Manager-User-Guide 2025-26.pdf" target="_blank">ACHA Team Manager<br>User Guide
+                2025-26&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
                   <title id="pdf-label-mouseover-acha-team-manager-user-guide-25-26">PDF</title>
-                  <use xlink:href="#filetype-pdf" />
+                  <use xlink:href="#file-earmark-pdf" />
                 </svg></a></p>
 
             <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="LeagueStats-Processes-New-scoring-and-stats-system-August-2021.pdf" target="_blank">LeagueStats Processes<br>New Scoring and Stats<br>System August 2021&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                href="LeagueStats-Processes-New-scoring-and-stats-system-August-2021.pdf" target="_blank">LeagueStats
+                Processes<br>For Scoring System&nbsp;<svg class="bi" width="16" height="16"
+                  role="img" aria-label="PDF">
                   <title id="pdf-label-mouseover-acha-leaguestats-processes-new-scoring-stats-21">PDF</title>
-                  <use xlink:href="#filetype-pdf" />
+                  <use xlink:href="#file-earmark-pdf" />
                 </svg></a></p>
 
           </div>
