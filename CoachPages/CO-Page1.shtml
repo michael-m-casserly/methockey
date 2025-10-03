@@ -1,147 +1,220 @@
 <!doctype html>
 <html lang="en">
-  <head>
+
+<head>
   <!--#include virtual="/banner-head.html" -->
 
-<title>Coaches | Metropolitan Collegiate Hockey Conference</title>
+  <title>Coaches | Metropolitan Collegiate Hockey Conference</title>
 
-<style type="text/css">
-.btn-secondary {
-	width: 250px;
-}
-h3{
-    font-family: Charlemagne std;
-    color: #344f7c;
-  }
-  .round-border{
-    border: 2px solid #344f7c; 
-    border-radius:5px;
-    padding-bottom:10px;
-    padding-top:10px;
-    margin-bottom: 10px;
-    background-color: #e5ecf9;
-  }
-</style>  
-  </head>
+  <style type="text/css">
+    .btn-secondary {
+      width: 250px;
+    }
+
+    h3 {
+      font-family: Charlemagne std;
+      color: #344f7c;
+    }
+
+    .round-border {
+      border: 2px solid #344f7c;
+      border-radius: 5px;
+      padding-bottom: 10px;
+      padding-top: 10px;
+      margin-bottom: 10px;
+      background-color: #e5ecf9;
+    }
+  </style>
+</head>
 
 <body class="bodyTag">
 
   <!--#include virtual="/banner-m.html" -->
 
-<!--Begin Main Content Section-->
+  <!--Begin Main Content Section-->
   <main class="container container-round-border">
 
 
-<!--Begin Central Content-->
-<nav aria-label="breadcrumb">
-  <ol class="breadcrumb">
-    <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Coaches</span></li>
-  </ol>
-</nav>
+    <!--Begin Central Content-->
+    <nav aria-label="breadcrumb">
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
+        <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Coaches</span></li>
+      </ol>
+    </nav>
 
-<div class="container marketing" style="padding-top: 30px;">
-<div class="row">
-  <div class="col-lg-4">
-<!--Use this to center all of the content within the 3 columns-->
-    <style>
-  .col-lg-4 p {
-  text-align:center;
-  }
-</style>
+    <div class="container marketing" style="padding-top: 30px;">
+      <div class="row">
+        <div class="col-lg-4">
+          <!--Use this to center all of the content within the 3 columns-->
+          <style>
+            .col-lg-4 p {
+              text-align: center;
+            }
+          </style>
 
-    <div class="round-border">
-      <h3>Game Day</h3>
-      <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
-      <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></p-->
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/CoachPages/MCHC-Game-Protocols.pdf" target="_blank">MCHC Game Protocols</a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link" target="_blank">MCHC Score Submit*</a></p>
-      <p>*Please submit score within 24 hours of game completion.</p>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell Numbers</a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://lsadmin.hockeytech.com/login/" target="_blank">ACHA Score Submit</a></p>
-    <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://www.horizonwebref.com/?pageID=login" target="_blank">Referee Assignments<sup>&dagger;</sup></a></p>
-  <p><sup>&dagger;</sup>HorizonWebRef requires an separate login ID. Please reach out to Jason Remsbecker if you don't have one.</p></div>
-  </div>
+          <div class="round-border">
+            <h3>Game Day</h3>
+            <!--Embedded Form seems to be broken on phone screens, so will just use a pop-up for now-->
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="CO-Page2.shtml">MCHC Score Submit*</a></p-->
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/CoachPages/MCHC-Game-Protocols.pdf" target="_blank">MCHC Game Protocols</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://docs.google.com/forms/d/e/1FAIpQLScMZiUvRDiOOgX-Zn2kn3uPz6FQNyAd-2o7vNkBI_EXakZIgQ/viewform?usp=sf_link"
+                target="_blank">MCHC Score Submit*</a></p>
+            <p>*Please submit score within 24 hours of game completion.</p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button" href="#Team-Phone-Numbers">Team Cell
+                Numbers</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://lsadmin.hockeytech.com/login/" target="_blank">ACHA Score Submit</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://www.horizonwebref.com/?pageID=login" target="_blank">Referee
+                Assignments<sup>&dagger;</sup></a></p>
+            <p><sup>&dagger;</sup>HorizonWebRef requires an separate login ID. Please reach out to Jason Remsbecker if
+              you don't have one.</p>
+          </div>
+        </div>
 
-  <div class="col-lg-4">
-    <div class="round-border">
-      <h3>ACHA Eligibility</h3>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3 Fall Eligibility Form 2025.xlsx" target="_blank">Fall 2025 Form&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="XLSX">
-        <title id="xlsx-label-mouseover-acha-eligibility-form">XLSX</title>
-        <use xlink:href="#filetype-xlsx" />
-          </svg></a></p>
+        <div class="col-lg-4">
+          <div class="round-border">
+            <h3>ACHA Eligibility</h3>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="M3 Fall Eligibility Form 2025.xlsx" target="_blank">Fall 2025 Form&nbsp;<svg class="bi" width="16"
+                  height="16" role="img" aria-label="XLSX">
+                  <title id="xlsx-label-mouseover-acha-eligibility-form">XLSX</title>
+                  <use xlink:href="#filetype-xlsx" />
+                </svg></a></p>
 
-        <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-acha-eligibility-form-instructions">PDF</title>
         <use xlink:href="#filetype-pdf" />
           </svg></a></p-->
-    </div>
-    <div class="round-border">
-      <h3>ACHA Registration</h3>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/agPEZQJLv6g" target="_blank">ACHA Team Manager Guide Part 1&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
-        <title id="youtube-label-mouseover-acha-team-manager-guide-1">YouTube</title>
-        <use xlink:href="#youtube" />
-          </svg></a></p>
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/SVfhdJPJzS0" target="_blank">ACHA Team Manager Guide Part 2&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
-            <title id="youtube-label-mouseover-acha-team-manager-guide-2">YouTube</title>
-            <use xlink:href="#youtube" />
-        </svg></a></p>
-        <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/ViibfCzuZYw" target="_blank">ACHA Team Manager Guide Part 3&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
-          <title id="youtube-label-mouseover-acha-team-manager-guide-3">YouTube</title>
-          <use xlink:href="#youtube" />
-      </svg></a></p>
-  
-        <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
+          </div>
+          <div class="round-border">
+            <h3>ACHA Registration</h3>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/agPEZQJLv6g"
+                target="_blank">ACHA Team Manager Guide Part 1&nbsp;<svg class="bi" width="16" height="16" role="img"
+                  aria-label="YouTube">
+                  <title id="youtube-label-mouseover-acha-team-manager-guide-1">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/SVfhdJPJzS0"
+                target="_blank">ACHA Team Manager Guide Part 2&nbsp;<svg class="bi" width="16" height="16" role="img"
+                  aria-label="YouTube">
+                  <title id="youtube-label-mouseover-acha-team-manager-guide-2">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://youtu.be/ViibfCzuZYw"
+                target="_blank">ACHA Team Manager Guide Part 3&nbsp;<svg class="bi" width="16" height="16" role="img"
+                  aria-label="YouTube">
+                  <title id="youtube-label-mouseover-acha-team-manager-guide-3">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
+
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="M3-Fall-2023-Eligibility-Instructions.pdf" target="_blank">2023 Form Instructions&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="PDF">
         <title id="pdf-label-mouseover-acha-eligibility-form-instructions">PDF</title>
         <use xlink:href="#filetype-pdf" />
           </svg></a></p-->
-    </div>
-  </div>
+          </div>
+        </div>
 
-  <div class="col-lg-4">
-    <div class="round-border">
-  
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://vimeo.com/1006280893/ab8bfca845?share=copy" target="_blank">NCAA Rule Changes<br>2024-25&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
-      <title id="youtube-label-mouseover-ncaa-rule-changes">YouTube</title>
-      <use xlink:href="#youtube" />
-      </svg></a></p>
+        <div class="col-lg-4">
+          <div class="round-border">
 
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/2025-2026_NCAA_Rule_Changes.pdf" target="_blank">NCAA Rule Changes<br>2025-26&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-      <title id="pdf-label-mouseover-ncaa-rulechanges-25-26">PDF</title>
-      <use xlink:href="#filetype-pdf" />
-      </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://vimeo.com/1006280893/ab8bfca845?share=copy" target="_blank">NCAA Rule
+                Changes<br>2024-25&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
+                  <title id="youtube-label-mouseover-ncaa-rule-changes">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
 
-      <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/2025-2026_NCAA_Rule_Changes.pdf" target="_blank">NCAA Rule Changes<br>2025-26&nbsp;<svg
+                  class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-ncaa-rulechanges-25-26">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/15ySDBHrzE0Vs7in3xiUbq8mfNpDO4qHVH50ebiJO9Vk/edit?usp=sharing" target="_blank">Website Maintenance Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
       <title id="google-label-mouseover-website-maintenance-tracker">Google</title>
       <use xlink:href="#google" />
         </svg></a></p-->
 
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing" target="_blank">External Team Game Tracker&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-external-game-tracker">Google</title>
-      <use xlink:href="#google" />
-        </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://docs.google.com/spreadsheets/d/1GsYdSfwHfCvqHDluo0jO8mxdKMsA_qe686YnsnoWNJg/edit?usp=sharing"
+                target="_blank">External Team Game Tracker&nbsp;<svg class="bi" width="16" height="16" role="img"
+                  aria-label="Google">
+                  <title id="google-label-mouseover-external-game-tracker">Google</title>
+                  <use xlink:href="#google" />
+                </svg></a></p>
 
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos, Files, etc.&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
-      <title id="google-label-mouseover-upload-videos-files">Google</title>
-      <use xlink:href="#google" />
-        </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://drive.google.com/open?id=1NmkNwd8nw79y8abSGhOHjIBI7DMm8IyO" target="_blank">Upload Videos,
+                Files, etc.&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="Google">
+                  <title id="google-label-mouseover-upload-videos-files">Google</title>
+                  <use xlink:href="#google" />
+                </svg></a></p>
 
-      <p class="text-align-center"><a class="btn btn-secondary" role="button" href="https://www.youtube.com/@LISportsNetwork/videos" target="_blank">LI Sports Network&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YouTube">
-          <title id="youtube-label-mouseover-lisn">YouTube</title>
-          <use xlink:href="#youtube" />
-            </svg></a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://www.youtube.com/@LISportsNetwork/videos" target="_blank">LI Sports Network&nbsp;<svg
+                  class="bi" width="16" height="16" role="img" aria-label="YouTube">
+                  <title id="youtube-label-mouseover-lisn">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>MCHC Registration</h3>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button" href="MCHC - Team Application.doc"
+                target="_blank">2025-26 Team Application&nbsp;<svg class="bi" width="16" height="16" role="img"
+                  aria-label="DOC">
+                  <title id="doc-label-mouseover-mchc-team-registration-form">DOC</title>
+                  <use xlink:href="#filetype-doc" />
+                </svg></a></p>
+
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://www.youtube.com/watch?v=3f4cd2r9w9w" target="_blank">ACHA Scoring System
+                Tutorial&nbsp;<svg class="bi" width="16" height="16" role="img" aria-label="YoyTube">
+                  <title id="youtube-label-mouseover-leaguestat-demo">YouTube</title>
+                  <use xlink:href="#youtube" />
+                </svg></a></p>
+
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="https://lsadmin.hockeytech.com/login/" target="_blank">LeagueStat (HockeyTech) Login</a></p>
+
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="2025-and-2026-Mens-Schedule-Template.xlsx" target="_blank">2025-26 Schedule Template &nbsp;<svg
+                  class="bi" width="16" height="16" role="img" aria-label="XLSX">
+                  <title id="xlsx-label-mouseover-2025-26-schedule-template">XLSX</title>
+                  <use xlink:href="#filetype-xlsx" />
+                </svg></a></p>
+
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="ACHA-Team-Manager-User-Guide 2025-26.pdf" target="_blank">ACHA Team Manager<br>User Guide 2025-26&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-team-manager-user-guide-25-26">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="LeagueStats-Processes-New-scoring-and-stats-system-August-2021.pdf" target="_blank">LeagueStats Processes<br>New Scoring and Stats<br>System August 2021&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-leaguestats-processes-new-scoring-stats-21">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+
+          </div>
+
+        </div>
+      </div>
+
+      <!--include virtual="CO-Page4-referee-assignments.html" -->
+
+      <!--#include virtual="CO-Page5-team-phone-numbers.html" -->
+
     </div>
-  </div>
-</div>
+    <!--End Main Content section-->
 
-<!--include virtual="CO-Page4-referee-assignments.html" -->
+    <!--#include virtual="/footer-m.html" -->
 
-<!--#include virtual="CO-Page5-team-phone-numbers.html" -->
+    <!--End Bottom Navigation Menu-->
 
-</div>
-<!--End Main Content section-->
-
-<!--#include virtual="/footer-m.html" -->
-
-<!--End Bottom Navigation Menu-->
 </html>
