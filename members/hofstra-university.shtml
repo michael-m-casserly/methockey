@@ -79,7 +79,7 @@ var q = 'Hofstra'
     </tr>
     <tr>
     	<td>Jim Duggan</td>
-        <td><a href="mailto:[Name]">Email [Name]</a></td>
+        <td><a href="mailto:jduggan@aaiinsurance.com">Email Jim</a></td>
     </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
@@ -126,7 +126,7 @@ var q = 'Hofstra'
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center">Home-[Color] | Away-[Color]</td>
+    	<td colspan="2" align="center">Home-White | Away-Blue</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
