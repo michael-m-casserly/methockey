@@ -191,11 +191,7 @@
 
             <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
 
-            <p><a class="twitter-timeline" height="1208" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets
-                by methockey</a>
-              <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-            </p>
-
+<a class="twitter-timeline" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
           <div class="round-border">
@@ -324,8 +320,9 @@
         <!--End Right Column-->
       </div><!-- /.row -->
 
+<!-- START THE FEATURETTES -->
 
-      <!-- START THE FEATURETTES -->
+<div class="row-featurette"><!--#include virtual="/instagram.html" --></div>
 
       <hr>
       <a id="Champs"></a>
