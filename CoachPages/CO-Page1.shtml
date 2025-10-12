@@ -12,7 +12,8 @@
     }
 
     h3 {
-      font-family: Charlemagne std;
+      /*font-family: Charlemagne std;*/
+      font-family: Verdana, Geneva, Tahoma, sans-serif;
       color: #344f7c;
     }
 
