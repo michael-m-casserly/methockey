@@ -310,4 +310,10 @@ div.dropdown-menu{
 	font-style: italic;
   }
 
+  /* Google AdSense Overrides */
+  ins.adsbygoogle {
+	background-color: white !important;
+	margin: 0px !important;
+}
+
   
