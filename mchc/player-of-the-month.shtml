@@ -34,6 +34,40 @@ td {
 </style>
 <table cellpadding="2" cellspacing="2" border="1" class="TableStandard">
 	<tr class="TableHeader">
+    	<td colspan="3" align="center">Oct 2025</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="3" align="center">Metropolitan</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#27 Andrew Fenninger</span></td>
+        <td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
+        <td>6 G, 5 A, 11 PTS<br>
+            5 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#31 Jonathan Vitti</span></td>
+        <td><a href="/members/sacred-heart-university.shtml">Sacred Heart</a></td>
+        <td>3-1, .895&nbsp;SV%, 2.29 GAA</td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="3" align="center">Atlantic</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#10 Mateo Nunag</span></td>
+        <td><a href="/members/rutgers-university.shtml">Rutgers</a></td>
+        <td>5 G, 5 A, 10 PTS<br>
+            3 Games Played</td>
+    </tr>
+	<tr>
+    	<td><span class="PlayerOfTheMonth">#31 Tyler Armagan</span></td>
+        <td><a href="/members/sacred-heart-university-acdc.shtml">Sacred Heart ACDC</a></td>
+        <td>2-1, .930&nbsp;SV%, 2.68 GAA</td>
+    </tr>
+    <tr>
+    	<td colspan="3"></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="3" align="center">Dec 2024</td>
     </tr>
 	<tr>
