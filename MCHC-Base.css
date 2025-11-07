@@ -316,4 +316,8 @@ div.dropdown-menu{
 	margin: 0px !important;
 }
 
-  
+/*Force H3 Headings to Uppercase*/
+h3
+{
+	text-transform: uppercase !important;
+}
