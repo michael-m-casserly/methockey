@@ -37,8 +37,8 @@
     <!-- Main jumbotron for a primary marketing message or call to action -->
 
     <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
-  
-  <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+
+    <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:800px;">
   	<h3>2025 MCHC Champs<br/>Sacred Heart Pioneers</h3>
     <p><a href="#Champs"><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"></a></p>
@@ -123,20 +123,26 @@
           <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <h3>Standings</h3>
-            <p><div class="PageSectionHeader">Metropolitan</div><!--#include virtual="/standings/standings-include.html"--></p>
-            <p><div class="PageSectionHeader">Atlantic</div><!--#include virtual="/standings/standings-atlantic-include.html"--></p>
+            <p>
+            <div class="PageSectionHeader">Metropolitan</div><!--#include virtual="/standings/standings-include.html"-->
+            </p>
+            <p>
+            <div class="PageSectionHeader">Atlantic</div>
+            <!--#include virtual="/standings/standings-atlantic-include.html"--></p>
           </div>
 
           <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
           <div class="round-border">
-          <h3>Schedule</h3>
-          <p>Gxx = Metropolitan Division<br>
-          Axx = Atlantic Division</p>
+            <h3>Schedule</h3>
+            <p>Gxx = Metropolitan Division<br>
+              Axx = Atlantic Division</p>
 
-          <div class="module-wrapper"><iframe src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York" style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
-           
-        </div>
-          
+            <div class="module-wrapper"><iframe
+                src="https://www.google.com/calendar/embed?showDate=0&amp;showTabs=0&amp;showTitle=0&amp;showCalendars=0&amp;mode=AGENDA&amp;height=320&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=9lh231pkuunmglga33vso1cnv8@group.calendar.google.com&amp;color=%23711616&amp;ctz=America%2FNew_York"
+                style="border-width:0; height: 349px; width: 100%; overflow: hidden;"></iframe></div>
+
+          </div>
+
           <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
@@ -158,6 +164,57 @@
 
           <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
+            <h3>ACHA Rankings</h3>
+            <p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/mchc/acha-rankings/2025-26-ACHA-M3-Ranking1.pdf" target="_blank">As of 10-26-2025&nbsp;<svg
+                  class="bi" width="16" height="16" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-acha-rankings">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
+            <p><a class="btn btn-secondary" href="https://www.achahockey.org/m3-rankings" target="_blank"
+                role="button">M3 Rankings &raquo;</a></p>
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/ACHA-M3-2024-National-Teams-&-Pools.pdf" target="_blank">National Tournament&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+        <title id="pdf-label-mouseover-acha-national-tourney">PDF</title>
+        <use xlink:href="#filetype-pdf" />
+      </svg></a></p-->
+          </div>
+
+          <div class="round-border">
+
+            <h3>Player of the Month</h3>
+            <h5>Oct 2025</h5>
+            <h5>Metropolitan</h5>
+            <p style="font-size:16px">
+              <b>#27 Andrew Fenninger</b><br />
+              <a href="/members/st-thomas-aquinas-college.shtml">STAC</a><br>
+              6 G, 5 A, 11 PTS<br>
+              5 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>#31 Jonathan Vitti</b><br />
+              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              3-1<br>
+              .895&nbsp;SV%<br>
+              2.29 GAA
+            </p>
+            <h5>Atlantic</h5>
+            <p style="font-size:16px">
+              <b>#10 Mateo Nunag</b><br />
+              <a href="/members/rutgers-university.shtml">Rutgers</a><br>
+              5 G, 5 A, 10 PTS<br>
+              3 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>#31 Tyler Armagan</b><br />
+              <a href="/members/sacred-heart-university-acdc.shtml">Sacred Heart ACDC</a><br>
+              2-1<br>
+              .930&nbsp;SV%<br>
+              2.68 GAA
+            </p>
+            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+          </div>
+
+          <div class="round-border">
             <!--h3>Instagram</h3-->
             <p class="module-button-wrapper"><a href="https://www.instagram.com/mchc_hockey/" target="_blank"><img
                   src="/images/logo_instagram.png" style="width:103px; height:29px;" alt="Follow us on Instagram"
@@ -177,57 +234,12 @@
             </p>
           </div>
 
-        <!-- ############## HIDE DURING OFF-SEASON ############## -->
+          <!-- ############## HIDE DURING OFF-SEASON ############## -->
           <div class="round-border">
-          <h3>Current Season</h3>
-          <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
-          <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
-        </div>
-
-        <div class="round-border">
-            <h3>News</h3>
-            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
-              for the MCHC. Follow us for League News, Scores, and Updates.</p>
-
-            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-
-<a class="twitter-timeline" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-          </div>
-
-          <div class="round-border">
-
-            <h3>Player of the Month</h3>
-            <h5>Oct 2025</h5>
-            <h5>Metropolitan</h5>
-            <p style="font-size:16px">
-              <b>#27 Andrew Fenninger</b><br />
-              <a href="/members/st-thomas-aquinas-college.shtml">STAC</a><br>
-              6 G, 5 A, 11 PTS<br>
-              5 Games Played
-            </p>
-            <p style="font-size:16px">
-              <b>#31 Jonathan Vitti</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
-                3-1<br>
-                .895&nbsp;SV%<br>
-                2.29 GAA
-            </p>
-            <h5>Atlantic</h5>
-            <p style="font-size:16px">
-              <b>#10 Mateo Nunag</b><br />
-              <a href="/members/rutgers-university.shtml">Rutgers</a><br>
-              5 G, 5 A, 10 PTS<br>
-              3 Games Played
-            </p>
-            <p style="font-size:16px">
-              <b>#31 Tyler Armagan</b><br />
-              <a href="/members/sacred-heart-university-acdc.shtml">Sacred Heart ACDC</a><br>
-              2-1<br>
-              .930&nbsp;SV%<br>
-              2.68 GAA
-            </p>
-            <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
+            <h3>Current Season</h3>
+            <p><a class="btn btn-secondary" href="/members/index.shtml" role="button">Conference Members</a></p>
+            <p><a class="btn btn-secondary" href="/mchc/executive-board.shtml" role="button">Executive Board</a></p>
+            <p><a class="btn btn-secondary" href="/mchc/index.shtml" role="button">League Info</a></p>
           </div>
 
         </div><!-- /.col-lg-4 -->
@@ -270,20 +282,14 @@
           </div>
 
           <div class="round-border">
-            <h3>ACHA Rankings</h3>
-            <!--p></p-->
-            <p class="text-align-center"><a class="btn btn-secondary" role="button"
-                href="/mchc/acha-rankings/2024-25-ACHA-M3-Ranking8.pdf" target="_blank">As of 3-2-2025&nbsp;<svg
-                  class="bi" width="24" height="24" role="img" aria-label="PDF">
-                  <title id="pdf-label-mouseover-acha-rankings">PDF</title>
-                  <use xlink:href="#filetype-pdf" />
-                </svg></a></p>
-            <p><a class="btn btn-secondary" href="https://www.achahockey.org/m3-rankings" target="_blank"
-                role="button">M3 Rankings &raquo;</a></p>
-            <!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="/mchc/acha-rankings/ACHA-M3-2024-National-Teams-&-Pools.pdf" target="_blank">National Tournament&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
-        <title id="pdf-label-mouseover-acha-national-tourney">PDF</title>
-        <use xlink:href="#filetype-pdf" />
-      </svg></a></p-->
+            <h3>News</h3>
+            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
+              for the MCHC. Follow us for League News, Scores, and Updates.</p>
+
+            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+
+            <a class="twitter-timeline" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
           <div class="round-border">
@@ -335,9 +341,9 @@
         <!--End Right Column-->
       </div><!-- /.row -->
 
-<!-- START THE FEATURETTES -->
+      <!-- START THE FEATURETTES -->
 
-<div class="row-featurette"><!--#include virtual="/instagram.html" --></div>
+      <div class="row-featurette"><!--#include virtual="/instagram.html" --></div>
 
       <hr>
       <a id="Champs"></a>
