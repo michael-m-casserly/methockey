@@ -143,6 +143,8 @@
 
           </div>
 
+          <!--div class="round-border"--><!--#include virtual="/google-adsense-manually-placed-ad-vertical.html" --><!--/div-->
+
           <!--a id="ACHARankings"></a>
         <div class="round-border">
         <h3>ACHA D3 Rankings</h3>
@@ -282,6 +284,8 @@
             <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
           </div>
 
+          <!--div class="round-border"--><!--#include virtual="/google-adsense-manually-placed-ad-square.html" --><!--/div-->
+
           <div class="round-border">
             <h3>News</h3>
             <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
@@ -344,6 +348,7 @@
 
       <!-- START THE FEATURETTES -->
 
+      <div class="row-featurette"><!--#include virtual="/google-adsense-manually-placed-ad-horizontal.html" --></div>
       <div class="row-featurette"><!--#include virtual="/instagram.html" --></div>
 
       <hr>
@@ -376,10 +381,13 @@
 
       <hr>
 
+      <div class="row-featurette"><!--#include virtual="/google-adsense-manually-placed-ad-horizontal.html" --></div>
+
       <!-- /END THE FEATURETTES -->
 
     </div><!-- /.container -->
 
     <!--#include virtual="/footer-m.html" -->
 
+    
 </html>

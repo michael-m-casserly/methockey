@@ -41,7 +41,6 @@
 <div class="PageSectionHeader">Metropolitan Division</div>
 <!--#include virtual="/stats/statistics-current-include-player-scoring.html"-->
 <!--include virtual="/stats/statistics-final-2425-include-player-scoring.html"-->
-
 <br>
 <!--#include virtual="/stats/statistics-current-include-goalie.html"-->
 <!--include virtual="/stats/statistics-final-2425-include-goalie.html"-->
@@ -56,6 +55,8 @@
 <!--include virtual="/stats/statistics-final-2425-include-team-scoring.html"-->
 <br>
 
+<!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
+<br>
 <!--#include virtual="/stats/sub-nav-stats-division.html"-->
 
 <br>
