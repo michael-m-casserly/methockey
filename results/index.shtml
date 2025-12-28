@@ -39,10 +39,7 @@
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
 <!--include virtual="/schedule/playoff-programs/2025-26.html"-->
 <!--include virtual="/results/results-2025-26-notes.html"-->
-<!--div class="PageSectionHeader">Atlantic Division</div-->
-<!--include virtual="/results/current-season-summary-atlantic-include.html"--><!--Add this back when the new season begins-->
 <br>
-<!--include virtual="/results/results-atlantic-include.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
 
 <!--#include virtual="/results/sub-nav-results-division.html"-->
 
@@ -53,6 +50,8 @@
 
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/sub-nav-results.html"-->
+
+<!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
 
 <p><!--#include virtual="/results/consolidated-season-summaries-include.html"--></p>
 
