@@ -51,8 +51,6 @@
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--#include virtual="/results/sub-nav-results.html"-->
 
-<!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
-
 <p><!--#include virtual="/results/consolidated-season-summaries-include.html"--></p>
 
 <!--End Main Content section-->

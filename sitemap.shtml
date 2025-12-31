@@ -53,8 +53,6 @@ h3{
         <h3>Home</h3>
         <p><a class="btn btn-secondary" href="/index.shtml" role="button">Go</a></p>
 		</div>
-        
-        <!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
 
         <div class="round-border">
         <h3>Members</h3>
@@ -108,8 +106,6 @@ h3{
             <h3>ACHA All Atlantic Region Team</h3>
             <p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">Go</a></p>
         </div>        
-    
-        <!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
 
         <div class="round-border">
             <h3>Affiliates</h3>
@@ -160,9 +156,7 @@ h3{
 		<div class="round-border">
         <h3>Rules</h3>
         <p><a class="btn btn-secondary" href="/mchc/rules.shtml" role="button">Go</a></p>
-		</div>        
-
-        <!--#include virtual="/google-adsense-manually-placed-ad-square.html" -->
+		</div>
         
         <div class="round-border">
             <h3>League Stats</h3>
