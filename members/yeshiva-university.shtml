@@ -156,7 +156,7 @@
 
 <!--End Main Content section-->
 
-<!--#include virtual="/footer-m.html" -->
+<!--#include virtual="/footer-m.shtml" -->
 
 <!--End Bottom Navigation Menu-->
 </html>

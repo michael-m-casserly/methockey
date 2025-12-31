@@ -387,7 +387,7 @@
 
     </div><!-- /.container -->
 
-    <!--#include virtual="/footer-m.html" -->
+    <!--#include virtual="/footer-m.shtml" -->
 
     
 </html>
