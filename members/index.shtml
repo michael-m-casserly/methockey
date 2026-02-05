@@ -60,7 +60,7 @@
                 <!--a href="/members/rutgers-university-acdc.shtml"><img src="/images/school-names/rutgers.jpg" alt="Rutgers University" title="Rutgers University" style="width:320px; height:120px;" />*ACDC</a-->
                 <a href="/members/sacred-heart-university-acdc.shtml"><img src="/images/school-names/sacred-heart.png" alt="Sacred Heart University" title="Sacred Heart University" style="width:320px; height:93px;" />*ACDC</a>                
                 <a href="/members/stevens-institute-of-technology.shtml"><img src="/images/school-names/stevens.png" alt="Stevens Institute of Technology" title="Stevens Institute of Technology" style="width:320px; height:145px;" /></a>
-                <a href="/members/st-johns-university.shtml"><img src="/images/school-names/st-johns.png" alt="St. John's University" title="St. John's University" style="width:320px; height:116px;" /></a>
+                <a href="/members/st-johns-university.shtml"><span style="font-size: 36px"><!--img src="/images/school-names/st-johns.png" alt="St. John's University" title="St. John's University" style="width:320px; height:116px;" /--></span></a>
                 <a href="/members/stony-brook-university.shtml"><img src="/images/school-names/stony-brook.png" alt="Stony Brook University" title="Stony Brook University" style="width:320px; height:99px;" /></a>
           </center>
         </div>
