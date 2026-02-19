@@ -41,7 +41,7 @@
     <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:1080px;">
   	<h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
-    <p><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 540px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 540px;"></p>
+    <p><a href="/schedule/index.shtml"><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 480px; padding: 5px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 480px; padding: 5px;"></a></p>
     </div>
    </div>
 
