@@ -38,13 +38,12 @@
 
     <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
 
-    <!--div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
-  	<div class="container" align="center" style="max-width:800px;">
-  	<h3>2025 MCHC Champs<br/>Sacred Heart Pioneers</h3>
-    <p><a href="#Champs"><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_800.jpg" border="0" alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"></a></p>
-    <p class="text-align-center"><a class="btn btn-secondary" href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link" role="button" target="_blank">View Photos</a></p>
-  </div>
-   </div-->
+    <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  	<div class="container" align="center" style="max-width:1080px;">
+  	<h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
+    <p><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 540px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 540px;"></p>
+    </div>
+   </div>
 
 
     <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
