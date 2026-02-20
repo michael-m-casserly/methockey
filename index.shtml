@@ -42,8 +42,14 @@
   	<div class="container" align="center" style="max-width:1080px;">
   	<h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
     <p><a href="/schedule/index.shtml"><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 480px; padding: 5px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 480px; padding: 5px;"></a></p>
+    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
+    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/mchc/2026-MCHC-Playoff-Program-QR-Code.pdf" role="button" target="_blank">QR Code for Playoff Programs</a></p>
     </div>
    </div>
+
+    <div class="embed-container"><iframe src="https://www.youtube.com/embed/pxpnO-0Lpj4?si=SjSz8EEl4EGgqwRh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<br>
+    <div class="embed-container"><iframe src="https://www.youtube.com/embed/FSmR3w5NewE?si=5n7KkmKumKfs5Wsh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
 
 
     <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
