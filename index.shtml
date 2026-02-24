@@ -127,6 +127,26 @@
           <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
           <!--hr-->
 
+          <div class="round-border">
+            <h3>All-Star Game '26</h3>
+            <p><img src="/images/all-star-game/2026/promo_metro-all-stars.png" style="width: 290px; height: 410px;"/></p>
+            <p><img src="/images/all-star-game/2026/promo_atlantic-all-stars.png" style="width: 290px; height: 410px;"/></p>
+            <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
+            <!--p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
+                role="button" target="_blank">2025 ASG Photos</a></p-->
+            <!--p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml"
+                role="button">2025 All-Star Game</a></p-->
+            <!--iframe width="275" height="169" src="https://www.youtube.com/embed/nvN_ZjohqBw?si=2vtLU6moHhY14yuh"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe-->
+            <!--p class="text-align-center"><a class="btn btn-secondary"
+                href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" role="button" target="_blank">Replay
+                on YouTube</a></p-->
+            <!--p><a href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p-->
+          </div>
+
           <!-- ########## MOVE TO CENTER COLUMN IN OFF-SEASON, LEFT COLUMN IN-SEASON ########### -->
           <div class="round-border">
             <h3>Standings</h3>
@@ -284,6 +304,12 @@
           </div-->
 
           <div class="round-border">
+            <h3>Recruits</h3>
+            <p>Submit Recruitment Form to Schools</p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfNzguNahPUmNAECKFZrn6me32kveILORf5Y9XCa9-h2rPEaw/viewform" role="button" target="_blank">Launch Form</a></p>
+          </div>
+
+          <div class="round-border">
             <h3>Coaches</h3>
             <p>Submit Scores and Download Forms<br />(Login Required)</p>
             <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
@@ -301,7 +327,7 @@
           </div>
 
           <div class="round-border">
-            <h3>All-Star Game</h3>
+            <h3>All-Star Game '25</h3>
             <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
             <p class="text-align-center"><a class="btn btn-secondary"
                 href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
