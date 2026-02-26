@@ -29,7 +29,7 @@ var q = '_Fairfield%20U.'
 </nav>
 
 <div class="PageHeader">Fairfield University Stags</div>
-<p class="text-align-center"><img src="/images/team-logos/fairfield.png" style="width:320px; height:292px;" alt="Fairfield University Logo" title="Fairfield University Logo"  /></p>
+<p class="text-align-center"><img src="/images/team-logos/fairfield.png" style="width:320px; height:320px;" alt="Fairfield University Logo" title="Fairfield University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>
