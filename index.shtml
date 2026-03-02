@@ -39,6 +39,15 @@
     <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
 
     
+      
+    <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
+  	<div class="container" align="center" style="max-width:1080px;">
+  	<!--h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
+    <p><a href="/schedule/index.shtml"><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 480px; padding: 5px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 480px; padding: 5px;"></a></p>
+    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
+    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://scanned.page/p/5aJZB8" role="button" target="_blank">QR Code for Playoff Programs</a></p>
+    <p class="text-align-center"><a href="https://scanned.page/p/5aJZB8" target="_blank"><img src="/mchc/QR-Code-2026-Playoff-Program.png" style="width: 323px; height: 320px;"></a></p-->
+
       <!--hr-->
       <a id="Champs"></a>
       <div class="row featurette">
@@ -59,7 +68,7 @@
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026SacredHeartTeamPictureChampionshipGame_home.jpg"
-              alt="2026 MCHC Champion Sacred Heart Pioneers" title="2026 MCHC Champion Sacred Heart Pioneers" style="border: 0; "></p>
+              alt="2026 MCHC Metro Champion Sacred Heart Pioneers" title="2026 MCHC Metro Champion Sacred Heart Pioneers" style="border: 0; "></p>
           <!--p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p-->
         </div>
       </div>
@@ -67,7 +76,7 @@
       <hr>
 
       <div class="row featurette">
-        <div class="col-md-7">
+        <div class="col-md-7 order-md-2">
           <h3 class="featurette-heading">2026 MCHC Atlantic Division Champs - Fairfield Stags<br><span class="text-muted">February 28 , 2026 -- Sport-O-Rama, Sparkill, NY</span></h3>
           <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
             Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
@@ -84,19 +93,11 @@
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026FairfieldTeamPictureChampionshipGame_home.jpg"
-              alt="2026 MCHC Champion Fairfield Stags" title="2026 MCHC Champion Fairfield Stags" style="border: 0; "></p>
+              alt="2026 MCHC Atlantic Champion Fairfield Stags" title="2026 MCHC Atlantic Champion Fairfield Stags" style="border: 0; "></p>
           <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
         </div>
       </div>
 
-    <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
-  	<div class="container" align="center" style="max-width:1080px;">
-  	<h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
-    <!--p><a href="/schedule/index.shtml"><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 480px; padding: 5px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 480px; padding: 5px;"></a></p-->
-    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
-    <!--p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://scanned.page/p/5aJZB8" role="button" target="_blank">QR Code for Playoff Programs</a></p>
-    <p class="text-align-center"><a href="https://scanned.page/p/5aJZB8" target="_blank"><img src="/mchc/QR-Code-2026-Playoff-Program.png" style="width: 323px; height: 320px;"></a></p-->
-      
   </div>
    </div>
 
