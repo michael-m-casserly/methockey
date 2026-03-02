@@ -38,21 +38,74 @@
 
     <!--THIS IS WHERE THE YEARLY CHAMPS PHOTO CAN BE PLACED AFTER EACH SEASON, LEADING INTO THE NEXT SEASON (Commented code just below here)-->
 
+    
+      <!--hr-->
+      <a id="Champs"></a>
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">2026 MCHC Metro Division Champs - Sacred Heart Pioneers<br><span class="text-muted">February 26, 2026 -- Martire Family Arena, Fairfield, CT</span></h3>
+          <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
+            Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
+            #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
+            Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach
+            Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33
+            Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst.
+            Coach)</p-->
+          <!--p class="text-align-center">
+            <a class="btn btn-secondary"
+              href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
+              role="button" target="_blank">View Photos</a>
+          </p-->
+        </div>
+        <div class="col-md-5">
+          <p><img src="/images/champions/2026SacredHeartTeamPictureChampionshipGame_home.jpg"
+              alt="2026 MCHC Champion Sacred Heart Pioneers" title="2026 MCHC Champion Sacred Heart Pioneers" style="border: 0; "></p>
+          <!--p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p-->
+        </div>
+      </div>
+
+      <hr>
+
+      <div class="row featurette">
+        <div class="col-md-7">
+          <h3 class="featurette-heading">2026 MCHC Atlantic Division Champs - Fairfield Stags<br><span class="text-muted">February 28 , 2026 -- Sport-O-Rama, Sparkill, NY</span></h3>
+          <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
+            Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
+            #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
+            Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach
+            Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33
+            Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst.
+            Coach)</p-->
+          <!--p class="text-align-center">
+            <a class="btn btn-secondary"
+              href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
+              role="button" target="_blank">View Photos</a>
+          </p-->
+        </div>
+        <div class="col-md-5">
+          <p><img src="/images/champions/2026FairfieldTeamPictureChampionshipGame_home.jpg"
+              alt="2026 MCHC Champion Fairfield Stags" title="2026 MCHC Champion Fairfield Stags" style="border: 0; "></p>
+          <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
+        </div>
+      </div>
+
     <div class="jumbotron" style="padding-bottom:0px; background-color:#FFF; padding-top:30px;">
   	<div class="container" align="center" style="max-width:1080px;">
   	<h3>2026 MCHC Playoffs<br/>Metro & Atlantic Divisions</h3>
     <!--p><a href="/schedule/index.shtml"><img src="images/playoffs/2026/playoffs-metro.png" border="0" alt="2026 MCHC Playoffs Metro" title="2026 MCHC Playoffs Metro" style="max-width: 480px; padding: 5px;"><img src="images/playoffs/2026/playoffs-atlantic.png" border="0" alt="2026 MCHC Playoffs Atlantic" title="2026 MCHC Playoffs Atlantic" style="max-width: 480px; padding: 5px;"></a></p-->
     <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://www.youtube.com/@LISportsNetwork" role="button" target="_blank">LI Sports Network - YouTube</a></p>
-    <p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://scanned.page/p/5aJZB8" role="button" target="_blank">QR Code for Playoff Programs</a></p>
-    <p class="text-align-center"><a href="https://scanned.page/p/5aJZB8" target="_blank"><img src="/mchc/QR-Code-2026-Playoff-Program.png" style="width: 323px; height: 320px;"></a></p>
+    <!--p class="text-align-center"><a class="btn btn-lg btn-primary" href="https://scanned.page/p/5aJZB8" role="button" target="_blank">QR Code for Playoff Programs</a></p>
+    <p class="text-align-center"><a href="https://scanned.page/p/5aJZB8" target="_blank"><img src="/mchc/QR-Code-2026-Playoff-Program.png" style="width: 323px; height: 320px;"></a></p-->
       
   </div>
    </div>
 
-    <div class="embed-container"><iframe src="https://www.youtube.com/embed/pxpnO-0Lpj4?si=SjSz8EEl4EGgqwRh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
-<br>
-    <!--div class="embed-container">Atlantic Division Championship (Fairfield vs. Rutgers) will be available to subscribers on <a href="https://blackbearsports.tv/" target="_blank">Black Bear Sports TV</a-->.<!--iframe src="https://www.youtube.com/embed/FSmR3w5NewE?si=5n7KkmKumKfs5Wsh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe--></div>
-
+   <div class="container" align="center" style="max-width:1080px; padding-top: 30px;">	
+   <h3>2026 MCHC All-Star Game</h3>     
+   <div class="embed-container"><iframe src="https://www.youtube.com/embed/GzPmOGLf7bI?si=8OIOte7fEZcxu7YM" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+<!--br>
+    <div class="embed-container">Atlantic Division Championship (Fairfield vs. Rutgers) will be available to subscribers on <a href="https://blackbearsports.tv/" target="_blank">Black Bear Sports TV</a-->.<!--iframe src="https://www.youtube.com/embed/FSmR3w5NewE?si=5n7KkmKumKfs5Wsh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div-->
+    </div>
 
     <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
   <div id="myCarousel" class="carousel slide" data-ride="carousel">
@@ -129,8 +182,8 @@
 
           <div class="round-border">
             <h3>All-Star Game '26</h3>
-            <p><img src="/images/all-star-game/2026/promo_metro-all-stars.png" style="width: 290px; height: 410px;"/></p>
-            <p><img src="/images/all-star-game/2026/promo_atlantic-all-stars.png" style="width: 290px; height: 410px;"/></p>
+            <p><a href="https://www.youtube.com/live/GzPmOGLf7bI?si=8OIOte7fEZcxu7YM" target="_blank"><img src="/images/all-star-game/2026/promo_metro-all-stars.png" style="width: 290px; height: 410px;"/></a></p>
+            <p><a href="https://www.youtube.com/live/GzPmOGLf7bI?si=8OIOte7fEZcxu7YM" target="_blank"><img src="/images/all-star-game/2026/promo_atlantic-all-stars.png" style="width: 290px; height: 410px;"/></a></p>
             <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
             <!--p class="text-align-center"><a class="btn btn-secondary"
                 href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
@@ -326,26 +379,53 @@
             <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
           </div>
 
-          <div class="round-border">
-            <h3>All-Star Game '25</h3>
-            <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
+        <div class="round-border">
+            <h3>Playoffs '26</h3>
+            <iframe width="275" height="169" src="https://www.youtube.com/embed/pxpnO-0Lpj4?si=KDRLv5S9zClZuhF5"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <!--p><a href="https://www.youtube.com/live/pxpnO-0Lpj4?si=Jykjy96juzxQqo3O" target="_blank"><img src="/images/mchc/2025-MCHC-Finals.png" style="width: 275px; height: 489px;"/></a></p-->
+            <!--p class="text-align-center"><a class="btn btn-secondary" role="button"
+                href="/schedule/playoff-programs/2024-25.pdf" target="_blank">Program&nbsp;<svg class="bi" width="24"
+                  height="24" role="img" aria-label="PDF">
+                  <title id="pdf-label-mouseover-playoff-program">PDF</title>
+                  <use xlink:href="#filetype-pdf" />
+                </svg></a></p>
             <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1sn83mUWAip-wNndsbmzinmKj2iUoTunZ?usp=drive_link"
+                role="button" target="_blank">View Photos SHU v WCSU</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1cUXq6vstOlUa059NmFwLARFAcBo9cZnN?usp=drive_link"
+                role="button" target="_blank">View Photos STAC v NYM</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
+                role="button" target="_blank">View Photos SHU v STAC</a></p-->
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://www.youtube.com/live/pxpnO-0Lpj4?si=Jykjy96juzxQqo3O" role="button" target="_blank">Replay
+                on YouTube</a></p>
+          </div>
+
+          <div class="round-border">
+            <h3>All-Star Game '26</h3>
+            <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
+            <!--p class="text-align-center"><a class="btn btn-secondary"
                 href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
-                role="button" target="_blank">2025 ASG Photos</a></p>
-            <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml"
-                role="button">2025 All-Star Game</a></p>
-            <iframe width="275" height="169" src="https://www.youtube.com/embed/nvN_ZjohqBw?si=2vtLU6moHhY14yuh"
+                role="button" target="_blank">2025 ASG Photos</a></p-->
+            <!--p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml"
+                role="button">2025 All-Star Game</a></p-->
+            <iframe width="275" height="169" src="https://www.youtube.com/embed/GzPmOGLf7bI?si=i90mLZE25HcFH1Ue"
               title="YouTube video player" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
               referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <p class="text-align-center"><a class="btn btn-secondary"
-                href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" role="button" target="_blank">Replay
+                href="https://www.youtube.com/live/GzPmOGLf7bI?si=i90mLZE25HcFH1Ue" role="button" target="_blank">Replay
                 on YouTube</a></p>
-            <!--p><a href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p-->
+            <!--p><a href="https://www.youtube.com/live/GzPmOGLf7bI?si=i90mLZE25HcFH1Ue" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p-->
           </div>
 
           <div class="round-border">
-            <h3>Playoffs</h3>
+            <h3>Playoffs '25</h3>
             <iframe width="275" height="169" src="https://www.youtube.com/embed/dWR6qx9l14k?si=xGs-pE3gF9i_13_Z"
               title="YouTube video player" frameborder="0"
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -371,6 +451,24 @@
                 on YouTube</a></p>
           </div>
 
+          <div class="round-border">
+            <h3>All-Star Game '25</h3>
+            <!--p><a href="/mchc/all-star-game.shtml"><img src="/images/mchc/2025-MCHC-All-Star-Game.jpg" style="width: 275px; height: 273px;"/></a></p-->
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://drive.google.com/drive/folders/1_LfJQs7DRhAfvgRmP5PikW2EsTWq4HAI?usp=drive_link"
+                role="button" target="_blank">2025 ASG Photos</a></p>
+            <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/all-star-game.shtml"
+                role="button">2025 All-Star Game</a></p>
+            <iframe width="275" height="169" src="https://www.youtube.com/embed/nvN_ZjohqBw?si=2vtLU6moHhY14yuh"
+              title="YouTube video player" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+              referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <p class="text-align-center"><a class="btn btn-secondary"
+                href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" role="button" target="_blank">Replay
+                on YouTube</a></p>
+            <!--p><a href="https://www.youtube.com/live/nvN_ZjohqBw?si=d_zuf0EWeVyy_V-m" target="_blank"><img src="/images/all-star-game/2025/QR-Code_ASG-2025-LI-Sports-Network.png" style="width: 275px; height: 314px;"/></a></p-->
+          </div>
+
         </div><!-- /.col-lg-4 -->
         <!--End Right Column-->
       </div><!-- /.row -->
@@ -379,35 +477,7 @@
 
       <div class="row-featurette"><!--#include virtual="/instagram.html" --></div>
 
-      <hr>
-      <a id="Champs"></a>
-      <div class="row featurette">
-        <div class="col-md-7">
-          <h3 class="featurette-heading">2025 MCHC Champs - Sacred Heart Pioneers<br><span class="text-muted">February
-              23, 2025 -- The Sterg, Great Neck, NY</span></h3>
-          <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
-            Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
-            #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
-            Conigliaro, #20 Brady Marszalek, #21 Charles Tyrrell, #22 Macguire Goggin, #23 Austin Jellison, #24 Zach
-            Macleod, #26 Thomas Howell, #27 Ryan Martin, #28 Chris Canone, #30 Ben Sfarra, #31 Jonathan Vitti, #33
-            Connor Smith, #35 Brian Brusco, Jordy Hagwell (Head Coach), Corey Dybas (Asst. Coach), Chris Moran (Asst.
-            Coach)</p-->
-          <p class="text-align-center">
-            <a class="btn btn-secondary"
-              href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
-              role="button" target="_blank">View Photos</a>
-          </p>
-        </div>
-        <div class="col-md-5">
-          <p><img src="/images/champions/2025SacredHeartTeamPictureChampionshipGame_home.jpg"
-              alt="2025 MCHC Champion Sacred Heart Pioneers" title="2025 MCHC Champion Sacred Heart Pioneers"
-              style="border: 0; "></p>
-          <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All
-              MCHC Champions</a></p>
-        </div>
-      </div>
-
-      <hr>
+      <!--Insert the Championship Team Picture from above here once the new season is underway-->
 
       <!-- /END THE FEATURETTES -->
 
