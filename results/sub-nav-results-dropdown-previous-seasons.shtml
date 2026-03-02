@@ -3,6 +3,8 @@
     style="max-width: 240px; margin: auto;">
     <option value="" selected>Previous Seasons</option>
     <option value="/results/index.shtml">Current Results</option>
+    <option value="/results/results-2026.shtml">2025-2026 Results (Metro Division)</option>
+    <option value="/results/results-atlantic-2026.shtml">2025-2026 Results (Atlantic Division)</option>
     <option value="/results/results-2025.shtml">2024-2025 Results</option>
     <option value="/results/results-2024.shtml">2023-2024 Results</option>
     <option value="/results/results-2023.shtml">2022-2023 Results</option>

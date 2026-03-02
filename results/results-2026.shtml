@@ -21,13 +21,13 @@
   <ol class="breadcrumb">
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/index.shtml">Home</a></li>
     <li class="breadcrumb-item"><a class="PageTitleBreadCrumb" href="/league/index.shtml">League</a></li>
-    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">Results</span></li>
+    <li class="breadcrumb-item" aria-current="page"><span class="PageTitleBreadCrumb">2025-26 Results</span></li>
   </ol>
 </nav>
 
 <!--#include virtual="/results/sub-nav-results-division.html"-->
 
-<div class="PageHeader">Current Results</div>
+<div class="PageHeader">2025-26 Results</div>
 
 <p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->

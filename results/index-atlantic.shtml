@@ -37,7 +37,7 @@
 <!--#include virtual="/results/results-atlantic-include.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
-<!--include virtual="/schedule/playoff-programs/2025-26-atlantic.html"-->
+<!--#include virtual="/schedule/playoff-programs/2025-26.html"--> <!--Playoff Programs were combined into 1 document-->
 <!--include virtual="/results/results-2025-26-notes-atlantic.html"-->
 <br>
 <!--#include virtual="/results/sub-nav-results-division.html"-->
