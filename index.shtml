@@ -65,6 +65,7 @@
               href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
               role="button" target="_blank">View Photos</a>
           </p-->
+          <!--#include virtual="/schedule/playoff-programs/2025-26.html"-->
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026SacredHeartTeamPictureChampionshipGame_home.jpg"
@@ -77,7 +78,7 @@
 
       <div class="row featurette">
         <div class="col-md-7 order-md-2">
-          <h3 class="featurette-heading">2026 MCHC Atlantic Division Champs - Fairfield Stags<br><span class="text-muted">February 28 , 2026 -- Sport-O-Rama, Sparkill, NY</span></h3>
+          <h3 class="featurette-heading">2026 MCHC Atlantic Division Champs - Fairfield Stags<br><span class="text-muted">February 28 , 2026 -- Sport-O-Rama, Monsey, NY</span></h3>
           <!--p>#2 Rob Goetze, #3 Declan Lovett, #4 Oliver Harag, #5 Dan O'Connor, #6 Thomas Doyle, #7 Sean Feeney, #8
             Jeremiah Ryan, #9 Cosmo Siano, #10 Jack Reid, #11 Mike Angeletti, #12 Conall Gately, #13 Brandon Cardelli,
             #14 Stan Duwal, #15 Aaron Shulman, #16 Mike Richardson, #17 Justin Bernhard, #18 Matteo Wilde, #19 Lucca
@@ -90,14 +91,14 @@
               href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
               role="button" target="_blank">View Photos</a>
           </p-->
+          <!--#include virtual="/schedule/playoff-programs/2025-26.html"-->
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026FairfieldTeamPictureChampionshipGame_home.jpg"
               alt="2026 MCHC Atlantic Champion Fairfield Stags" title="2026 MCHC Atlantic Champion Fairfield Stags" style="border: 0; "></p>
-          <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
         </div>
       </div>
-
+  <p class="text-align-center"><a class="btn btn-secondary" href="/mchc/champions.shtml" role="button">View All MCHC Champions</a></p>
   </div>
    </div>
 
