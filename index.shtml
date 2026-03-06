@@ -65,7 +65,7 @@
               href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
               role="button" target="_blank">View Photos</a>
           </p-->
-          <!--#include virtual="/schedule/playoff-programs/2025-26.html"-->
+          <!--#include virtual="/schedule/playoff-programs/2025-26.html"--><br/>
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026SacredHeartTeamPictureChampionshipGame_home.jpg"
@@ -91,7 +91,7 @@
               href="https://drive.google.com/drive/folders/1ShOwmtYrAztVJDUuAGwFd64aXGvX8XS1?usp=drive_link"
               role="button" target="_blank">View Photos</a>
           </p-->
-          <!--#include virtual="/schedule/playoff-programs/2025-26.html"-->
+          <!--#include virtual="/schedule/playoff-programs/2025-26.html"--><br/>
         </div>
         <div class="col-md-5">
           <p><img src="/images/champions/2026FairfieldTeamPictureChampionshipGame_home.jpg"
