@@ -40,21 +40,21 @@
 
 <div class="PageSectionHeader">Atlantic Division</div>
 
-<!--#include virtual="/stats/statistics-current-include-player-scoring-atlantic.html"-->
-<!--include virtual="/stats/statistics-final-2425-include-player-scoring-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-player-scoring-atlantic.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic.html"-->
 
 <br>
-<!--#include virtual="/stats/statistics-current-include-goalie-atlantic.html"-->
-<!--include virtual="/stats/statistics-final-2425-include-goalie-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-goalie-atlantic.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-goalie-atlantic.html"-->
 <br>
-<!--#include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic.html"-->
-<!--include virtual="/stats/statistics-final-2425-include-player-pim-ppg-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-player-pim-ppg-atlantic.html"-->
 <br>
-<!--#include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic.html"-->
-<!--include virtual="/stats/statistics-final-2425-include-team-pp-pk-pim-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-team-pp-pk-pim-atlantic.html"-->
 <br>
-<!--#include virtual="/stats/statistics-current-include-team-scoring-atlantic.html"-->
-<!--include virtual="/stats/statistics-final-2425-include-team-scoring-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-team-scoring-atlantic.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-team-scoring-atlantic.html"-->
 
 <br>
 <!--#include virtual="/stats/sub-nav-stats-division.html"-->

@@ -206,11 +206,11 @@
           <div class="round-border">
             <h3>Standings</h3>
             <p>
-            <div class="PageSectionHeader">Metropolitan</div><!--#include virtual="/standings/standings-include.html"-->
+            <div class="PageSectionHeader">Metropolitan</div><!--#include virtual="/standings/standings-include-2026.html"--><!--Swap these out each off-season-->
             </p>
             <p>
             <div class="PageSectionHeader">Atlantic</div>
-            <!--#include virtual="/standings/standings-atlantic-include.html"--></p>
+            <!--#include virtual="/standings/standings-atlantic-include-2026.html"--></p><!--Swap these out each off-season-->
           </div>
 
           <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
