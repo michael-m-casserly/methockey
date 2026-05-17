@@ -38,23 +38,23 @@
 
 <!--Broke this into separate tabs on the XLS starting Nov 2022; SOURCE FILE: CASS MCHC WEB STATS 2022-23.xlsx, sent to Drew, and stored in local Downloads folder on Lenovo laptop-->
 
-<div class="PageSectionHeader">Atlantic Division <!--(East)--></div>
+<div class="PageSectionHeader">Atlantic Division (West)</div>
 
-<!--include virtual="/stats/statistics-current-include-player-scoring-atlantic-east.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-player-scoring-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic-west.html"-->
 
 <br>
-<!--include virtual="/stats/statistics-current-include-goalie-atlantic-east.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-goalie-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-goalie-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-goalie-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic-east.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-player-pim-ppg-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-player-pim-ppg-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic-east.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-team-pp-pk-pim-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-team-pp-pk-pim-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-scoring-atlantic-east.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-team-scoring-atlantic.html"-->
+<!--include virtual="/stats/statistics-current-include-team-scoring-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-final-2526-include-team-scoring-atlantic-west.html"-->
 
 <br>
 <!--#include virtual="/stats/sub-nav-stats-division.html"-->

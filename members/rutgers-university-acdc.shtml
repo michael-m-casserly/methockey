@@ -32,7 +32,7 @@ var q = 'RUTG%20ACDC'
 <p class="text-align-center"><img src="/images/team-logos/rutgers.png" style="width: 320px; height:283px;" alt="Rutgers University Logo" title="Rutgers University Logo"  /></p>
 
 <center>
-				<!--div class="PageSectionHeader">All Time MCHC Stats</div>
+				<div class="PageSectionHeader">All Time MCHC Stats</div>
 				<table align="center" border="1" class="TableLayoutHistoricalWinLossRecord">
 					<tr height="17" class="TableLayoutHistoricalWinLossRecordHeaderRow">						
                     	<td>Wins</td>
@@ -44,13 +44,13 @@ var q = 'RUTG%20ACDC'
 						<td>Goals Against</td>
 					</tr>
 					<tr height="17">
-						<td>161</td>
-						<td>118</td>
-						<td>19</td>
 						<td>0</td>
-						<td>.577</td>
-						<td>1734</td>
-						<td>1356</td>
+						<td>0</td>
+						<td>0</td>
+						<td>0</td>
+						<td>.000</td>
+						<td>0</td>
+						<td>0</td>
 					</tr>
 				</table>
 <br/>
@@ -62,15 +62,15 @@ var q = 'RUTG%20ACDC'
 						<td>Final Season</td>
 					</tr>
 					<tr height="17">
-						<td>298</td>
-						<td>17</td>
-						<td>1978-79*</td>
+						<td>0</td>
+						<td>0</td>
+						<td>2026-27</td>
 						<td>Active</td>
 					</tr>
-					<tr>
+					<!--tr>
                     	<td colspan="11">*Did not play 1995-2025</td>
-                     </tr>
-				</table-->
+                     </tr-->
+				</table>
 <br/>
 <table class="TableStandard" border="1">
     <tr class="TableHeader">
@@ -136,7 +136,7 @@ var q = 'RUTG%20ACDC'
     <tr>
     	<td colspan="2" align="center">    
 			<a class="text" href="https://twitter.com/RutgersSKHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
-			<a class="text" href="https://www.instagram.com/scarletknightshockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
+			<a class="text" href="https://www.instagram.com/scarletknightshockeyacdc" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
 			<a class="text" href="https://www.tiktok.com/@scarletknightshockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="TikTok"><title id="tiktok-label-mouseover">TikTok</title><use xlink:href="#tiktok"/></svg></a>
 	  </td>
 	</tr>

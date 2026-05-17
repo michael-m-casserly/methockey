@@ -64,9 +64,13 @@ var q = 'Fordham'
 					<tr height="17">
 						<td>827</td>
 						<td>49</td>
-						<td>1970-71</td>
-						<td>2018-19</td>
+						<td>1970-71*</td>
+						<td>Active</td>
 					</tr>
+                    <tr>
+                    	<td colspan="11">*Did Not Play 2019-26</td>
+                     </tr>
+
 				</table>
 
 <div class="PageSectionHeader">MCHC CHAMPIONSHIPS<br/>

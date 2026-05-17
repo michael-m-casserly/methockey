@@ -31,13 +31,13 @@
 
 <p class="text-align-center">
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
-<div class="PageSectionHeader">Atlantic Division <!--(East)--></div>
-<!--include virtual="/results/current-season-summary-atlantic-east-include.html"-->
+<div class="PageSectionHeader">Atlantic Division (West)</div>
+<!--include virtual="/results/current-season-summary-atlantic-west-include.html"-->
 
 <!--Add this back when the new season begins-->
 <br>
-<!--include virtual="/results/results-atlantic-east-include.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
-<!--#include virtual="/results/results-atlantic-include-2026.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
+<!--include virtual="/results/results-atlantic-west-include.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
+<!--#include virtual="/results/results-atlantic-west-include-2026.html"--><!--Add the -YYYY when the season ends, Remove the -YYYY once the new season starts up-->
 
 <!--UPDATE THIS WITH CURRENT PLAYOFF PROGRAMS EACH YEAR-->
 <!--#include virtual="/schedule/playoff-programs/2025-26.html"--> <!--Playoff Programs were combined into 1 document-->
