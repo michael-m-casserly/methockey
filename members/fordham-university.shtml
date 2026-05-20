@@ -83,12 +83,51 @@ var q = 'Fordham'
 <br/>
 <table class="TableStandard" border="1">
     <tr class="TableHeader">
+    	<td colspan="2" align="center">General Manager</td>
+    </tr>
+    <tr>
+    	<td>Andrew Mola</td>
+        <td><a href="mailto:fordhamhockey@gmail.com">Email Andrew</a></td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>Pete Genesi</td>
+        <td><a href="mailto:peter9g@gmail.com">Email Pete</a></td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Asst Coach</td>
+    </tr>
+    <tr>
+    	<td>Anthony DeMario</td>
+        <td><a href="mailto:antdemario22@gmail.com">Email Anthony</a></td>
+    </tr>
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Home Rink</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Ice Hutch, Mount Vernon, NY</td>
+	</tr>
+    <tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.750826204466!2d-73.82157922402145!3d40.899280426129444!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c28d1800b46311%3A0x4441299220973201!2sIce%20Hutch!5e0!3m2!1sen!2sus!4v1779237667323!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px; max-width:500px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
+    <tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
     <tr>
     	<td colspan="2" align="center"><a href="https://www.fordham.edu" target="_blank">www.fordham.edu</a></td>
 	</tr>
     <tr class="TableHeader">
+    	<td colspan="2" align="center">Team Social</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">    
+			<a class="text" href="https://twitter.com/FordhamHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
+			<a class="text" href="https://www.instagram.com/fu_hockey/" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
+	  </td>
+	</tr>
+	    <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
     </tr>
     <tr>
@@ -105,6 +144,12 @@ var q = 'Fordham'
     </tr>
     <tr>
     	<td colspan="2" align="center">Rams</td>
+	</tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Team Colors</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center">Home-White | Home-Cream | Away-Maroon</td>
 	</tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
