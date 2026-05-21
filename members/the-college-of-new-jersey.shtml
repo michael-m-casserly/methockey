@@ -141,9 +141,9 @@ var q = 'TCNJ'
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Team Colors</td>
     </tr>
-    <!--tr>
-    	<td colspan="2" align="center">Home-White | Away-Black</td>
-    </tr-->
+    <tr>
+    	<td colspan="2" align="center">Home-Gold and Navy Blue | Away-White and Navy Blue</td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">School Established</td>
     </tr>
