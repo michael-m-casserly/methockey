@@ -328,3 +328,15 @@ h3
 	font-size: 8px; 
 	text-align: center;
 }
+
+/* Begin Bootstrap Accordions for Nav Menu */
+.accordion-chevron {
+  transition: transform 0.25s ease;
+  font-size: 0.75rem;
+}
+
+/* Rotate when expanded */
+button[aria-expanded="true"] .accordion-chevron {
+  transform: rotate(180deg);
+}
+/* End Bootstrap Accordions for Nav Menu */
