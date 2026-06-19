@@ -33,7 +33,7 @@ var q = 'TCNJ'
 </nav>
 
 <div class="PageHeader">The College of New Jersey Lions</div>
-<p class="text-align-center"><img src="/images/team-logos/tcnj.png" style="width:288px; height:214px;" alt="TCNJ Logo" title="TCNJ Logo" /></p>
+<p class="text-align-center"><img src="/images/team-logos/tcnj.png" style="width: 320px; height: 358px;" alt="TCNJ Logo" title="TCNJ Logo" /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>
@@ -94,16 +94,17 @@ var q = 'TCNJ'
     <tr>
     	<td>Travis Beni</td>
         <td><a href="mailto:tbeni.tcnjhockey@gmail.com">Email Travis</a></td>
-    </tr-->
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
-    <!--tr>
-    	<td colspan="2" align="center">Barnabas Health Hockey House at the Prudential Center, Newark, NJ</td>
+    <tr>
+    	<td colspan="2" align="center">Tsai Fieldhouse at The Lawrenceville School, Lawrence Township, NJ</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3023.331556250232!2d-74.17320338473188!3d40.73272937932973!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c253780b99a347%3A0x59e4c5331a59c402!2sRWJBarnabas%20Health%20Hockey%20House!5e0!3m2!1sen!2sus!4v1587570384441!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
+    	<td colspan="2" align="center">
+		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3043.1425839806575!2d-74.72754992404867!3d40.294792963051854!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3e3d7c32d73ed%3A0x3eb1e3bc48ffbafb!2sTsai%20Field%20House!5e0!3m2!1sen!2sus!4v1781831533762!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
