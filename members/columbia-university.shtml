@@ -111,12 +111,12 @@ var q = 'Columbia'
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><!--Ice Hutch, Mount Vernon, NY--></td>
-	</tr>
-    <!--tr>
-    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3015.754129235089!2d-73.82047768472648!3d40.89920797931195!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c28d1800b46311%3A0x4441299220973201!2sThe%20Ice%20Hutch!5e0!3m2!1sen!2sus!4v1587570037969!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px; max-width:500px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
-    </tr-->
-    <tr class="TableHeader">
+    	<td colspan="2" align="center">World Ice Arena, Flushing-Meadows Park, Queens, NY</td>
+    </tr>
+    <tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3022.4699338375494!2d-73.83966888473131!3d40.751687779327554!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c25fdcb3203c1f%3A0xea22bb7cc8f64d3c!2sWorld%20Ice%20Arena!5e0!3m2!1sen!2sus!4v1587570242278!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
+	<tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
     <tr>
@@ -127,12 +127,11 @@ var q = 'Columbia'
     </tr>
     <tr>
     	<td colspan="2" align="center">    
-			<!--<a class="text" href="https://twitter.com/ColumbiaHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
-			<a class="text" href="https://www.instagram.com/columbiahockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
-			<a class="text" href="https://www.facebook.com/columbiahockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Facebook"><title id="facebook-label-mouseover">Facebook</title><use xlink:href="#facebook"/></svg></a>
-		-->
+			<!--a class="text" href="https://twitter.com/ColumbiaHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;-->
+			<a class="text" href="https://www.instagram.com/columbiahockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a><!--&nbsp;
+			<a class="text" href="https://www.facebook.com/columbiahockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Facebook"><title id="facebook-label-mouseover">Facebook</title><use xlink:href="#facebook"/></svg></a-->
 	  </td>
-	</tr-->
+	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Location</td>
     </tr>
@@ -143,7 +142,7 @@ var q = 'Columbia'
     	<td colspan="2" align="center">Team Website</td>
     </tr>
     <tr>
-    	<td colspan="2" align="center"><!--<a href="https://www.columbiamenshockey.com/" target="_blank" class="LongURL">www.columbiamenshockey.com/</a>--></td>
+    	<td colspan="2" align="center"><a href="https://www.columbiamensicehockey.com/" target="_blank" class="LongURL">www.columbiamensicehockey.com</a></td>
 	</tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">School's Nickname</td>
