@@ -889,6 +889,36 @@ var q = 'Brooklyn College'
                         	<td>&nbsp;</td>
                         </tr>
                    	</table>
+                    <div class="PageSectionHeader">1974-75 Season</div>
+               		<table class="TableStandard" border="1">
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0057.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>Captain Mike Lyden’s hustling and physical style of play set the example for his teammates.</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0058.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>Ed Ludwicki (#2) and Fred Vecchione (#9) attack the opposition's net.</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                        <tr>
+                        	<td><img src="/images/team-pictures/brooklyn/in-game-action/0059.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
+                        </tr>
+                        <tr>
+                        	<td>Defenseman John Betts (#4) protects his goalie.</td>
+                        </tr>
+                        <tr>
+                        	<td>&nbsp;</td>
+                        </tr>
+                    </table>
 
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
