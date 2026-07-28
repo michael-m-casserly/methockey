@@ -100,8 +100,8 @@ var q = 'WestConn'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>David Seidel</td>
-        <td><a href="mailto:seideldavidm@gmail.com" target="_blank">Email David</a></td>
+    	<td>TBD</td>
+        <td><!--a href="mailto:" target="_blank">Email TBD</a--></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>

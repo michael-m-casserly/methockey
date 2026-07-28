@@ -967,6 +967,9 @@ var q = 'Brooklyn College'
                         <tr>
                         	<td>&nbsp;</td>
                         </tr>
+                    </table>
+                    <div class="PageSectionHeader">1976-77 Season</div>
+               		<table class="TableStandard" border="1">
                         <tr>
                         	<td><img src="/images/team-pictures/brooklyn/in-game-action/0066.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"><br>
                                 <img src="/images/team-pictures/brooklyn/in-game-action/0067.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
@@ -986,9 +989,6 @@ var q = 'Brooklyn College'
                         <tr>
                         	<td>&nbsp;</td>
                         </tr>
-                    </table>
-                    <div class="PageSectionHeader">1976-77 Season</div>
-               		<table class="TableStandard" border="1">
                         <tr>
                         	<td><img src="/images/team-pictures/brooklyn/in-game-action/0069.jpeg" alt="Brooklyn Kingsmen" title="Brooklyn Kingsmen"></td>
                         </tr>
