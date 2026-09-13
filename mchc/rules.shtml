@@ -27,12 +27,16 @@
 
 <div style="padding-bottom: 20px;">
 <center>
-<div style="float: left; align-content: center; width: 50%;"><center><img src="/images/mchc/mchc-logo_260x261.jpg" border="0" style="height: 122px; width:122px;"/></center></div>
+<div style="float: left; align-content: center; width: 50%;"><center><img src="/images/mchc/mchc50_logo_circle_183x183.png" border="0" style="height: 122px; width:122px;"/></center></div>
 <div style="align-content: center;"><center><img src="/images/mchc/acha_logo_sm_white_border.png" border="0" style="height: 122px; width: 160px;" /></center></div>
 </center>
 </div>
 
-<p class="text-align-center"><a class="btn btn-secondary" role="button" href="NCAA-Rulebook-2024-26.pdf" target="_blank">NCAA Rulebook<br>2024-26&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
+<center>
+<p><b>The Rules are currently being updated for the 2026-27 season.</b></p>
+</center>
+
+<!--p class="text-align-center"><a class="btn btn-secondary" role="button" href="NCAA-Rulebook-2024-26.pdf" target="_blank">NCAA Rulebook<br>2024-26&nbsp;<svg class="bi" width="24" height="24" role="img" aria-label="PDF">
   <title id="pdf-label-mouseover-ncaa-rulebook-24-26">PDF</title>
   <use xlink:href="#filetype-pdf" />
 </svg></a></p>
@@ -126,7 +130,7 @@
 
 <a id="team-rules"></a>
 <br><br><!--These br tags fix the floating issue for the "Back to top" link-->
-<div align="center" class="PageHeader">Team Rules</div>
+<!--div align="center" class="PageHeader">Team Rules</div>
 <a id="game-procedures"></a>
 <strong>A. GAME PROCEDURES</strong><br>
 <ol>
@@ -308,7 +312,7 @@
 <li>All reasonable attempts to reschedule a canceled game must be made in a timely fashion. This includes but is not limited to (if available): playing as the home team in the opponent's rink, playing at a neutral rink, utilizing an expanded practice slot to accommodate a game, checking with teams not affected to see if they have ice available to play the game.</li>
 </ol>
 
-</div> <!--End mchcRules DIV-->
+</div--> <!--End mchcRules DIV-->
 
 </div>
 
