@@ -24,24 +24,17 @@
   </ol>
 </nav>
 
-<!--include virtual="/standings/sub-nav-standings-division.html"--> <!-- Don't need this after I figured out that you just need to delete the previous "Publish to Web" files in the XLSX to regenerate them with a new ID for the CSS (this was breaking the CSS output when initially trying to put both Standing tables on the same page)-->
- 
+<!--Don't need these after figuring out the CSS issue for showing multiple Standings on the same page-->
 
+<!--#include virtual="/standings/sub-nav-standings-division.html"-->
+
+        
         <div class="PageHeader">Current Standings</div>
-       	<div class="PageSectionHeader">Metropolitan Division</div>
-        <p><!--#include virtual="/standings/standings-include.html"--> <!--Add this back when next season starts-->
-        <!--include virtual="/standings/standings-include-2026.html"-->
-        </p>
        	<div class="PageSectionHeader">Atlantic Division (East)</div>
-        <p><!--#include virtual="/standings/standings-atlantic-east-include.html"--> <!--Add this back when next season starts-->
-        <!--include virtual="/standings/standings-atlantic-east-include-2026.html"-->
-        </p>
-       	<div class="PageSectionHeader">Atlantic Division (West)</div>
-        <p><!--#include virtual="/standings/standings-atlantic-west-include.html"--> <!--Add this back when next season starts-->
-        <!--include virtual="/standings/standings-atlantic-west-include-2026.html"-->
+		    <p><!--#include virtual="/standings/standings-atlantic-east-include.html"--> <!--Add this back when next season starts-->
+        <!--include virtual="/standings/standings-atlantic-include-2026.html"-->
         </p>
         
-    
         <!--#include virtual="/standings/sub-nav-standings-dropdown-previous-seasons.shtml"-->
 		<!--#include virtual="/standings/sub-nav-standings.html"-->
 
