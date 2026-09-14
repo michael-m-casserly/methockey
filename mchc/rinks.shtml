@@ -27,14 +27,16 @@
 <!-- Begin Table imported from old page-->
 
                 <div class="PageHeader">LEAGUE RINKS</div>
+				
+				<p>Rink information can be found on the individual team pages.</p>
 				<center>
-                <table class="TableStandard">
+                <!--table class="TableStandard">
 					<tr style="font-weight:bold;" class="TableHeader">
 						<td>Team</td>
 						<td>Home Rink(s)<br>Rink Phone</td>
 						<td>Address</td>
 					</tr>
-					<!--tr>
+					<tr>
 						<td><a href="/members/columbia-university.shtml">Columbia (1)</a></td>
 						<td><a href="https://www.icehutch.com/" target="_blank">Ice Hutch Ice Rink</a><br>914-699-6787</td>
 						<td><a href="https://goo.gl/maps/tg3BVd5GZxUBsta26" target="_blank">655 Garden 
@@ -46,7 +48,7 @@
 						<td><a href="https://www.nyctourism.com/places/riverbank-state-park-ice-rink/" target="_blank">Riverbank State Park</a><br>212-694-3600</td>
 						<td><a href="https://goo.gl/maps/wvJJVudGNshC2PUn6" target="_blank">679 Riverside Drive<br>
 							New York, NY 10031</a></td>
-					</tr-->
+					</tr>
 					<tr>
 						<td><a href="/members/maritime-college.shtml">Maritime</a></td>
 						<td><a href="https://worldice.com/" target="_blank">World Ice Arena</a><br>(Flushing Meadows<br>Corona Park)<br>718-760-9001</td>
@@ -100,7 +102,7 @@
 						<td><a href="https://maps.app.goo.gl/LriT79t5NBU9G5vw8" target="_blank">73 Sachem St<br> 
 						New Haven, CT 06511</a></td>
 					</tr>
-				</table>
+				</table-->
                 </center>
                 <br>
 
