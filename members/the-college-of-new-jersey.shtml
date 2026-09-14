@@ -154,7 +154,7 @@ var q = 'TCNJ'
 </table>
 </center>
 				
-<!--include virtual="/schedule/display-schedule-current.html"-->
+<!--#include virtual="/schedule/display-schedule-current.html"-->
                 
 <!--include virtual="/schedule/display-schedule-previous.html"-->
                 

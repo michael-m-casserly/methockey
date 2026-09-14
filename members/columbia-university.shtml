@@ -165,7 +165,7 @@ var q = 'Columbia'
 </table>
 </center>
                 				                
-<!--include virtual="/schedule/display-schedule-current.html"-->
+<!--#include virtual="/schedule/display-schedule-current.html"-->
 
 <!--#include virtual="/schedule/playoff-programs/2019-20.html"-->
 

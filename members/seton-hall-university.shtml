@@ -73,6 +73,29 @@ var q = 'Seton Hall'
 				</table>
 <br/>
 <table class="TableStandard" border="1">
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Head Coach</td>
+    </tr>
+    <tr>
+    	<td>TBD</td>
+        <td><a href="mailto:">Email TBD</a></td>
+    </tr>
+	<!--tr class="TableHeader">
+    	<td colspan="2" align="center">Club President</td>
+    </tr>
+    <tr>
+    	<td>TBD</td>
+        <td><a href="mailto:">Email TBD</a></td>
+    </tr-->
+    <tr class="TableHeader">
+    	<td colspan="2" align="center">Home Rink</td>
+    </tr>
+	<tr>
+    	<td colspan="2" align="center">Richard J. Codey Arena, West Orange, NJ</td>
+    </tr>
+	<tr>
+    	<td colspan="2" align="center"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3021.6640895262144!2d-74.2819612!3d40.769412300000006!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c3ab9108f88317%3A0x4214d5599f0fb19a!2sRichard%20J.%20Codey%20Arena!5e0!3m2!1sen!2sus!4v1789416978702!5m2!1sen!2sus" height="450" frameborder="0" style="border:0; min-width:320px;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe></td>
+    </tr>
     <tr class="TableHeader">
     	<td colspan="2" align="center">College Website</td>
     </tr>
@@ -105,7 +128,9 @@ var q = 'Seton Hall'
 	</tr>
 </table>
 </center>
-                
+
+<!--#include virtual="/schedule/display-schedule-current.html"-->
+
 <!--#include virtual="/schedule/display-schedule-previous.html"-->
 
 <!--End Main Content section-->
