@@ -40,21 +40,21 @@
 
 <div class="PageSectionHeader">Atlantic Division (West)</div>
 
-<!--include virtual="/stats/statistics-current-include-player-scoring-atlantic-west.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-current-include-player-scoring-atlantic-west.html"-->
+<!--include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic-west.html"-->
 
 <br>
-<!--include virtual="/stats/statistics-current-include-goalie-atlantic-west.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-goalie-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-current-include-goalie-atlantic-west.html"-->
+<!--include virtual="/stats/statistics-final-2526-include-goalie-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic-west.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-player-pim-ppg-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-current-include-player-pim-ppg-atlantic-west.html"-->
+<!--include virtual="/stats/statistics-final-2526-include-player-pim-ppg-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic-west.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-team-pp-pk-pim-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-current-include-team-pp-pk-pim-atlantic-west.html"-->
+<!--include virtual="/stats/statistics-final-2526-include-team-pp-pk-pim-atlantic-west.html"-->
 <br>
-<!--include virtual="/stats/statistics-current-include-team-scoring-atlantic-west.html"-->
-<!--#include virtual="/stats/statistics-final-2526-include-team-scoring-atlantic-west.html"-->
+<!--#include virtual="/stats/statistics-current-include-team-scoring-atlantic-west.html"-->
+<!--include virtual="/stats/statistics-final-2526-include-team-scoring-atlantic-west.html"-->
 
 <br>
 <!--#include virtual="/stats/sub-nav-stats-division.html"-->
