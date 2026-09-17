@@ -29,7 +29,7 @@ var q = 'Columbia'
 </nav>
 
 <div class="PageHeader">Columbia University Lions</div>
-<p class="text-align-center"><img src="/images/team-logos/columbia.jpg" style="width:320px; height:307px;" alt="Columbia Logo" title="Columbia Logo"  /></p>
+<p class="text-align-center"><img src="/images/team-logos/columbia.png" style="width:320px;" alt="Columbia Logo" title="Columbia Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

@@ -29,7 +29,7 @@ var q = 'Fordham'
 </nav>
 
 <div class="PageHeader">Fordham University Rams</div>
-<p class="text-align-center"><img src="/images/team-logos/fordham.png" style="width: 126px; height:126px;" alt="Fordham Logo" title="Fordham Logo" /></p>
+<p class="text-align-center"><img src="/images/team-logos/fordham.png" style="width: 320px;" alt="Fordham Logo" title="Fordham Logo" /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>

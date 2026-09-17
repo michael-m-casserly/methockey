@@ -33,7 +33,7 @@ var q = 'NJIT'
 </nav>
 
 <div class="PageHeader">New Jersey Institute of Technology Highlanders</div>
-<p class="text-align-center"><img src="/images/team-logos/njit.png" style="width:300px; height:195px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></p>
+<p class="text-align-center"><img src="/images/team-logos/njit.png" style="width:320px;" alt="New Jersey Institute of Technology Logo" title="New Jersey Institute of Technology Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>
