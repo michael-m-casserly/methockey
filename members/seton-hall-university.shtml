@@ -77,8 +77,8 @@ var q = 'Seton Hall'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>TBD</td>
-        <td><a href="mailto:">Email TBD</a></td>
+    	<td>Joseph Carbone</td>
+	<td><a href="mailto:josephcarbone30@gmail.com">Email Joseph</a></td>
     </tr>
 	<!--tr class="TableHeader">
     	<td colspan="2" align="center">Club President</td>
