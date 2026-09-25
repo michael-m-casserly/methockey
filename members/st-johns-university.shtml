@@ -28,8 +28,8 @@ var q = 'SJU'
 	</ol>
 </nav>
 
-<div class="PageHeader">SJU <!--Red Storm--></div>
-<!--p class="text-align-center"><img src="/images/team-logos/st-johns.png" style="width:215px; height:300px;" alt="St. John's University Logo" title="St. John's University Logo"  /></p-->
+<div class="PageHeader">SJU Red Storm</div>
+<p class="text-align-center"><img src="/images/team-logos/st-johns.png" style="width:215px; height:300px;" alt="St. John's University Logo" title="St. John's University Logo"  /></p>
 
 <center>
 				<div class="PageSectionHeader">All Time MCHC Stats</div>
