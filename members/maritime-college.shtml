@@ -85,19 +85,38 @@ var q = 'Maritime'
 <br/>
 <table class="TableStandard" border="1">
 	<tr class="TableHeader">
-    	<td colspan="2" align="center">General Manager</td>
+    	<td colspan="2" align="center">Team Advisors / Managers</td>
     </tr>
     <tr>
     	<td>Kathleen Winter</td>
         <td><a href="mailto:maritimehockey27@gmail.com">Email Kathleen</a></td>
     </tr>
-	<!--tr class="TableHeader">
-    	<td colspan="2" align="center">Head Coach</td>
+    <tr>
+    	<td>John Beimler</td>
+        <td><a href="mailto:beimler@brunswickpilots.com">Email John</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Player / Managers</td>
     </tr>
     <tr>
-    	<td>Garry Mawhinney</td>
-        <td><a href="mailto:oceanre@me.com">Email Garry</a></td>
-    </tr-->
+    	<td>Ryan Winter</td>
+        <td><a href="mailto: ryanwi4120@gmail.com">Email Ryan</a></td>
+    </tr>
+    <tr>
+    	<td>Henry Beimler</td>
+        <td><a href="mailto:henrybeimler18@gmail.com">Email Henry</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Coaches</td>
+    </tr>
+    <tr>
+    	<td>Will Nikas</td>
+        <td><a href="mailto:wnikas22@gmail.com">Email Will</a></td>
+    </tr>
+    <tr>
+    	<td>Zach Chirinkin</td>
+        <td><a href="mailto:zchirinkin1017@gmail.com">Email Zach</a></td>
+    </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Home Rink</td>
     </tr>
