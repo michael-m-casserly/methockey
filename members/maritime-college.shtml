@@ -33,8 +33,8 @@ var q = 'Maritime'
 	</ol>
 </nav>
 
-<div class="PageHeader">Maritime College Privateers</div>
-<p class="text-align-center"><img src="/images/team-logos/maritime.jpg" style="max-width:320px;" alt="Maritime Logo" title="Maritime Logo" /></p>
+<div class="PageHeader">Maritime Privateers</div>
+<p class="text-align-center"><img src="/images/team-logos/maritime.png" style="max-width:320px;" alt="Maritime Logo" title="Maritime Logo" /></p>
 
 <center>
 			<div class="PageSectionHeader">All Time MCHC Stats</div>
