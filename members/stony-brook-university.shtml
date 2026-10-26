@@ -84,8 +84,15 @@ var q = 'Stony%20Brook'
     	<td colspan="2" align="center">Head Coach</td>
     </tr>
     <tr>
-    	<td>Edward Armellino</td>
-        <td><!--a href="mailto:[Name]">Email [Name]</a--></td>
+    	<td>Michael Scancarello</td>
+        <td><a href="mailto:Mscancarello9@gmail.com">Email Michael</a></td>
+    </tr>
+	<tr class="TableHeader">
+    	<td colspan="2" align="center">Assistant Coach</td>
+    </tr>
+    <tr>
+    	<td>Christian Tyler</td>
+        <td><a href="mailto:Christian@oryandental.com">Email Christian</a></td>
     </tr>
 	<tr class="TableHeader">
     	<td colspan="2" align="center">Team President / General Manager</td>
