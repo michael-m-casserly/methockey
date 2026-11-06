@@ -347,36 +347,51 @@
           <div class="round-border">
 
             <h3>Player of the Month</h3>
-            <h5>Jan/Feb 2026</h5>
+            <h5>October 2026</h5>
             <h5>Metropolitan</h5>
             <p style="font-size:16px">
-              <b>#24 Pat Freitas</b><br />
-              <a href="/members/maritime-college.shtml">Maritime</a><br>
-              7 G, 6 A, 13 PTS<br>
-              1 GWG<br>
-              5 Games Played
+              <b>Nick Delia</b><br />
+              <a href="//st-thomas-aquinas-college.shtml">STAC</a><br>
+              3 G, 5 A, 8 PTS<br>
+              1 PPG, 1 GWG<br>
+              2 Games Played
             </p>
             <p style="font-size:16px">
-              <b>#31 Jonathan Vitti</b><br />
-              <a href="/members/sacred-heart-university.shtml">Sacred Heart</a><br>
+              <b>Nico Lamono</b><br />
+              <a href="/members/fordham-university.shtml">Fordham</a><br>
               3-0<br>
-              .889&nbsp;SV%<br>
-              1.83 GAA
+              .898&nbsp;SV%<br>
+              3.91 GAA
             </p>
-            <h5>Atlantic</h5>
+            <h5>Atlantic East</h5>
             <p style="font-size:16px">
-              <b>#11 Shane Reidy</b><br />
-              <a href="/members/fairfield-university.shtml">Fairfield</a><br>
-              6 G, 4 A, 10 PTS<br>
-              1 GWG<br>
+              <b>Nico Buglione</b><br />
+              <a href="/members/hofstra-university.shtml">Hofstra</a><br>
+              16 G, 10 A, 26 PTS<br>
+                3 PPG, 4 GWG<br>
+              6 Games Played
+            </p>
+            <p style="font-size:16px">
+              <b>Frank Boal</b><br />
+              <a href="/members/columbia-university.shtml">Columbia</a><br>
+              2-0<br>
+              .933&nbsp;SV%<br>
+              1.50 GAA
+            </p>
+            <h5>Atlantic West</h5>
+            <p style="font-size:16px">
+              <b>Noah Bergin</b><br />
+              <a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a><br>
+              3 G, 7 A, 10 PTS<br>
+                3 PPG, 1 GWG<br>
               4 Games Played
             </p>
             <p style="font-size:16px">
-              <b>#1 Lucas Cohen</b><br />
-              <a href="/members/rutgers-university.shtml">Rutgers</a><br>
-              2-0<br>
-              .927&nbsp;SV%<br>
-              2.00 GAA
+              <b>Matthew Shrader</b><br />
+              <a href="/members/the-college-of-new-jersey.shtml">TCNJ</a><br>
+              4-1<br>
+              .947&nbsp;SV%<br>
+              1.77 GAA
             </p>
             <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
           </div>
