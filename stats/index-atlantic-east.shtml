@@ -38,7 +38,7 @@
 
 <!--Broke this into separate tabs on the XLS starting Nov 2022; SOURCE FILE: CASS MCHC WEB STATS 2022-23.xlsx, sent to Drew, and stored in local Downloads folder on Lenovo laptop-->
 
-<div class="PageSectionHeader">Atlantic Division <!--(East)--></div>
+<div class="PageSectionHeader">Atlantic Division (East)</div>
 
 <!--#include virtual="/stats/statistics-current-include-player-scoring-atlantic-east.html"-->
 <!--include virtual="/stats/statistics-final-2526-include-player-scoring-atlantic.html"-->
