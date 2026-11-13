@@ -340,3 +340,93 @@ button[aria-expanded="true"] .accordion-chevron {
   transform: rotate(180deg);
 }
 /* End Bootstrap Accordions for Nav Menu */
+
+/* Begin CSS created by Claude for the Rules page*/
+
+.rules-content {
+  color: #212529;
+  line-height: 1.55;
+}
+
+/* Main sections: Eligibility, Team Rules, Appendix A */
+.rules-content h1 {
+  font-size: 1.5rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #fff;
+  background-color: #344F7C;
+  padding: 0.5rem 0.85rem;
+  border-radius: 4px;
+  margin: 2.25rem 0 1rem;
+}
+.rules-content h1:first-child { margin-top: 0.5rem; }
+
+/* Subsections: A. Player Eligibility, B. Playing Rules… */
+.rules-content h2 {
+  font-size: 1.25rem;
+  font-weight: 700;
+  color: #344F7C;
+  padding-bottom: 0.3rem;
+  border-bottom: 2px solid #1B95E0;
+  margin: 1.75rem 0 0.75rem;
+}
+
+/* Smaller headings, if you add any later */
+.rules-content h3 {
+  font-size: 1.05rem;
+  font-weight: 700;
+  color: #344F7C;
+  padding: 0.3rem 0.6rem;
+  background-color: #C9DAF8;
+  border-left: 4px solid #344F7C;
+  margin: 1.25rem 0 0.5rem;
+}
+.rules-content h4 {
+  font-size: 1rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.03em;
+  color: #1B95E0;
+  margin: 1rem 0 0.4rem;
+}
+.rules-content h5,
+.rules-content h6 {
+  font-size: 0.95rem;
+  font-weight: 700;
+  color: #344F7C;
+  margin: 0.85rem 0 0.35rem;
+}
+
+/* The bold rule labels (MINIMUM PLAYERS NEEDED:, MERCY RULE:, …) */
+.rules-content li > strong { color: #344F7C; }
+
+/* Space between list items */
+.rules-content ol,
+.rules-content ul { margin-bottom: 1rem; }
+.rules-content li { margin-bottom: 0.4rem; }
+
+/* Playoff Structure table */
+.rules-content table {
+  border-collapse: collapse;
+  margin: 1rem 0 1.5rem;
+  font-size: 0.9rem;
+}
+.rules-content caption {
+  caption-side: top;
+  font-weight: 700;
+  color: #344F7C;
+  padding-bottom: 0.4rem;
+}
+.rules-content th {
+  background-color: #344F7C;
+  color: #fff;
+  padding: 0.4rem 0.75rem;
+}
+.rules-content td {
+  padding: 0.35rem 0.75rem;
+  border: 1px solid #C9DAF8;
+}
+.rules-content tbody tr:nth-child(even) { background-color: #F1F5FC; }
+
+/* End CSS created by Claude for the Rules page*/
