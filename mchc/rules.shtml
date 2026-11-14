@@ -4,7 +4,15 @@
   <!--#include virtual="/banner-head.html" -->
 
 <title>Rules | Metropolitan Collegiate Hockey Conference</title>
-    
+
+<!-- Use this to center all of the values inside of the Playoff Structure table, without affecting the rest of the site -->
+<style>
+  table th,
+table td {
+  text-align: center;
+}
+</style>
+
   </head>
 
 <body class="bodyTag">
@@ -209,7 +217,7 @@
 
 <center><h2>Playoff Structure 2026-27</h2></center>
 <center>
-<table cellspacing="0" cellpadding="5" style="width: 100%; border-collapse: collapse; background-color: #ffffff; border: 1px solid #000000;">
+<table style="width: 100%; border-collapse: collapse; background-color: #ffffff; border: 1px solid #000000;">
   <thead>
     <tr border="1" style="border: 1px solid #000000;">
       <th>Date</th>
@@ -221,21 +229,20 @@
     </tr>
   </thead>
   <tbody>
-    <tr><td>2/19</td><td>Fri</td><td>M1</td><td>MET2</td><td>ATE1</td><td>Metro</td></tr>
-    <tr><td>2/19</td><td>Fri</td><td>M2</td><td>MET3</td><td>ATW1</td><td>Metro</td></tr>
-    <tr><td>2/19</td><td>Fri</td><td>M3</td><td>MET4</td><td>MET5</td><td>Metro</td></tr>
-    <tr><td>2/20</td><td>Sat</td><td>M4</td><td>Winner-M1</td><td>Winner-M2</td><td>Metro</td></tr>
-    <tr><td>2/20</td><td>Sat</td><td>M5</td><td>MET1</td><td>Winner-M3</td><td>Metro</td></tr>
-    <tr><td>2/21</td><td>Sun</td><td>M6</td><td>Winner-M4</td><td>Winner-M5</td><td>Metro</td></tr>
-    <tr><td>2/26</td><td>Fri</td><td>AT1</td><td>ATE2</td><td>ATE3</td><td>Atlantic</td></tr>
-    <tr><td>2/26</td><td>Fri</td><td>AT2</td><td>ATW2</td><td>ATW3</td><td>Atlantic</td></tr>
-    <tr><td>2/27</td><td>Sat</td><td>AT3</td><td>ATE1</td><td>Winner-AT1</td><td>Atlantic</td></tr>
-    <tr><td>2/27</td><td>Sat</td><td>AT4</td><td>ATW1</td><td>Winner-AT2</td><td>Atlantic</td></tr>
-    <tr><td>2/28</td><td>Sun</td><td>AT5</td><td>Winner-AT3</td><td>Winner-AT4</td><td>Atlantic</td></tr>
+    <tr><td>2/19</td><td>Fri</td><td>M1</td><td>ME2</td><td>AE1</td><td>MET</td></tr>
+    <tr><td>2/19</td><td>Fri</td><td>M2</td><td>ME3</td><td>AW1</td><td>MET</td></tr>
+    <tr><td>2/19</td><td>Fri</td><td>M3</td><td>ME4</td><td>ME5</td><td>MET</td></tr>
+    <tr><td>2/20</td><td>Sat</td><td>M4</td><td>Winner-M1</td><td>Winner-M2</td><td>MET</td></tr>
+    <tr><td>2/20</td><td>Sat</td><td>M5</td><td>ME1</td><td>Winner-M3</td><td>MET</td></tr>
+    <tr><td>2/21</td><td>Sun</td><td>M6</td><td>Winner-M4</td><td>Winner-M5</td><td>MET</td></tr>
+    <tr><td>2/26</td><td>Fri</td><td>A1</td><td>AE2</td><td>AE3</td><td>ATL</td></tr>
+    <tr><td>2/26</td><td>Fri</td><td>A2</td><td>AW2</td><td>AW3</td><td>ATL</td></tr>
+    <tr><td>2/27</td><td>Sat</td><td>A3</td><td>AE1</td><td>Winner-A1</td><td>ATL</td></tr>
+    <tr><td>2/27</td><td>Sat</td><td>A4</td><td>AW1</td><td>Winner-A2</td><td>ATL</td></tr>
+    <tr><td>2/28</td><td>Sun</td><td>A5</td><td>Winner-A3</td><td>Winner-A4</td><td>ATL</td></tr>
   </tbody>
 </table>
 </center>
-<br><br>
 
 <h2>F. Officials</h2>
 <ol>

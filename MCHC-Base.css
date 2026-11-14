@@ -409,7 +409,7 @@ button[aria-expanded="true"] .accordion-chevron {
 /* Playoff Structure table */
 .rules-content table {
   border-collapse: collapse;
-  margin: 1rem 0 1.5rem;
+/*  margin: 1rem 0 1.5rem; */
   font-size: 0.9rem;
 }
 .rules-content caption {
@@ -421,10 +421,10 @@ button[aria-expanded="true"] .accordion-chevron {
 .rules-content th {
   background-color: #344F7C;
   color: #fff;
-  padding: 0.4rem 0.75rem;
+/*  padding: 0.4rem 0.75rem; */
 }
 .rules-content td {
-  padding: 0.35rem 0.75rem;
+/*  padding: 0.35rem 0.75rem; */
   border: 1px solid #C9DAF8;
 }
 .rules-content tbody tr:nth-child(even) { background-color: #F1F5FC; }
