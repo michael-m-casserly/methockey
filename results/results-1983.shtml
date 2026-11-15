@@ -30,125 +30,123 @@
 <!--#include virtual="/results/sub-nav-results-dropdown-previous-seasons.shtml"-->
 <!--include virtual="/results/results-include-2017.html"-->
 
-<table cellpadding="2" cellpadding="2" border="1" class="TableStandard">
-
-    <tr class="TableHeader">
-    	<td colspan="5">Quarter-Finals (Single Elimination)</td>
-    </tr>
-    <tr class="TableSubHeader">
-    	<td width="35%">Winner</td>
-    	<td width="10%">G</td>
-    	<td width="35%">Loser</td>
-    	<td width="10%">G</td>
-    	<td width="10%">&nbsp;</td>
-    </tr>
-    <tr>
-    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
-        <td>9</td>
-        <td><a href="/members/columbia-university.shtml">Columbia</a></td>
-        <td>4</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/maritime-college.shtml">Maritime</a></td>
-        <td>9</td>
-        <td><a href="/members/ocean-county-college.shtml">Ocean County</a></td>
-        <td>3</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/nassau-community-college.shtml">Nassau</a></td>
-        <td>9</td>
-        <td><a href="/members/marist-college.shtml">Marist</a></td>
-        <td>6</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-     <tr>
-     	<td colspan="5">&nbsp;</td>
-     </tr>
-    <tr class="TableHeader">
-    	<td colspan="5">Semi-Finals (Single Elimination)</td>
-    </tr>
-    <tr>
-    	<td><a href="/members/stony-brook-university.shtml">Stony Brook</a></td>
-        <td>5</td>
-    	<td><a href="/members/southern-connecticut-state-university.shtml">SCSU</a></td>
-        <td>2</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
-        <td>1</td>
-    	<td><a href="/members/maritime-college.shtml">Maritime</a></td>
-        <td>0</td>
-        <td class="TableNotes">***</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-        <td>9</td>
-        <td><a href="/members/nassau-community-college.shtml">Nassau</a></td>
-        <td>5</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
-        <td>9</td>
-        <td><a href="/members/william-paterson-university.shtml">Paterson</a></td>
-        <td>4</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-     <tr>
-     	<td colspan="5">&nbsp;</td>
-     </tr>
-    <tr class="TableHeader">
-    	<td colspan="5">Finals (Double Elimination)</td>
-    </tr>
-    <tr>
-        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
-        <td>15</td>
-    	<td><a href="/members/stony-brook-university.shtml">Stony Brook</a></td>
-        <td>3</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-        <td>7</td>
-    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
-        <td>4</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
-        <td>10</td>
-    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-        <td>3</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
-        <td>5</td>
-    	<td><a href="/members/stony-brook-university.shtml">Stony Brook</a></td>
-        <td>3</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-        <td>5</td>
-    	<td><a href="/members/ramapo-college.shtml">Ramapo</a></td>
-        <td>2</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr>
-        <td><a href="/members/wagner-college.shtml">Wagner</a></td>
-        <td>7</td>
-    	<td><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-        <td>5</td>
-        <td class="TableNotes">&nbsp;</td>
-     </tr>
-    <tr class="TableHeader">
-    	<td colspan="5">Wagner Wins League Championship</td>
-    </tr>
+<!-- MCHC results tables restyled 2026-11-14 21:25 (same look as the current include files). -->
+<style>
+.mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
+.mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
+.mchc-stats .mchc-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 auto 1.25rem;max-width:100%}
+.mchc-stats table{border-collapse:collapse;margin:0 auto;width:100%;font-size:.8125rem;line-height:1.3;background:#fff;border:1px solid #344F7C}
+.mchc-stats caption{caption-side:top;background:#344F7C;color:#fff;font-weight:700;text-align:center;padding:.4rem .5rem;font-size:.875rem}
+.mchc-stats th,.mchc-stats td{border:1px solid #b7c3d6;padding:.3rem .45rem;text-align:center;vertical-align:middle;white-space:nowrap}
+.mchc-stats thead th{background:#C9DAF8;color:#1d2f4f;font-weight:700}
+.mchc-stats tbody tr:nth-child(even) td{background:#f3f6fb}
+.mchc-stats tbody tr:hover td{background:#e3ebf8}
+.mchc-stats .mchc-name{text-align:left;white-space:normal;min-width:7.5em}
+.mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
+.mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
+.mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
+@media (max-width:576px){
+ .mchc-stats table{font-size:.75rem}
+ .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
+ .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
+}
+</style>
+<style>
+.mchc-results thead th{background:#344F7C;color:#fff}
+.mchc-results td.mchc-score{font-weight:700;min-width:1.8em}
+.mchc-results td.mchc-ot{color:#344F7C;font-weight:700;min-width:1em}
+.mchc-results td.mchc-date{white-space:nowrap}
+.mchc-results tbody tr.mchc-upcoming td{color:#555}
+.mchc-results tfoot td{text-align:left}
+.mchc-results .mchc-teamcol{text-align:center !important;white-space:nowrap}
+.mchc-results a.mchc-team{display:inline-flex;align-items:center;gap:.45rem;vertical-align:middle}
+.mchc-results a.mchc-team img{width:30px;height:30px;object-fit:contain;flex:none;border:0}
+.mchc-results:not(.mchc-standings) tbody td{padding-top:.35rem;padding-bottom:.35rem}
+.mchc-results td.mchc-goals{font-size:30px;line-height:1;min-width:1.4em}
+.mchc-stats.mchc-results .mchc-goals{border-left-style:hidden}
+@media (max-width:360px){.mchc-stats.mchc-results td.mchc-goals{font-size:22px;min-width:0}.mchc-stats.mchc-results:not(.mchc-standings) th,.mchc-stats.mchc-results:not(.mchc-standings) td{padding-left:.1rem;padding-right:.1rem}}
+@media (max-width:576px){
+ .mchc-results table{font-size:.72rem}
+ .mchc-results th,.mchc-results td{padding:.25rem .2rem}
+ .mchc-results .mchc-name{min-width:0;white-space:normal}
+ .mchc-results td.mchc-score{min-width:1.4em}
+ .mchc-results .mchc-teamcol{white-space:normal}
+ .mchc-results a.mchc-team{flex-direction:column;gap:.15rem;line-height:1.15}
+}
+.mchc-stats .mchc-notice{display:block;max-width:30em;margin:0 auto 1.25rem;padding:.45rem .6rem;background:#344F7C;color:#fff;font-weight:700;font-style:italic;text-align:center !important}
+.mchc-standings tfoot td{text-align:center !important;font-style:normal;color:#212529}
+.mchc-standings tfoot td.mchc-note{font-style:italic;color:#444}
+.mchc-stats .mchc-btnrow{display:block;width:100%;text-align:center !important;margin:0 auto 1.25rem}
+.mchc-summary table{font-size:.8125rem}
+.mchc-summary thead th{background:#344F7C;color:#fff;font-weight:700}
+.mchc-stats.mchc-summary thead th.mchc-key{text-align:right}
+.mchc-stats.mchc-summary thead th.mchc-val{text-align:left}
+.mchc-summary td.mchc-num{text-align:right}
+.mchc-summary td.mchc-lbl{text-align:left}
+</style>
+<script>
+(function(){if(document.mchcSortReady)return;document.mchcSortReady=1;
+function key(c){var v=c?(c.getAttribute('data-sort')||c.textContent):'';v=v.replace(/\s+/g,' ').trim();
+var n=v.replace(/[%,]/g,'');if(n!==''&&!isNaN(n))return{b:0,n:parseFloat(n),s:v.toLowerCase()};return{b:v===''?1:0,s:v.toLowerCase()};}
+document.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('table.mchc-sortable thead .mchc-sort'):null;if(!b)return;
+var th=b.closest('th'),row=th.parentNode,t=th.closest('table'),tb=t.tBodies[0];if(!tb)return;
+var i=Array.prototype.indexOf.call(row.children,th),rows=Array.prototype.slice.call(tb.rows);
+var ks=rows.map(function(r,j){if(!r.hasAttribute('data-i'))r.setAttribute('data-i',j);return{r:r,k:key(r.cells[i]),o:+r.getAttribute('data-i')};});
+var num=ks.every(function(x){return x.k.b||x.k.n!==undefined;}),cur=th.getAttribute('aria-sort');
+var asc=cur?cur==='descending':(!num||th.hasAttribute('data-asc'));
+ks.sort(function(x,y){if(x.k.b!==y.k.b)return x.k.b-y.k.b;var d=0;
+if(x.k.n!==undefined&&y.k.n!==undefined)d=x.k.n-y.k.n;else d=x.k.s<y.k.s?-1:x.k.s>y.k.s?1:0;
+if(!asc)d=-d;return d||x.o-y.o;});
+ks.forEach(function(x){tb.appendChild(x.r);});
+Array.prototype.forEach.call(t.querySelectorAll('thead th[aria-sort]'),function(h){h.removeAttribute('aria-sort');});
+th.setAttribute('aria-sort',asc?'ascending':'descending');});})();
+</script>
+<style>.mchc-stats .visually-hidden{position:absolute!important;width:1px;height:1px;overflow:hidden;clip:rect(0,0,0,0);white-space:nowrap}.mchc-stats.mchc-results tfoot td.mchc-seriesnote{text-align:center !important;font-weight:700;font-style:normal;color:#344F7C}</style>
+<div class="mchc-stats mchc-results">
+<div class="mchc-scroll" style="max-width:30em">
+<table>
+<caption>Quarter-Finals (Single Elimination)</caption>
+<thead><tr><th scope="col" class="mchc-teamcol">Winner</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Winner goals</span></th><th scope="col" class="mchc-teamcol">Loser</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Loser goals</span></th><th scope="col"><span class="visually-hidden">Notes</span></th></tr></thead><tbody>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/southern-connecticut-state-university.shtml"><span>SCSU</span></a></td><td class="mchc-score mchc-goals">9</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/columbia-university.shtml"><img src="/images/acha-team-icons/columbia.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Columbia</span></a></td><td class="mchc-score mchc-goals">4</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/maritime-college.shtml"><img src="/images/acha-team-icons/maritime.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Maritime</span></a></td><td class="mchc-score mchc-goals">9</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/ocean-county-college.shtml"><span>Ocean County</span></a></td><td class="mchc-score mchc-goals">3</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/nassau-community-college.shtml"><span>Nassau</span></a></td><td class="mchc-score mchc-goals">9</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/marist-college.shtml"><span>Marist</span></a></td><td class="mchc-score mchc-goals">6</td><td class="mchc-ot"></td></tr>
+</tbody>
 </table>
+</div>
+<div class="mchc-scroll" style="max-width:30em">
+<table>
+<caption>Semi-Finals (Single Elimination)</caption>
+<thead><tr><th scope="col" class="mchc-teamcol">Winner</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Winner goals</span></th><th scope="col" class="mchc-teamcol">Loser</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Loser goals</span></th><th scope="col"><span class="visually-hidden">Notes</span></th></tr></thead><tbody>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/stony-brook-university.shtml"><img src="/images/acha-team-icons/stony-brook.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Stony Brook</span></a></td><td class="mchc-score mchc-goals">5</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/southern-connecticut-state-university.shtml"><span>SCSU</span></a></td><td class="mchc-score mchc-goals">2</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/wagner-college.shtml"><span>Wagner</span></a></td><td class="mchc-score mchc-goals">1</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/maritime-college.shtml"><img src="/images/acha-team-icons/maritime.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Maritime</span></a></td><td class="mchc-score mchc-goals">0</td><td class="mchc-ot">***</td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/county-college-of-morris.shtml"><span>C.C.M.</span></a></td><td class="mchc-score mchc-goals">9</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/nassau-community-college.shtml"><span>Nassau</span></a></td><td class="mchc-score mchc-goals">5</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/ramapo-college.shtml"><span>Ramapo</span></a></td><td class="mchc-score mchc-goals">9</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/william-paterson-university.shtml"><span>Paterson</span></a></td><td class="mchc-score mchc-goals">4</td><td class="mchc-ot"></td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:30em">
+<table>
+<caption>Finals (Double Elimination)</caption>
+<thead><tr><th scope="col" class="mchc-teamcol">Winner</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Winner goals</span></th><th scope="col" class="mchc-teamcol">Loser</th><th scope="col" class="mchc-goals"><span class="visually-hidden">Loser goals</span></th><th scope="col"><span class="visually-hidden">Notes</span></th></tr></thead><tbody>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/wagner-college.shtml"><span>Wagner</span></a></td><td class="mchc-score mchc-goals">15</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/stony-brook-university.shtml"><img src="/images/acha-team-icons/stony-brook.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Stony Brook</span></a></td><td class="mchc-score mchc-goals">3</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/county-college-of-morris.shtml"><span>C.C.M.</span></a></td><td class="mchc-score mchc-goals">7</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/ramapo-college.shtml"><span>Ramapo</span></a></td><td class="mchc-score mchc-goals">4</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/wagner-college.shtml"><span>Wagner</span></a></td><td class="mchc-score mchc-goals">10</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/county-college-of-morris.shtml"><span>C.C.M.</span></a></td><td class="mchc-score mchc-goals">3</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/ramapo-college.shtml"><span>Ramapo</span></a></td><td class="mchc-score mchc-goals">5</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/stony-brook-university.shtml"><img src="/images/acha-team-icons/stony-brook.png" width="30" height="30" alt="" loading="lazy" decoding="async"><span>Stony Brook</span></a></td><td class="mchc-score mchc-goals">3</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/county-college-of-morris.shtml"><span>C.C.M.</span></a></td><td class="mchc-score mchc-goals">5</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/ramapo-college.shtml"><span>Ramapo</span></a></td><td class="mchc-score mchc-goals">2</td><td class="mchc-ot"></td></tr>
+<tr><td class="mchc-teamcol"><a class="mchc-team" href="/members/wagner-college.shtml"><span>Wagner</span></a></td><td class="mchc-score mchc-goals">7</td><td class="mchc-teamcol"><a class="mchc-team" href="/members/county-college-of-morris.shtml"><span>C.C.M.</span></a></td><td class="mchc-score mchc-goals">5</td><td class="mchc-ot"></td></tr>
+</tbody>
+</table>
+</div>
+<p class="mchc-notice">Wagner Wins League Championship</p>
+</div>
+
     
 </p>
 

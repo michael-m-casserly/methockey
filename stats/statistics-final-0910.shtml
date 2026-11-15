@@ -34,750 +34,252 @@
 
 <!--Begin table imported from old page-->
 
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="7" height="25">Player Scoring Leaders</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Player</td>
-				<td class="auto-style69">Team</td>
-				<td class="auto-style69">G</td>
-				<td class="auto-style69">A</td>
-				<td class="auto-style69">PTS</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72">Kevin Baum</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">19 </td>
-				<td class="auto-style71">33 </td>
-				<td class="auto-style71">52 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">22 </td>
-				<td class="auto-style72">Christian Cholhan</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">20 </td>
-				<td class="auto-style71">25 </td>
-				<td class="auto-style71">45 </td>
-				<td class="auto-style71">14 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">14 </td>
-				<td class="auto-style72">Ben Waters</td>
-				<td class="auto-style71"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">30 </td>
-				<td class="auto-style71">12 </td>
-				<td class="auto-style71">42 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">21 </td>
-				<td class="auto-style72">George Petronella</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">20 </td>
-				<td class="auto-style71">17 </td>
-				<td class="auto-style71">37 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72">Frank Amaniera</td>
-				<td class="auto-style71"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">19 </td>
-				<td class="auto-style71">16 </td>
-				<td class="auto-style71">35 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">16 </td>
-				<td class="auto-style72">Rich Steinel</td>
-				<td class="auto-style71"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">15 </td>
-				<td class="auto-style71">18 </td>
-				<td class="auto-style71">33 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">13 </td>
-				<td class="auto-style72">Andrew McClain</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">19 </td>
-				<td class="auto-style71">14 </td>
-				<td class="auto-style71">33 </td>
-				<td class="auto-style71">14 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">8 </td>
-				<td class="auto-style72">Daniel D'Onofrio</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">14 </td>
-				<td class="auto-style71">17 </td>
-				<td class="auto-style71">31 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">29 </td>
-				<td class="auto-style72">Gerald Riccardello</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">18 </td>
-				<td class="auto-style71">13 </td>
-				<td class="auto-style71">31 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">5 </td>
-				<td class="auto-style72">Gerald Dolan</td>
-				<td class="auto-style71"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">13 </td>
-				<td class="auto-style71">13 </td>
-				<td class="auto-style71">26 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">17 </td>
-				<td class="auto-style72">Corey Kendelski</td>
-				<td class="auto-style71"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">12 </td>
-				<td class="auto-style71">14 </td>
-				<td class="auto-style71">26 </td>
-				<td class="auto-style71">14 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">91 </td>
-				<td class="auto-style72">Erick Muse</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">15 </td>
-				<td class="auto-style71">10 </td>
-				<td class="auto-style71">25 </td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">71 </td>
-				<td class="auto-style72">Ryan Dermody</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">12 </td>
-				<td class="auto-style71">13 </td>
-				<td class="auto-style71">25 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">10 </td>
-				<td class="auto-style72">Adam Gould</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">9 </td>
-				<td class="auto-style71">15 </td>
-				<td class="auto-style71">24 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">20 </td>
-				<td class="auto-style72">Dan Tyx</td>
-				<td class="auto-style71"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">11 </td>
-				<td class="auto-style71">12 </td>
-				<td class="auto-style71">23 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">16 </td>
-				<td class="auto-style72">Tom Hohorst</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">16 </td>
-				<td class="auto-style71">7 </td>
-				<td class="auto-style71">23 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="10" height="25">Goaltender Save Percentage Leaders</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Player</td>
-				<td class="auto-style69">Team</td>
-				<td class="auto-style69">&nbsp;W&nbsp;</td>
-				<td class="auto-style69">&nbsp;L&nbsp;</td>
-				<td class="auto-style69">OTL</td>
-				<td class="auto-style69">MIN</td>
-				<td class="auto-style69">GAA</td>
-				<td class="auto-style69">SV%</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">41 </td>
-				<td class="auto-style72">Greg<br/>Sobchuk</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">425</td>
-				<td class="auto-style71">2.12 </td>
-				<td class="auto-style71">.912</td>
-				<td class="auto-style71">7 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">33 </td>
-				<td class="auto-style72">Craig<br/>Hoffman</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">420</td>
-				<td class="auto-style71">2.14 </td>
-				<td class="auto-style71">.901</td>
-				<td class="auto-style71">7 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">29 </td>
-				<td class="auto-style72">John<br/>Park</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">2 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">390</td>
-				<td class="auto-style71">2.92 </td>
-				<td class="auto-style71">.901</td>
-				<td class="auto-style71">7 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">30 </td>
-				<td class="auto-style72">Michael<br/>Fasulo</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">7 </td>
-				<td class="auto-style71">2 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">565</td>
-				<td class="auto-style71">3.82 </td>
-				<td class="auto-style71">.893</td>
-				<td class="auto-style71">10 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">31 </td>
-				<td class="auto-style72">Matt<br/>Tatarian</td>
-				<td class="auto-style71"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">9 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">937</td>
-				<td class="auto-style71">4.74 </td>
-				<td class="auto-style71">.870</td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">4 </td>
-				<td class="auto-style72">Sunil<br/>Bhagavath</td>
-				<td class="auto-style71"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">669</td>
-				<td class="auto-style71">4.75 </td>
-				<td class="auto-style71">.838</td>
-				<td class="auto-style71">11 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">32 </td>
-				<td class="auto-style72">Todd<br/>Scarola</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">3 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">647</td>
-				<td class="auto-style71">4.91 </td>
-				<td class="auto-style71">.872</td>
-				<td class="auto-style71">11 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">50 </td>
-				<td class="auto-style72">Bob<br/>Vala</td>
-				<td class="auto-style71"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">3 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">544</td>
-				<td class="auto-style71">5.63 </td>
-				<td class="auto-style71">.839</td>
-				<td class="auto-style71">11 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">39 </td>
-				<td class="auto-style72">Justin<br/>Bresler</td>
-				<td class="auto-style71"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">2 </td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">1 </td>
-				<td class="auto-style71">545</td>
-				<td class="auto-style71">6.17 </td>
-				<td class="auto-style71">.876</td>
-				<td class="auto-style71">9 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">39 </td>
-				<td class="auto-style72">Kamil<br/>Szorc</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">3 </td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">0 </td>
-				<td class="auto-style71">627</td>
-				<td class="auto-style71">8.33 </td>
-				<td class="auto-style71">.822</td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td colspan="10" height="18" class="auto-style71">(Minimum 390 minutes played)</td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="5" height="25">Player Penalty Minutes</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Player</td>
-				<td class="auto-style69">Team</td>
-				<td class="auto-style69">PIM</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72">Richard Deere</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">69 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">17 </td>
-				<td class="auto-style72">Sean Devlin</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">68 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">91 </td>
-				<td class="auto-style72">Erick Muse</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">58 </td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">21 </td>
-				<td class="auto-style72">Mike Perillo</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">50 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72">Steve Yankowski</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">47 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">43 </td>
-				<td class="auto-style72">Tom Hohorst</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">46 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72">Greg Dolan</td>
-				<td class="auto-style71"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">45 </td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">16 </td>
-				<td class="auto-style72">Kevin McMahon</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">44 </td>
-				<td class="auto-style71">13 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">13 </td>
-				<td class="auto-style72">Mirko Palla</td>
-				<td class="auto-style71"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">44 </td>
-				<td class="auto-style71">13 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">11 </td>
-				<td class="auto-style72">Mike Vespa</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">44 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">71 </td>
-				<td class="auto-style72">Ryan Dermody</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">44 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">14 </td>
-				<td class="auto-style72">Brian Zoll</td>
-				<td class="auto-style71"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">40 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="5" height="25">Player Power Play Goals</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Player</td>
-				<td class="auto-style69">Team</td>
-				<td class="auto-style69">PP</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">14 </td>
-				<td class="auto-style72">Joe Theriault</td>
-				<td class="auto-style71"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72">Frank Amaniera</td>
-				<td class="auto-style71"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72">Steve Yankowski</td>
-				<td class="auto-style71"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">43 </td>
-				<td class="auto-style72">Tom Hohorst</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">6 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">16 </td>
-				<td class="auto-style72">Rich Steinel</td>
-				<td class="auto-style71"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">91 </td>
-				<td class="auto-style72">Erick Muse</td>
-				<td class="auto-style71"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">12 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">11 </td>
-				<td class="auto-style72">Mike Vespa</td>
-				<td class="auto-style71"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">5 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td colspan="5" height="18" class="auto-style71">6 players tied with 4</td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="5" height="25">Team Power Play Scoring</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Team</td>
-				<td class="auto-style69">PPG</td>
-				<td class="auto-style69">PPO</td>
-				<td class="auto-style69">%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">1 </td>
-				<td class="auto-style72"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">27 </td>
-				<td class="auto-style71">89 </td>
-				<td class="auto-style71">30%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">23 </td>
-				<td class="auto-style71">93 </td>
-				<td class="auto-style71">25%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">28 </td>
-				<td class="auto-style71">121 </td>
-				<td class="auto-style71">23%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">4 </td>
-				<td class="auto-style72"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">19 </td>
-				<td class="auto-style71">87 </td>
-				<td class="auto-style71">22%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">5 </td>
-				<td class="auto-style72"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">19 </td>
-				<td class="auto-style71">86 </td>
-				<td class="auto-style71">22%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">6 </td>
-				<td class="auto-style72"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">22 </td>
-				<td class="auto-style71">110 </td>
-				<td class="auto-style71">20%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">7 </td>
-				<td class="auto-style72"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">12 </td>
-				<td class="auto-style71">79 </td>
-				<td class="auto-style71">15%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">8 </td>
-				<td class="auto-style72"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">8 </td>
-				<td class="auto-style71">85 </td>
-				<td class="auto-style71">9%</td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="5" height="25">Team Penalty Kill</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Team</td>
-				<td class="auto-style69">PPGA</td>
-				<td class="auto-style69">PPO</td>
-				<td class="auto-style69">%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">1 </td>
-				<td class="auto-style72"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">16 </td>
-				<td class="auto-style71">114 </td>
-				<td class="auto-style71">86%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">13 </td>
-				<td class="auto-style71">88 </td>
-				<td class="auto-style71">85%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">16 </td>
-				<td class="auto-style71">107 </td>
-				<td class="auto-style71">85%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">4 </td>
-				<td class="auto-style72"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">18 </td>
-				<td class="auto-style71">99 </td>
-				<td class="auto-style71">82%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">5 </td>
-				<td class="auto-style72"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">22 </td>
-				<td class="auto-style71">92 </td>
-				<td class="auto-style71">76%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">6 </td>
-				<td class="auto-style72"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">18 </td>
-				<td class="auto-style71">67 </td>
-				<td class="auto-style71">73%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">7 </td>
-				<td class="auto-style72"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">25 </td>
-				<td class="auto-style71">82 </td>
-				<td class="auto-style71">70%</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">8 </td>
-				<td class="auto-style72"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">30 </td>
-				<td class="auto-style71">86 </td>
-				<td class="auto-style71">65%</td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="6" height="25">Team Scoring</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Team</td>
-				<td class="auto-style69">G</td>
-				<td class="auto-style69">A</td>
-				<td class="auto-style69">PTS</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">1 </td>
-				<td class="auto-style72"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">121 </td>
-				<td class="auto-style71">165 </td>
-				<td class="auto-style71">286 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">103 </td>
-				<td class="auto-style71">115 </td>
-				<td class="auto-style71">218 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">95 </td>
-				<td class="auto-style71">107 </td>
-				<td class="auto-style71">202 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">4 </td>
-				<td class="auto-style72"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">88 </td>
-				<td class="auto-style71">88 </td>
-				<td class="auto-style71">176 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">5 </td>
-				<td class="auto-style72"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">73 </td>
-				<td class="auto-style71">101 </td>
-				<td class="auto-style71">174 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">6 </td>
-				<td class="auto-style72"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">69 </td>
-				<td class="auto-style71">68 </td>
-				<td class="auto-style71">137 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">7 </td>
-				<td class="auto-style72"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">70 </td>
-				<td class="auto-style71">70 </td>
-				<td class="auto-style71">115 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">8 </td>
-				<td class="auto-style72"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">41 </td>
-				<td class="auto-style71">40 </td>
-				<td class="auto-style71">81 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-		</table>
-<br/>
-<br/>
-		<table border="0" cellpadding="5" cellspacing="2" class="auto-style74">
-			<tr height="25">
-				<td class="auto-style68" colspan="4" height="25">Team Penalties</td>
-			</tr>
-			<tr height="21">
-				<td class="auto-style69" height="21" style="height: 15.75pt;">#</td>
-				<td class="auto-style70">Team</td>
-				<td class="auto-style69">PIM</td>
-				<td class="auto-style69">GP</td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">1 </td>
-				<td class="auto-style72"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td>
-				<td class="auto-style71">186 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">2 </td>
-				<td class="auto-style72"><a href="/members/columbia-university.shtml">Columbia</a></td>
-				<td class="auto-style71">233 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">3 </td>
-				<td class="auto-style72"><a href="/members/fordham-university.shtml">Fordham</a></td>
-				<td class="auto-style71">250 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">4 </td>
-				<td class="auto-style72"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td>
-				<td class="auto-style71">287 </td>
-				<td class="auto-style71">15 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">5 </td>
-				<td class="auto-style72"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-				<td class="auto-style71">290 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">6 </td>
-				<td class="auto-style72"><a href="/members/maritime-college.shtml">Maritime</a></td>
-				<td class="auto-style71">324 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">7 </td>
-				<td class="auto-style72"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-				<td class="auto-style71">333 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-			<tr height="18" style="height:13.5pt">
-				<td height="18" class="auto-style71">8 </td>
-				<td class="auto-style72"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-				<td class="auto-style71">358 </td>
-				<td class="auto-style71">16 </td>
-			</tr>
-		</table>
+		<!-- MCHC stats include: 'statistics-final-0910.shtml' tab. Generated 2026-11-14 21:25 from Excel values only. -->
+<style>
+.mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
+.mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
+.mchc-stats .mchc-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 auto 1.25rem;max-width:100%}
+.mchc-stats table{border-collapse:collapse;margin:0 auto;width:100%;font-size:.8125rem;line-height:1.3;background:#fff;border:1px solid #344F7C}
+.mchc-stats caption{caption-side:top;background:#344F7C;color:#fff;font-weight:700;text-align:center;padding:.4rem .5rem;font-size:.875rem}
+.mchc-stats th,.mchc-stats td{border:1px solid #b7c3d6;padding:.3rem .45rem;text-align:center;vertical-align:middle;white-space:nowrap}
+.mchc-stats thead th{background:#C9DAF8;color:#1d2f4f;font-weight:700}
+.mchc-stats tbody tr:nth-child(even) td{background:#f3f6fb}
+.mchc-stats tbody tr:hover td{background:#e3ebf8}
+.mchc-stats .mchc-name{text-align:left;white-space:normal;min-width:7.5em}
+.mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
+.mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
+.mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
+@media (max-width:576px){
+ .mchc-stats table{font-size:.75rem}
+ .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
+ .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
+}
+</style>
+<script>
+(function(){if(document.mchcSortReady)return;document.mchcSortReady=1;
+function key(c){var v=c?(c.getAttribute('data-sort')||c.textContent):'';v=v.replace(/\s+/g,' ').trim();
+var n=v.replace(/[%,]/g,'');if(n!==''&&!isNaN(n))return{b:0,n:parseFloat(n),s:v.toLowerCase()};return{b:v===''?1:0,s:v.toLowerCase()};}
+document.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('table.mchc-sortable thead .mchc-sort'):null;if(!b)return;
+var th=b.closest('th'),row=th.parentNode,t=th.closest('table'),tb=t.tBodies[0];if(!tb)return;
+var i=Array.prototype.indexOf.call(row.children,th),rows=Array.prototype.slice.call(tb.rows);
+var ks=rows.map(function(r,j){if(!r.hasAttribute('data-i'))r.setAttribute('data-i',j);return{r:r,k:key(r.cells[i]),o:+r.getAttribute('data-i')};});
+var num=ks.every(function(x){return x.k.b||x.k.n!==undefined;}),cur=th.getAttribute('aria-sort');
+var asc=cur?cur==='descending':(!num||th.hasAttribute('data-asc'));
+ks.sort(function(x,y){if(x.k.b!==y.k.b)return x.k.b-y.k.b;var d=0;
+if(x.k.n!==undefined&&y.k.n!==undefined)d=x.k.n-y.k.n;else d=x.k.s<y.k.s?-1:x.k.s>y.k.s?1:0;
+if(!asc)d=-d;return d||x.o-y.o;});
+ks.forEach(function(x){tb.appendChild(x.r);});
+Array.prototype.forEach.call(t.querySelectorAll('thead th[aria-sort]'),function(h){h.removeAttribute('aria-sort');});
+th.setAttribute('aria-sort',asc?'ascending':'descending');});})();
+</script>
+<div class="mchc-stats">
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Player Scoring Leaders</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Player</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">G</button></th>
+<th scope="col"><button type="button" class="mchc-sort">A</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PTS</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>2</td><td class="mchc-name">Kevin Baum</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>19</td><td>33</td><td>52</td><td>15</td></tr>
+<tr><td>22</td><td class="mchc-name">Christian Cholhan</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>20</td><td>25</td><td>45</td><td>14</td></tr>
+<tr><td>14</td><td class="mchc-name">Ben Waters</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>30</td><td>12</td><td>42</td><td>15</td></tr>
+<tr><td>21</td><td class="mchc-name">George Petronella</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>20</td><td>17</td><td>37</td><td>16</td></tr>
+<tr><td>2</td><td class="mchc-name">Frank Amaniera</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>19</td><td>16</td><td>35</td><td>16</td></tr>
+<tr><td>16</td><td class="mchc-name">Rich Steinel</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>15</td><td>18</td><td>33</td><td>15</td></tr>
+<tr><td>13</td><td class="mchc-name">Andrew McClain</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>19</td><td>14</td><td>33</td><td>14</td></tr>
+<tr><td>8</td><td class="mchc-name">Daniel D&#x27;Onofrio</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>14</td><td>17</td><td>31</td><td>16</td></tr>
+<tr><td>29</td><td class="mchc-name">Gerald Riccardello</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>18</td><td>13</td><td>31</td><td>15</td></tr>
+<tr><td>5</td><td class="mchc-name">Gerald Dolan</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>13</td><td>13</td><td>26</td><td>15</td></tr>
+<tr><td>17</td><td class="mchc-name">Corey Kendelski</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>12</td><td>14</td><td>26</td><td>14</td></tr>
+<tr><td>91</td><td class="mchc-name">Erick Muse</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>15</td><td>10</td><td>25</td><td>12</td></tr>
+<tr><td>71</td><td class="mchc-name">Ryan Dermody</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>12</td><td>13</td><td>25</td><td>15</td></tr>
+<tr><td>10</td><td class="mchc-name">Adam Gould</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>9</td><td>15</td><td>24</td><td>15</td></tr>
+<tr><td>20</td><td class="mchc-name">Dan Tyx</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>11</td><td>12</td><td>23</td><td>16</td></tr>
+<tr><td>16</td><td class="mchc-name">Tom Hohorst</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>16</td><td>7</td><td>23</td><td>16</td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Goaltender Save Percentage Leaders</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Player</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">W</button></th>
+<th scope="col"><button type="button" class="mchc-sort">L</button></th>
+<th scope="col"><button type="button" class="mchc-sort">OTL</button></th>
+<th scope="col"><button type="button" class="mchc-sort">MIN</button></th>
+<th scope="col" data-asc><button type="button" class="mchc-sort">GAA</button></th>
+<th scope="col"><button type="button" class="mchc-sort">SV%</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>41</td><td class="mchc-name">Greg Sobchuk</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>6</td><td>0</td><td>1</td><td>425</td><td>2.12</td><td>.912</td><td>7</td></tr>
+<tr><td>33</td><td class="mchc-name">Craig Hoffman</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>6</td><td>1</td><td>0</td><td>420</td><td>2.14</td><td>.901</td><td>7</td></tr>
+<tr><td>29</td><td class="mchc-name">John Park</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>5</td><td>2</td><td>0</td><td>390</td><td>2.92</td><td>.901</td><td>7</td></tr>
+<tr><td>30</td><td class="mchc-name">Michael Fasulo</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>7</td><td>2</td><td>0</td><td>565</td><td>3.82</td><td>.893</td><td>10</td></tr>
+<tr><td>31</td><td class="mchc-name">Matt Tatarian</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>5</td><td>9</td><td>1</td><td>937</td><td>4.74</td><td>.870</td><td>16</td></tr>
+<tr><td>4</td><td class="mchc-name">Sunil Bhagavath</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>6</td><td>5</td><td>0</td><td>669</td><td>4.75</td><td>.838</td><td>11</td></tr>
+<tr><td>32</td><td class="mchc-name">Todd Scarola</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>6</td><td>3</td><td>1</td><td>647</td><td>4.91</td><td>.872</td><td>11</td></tr>
+<tr><td>50</td><td class="mchc-name">Bob Vala</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>5</td><td>3</td><td>1</td><td>544</td><td>5.63</td><td>.839</td><td>11</td></tr>
+<tr><td>39</td><td class="mchc-name">Justin Bresler</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>2</td><td>6</td><td>1</td><td>545</td><td>6.17</td><td>.876</td><td>9</td></tr>
+<tr><td>39</td><td class="mchc-name">Kamil Szorc</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>3</td><td>6</td><td>0</td><td>627</td><td>8.33</td><td>.822</td><td>12</td></tr>
+</tbody>
+<tfoot><tr><td colspan="10">(Minimum 390 minutes played)</td></tr></tfoot>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Player Penalty Minutes</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Player</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PIM</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>2</td><td class="mchc-name">Richard Deere</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>69</td><td>15</td></tr>
+<tr><td>17</td><td class="mchc-name">Sean Devlin</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>68</td><td>15</td></tr>
+<tr><td>91</td><td class="mchc-name">Erick Muse</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>58</td><td>12</td></tr>
+<tr><td>21</td><td class="mchc-name">Mike Perillo</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>50</td><td>15</td></tr>
+<tr><td>3</td><td class="mchc-name">Steve Yankowski</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>47</td><td>15</td></tr>
+<tr><td>43</td><td class="mchc-name">Tom Hohorst</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>46</td><td>16</td></tr>
+<tr><td>3</td><td class="mchc-name">Greg Dolan</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>45</td><td>12</td></tr>
+<tr><td>16</td><td class="mchc-name">Kevin McMahon</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>44</td><td>13</td></tr>
+<tr><td>13</td><td class="mchc-name">Mirko Palla</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>44</td><td>13</td></tr>
+<tr><td>11</td><td class="mchc-name">Mike Vespa</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>44</td><td>16</td></tr>
+<tr><td>71</td><td class="mchc-name">Ryan Dermody</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>44</td><td>15</td></tr>
+<tr><td>14</td><td class="mchc-name">Brian Zoll</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>40</td><td>15</td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Player Power Play Goals</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Player</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PP</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>14</td><td class="mchc-name">Joe Theriault</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>6</td><td>12</td></tr>
+<tr><td>2</td><td class="mchc-name">Frank Amaniera</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>6</td><td>16</td></tr>
+<tr><td>3</td><td class="mchc-name">Steve Yankowski</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>6</td><td>15</td></tr>
+<tr><td>43</td><td class="mchc-name">Tom Hohorst</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>6</td><td>16</td></tr>
+<tr><td>16</td><td class="mchc-name">Rich Steinel</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>5</td><td>15</td></tr>
+<tr><td>91</td><td class="mchc-name">Erick Muse</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>5</td><td>12</td></tr>
+<tr><td>11</td><td class="mchc-name">Mike Vespa</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>5</td><td>16</td></tr>
+</tbody>
+<tfoot><tr><td colspan="5">6 players tied with 4</td></tr></tfoot>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Team Power Play Scoring</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PPG</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PPO</button></th>
+<th scope="col"><button type="button" class="mchc-sort">%</button></th>
+</tr></thead>
+<tbody>
+<tr><td>1</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>27</td><td>89</td><td>30%</td></tr>
+<tr><td>2</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>23</td><td>93</td><td>25%</td></tr>
+<tr><td>3</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>28</td><td>121</td><td>23%</td></tr>
+<tr><td>4</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>19</td><td>87</td><td>22%</td></tr>
+<tr><td>5</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>19</td><td>86</td><td>22%</td></tr>
+<tr><td>6</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>22</td><td>110</td><td>20%</td></tr>
+<tr><td>7</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>12</td><td>79</td><td>15%</td></tr>
+<tr><td>8</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>8</td><td>85</td><td>9%</td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Team Penalty Kill</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PPGA</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PPO</button></th>
+<th scope="col"><button type="button" class="mchc-sort">%</button></th>
+</tr></thead>
+<tbody>
+<tr><td>1</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>16</td><td>114</td><td>86%</td></tr>
+<tr><td>2</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>13</td><td>88</td><td>85%</td></tr>
+<tr><td>3</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>16</td><td>107</td><td>85%</td></tr>
+<tr><td>4</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>18</td><td>99</td><td>82%</td></tr>
+<tr><td>5</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>22</td><td>92</td><td>76%</td></tr>
+<tr><td>6</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>18</td><td>67</td><td>73%</td></tr>
+<tr><td>7</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>25</td><td>82</td><td>70%</td></tr>
+<tr><td>8</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>30</td><td>86</td><td>65%</td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Team Scoring</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">G</button></th>
+<th scope="col"><button type="button" class="mchc-sort">A</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PTS</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>1</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>121</td><td>165</td><td>286</td><td>16</td></tr>
+<tr><td>2</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>103</td><td>115</td><td>218</td><td>16</td></tr>
+<tr><td>3</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>95</td><td>107</td><td>202</td><td>16</td></tr>
+<tr><td>4</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>88</td><td>88</td><td>176</td><td>16</td></tr>
+<tr><td>5</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>73</td><td>101</td><td>174</td><td>15</td></tr>
+<tr><td>6</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>69</td><td>68</td><td>137</td><td>16</td></tr>
+<tr><td>7</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>70</td><td>70</td><td>115</td><td>16</td></tr>
+<tr><td>8</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>41</td><td>40</td><td>81</td><td>15</td></tr>
+</tbody>
+</table>
+</div>
+<div class="mchc-scroll" style="max-width:60.8em">
+<table class="mchc-sortable">
+<caption>Team Penalties</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PIM</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>1</td><td class="mchc-name"><a href="/members/suny-new-paltz.shtml">New Paltz</a></td><td>186</td><td>15</td></tr>
+<tr><td>2</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>233</td><td>16</td></tr>
+<tr><td>3</td><td class="mchc-name"><a href="/members/fordham-university.shtml">Fordham</a></td><td>250</td><td>16</td></tr>
+<tr><td>4</td><td class="mchc-name"><a href="/members/county-college-of-morris.shtml">C.C.M.</a></td><td>287</td><td>15</td></tr>
+<tr><td>5</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>290</td><td>16</td></tr>
+<tr><td>6</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>324</td><td>16</td></tr>
+<tr><td>7</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>333</td><td>16</td></tr>
+<tr><td>8</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>358</td><td>16</td></tr>
+</tbody>
+</table>
+</div>
+</div>
+
 
 <!--End table imported from old page-->
 
