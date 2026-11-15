@@ -1,588 +1,104 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:x="urn:schemas-microsoft-com:office:excel"
-xmlns="https://www.w3.org/TR/REC-html40">
-
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Excel.Sheet>
-<meta name=Generator content="Microsoft Excel 15">
-
-<!--[if !mso]>
+<!-- MCHC standings include (restyled from the old Excel-published file standings-include-2020.html). Generated 2026-11-14 20:58. -->
 <style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-x\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
+.mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
+.mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
+.mchc-stats .mchc-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 auto 1.25rem;max-width:100%}
+.mchc-stats table{border-collapse:collapse;margin:0 auto;width:100%;font-size:.8125rem;line-height:1.3;background:#fff;border:1px solid #344F7C}
+.mchc-stats caption{caption-side:top;background:#344F7C;color:#fff;font-weight:700;text-align:center;padding:.4rem .5rem;font-size:.875rem}
+.mchc-stats th,.mchc-stats td{border:1px solid #b7c3d6;padding:.3rem .45rem;text-align:center;vertical-align:middle;white-space:nowrap}
+.mchc-stats thead th{background:#C9DAF8;color:#1d2f4f;font-weight:700}
+.mchc-stats tbody tr:nth-child(even) td{background:#f3f6fb}
+.mchc-stats tbody tr:hover td{background:#e3ebf8}
+.mchc-stats .mchc-name{text-align:left;white-space:normal;min-width:7.5em}
+.mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
+.mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
+.mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
+@media (max-width:576px){
+ .mchc-stats table{font-size:.75rem}
+ .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
+ .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
+}
 </style>
-<![endif]-->
-<style><!--table
-	{mso-displayed-decimal-separator:"\.";
-	mso-displayed-thousand-separator:"\,";}
-.xl153713
-	{padding:0px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:bottom;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl633713
-	{padding:0px;
-	mso-ignore:padding;
-	color:black;
-	font-size:11.0pt;
-	font-weight:400;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:bottom;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl643713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl653713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl663713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl673713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl683713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl693713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl703713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:none;
-	border-bottom:none;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl713713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:.5pt solid windowtext;
-	border-right:.5pt solid windowtext;
-	border-bottom:none;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl723713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:.5pt solid windowtext;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl733713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl743713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:none;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl753713
-	{padding:0px;
-	mso-ignore:padding;
-	color:#344f7c;
-	font-size:10.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Arial, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:0;
-	text-align:center;
-	vertical-align:middle;
-	border-top:none;
-	border-right:.5pt solid windowtext;
-	border-bottom:.5pt solid windowtext;
-	border-left:none;
-	mso-background-source:auto;
-	mso-pattern:auto;
-	white-space:nowrap;}
-.xl763713
-	{padding:0px;
-	mso-ignore:padding;
-	color:white;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:bottom;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:1.0pt solid windowtext;
-	background:#344f7c;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl773713
-	{padding:0px;
-	mso-ignore:padding;
-	color: white;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:general;
-	vertical-align:bottom;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;
-	background: #344f7c;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl783713
-	{padding:0px;
-	mso-ignore:padding;
-	color:white;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:bottom;
-	border-top:1.0pt solid windowtext;
-	border-right:none;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;
-	background:#344f7c;
-	mso-pattern:black none;
-	white-space:nowrap;}
-.xl793713
-	{padding:0px;
-	mso-ignore:padding;
-	color:white;
-	font-size:11.0pt;
-	font-weight:700;
-	font-style:normal;
-	text-decoration:none;
-	font-family:Calibri, sans-serif;
-	mso-font-charset:0;
-	mso-number-format:General;
-	text-align:center;
-	vertical-align:bottom;
-	border-top:1.0pt solid windowtext;
-	border-right:1.0pt solid windowtext;
-	border-bottom:1.0pt solid windowtext;
-	border-left:none;
-	background:#344f7c;
-	mso-pattern:black none;
-	white-space:nowrap;}
---></style>
-</head>
-
-<body>
-<!--[if !excel]>&nbsp;&nbsp;<![endif]-->
-<!--The following information was generated by Microsoft Excel's Publish as Web
-Page wizard.-->
-<!--If the same item is republished from Excel, all information between the DIV
-tags will be replaced.-->
-<!----------------------------->
-<!--START OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD -->
-<!----------------------------->
-
-<div align=center>
-
-<table border=0 cellpadding=0 cellspacing=0 width=295 style='border-collapse:
- collapse;table-layout:fixed;width:221pt'>
- <col class=xl633713 width=14 style='mso-width-source:userset;mso-width-alt:
- 512;width:11pt'>
- <col width=80 style='mso-width-source:userset;mso-width-alt:2844;width:60pt'>
- <col class=xl633713 width=28 style='mso-width-source:userset;mso-width-alt:
- 995;width:21pt'>
- <col width=22 span=2 style='mso-width-source:userset;mso-width-alt:768;
- width:16pt'>
- <col width=36 style='mso-width-source:userset;mso-width-alt:1280;width:27pt'>
- <col width=35 style='mso-width-source:userset;mso-width-alt:1251;width:26pt'>
- <col width=29 span=2 style='mso-width-source:userset;mso-width-alt:1024;
- width:22pt'>
- <tr height=25 style='height:18.6pt'>
-  <td height=25 class=xl763713 width=14 style='height:18.6pt;width:11pt'>&nbsp;</td>
-  <td class=xl773713 width=80 style='width:60pt'>Team</td>
-  <td class=xl783713 width=28 style='width:21pt'>G</td>
-  <td class=xl783713 width=22 style='width:16pt'>W</td>
-  <td class=xl783713 width=22 style='width:16pt'>L</td>
-  <td class=xl783713 width=36 style='width:27pt'>OL</td>
-  <td class=xl783713 width=35 style='width:26pt'>Pts</td>
-  <td class=xl783713 width=29 style='width:22pt'>GF</td>
-  <td class=xl793713 width=29 style='width:22pt'>GA</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl723713 style='height:18.0pt'>1</td>
-  <td class=xl733713><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td>
-  <td class=xl743713>12</td>
-  <td class=xl743713>9</td>
-  <td class=xl743713>3</td>
-  <td class=xl743713>0</td>
-  <td class=xl743713>18</td>
-  <td class=xl743713>62</td>
-  <td class=xl753713>47</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl643713 style='height:18.0pt;border-top:none'>2</td>
-  <td class=xl653713 style='border-top:none'><a href="/members/columbia-university.shtml">Columbia</a></td>
-  <td class=xl663713 style='border-top:none'>12</td>
-  <td class=xl663713 style='border-top:none'>8</td>
-  <td class=xl663713 style='border-top:none'>2</td>
-  <td class=xl663713 style='border-top:none'>2</td>
-  <td class=xl663713 style='border-top:none'>18</td>
-  <td class=xl663713 style='border-top:none'>90</td>
-  <td class=xl673713 style='border-top:none'>76</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl683713 style='height:18.0pt;border-top:none'>3</td>
-  <td class=xl693713 style='border-top:none'><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td>
-  <td class=xl703713 style='border-top:none'>12</td>
-  <td class=xl703713 style='border-top:none'>8</td>
-  <td class=xl703713 style='border-top:none'>3</td>
-  <td class=xl703713 style='border-top:none'>1</td>
-  <td class=xl703713 style='border-top:none'>17</td>
-  <td class=xl703713 style='border-top:none'>56</td>
-  <td class=xl713713 style='border-top:none'>50</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl643713 style='height:18.0pt'>4</td>
-  <td class=xl693713><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">USMMA</a></td>
-  <td class=xl663713>12</td>
-  <td class=xl663713>7</td>
-  <td class=xl663713>4</td>
-  <td class=xl663713>1</td>
-  <td class=xl663713>15</td>
-  <td class=xl663713>43</td>
-  <td class=xl673713>43</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl643713 style='height:18.0pt;border-top:none'>5</td>
-  <td class=xl653713><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td>
-  <td class=xl663713 style='border-top:none'>12</td>
-  <td class=xl663713 style='border-top:none'>4</td>
-  <td class=xl663713 style='border-top:none'>4</td>
-  <td class=xl663713 style='border-top:none'>4</td>
-  <td class=xl663713 style='border-top:none'>12</td>
-  <td class=xl663713 style='border-top:none'>54</td>
-  <td class=xl673713 style='border-top:none'>53</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl643713 style='height:18.0pt;border-top:none'>6</td>
-  <td class=xl653713 style='border-top:none'><a href="/members/maritime-college.shtml">Maritime</a></td>
-  <td class=xl663713 style='border-top:none'>12</td>
-  <td class=xl663713 style='border-top:none'>4</td>
-  <td class=xl663713 style='border-top:none'>8</td>
-  <td class=xl663713 style='border-top:none'>0</td>
-  <td class=xl663713 style='border-top:none'>8</td>
-  <td class=xl663713 style='border-top:none'>56</td>
-  <td class=xl673713 style='border-top:none'>67</td>
- </tr>
- <tr height=24 style='mso-height-source:userset;height:18.0pt'>
-  <td height=24 class=xl643713 style='height:18.0pt;border-top:none'>7</td>
-  <td class=xl653713 style='border-top:none'><a href="/members/western-connecticut-state-university.shtml">WestConn</a></td>
-  <td class=xl663713 style='border-top:none'>12</td>
-  <td class=xl663713 style='border-top:none'>2</td>
-  <td class=xl663713 style='border-top:none'>8</td>
-  <td class=xl663713 style='border-top:none'>2</td>
-  <td class=xl663713 style='border-top:none'>6</td>
-  <td class=xl663713 style='border-top:none'>47</td>
-  <td class=xl673713 style='border-top:none'>72</td>
- </tr>
- <![if supportMisalignedColumns]>
- <tr height=0 style='display:none'>
-  <td width=14 style='width:11pt'></td>
-  <td width=80 style='width:60pt'></td>
-  <td width=28 style='width:21pt'></td>
-  <td width=22 style='width:16pt'></td>
-  <td width=22 style='width:16pt'></td>
-  <td width=36 style='width:27pt'></td>
-  <td width=35 style='width:26pt'></td>
-  <td width=29 style='width:22pt'></td>
-  <td width=29 style='width:22pt'></td>
- </tr>
- <![endif]>
+<style>
+.mchc-results thead th{background:#344F7C;color:#fff}
+.mchc-results td.mchc-score{font-weight:700;min-width:1.8em}
+.mchc-results td.mchc-ot{color:#344F7C;font-weight:700;min-width:1em}
+.mchc-results td.mchc-date{white-space:nowrap}
+.mchc-results tbody tr.mchc-upcoming td{color:#555}
+.mchc-results tfoot td{text-align:left}
+.mchc-results .mchc-teamcol{text-align:center !important;white-space:nowrap}
+.mchc-results a.mchc-team{display:inline-flex;align-items:center;gap:.45rem;vertical-align:middle}
+.mchc-results a.mchc-team img{width:30px;height:30px;object-fit:contain;flex:none;border:0}
+.mchc-results:not(.mchc-standings) tbody td{padding-top:.35rem;padding-bottom:.35rem}
+.mchc-results td.mchc-goals{font-size:30px;line-height:1;min-width:1.4em}
+.mchc-stats.mchc-results .mchc-goals{border-left-style:hidden}
+@media (max-width:360px){.mchc-stats.mchc-results td.mchc-goals{font-size:22px;min-width:0}.mchc-stats.mchc-results:not(.mchc-standings) th,.mchc-stats.mchc-results:not(.mchc-standings) td{padding-left:.1rem;padding-right:.1rem}}
+@media (max-width:576px){
+ .mchc-results table{font-size:.72rem}
+ .mchc-results th,.mchc-results td{padding:.25rem .2rem}
+ .mchc-results .mchc-name{min-width:0;white-space:normal}
+ .mchc-results td.mchc-score{min-width:1.4em}
+ .mchc-results .mchc-teamcol{white-space:normal}
+ .mchc-results a.mchc-team{flex-direction:column;gap:.15rem;line-height:1.15}
+}
+.mchc-stats .mchc-notice{display:block;max-width:30em;margin:0 auto 1.25rem;padding:.45rem .6rem;background:#344F7C;color:#fff;font-weight:700;font-style:italic;text-align:center !important}
+.mchc-standings tfoot td{text-align:center !important;font-style:normal;color:#212529}
+.mchc-standings tfoot td.mchc-note{font-style:italic;color:#444}
+.mchc-stats .mchc-btnrow{display:block;width:100%;text-align:center !important;margin:0 auto 1.25rem}
+.mchc-summary table{font-size:.8125rem}
+.mchc-summary thead th{background:#344F7C;color:#fff;font-weight:700}
+.mchc-stats.mchc-summary thead th.mchc-key{text-align:right}
+.mchc-stats.mchc-summary thead th.mchc-val{text-align:left}
+.mchc-summary td.mchc-num{text-align:right}
+.mchc-summary td.mchc-lbl{text-align:left}
+</style>
+<script>
+(function(){if(document.mchcSortReady)return;document.mchcSortReady=1;
+function key(c){var v=c?(c.getAttribute('data-sort')||c.textContent):'';v=v.replace(/\s+/g,' ').trim();
+var n=v.replace(/[%,]/g,'');if(n!==''&&!isNaN(n))return{b:0,n:parseFloat(n),s:v.toLowerCase()};return{b:v===''?1:0,s:v.toLowerCase()};}
+document.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('table.mchc-sortable thead .mchc-sort'):null;if(!b)return;
+var th=b.closest('th'),row=th.parentNode,t=th.closest('table'),tb=t.tBodies[0];if(!tb)return;
+var i=Array.prototype.indexOf.call(row.children,th),rows=Array.prototype.slice.call(tb.rows);
+var ks=rows.map(function(r,j){if(!r.hasAttribute('data-i'))r.setAttribute('data-i',j);return{r:r,k:key(r.cells[i]),o:+r.getAttribute('data-i')};});
+var num=ks.every(function(x){return x.k.b||x.k.n!==undefined;}),cur=th.getAttribute('aria-sort');
+var asc=cur?cur==='descending':(!num||th.hasAttribute('data-asc'));
+ks.sort(function(x,y){if(x.k.b!==y.k.b)return x.k.b-y.k.b;var d=0;
+if(x.k.n!==undefined&&y.k.n!==undefined)d=x.k.n-y.k.n;else d=x.k.s<y.k.s?-1:x.k.s>y.k.s?1:0;
+if(!asc)d=-d;return d||x.o-y.o;});
+ks.forEach(function(x){tb.appendChild(x.r);});
+Array.prototype.forEach.call(t.querySelectorAll('thead th[aria-sort]'),function(h){h.removeAttribute('aria-sort');});
+th.setAttribute('aria-sort',asc?'ascending':'descending');});})();
+</script>
+<div class="mchc-stats mchc-results mchc-standings">
+<div class="mchc-scroll" style="max-width:34em">
+<table class="mchc-sortable">
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">G</button></th>
+<th scope="col"><button type="button" class="mchc-sort">W</button></th>
+<th scope="col"><button type="button" class="mchc-sort">L</button></th>
+<th scope="col"><button type="button" class="mchc-sort">OL</button></th>
+<th scope="col"><button type="button" class="mchc-sort">Pts</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GF</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GA</button></th>
+</tr></thead><tbody>
+<tr><td>1</td><td class="mchc-name"><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>12</td><td>9</td><td>3</td><td>0</td><td class="mchc-score">18</td><td>62</td><td>47</td></tr>
+<tr><td>2</td><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>12</td><td>8</td><td>2</td><td>2</td><td class="mchc-score">18</td><td>90</td><td>76</td></tr>
+<tr><td>3</td><td class="mchc-name"><a href="/members/suffolk-county-community-college.shtml">Suffolk</a></td><td>12</td><td>8</td><td>3</td><td>1</td><td class="mchc-score">17</td><td>56</td><td>50</td></tr>
+<tr><td>4</td><td class="mchc-name"><a href="/members/united-states-merchant-marine-academy-at-kings-point.shtml">USMMA</a></td><td>12</td><td>7</td><td>4</td><td>1</td><td class="mchc-score">15</td><td>43</td><td>43</td></tr>
+<tr><td>5</td><td class="mchc-name"><a href="/members/stevens-institute-of-technology.shtml">Stevens</a></td><td>12</td><td>4</td><td>4</td><td>4</td><td class="mchc-score">12</td><td>54</td><td>53</td></tr>
+<tr><td>6</td><td class="mchc-name"><a href="/members/maritime-college.shtml">Maritime</a></td><td>12</td><td>4</td><td>8</td><td>0</td><td class="mchc-score">8</td><td>56</td><td>67</td></tr>
+<tr><td>7</td><td class="mchc-name"><a href="/members/western-connecticut-state-university.shtml">WestConn</a></td><td>12</td><td>2</td><td>8</td><td>2</td><td class="mchc-score">6</td><td>47</td><td>72</td></tr>
+</tbody>
 </table>
-
 </div>
-
-
-<!----------------------------->
-<!--END OF OUTPUT FROM EXCEL PUBLISH AS WEB PAGE WIZARD-->
-<!----------------------------->
-</body>
-
-</html>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<p class="mchc-btnrow"><a class="btn btn-secondary" href="/results/results-2020.shtml" role="button">2019-20 Results</a></p>
+</div>
