@@ -1,4 +1,4 @@
-<!-- MCHC results include: season summary from 'Old Results'. Generated 2026-11-14 14:36 from Excel values only. -->
+<!-- MCHC results include: season summary from 'Old Results'. Generated 2026-11-14 19:17 from Excel values only. -->
 <style>
 .mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
 .mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
@@ -13,10 +13,17 @@
 .mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
 .mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
 .mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
 @media (max-width:576px){
  .mchc-stats table{font-size:.75rem}
  .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
  .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
 }
 </style>
 <style>
@@ -26,18 +33,29 @@
 .mchc-results td.mchc-date{white-space:nowrap}
 .mchc-results tbody tr.mchc-upcoming td{color:#555}
 .mchc-results tfoot td{text-align:left}
+.mchc-results .mchc-teamcol{text-align:center !important;white-space:nowrap}
+.mchc-results a.mchc-team{display:inline-flex;align-items:center;gap:.45rem;vertical-align:middle}
+.mchc-results a.mchc-team img{width:30px;height:30px;object-fit:contain;flex:none;border:0}
+.mchc-results:not(.mchc-standings) tbody td{padding-top:.35rem;padding-bottom:.35rem}
+.mchc-results td.mchc-goals{font-size:30px;line-height:1;min-width:1.4em}
+.mchc-stats.mchc-results .mchc-goals{border-left-style:hidden}
+@media (max-width:360px){.mchc-stats.mchc-results td.mchc-goals{font-size:22px;min-width:0}.mchc-stats.mchc-results:not(.mchc-standings) th,.mchc-stats.mchc-results:not(.mchc-standings) td{padding-left:.1rem;padding-right:.1rem}}
 @media (max-width:576px){
  .mchc-results table{font-size:.72rem}
  .mchc-results th,.mchc-results td{padding:.25rem .2rem}
  .mchc-results .mchc-name{min-width:0;white-space:normal}
  .mchc-results td.mchc-score{min-width:1.4em}
+ .mchc-results .mchc-teamcol{white-space:normal}
+ .mchc-results a.mchc-team{flex-direction:column;gap:.15rem;line-height:1.15}
 }
 .mchc-stats .mchc-notice{display:block;max-width:30em;margin:0 auto 1.25rem;padding:.45rem .6rem;background:#344F7C;color:#fff;font-weight:700;font-style:italic;text-align:center !important}
 .mchc-standings tfoot td{text-align:center !important;font-style:normal;color:#212529}
 .mchc-standings tfoot td.mchc-note{font-style:italic;color:#444}
+.mchc-stats .mchc-btnrow{display:block;width:100%;text-align:center !important;margin:0 auto 1.25rem}
 .mchc-summary table{font-size:.8125rem}
-.mchc-summary thead th{background:#344F7C;color:#fff;text-align:left;font-weight:700}
-.mchc-summary thead th.mchc-num{text-align:right}
+.mchc-summary thead th{background:#344F7C;color:#fff;font-weight:700}
+.mchc-stats.mchc-summary thead th.mchc-key{text-align:right}
+.mchc-stats.mchc-summary thead th.mchc-val{text-align:left}
 .mchc-summary td.mchc-num{text-align:right}
 .mchc-summary td.mchc-lbl{text-align:left}
 </style>
@@ -45,8 +63,8 @@
 <div class="mchc-scroll" style="max-width:20em">
 <table>
 <thead>
-<tr><th scope="row" colspan="2">Total Games Scheduled:</th><th class="mchc-num" colspan="2">42</th></tr>
-<tr><th scope="row" colspan="2">Games Played:</th><th class="mchc-num" colspan="2">15</th></tr>
+<tr><th scope="row" class="mchc-key" colspan="2">Total Games Scheduled:</th><th class="mchc-val" colspan="2">42</th></tr>
+<tr><th scope="row" class="mchc-key" colspan="2">Games Played:</th><th class="mchc-val" colspan="2">15</th></tr>
 </thead><tbody>
 <tr><td class="mchc-num">1</td><td class="mchc-lbl">Goal Differential</td><td class="mchc-num">4</td><td class="mchc-num">26.67%</td></tr>
 <tr><td class="mchc-num">2</td><td class="mchc-lbl">Goal Differential</td><td class="mchc-num">0</td><td class="mchc-num">0.00%</td></tr>

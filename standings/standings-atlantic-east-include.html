@@ -1,4 +1,4 @@
-<!-- MCHC standings include from 'Standings'. Generated 2026-11-14 14:36 from Excel values only. -->
+<!-- MCHC standings include from 'Standings'. Generated 2026-11-14 19:17 from Excel values only. -->
 <style>
 .mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
 .mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
@@ -13,10 +13,17 @@
 .mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
 .mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
 .mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
 @media (max-width:576px){
  .mchc-stats table{font-size:.75rem}
  .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
  .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
 }
 </style>
 <style>
@@ -26,33 +33,61 @@
 .mchc-results td.mchc-date{white-space:nowrap}
 .mchc-results tbody tr.mchc-upcoming td{color:#555}
 .mchc-results tfoot td{text-align:left}
+.mchc-results .mchc-teamcol{text-align:center !important;white-space:nowrap}
+.mchc-results a.mchc-team{display:inline-flex;align-items:center;gap:.45rem;vertical-align:middle}
+.mchc-results a.mchc-team img{width:30px;height:30px;object-fit:contain;flex:none;border:0}
+.mchc-results:not(.mchc-standings) tbody td{padding-top:.35rem;padding-bottom:.35rem}
+.mchc-results td.mchc-goals{font-size:30px;line-height:1;min-width:1.4em}
+.mchc-stats.mchc-results .mchc-goals{border-left-style:hidden}
+@media (max-width:360px){.mchc-stats.mchc-results td.mchc-goals{font-size:22px;min-width:0}.mchc-stats.mchc-results:not(.mchc-standings) th,.mchc-stats.mchc-results:not(.mchc-standings) td{padding-left:.1rem;padding-right:.1rem}}
 @media (max-width:576px){
  .mchc-results table{font-size:.72rem}
  .mchc-results th,.mchc-results td{padding:.25rem .2rem}
  .mchc-results .mchc-name{min-width:0;white-space:normal}
  .mchc-results td.mchc-score{min-width:1.4em}
+ .mchc-results .mchc-teamcol{white-space:normal}
+ .mchc-results a.mchc-team{flex-direction:column;gap:.15rem;line-height:1.15}
 }
 .mchc-stats .mchc-notice{display:block;max-width:30em;margin:0 auto 1.25rem;padding:.45rem .6rem;background:#344F7C;color:#fff;font-weight:700;font-style:italic;text-align:center !important}
 .mchc-standings tfoot td{text-align:center !important;font-style:normal;color:#212529}
 .mchc-standings tfoot td.mchc-note{font-style:italic;color:#444}
+.mchc-stats .mchc-btnrow{display:block;width:100%;text-align:center !important;margin:0 auto 1.25rem}
 .mchc-summary table{font-size:.8125rem}
-.mchc-summary thead th{background:#344F7C;color:#fff;text-align:left;font-weight:700}
-.mchc-summary thead th.mchc-num{text-align:right}
+.mchc-summary thead th{background:#344F7C;color:#fff;font-weight:700}
+.mchc-stats.mchc-summary thead th.mchc-key{text-align:right}
+.mchc-stats.mchc-summary thead th.mchc-val{text-align:left}
 .mchc-summary td.mchc-num{text-align:right}
 .mchc-summary td.mchc-lbl{text-align:left}
 </style>
+<script>
+(function(){if(document.mchcSortReady)return;document.mchcSortReady=1;
+function key(c){var v=c?(c.getAttribute('data-sort')||c.textContent):'';v=v.replace(/\s+/g,' ').trim();
+var n=v.replace(/[%,]/g,'');if(n!==''&&!isNaN(n))return{b:0,n:parseFloat(n),s:v.toLowerCase()};return{b:v===''?1:0,s:v.toLowerCase()};}
+document.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('table.mchc-sortable thead .mchc-sort'):null;if(!b)return;
+var th=b.closest('th'),row=th.parentNode,t=th.closest('table'),tb=t.tBodies[0];if(!tb)return;
+var i=Array.prototype.indexOf.call(row.children,th),rows=Array.prototype.slice.call(tb.rows);
+var ks=rows.map(function(r,j){if(!r.hasAttribute('data-i'))r.setAttribute('data-i',j);return{r:r,k:key(r.cells[i]),o:+r.getAttribute('data-i')};});
+var num=ks.every(function(x){return x.k.b||x.k.n!==undefined;}),cur=th.getAttribute('aria-sort');
+var asc=cur?cur==='descending':(!num||th.hasAttribute('data-asc'));
+ks.sort(function(x,y){if(x.k.b!==y.k.b)return x.k.b-y.k.b;var d=0;
+if(x.k.n!==undefined&&y.k.n!==undefined)d=x.k.n-y.k.n;else d=x.k.s<y.k.s?-1:x.k.s>y.k.s?1:0;
+if(!asc)d=-d;return d||x.o-y.o;});
+ks.forEach(function(x){tb.appendChild(x.r);});
+Array.prototype.forEach.call(t.querySelectorAll('thead th[aria-sort]'),function(h){h.removeAttribute('aria-sort');});
+th.setAttribute('aria-sort',asc?'ascending':'descending');});})();
+</script>
 <div class="mchc-stats mchc-results mchc-standings">
-<div class="mchc-scroll" style="max-width:24em">
-<table>
+<div class="mchc-scroll" style="max-width:30em">
+<table class="mchc-sortable">
 <thead><tr>
-<th scope="col" class="mchc-name">Team</th>
-<th scope="col">GP</th>
-<th scope="col">W</th>
-<th scope="col">L</th>
-<th scope="col">OL</th>
-<th scope="col">Pts</th>
-<th scope="col">GF</th>
-<th scope="col">GA</th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+<th scope="col"><button type="button" class="mchc-sort">W</button></th>
+<th scope="col"><button type="button" class="mchc-sort">L</button></th>
+<th scope="col"><button type="button" class="mchc-sort">OL</button></th>
+<th scope="col"><button type="button" class="mchc-sort">Pts</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GF</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GA</button></th>
 </tr></thead><tbody>
 <tr><td class="mchc-name"><a href="/members/hofstra-university.shtml">Hofstra</a></td><td>8</td><td>6</td><td>2</td><td>0</td><td class="mchc-score">12</td><td>61</td><td>39</td></tr>
 <tr><td class="mchc-name"><a href="/members/columbia-university.shtml">Columbia</a></td><td>4</td><td>4</td><td>0</td><td>0</td><td class="mchc-score">8</td><td>42</td><td>13</td></tr>
@@ -65,4 +100,5 @@
 <tfoot><tr><td colspan="8" class="mchc-asof-row"><strong>Standings as of: 11/14/2026</strong></td></tr><tr><td colspan="8" class="mchc-note">12-Game Season;<br>Top 3 Teams Qualify for Playoffs;<br>1st Place Team Qualifies for Metropolitan Division Playoffs</td></tr></tfoot>
 </table>
 </div>
+<p class="mchc-btnrow"><a class="btn btn-secondary" href="/results/index-atlantic-east.shtml" role="button">Atlantic East Results</a></p>
 </div>
