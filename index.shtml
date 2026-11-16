@@ -91,55 +91,6 @@
     <!--iframe src="https://www.youtube.com/embed/FSmR3w5NewE?si=5n7KkmKumKfs5Wsh" frameborder="0"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div-->
     <!--/div-->
 
-    <!-- Hide Carousel during off-season, NEEDS TO BE FIXED TO ALLOW FOR PROPER SCALING OF IMAGES
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
-    <ol class="carousel-indicators">
-      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-      <li data-target="#myCarousel" data-slide-to="1"></li>
-      <li data-target="#myCarousel" data-slide-to="2"></li>
-    </ol>
-    <div class="carousel-inner">
-      <div class="carousel-item active">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-        <div class="container">
-          <div class="carousel-caption">
-            <h3>2019 MCHC Champions</h3>
-            <p><a href="/fordhamhockey/champs-2019.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureChampionshipGame_home.jpg" border="0" alt="2019 MCHC Champion Fordham Rams" title="2019 MCHC Champion Fordham Rams"></a></p>
-            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/fordhamhockey/champs-2019.shtml" role="button">Visit 2019 Champs Section</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-        <div class="container">
-          <div class="carousel-caption">
-            <h3>2018-19 Fordham Rams</h3>
-            <p><a href="/alumni/2019FordhamHockeyTeamPicture.shtml"><img src="/images/team/2019FordhamHockeyTeamPicture_home.jpg" border="0" alt="2018-19 Fordham Rams" title="2018-19 Fordham Rams"></a></p>
-            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPicture.shtml" role="button">View in Gallery</a></p>
-          </div>
-        </div>
-      </div>
-      <div class="carousel-item">
-        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
-        <div class="container">
-          <div class="carousel-caption">
-            <h3>Class of 2019</h3>
-            <p><a href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml"><img src="/images/team/2019FordhamHockeyTeamPictureSeniors_home.jpg" border="0" alt="Fordham Rams Class of 2019" title="Fordham Rams Class of 2019"></a></p>
-            <p class="text-align-center"><a class="btn btn-lg btn-primary" href="/alumni/2019FordhamHockeyTeamPictureSeniors.shtml" role="button">View in Gallery</a></p>
-          </div>
-        </div>
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
-  </div-->
-    <!--End hide carousel during off-season-->
 
 
     <!-- Marketing messaging and featurettes
@@ -161,8 +112,6 @@
 
         <!--Begin Left Column-->
         <div class="col-lg-4">
-          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-          <!--hr-->
 
           <div class="round-border">
             <h3>Watch Games Live</h3>
@@ -210,29 +159,12 @@
             
           </div>
 
-          <div class="round-border">
-            <h3>Coaches</h3>
-            <p>Submit Scores and Download Forms<br />(Login Required)</p>
-            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
-          </div>
-
-
-          <!--a id="ACHARankings"></a>
-        <div class="round-border">
-        <h3>ACHA D3 Rankings</h3>
-        <p class="text-align-center"><i>Final Ranking (Feb. 21, 2020)</i></p>
-		<p><img src="/images/mchc/acha-standings.png" alt="ACHA Standings" title="ACHA Standings" /></p>
-        <p><a class="btn btn-secondary" target="_blank" href="http://achahockey.org/view/achahockey/divisions/men-s-d3/mens-division-3-rankings-2019-20" role="button">D3 Rankings 2019-20</a></p>
-		<p><a class="btn btn-secondary" href="/mchc/acha-all-atlantic-region-team.shtml" role="button">All Atlantic Region Team</a></p>
-		</div-->
 
         </div><!-- /.col-lg-4 -->
 
         <!--Begin Center Column-->
 
         <div class="col-lg-4">
-          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-          <!--hr-->
 
           <!-- ############## HIDE SCHEDULE IN OFF-SEASON ############## -->
           <div class="round-border">
@@ -267,28 +199,21 @@
           </div>
 
           <div class="round-border">
-            <h3>Recruits</h3>
-            <p>Submit Recruitment Form to Schools</p>
-            <p><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfNzguNahPUmNAECKFZrn6me32kveILORf5Y9XCa9-h2rPEaw/viewform" role="button" target="_blank">Launch Form</a></p>
+            <h3>Coaches</h3>
+            <p>Submit Scores and Download Forms<br />(Login Required)</p>
+            <p><a class="btn btn-secondary" href="/CoachesOnly.shtml" role="button">Go</a></p>
           </div>
 
           <div class="round-border">
-            <h3>News</h3>
-            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
-              for the MCHC. Follow us for League News, Scores, and Updates.</p>
-
-            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
-
-            <a class="twitter-timeline" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a>
-            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+            <h3>Recruits</h3>
+            <p>Submit Recruitment Form to Schools</p>
+            <p><a class="btn btn-secondary" href="https://docs.google.com/forms/d/e/1FAIpQLSfNzguNahPUmNAECKFZrn6me32kveILORf5Y9XCa9-h2rPEaw/viewform" role="button" target="_blank">Launch Form</a></p>
           </div>
 
         </div><!-- /.col-lg-4 -->
 
         <!--Begin Right Column-->
         <div class="col-lg-4">
-          <!--svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="https://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" focusable="false" role="img" aria-label="Placeholder: 140x140"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg-->
-          <!--hr-->
 
           <!--div class="round-border">
             <h3>National Tourney</h3>
@@ -350,14 +275,14 @@
             <h5>October 2026</h5>
             <h5>Metropolitan</h5>
             <p style="font-size:16px">
-              <b>Nick Delia</b><br />
+              <b>Nick Delia</b><br /><img src="/images/acha-team-icons/stac.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="//st-thomas-aquinas-college.shtml">STAC</a><br>
               3 G, 5 A, 8 PTS<br>
               1 PPG, 1 GWG<br>
               2 Games Played
             </p>
             <p style="font-size:16px">
-              <b>Nico Lamono</b><br />
+              <b>Nico Lamono</b><br /><img src="/images/acha-team-icons/fordham.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="/members/fordham-university.shtml">Fordham</a><br>
               3-0<br>
               .898&nbsp;SV%<br>
@@ -365,14 +290,14 @@
             </p>
             <h5>Atlantic East</h5>
             <p style="font-size:16px">
-              <b>Nico Buglione</b><br />
+              <b>Nico Buglione</b><br /><img src="/images/acha-team-icons/hofstra.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="/members/hofstra-university.shtml">Hofstra</a><br>
               16 G, 10 A, 26 PTS<br>
                 3 PPG, 4 GWG<br>
               6 Games Played
             </p>
             <p style="font-size:16px">
-              <b>Frank Boal</b><br />
+              <b>Frank Boal</b><br /><img src="/images/acha-team-icons/columbia.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="/members/columbia-university.shtml">Columbia</a><br>
               2-0<br>
               .933&nbsp;SV%<br>
@@ -380,14 +305,14 @@
             </p>
             <h5>Atlantic West</h5>
             <p style="font-size:16px">
-              <b>Noah Bergin</b><br />
+              <b>Noah Bergin</b><br /><img src="/images/acha-team-icons/njit.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="/members/new-jersey-institute-of-technology.shtml">NJIT</a><br>
               3 G, 7 A, 10 PTS<br>
                 3 PPG, 1 GWG<br>
               4 Games Played
             </p>
             <p style="font-size:16px">
-              <b>Matthew Shrader</b><br />
+              <b>Matthew Shrader</b><br /><img src="/images/acha-team-icons/tcnj.png" alt="" width="30" height="30" style="vertical-align:middle; height:30px; width:30px;">
               <a href="/members/the-college-of-new-jersey.shtml">TCNJ</a><br>
               4-1<br>
               .947&nbsp;SV%<br>
@@ -396,7 +321,18 @@
             <p><a class="btn btn-secondary" href="/mchc/player-of-the-month.shtml" role="button">View All</a></p>
           </div>
 
-        <!--div class="round-border">
+          <div class="round-border">
+            <h3>News</h3>
+            <p><a href="https://twitter.com/methockey" target="_blank">@methockey</a> is the Official Twitter Account
+              for the MCHC. Follow us for League News, Scores, and Updates.</p>
+
+            <p><i>Please log in to Twitter (from your browser) to view the feed.</i></p>
+
+            <a class="twitter-timeline" href="https://twitter.com/methockey?ref_src=twsrc%5Etfw">Tweets by methockey</a>
+            <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+          </div>
+
+          <!--div class="round-border">
             <h3>Playoffs '26</h3>
             <iframe width="275" height="169" src="https://www.youtube.com/embed/pxpnO-0Lpj4?si=KDRLv5S9zClZuhF5"
               title="YouTube video player" frameborder="0"
