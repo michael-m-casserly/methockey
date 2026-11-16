@@ -1,0 +1,75 @@
+<!-- MCHC stats include: 'Player Scoring' tab. Generated 2026-11-14 15:05 from Excel values only. -->
+<style>
+.mchc-stats{font-family:Verdana,Geneva,sans-serif;color:#212529;margin:0 auto 1.75rem;max-width:100%;text-align:center}
+.mchc-stats .mchc-asof{display:block;width:100%;text-align:center !important;font-family:Verdana,Geneva,sans-serif;font-weight:700;font-size:.85rem;color:#344F7C;margin:0 0 1rem;line-height:1.4}
+.mchc-stats .mchc-scroll{overflow-x:auto;-webkit-overflow-scrolling:touch;margin:0 auto 1.25rem;max-width:100%}
+.mchc-stats table{border-collapse:collapse;margin:0 auto;width:100%;font-size:.8125rem;line-height:1.3;background:#fff;border:1px solid #344F7C}
+.mchc-stats caption{caption-side:top;background:#344F7C;color:#fff;font-weight:700;text-align:center;padding:.4rem .5rem;font-size:.875rem}
+.mchc-stats th,.mchc-stats td{border:1px solid #b7c3d6;padding:.3rem .45rem;text-align:center;vertical-align:middle;white-space:nowrap}
+.mchc-stats thead th{background:#C9DAF8;color:#1d2f4f;font-weight:700}
+.mchc-stats tbody tr:nth-child(even) td{background:#f3f6fb}
+.mchc-stats tbody tr:hover td{background:#e3ebf8}
+.mchc-stats .mchc-name{text-align:left;white-space:normal;min-width:7.5em}
+.mchc-stats td a{color:#0b5ed7;text-decoration:none;font-weight:600}
+.mchc-stats td a:hover,.mchc-stats td a:focus{color:#344F7C;text-decoration:underline}
+.mchc-stats tfoot td{font-size:.75rem;font-style:italic;color:#444;background:#fff;white-space:normal}
+.mchc-stats .mchc-sort{background:none;border:0;padding:0;margin:0;font:inherit;color:inherit;cursor:pointer;text-align:inherit;line-height:inherit;white-space:nowrap}
+.mchc-stats .mchc-sort::after{content:"\00a0\2195";opacity:.4;font-size:.85em}
+.mchc-stats th[aria-sort=ascending] .mchc-sort::after{content:"\00a0\25B2";opacity:1}
+.mchc-stats th[aria-sort=descending] .mchc-sort::after{content:"\00a0\25BC";opacity:1}
+.mchc-stats .mchc-sort:hover{text-decoration:underline}
+.mchc-stats .mchc-sort:focus-visible{outline:2px solid #0b5ed7;outline-offset:2px}
+@media (max-width:576px){
+ .mchc-stats table{font-size:.75rem}
+ .mchc-stats th,.mchc-stats td{padding:.28rem .3rem}
+ .mchc-stats .mchc-name{min-width:6.5em}
+ .mchc-stats th:not([aria-sort]) .mchc-sort::after{content:none}
+}
+</style>
+<script>
+(function(){if(document.mchcSortReady)return;document.mchcSortReady=1;
+function key(c){var v=c?(c.getAttribute('data-sort')||c.textContent):'';v=v.replace(/\s+/g,' ').trim();
+var n=v.replace(/[%,]/g,'');if(n!==''&&!isNaN(n))return{b:0,n:parseFloat(n),s:v.toLowerCase()};return{b:v===''?1:0,s:v.toLowerCase()};}
+document.addEventListener('click',function(e){var b=e.target&&e.target.closest?e.target.closest('table.mchc-sortable thead .mchc-sort'):null;if(!b)return;
+var th=b.closest('th'),row=th.parentNode,t=th.closest('table'),tb=t.tBodies[0];if(!tb)return;
+var i=Array.prototype.indexOf.call(row.children,th),rows=Array.prototype.slice.call(tb.rows);
+var ks=rows.map(function(r,j){if(!r.hasAttribute('data-i'))r.setAttribute('data-i',j);return{r:r,k:key(r.cells[i]),o:+r.getAttribute('data-i')};});
+var num=ks.every(function(x){return x.k.b||x.k.n!==undefined;}),cur=th.getAttribute('aria-sort');
+var asc=cur?cur==='descending':(!num||th.hasAttribute('data-asc'));
+ks.sort(function(x,y){if(x.k.b!==y.k.b)return x.k.b-y.k.b;var d=0;
+if(x.k.n!==undefined&&y.k.n!==undefined)d=x.k.n-y.k.n;else d=x.k.s<y.k.s?-1:x.k.s>y.k.s?1:0;
+if(!asc)d=-d;return d||x.o-y.o;});
+ks.forEach(function(x){tb.appendChild(x.r);});
+Array.prototype.forEach.call(t.querySelectorAll('thead th[aria-sort]'),function(h){h.removeAttribute('aria-sort');});
+th.setAttribute('aria-sort',asc?'ascending':'descending');});})();
+</script>
+<div class="mchc-stats">
+<p class="mchc-asof">Stats as of:<br>11/11/2026</p>
+<div class="mchc-scroll" style="max-width:39.6em">
+<table class="mchc-sortable">
+<caption>Player Scoring Leaders</caption>
+<thead><tr>
+<th scope="col" data-asc><button type="button" class="mchc-sort">#</button></th>
+<th scope="col" class="mchc-name" data-asc><button type="button" class="mchc-sort">Player</button></th>
+<th scope="col" data-asc><button type="button" class="mchc-sort">Team</button></th>
+<th scope="col"><button type="button" class="mchc-sort">G</button></th>
+<th scope="col"><button type="button" class="mchc-sort">A</button></th>
+<th scope="col"><button type="button" class="mchc-sort">PTS</button></th>
+<th scope="col"><button type="button" class="mchc-sort">GP</button></th>
+</tr></thead>
+<tbody>
+<tr><td>12</td><td class="mchc-name">Nick Delia</td><td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>3</td><td>5</td><td>8</td><td>2</td></tr>
+<tr><td>20</td><td class="mchc-name">Christopher Smith</td><td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>4</td><td>3</td><td>7</td><td>2</td></tr>
+<tr><td>28</td><td class="mchc-name">Brady Marazalek</td><td><a href="/members/sacred-heart-university.shtml">SHU</a></td><td>4</td><td>3</td><td>7</td><td>3</td></tr>
+<tr><td>28</td><td class="mchc-name">Joseph Ryan</td><td><a href="/members/fairfield-university.shtml">FF</a></td><td>6</td><td>1</td><td>7</td><td>3</td></tr>
+<tr><td>27</td><td class="mchc-name">Andrew Fenninger</td><td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>1</td><td>5</td><td>6</td><td>2</td></tr>
+<tr><td>11</td><td class="mchc-name">Jack Holowachuk</td><td><a href="/members/st-thomas-aquinas-college.shtml">STAC</a></td><td>2</td><td>4</td><td>6</td><td>2</td></tr>
+<tr><td>7</td><td class="mchc-name">Mateo Nunag</td><td><a href="/members/rutgers-university.shtml">RU</a></td><td>2</td><td>4</td><td>6</td><td>4</td></tr>
+<tr><td>26</td><td class="mchc-name">Brian Murray</td><td><a href="/members/fairfield-university.shtml">FF</a></td><td>1</td><td>5</td><td>6</td><td>4</td></tr>
+<tr><td>27</td><td class="mchc-name">Colin Foley</td><td><a href="/members/fairfield-university.shtml">FF</a></td><td>3</td><td>3</td><td>6</td><td>4</td></tr>
+<tr><td>10</td><td class="mchc-name">Luke Lowe</td><td><a href="/members/fordham-university.shtml">FU</a></td><td>2</td><td>4</td><td>6</td><td>6</td></tr>
+<tr><td>15</td><td class="mchc-name">Rory Gunn</td><td><a href="/members/fordham-university.shtml">FU</a></td><td>3</td><td>3</td><td>6</td><td>6</td></tr>
+</tbody>
+</table>
+</div>
+</div>
