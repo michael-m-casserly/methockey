@@ -146,7 +146,7 @@ var q = 'Rutgers'
     </tr>
     <tr>
     	<td colspan="2" align="center">    
-			<a class="text" href="https://twitter.com/RutgersSKHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter"/></svg></a>&nbsp;
+			<a class="text" href="https://twitter.com/RutgersSKHockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Twitter"><title id="twitter-label-mouseover">Twitter</title><use xlink:href="#twitter-x"/></svg></a>&nbsp;
 			<a class="text" href="https://www.instagram.com/scarletknightshockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="Instagram"><title id="instagram-label-mouseover">Instagram</title><use xlink:href="#instagram"/></svg></a>&nbsp;
 			<a class="text" href="https://www.tiktok.com/@scarletknightshockey" target="_blank"><svg class="bi" width="24" height="24" role="img" aria-label="TikTok"><title id="tiktok-label-mouseover">TikTok</title><use xlink:href="#tiktok"/></svg></a>
 	  </td>
